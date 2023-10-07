@@ -1,0 +1,1911 @@
+[
+  {
+    "id": 121503,
+    "age_ratings": [
+      51774,
+      97170,
+      106562,
+      108344,
+      108345,
+      149345
+    ],
+    "alternative_names": [
+      81726,
+      82699,
+      82700,
+      82701,
+      88999,
+      130028
+    ],
+    "artworks": [
+      10285
+    ],
+    "bundles": [
+      136004,
+      145387,
+      214127
+    ],
+    "category": 9,
+    "collection": 129,
+    "cover": 322240,
+    "created_at": 1565189301,
+    "external_games": [
+      2081998,
+      2162823,
+      2222954,
+      2225059,
+      2531978,
+      2611152,
+      2623687
+    ],
+    "first_release_date": 1564099200,
+    "follows": 1,
+    "franchises": [
+      798
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5
+    ],
+    "involved_companies": [
+      226867,
+      226868,
+      226869
+    ],
+    "keywords": [
+      122,
+      175
+    ],
+    "multiplayer_modes": [
+      24266
+    ],
+    "name": "Doom II",
+    "parent_game": 312,
+    "platforms": [
+      6,
+      34,
+      39,
+      48,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "rating": 89.9030373119926,
+    "rating_count": 13,
+    "release_dates": [
+      503059,
+      503060,
+      503061,
+      503062,
+      503063,
+      503064
+    ],
+    "screenshots": [
+      429996,
+      429997,
+      429998,
+      430000,
+      430002,
+      430003,
+      430005,
+      430007
+    ],
+    "similar_games": [
+      19164,
+      32902,
+      38030,
+      43367,
+      76263,
+      95340,
+      103292,
+      105269,
+      106805,
+      119177
+    ],
+    "slug": "doom-ii",
+    "summary": "Celebrate Doom\u0027s 25th anniversary with the re-release of Doom II. This beloved sequel to the groundbreaking Doom (1993) gave players the brutal Super Shotgun to bear against deadlier demons, and the infamous boss, the Icon of Sin.\n\nThe re-release of DOOM II includes:\n- The Master Levels, 20 additional levels made by the community and supervised by the developers\n- Local 4 player multiplayer\n- Local 4 player co-op\n\nTo save Earth, you must descend into the depths of hell, survive demon hordes, and take part in the fiercest battle ever.",
+    "tags": [
+      1,
+      268435461,
+      536871034,
+      536871087
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 89.9030373119926,
+    "total_rating_count": 13,
+    "updated_at": 1696583409,
+    "url": "https://www.igdb.com/games/doom-ii",
+    "version_parent": 312,
+    "version_title": "Classic",
+    "videos": [
+      47515
+    ],
+    "websites": [
+      176132,
+      176133,
+      176134,
+      176135,
+      176136,
+      176137,
+      176138,
+      176139,
+      305455,
+      305456,
+      573168,
+      573169,
+      573170,
+      573171
+    ],
+    "checksum": "0ab4ae5f-d41e-c8ca-c420-1c8112f34151",
+    "language_supports": [
+      164319,
+      164321,
+      164323,
+      164325,
+      164327
+    ]
+  },
+  {
+    "id": 7351,
+    "age_ratings": [
+      35264,
+      48608,
+      69617,
+      79166,
+      79167,
+      79168,
+      92322
+    ],
+    "aggregated_rating": 86.96875,
+    "aggregated_rating_count": 30,
+    "alternative_names": [
+      50202,
+      52730,
+      69858,
+      69859,
+      69860,
+      130006
+    ],
+    "artworks": [
+      2663,
+      2664,
+      2665,
+      2666,
+      2668,
+      2669,
+      2670,
+      2671,
+      2672,
+      5802,
+      7314
+    ],
+    "bundles": [
+      136004
+    ],
+    "category": 0,
+    "collection": 129,
+    "cover": 76903,
+    "created_at": 1402437384,
+    "dlcs": [
+      22431,
+      25571,
+      26558
+    ],
+    "external_games": [
+      8104,
+      79525,
+      83568,
+      96073,
+      138274,
+      189465,
+      210461,
+      245203,
+      400281,
+      1237064,
+      1930098,
+      1930257,
+      1932010,
+      1934827,
+      1937369,
+      2087105,
+      2162825,
+      2176160,
+      2220483,
+      2452790,
+      2588310,
+      2588534
+    ],
+    "first_release_date": 1463011200,
+    "follows": 409,
+    "franchises": [
+      798
+    ],
+    "game_engines": [
+      172
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5,
+      9
+    ],
+    "hypes": 29,
+    "involved_companies": [
+      198288,
+      198289,
+      198290,
+      198291,
+      198292,
+      198293,
+      198294,
+      198295
+    ],
+    "keywords": [
+      3,
+      129,
+      175,
+      274,
+      453,
+      466,
+      558,
+      578,
+      905,
+      923,
+      977,
+      1069,
+      1158,
+      1293,
+      1299,
+      1308,
+      1333,
+      1898,
+      1986,
+      2153,
+      2199,
+      2498,
+      2543,
+      2746,
+      3203,
+      3486,
+      3831,
+      4004,
+      4134,
+      4150,
+      4213,
+      4245,
+      4345,
+      4351,
+      4353,
+      4357,
+      4397,
+      4465,
+      4467,
+      4473,
+      4484,
+      4544,
+      4580,
+      4586,
+      4614,
+      4621,
+      4623,
+      4637,
+      4724,
+      4777,
+      4781,
+      4871,
+      4890,
+      4891,
+      4918,
+      4989,
+      4991,
+      4992,
+      4993,
+      4998,
+      5029,
+      5105,
+      5164,
+      5175,
+      5254,
+      5257,
+      5264,
+      5343,
+      5345,
+      5379,
+      5387,
+      5408,
+      5417,
+      5425,
+      5523,
+      5599,
+      5638,
+      6003,
+      6137,
+      6370,
+      6493,
+      6620,
+      6621,
+      6655,
+      6735,
+      6828,
+      7062,
+      7315,
+      7397,
+      7473,
+      7603,
+      10048,
+      10919,
+      11827,
+      12556,
+      14051,
+      14063,
+      14076,
+      14079,
+      16826,
+      23933,
+      39005,
+      39006,
+      39049
+    ],
+    "multiplayer_modes": [
+      7518,
+      8053
+    ],
+    "name": "Doom",
+    "platforms": [
+      6,
+      48,
+      49
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "rating": 85.97347641891224,
+    "rating_count": 1456,
+    "release_dates": [
+      45903,
+      45904,
+      404981
+    ],
+    "screenshots": [
+      10815,
+      10819,
+      25076,
+      25077,
+      25078
+    ],
+    "similar_games": [
+      231,
+      533,
+      571,
+      1006,
+      2031,
+      3188,
+      9498,
+      9727,
+      11118,
+      19531
+    ],
+    "slug": "doom--2",
+    "storyline": "You’ve come here for a reason. The Union Aerospace Corporation’s massive research facility on Mars is overwhelmed by fierce and powerful demons, and only one person stands between their world and ours. As the lone DOOM Marine, you’ve been activated to do one thing – kill them all.",
+    "summary": "Developed by id software, the studio that pioneered the first-person shooter genre and created multiplayer Deathmatch, Doom returns as a brutally fun and challenging modern-day shooter experience. Relentless demons, impossibly destructive guns, and fast, fluid movement provide the foundation for intense, first-person combat – whether you’re obliterating demon hordes through the depths of Hell in the single-player campaign, or competing against your friends in numerous multiplayer modes. Expand your gameplay experience using Doom SnapMap game editor to easily create, play, and share your content with the world.",
+    "tags": [
+      1,
+      18,
+      19,
+      268435461,
+      268435465,
+      536870915,
+      536871041,
+      536871087,
+      536871186,
+      536871365,
+      536871378,
+      536871470,
+      536871490,
+      536871817,
+      536871835,
+      536871889,
+      536871981,
+      536872070,
+      536872205,
+      536872211,
+      536872220,
+      536872245,
+      536872810,
+      536872898,
+      536873065,
+      536873111,
+      536873410,
+      536873455,
+      536873658,
+      536874115,
+      536874398,
+      536874743,
+      536874916,
+      536875046,
+      536875062,
+      536875125,
+      536875157,
+      536875257,
+      536875263,
+      536875265,
+      536875269,
+      536875309,
+      536875377,
+      536875379,
+      536875385,
+      536875396,
+      536875456,
+      536875492,
+      536875498,
+      536875526,
+      536875533,
+      536875535,
+      536875549,
+      536875636,
+      536875689,
+      536875693,
+      536875783,
+      536875802,
+      536875803,
+      536875830,
+      536875901,
+      536875903,
+      536875904,
+      536875905,
+      536875910,
+      536875941,
+      536876017,
+      536876076,
+      536876087,
+      536876166,
+      536876169,
+      536876176,
+      536876255,
+      536876257,
+      536876291,
+      536876299,
+      536876320,
+      536876329,
+      536876337,
+      536876435,
+      536876511,
+      536876550,
+      536876915,
+      536877049,
+      536877282,
+      536877405,
+      536877532,
+      536877533,
+      536877567,
+      536877647,
+      536877740,
+      536877974,
+      536878227,
+      536878309,
+      536878385,
+      536878515,
+      536880960,
+      536881831,
+      536882739,
+      536883468,
+      536884963,
+      536884975,
+      536884988,
+      536884991,
+      536887738,
+      536894845,
+      536909917,
+      536909918,
+      536909961
+    ],
+    "themes": [
+      1,
+      18,
+      19
+    ],
+    "total_rating": 86.47111320945612,
+    "total_rating_count": 1486,
+    "updated_at": 1696512300,
+    "url": "https://www.igdb.com/games/doom--2",
+    "videos": [
+      2664,
+      4302,
+      4550,
+      7042,
+      7496,
+      7497,
+      8342,
+      8343
+    ],
+    "websites": [
+      5601,
+      43278,
+      43279,
+      51206,
+      61570,
+      61571,
+      61572,
+      332473
+    ],
+    "checksum": "eec27701-60f3-4d0e-77e1-ac42acdeb36f",
+    "ports": [
+      76217
+    ],
+    "language_supports": [
+      35507,
+      35508,
+      35509,
+      35510,
+      35511,
+      35512,
+      35513,
+      35514,
+      35515,
+      35516,
+      35518,
+      35520,
+      35522,
+      35523,
+      35524,
+      35525,
+      35526,
+      35528,
+      35529,
+      35530,
+      35531,
+      35532,
+      35533,
+      35534,
+      35535,
+      35536,
+      35537,
+      35538,
+      35539,
+      160165,
+      160168,
+      160171
+    ],
+    "game_localizations": [
+      19505
+    ]
+  },
+  {
+    "id": 144731,
+    "age_ratings": [
+      33906,
+      56187,
+      67379,
+      92725,
+      124911
+    ],
+    "aggregated_rating": 81.25,
+    "aggregated_rating_count": 4,
+    "alternative_names": [
+      56922,
+      56923,
+      56924,
+      56930,
+      56931,
+      100338,
+      130461
+    ],
+    "artworks": [
+      47106,
+      47107
+    ],
+    "bundles": [
+      119888
+    ],
+    "category": 1,
+    "collection": 129,
+    "cover": 159600,
+    "created_at": 1615997066,
+    "external_games": [
+      2082701,
+      2120220,
+      2160527,
+      2561068,
+      2590102,
+      2605381,
+      2634638,
+      2675230
+    ],
+    "first_release_date": 1616025600,
+    "follows": 1,
+    "franchises": [
+      798
+    ],
+    "game_engines": [
+      172
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      5
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      121855,
+      121856
+    ],
+    "keywords": [
+      109,
+      122,
+      175,
+      466,
+      1308
+    ],
+    "name": "Doom Eternal: The Ancient Gods - Part Two",
+    "parent_game": 103298,
+    "platforms": [
+      6,
+      48,
+      49,
+      130,
+      167,
+      169,
+      170
+    ],
+    "player_perspectives": [
+      1,
+      6
+    ],
+    "rating": 80.99408965774484,
+    "rating_count": 13,
+    "release_dates": [
+      234301,
+      234302,
+      234303,
+      234304,
+      234305,
+      239730,
+      452182
+    ],
+    "screenshots": [
+      426844,
+      426845,
+      426846
+    ],
+    "similar_games": [
+      520,
+      19164,
+      19817,
+      47823,
+      55038,
+      103298,
+      103301,
+      105049,
+      112916,
+      116530
+    ],
+    "slug": "doom-eternal-the-ancient-gods-part-two",
+    "storyline": "This is it. Your battle against the forces of Hell ends here. Prepare to siege Immora, the last bastion of the dark realm, challenge the Dark Lord in combat, and seal the demons withing Hell for good.",
+    "summary": "The Ancient Gods - Part Two is the epic conclusion to the Doom Slayer\u0027s Saga and the second campaign expansion to the critically acclaimed Doom Eternal.",
+    "tags": [
+      1,
+      17,
+      19,
+      268435461,
+      536871021,
+      536871034,
+      536871087,
+      536871378,
+      536872220
+    ],
+    "themes": [
+      1,
+      17,
+      19
+    ],
+    "total_rating": 81.12204482887242,
+    "total_rating_count": 17,
+    "updated_at": 1695847199,
+    "url": "https://www.igdb.com/games/doom-eternal-the-ancient-gods-part-two",
+    "videos": [
+      50059,
+      50060
+    ],
+    "websites": [
+      173757,
+      173758,
+      531540
+    ],
+    "checksum": "b00e4fad-b913-0ca9-51f8-e06c6e51db10",
+    "language_supports": [
+      469477,
+      469478,
+      469479,
+      469480,
+      469481,
+      469482,
+      469483,
+      469484,
+      469485,
+      469486,
+      469487,
+      469488,
+      469489,
+      469490,
+      469491,
+      469492,
+      469493,
+      469494,
+      469495,
+      469496,
+      469497,
+      469498,
+      469499,
+      469500,
+      469501,
+      469502,
+      469503,
+      469504,
+      469505,
+      469506,
+      469507,
+      469508,
+      469509,
+      469510,
+      469511,
+      469512,
+      632876,
+      749457
+    ],
+    "game_localizations": [
+      24074
+    ]
+  },
+  {
+    "id": 201182,
+    "alternative_names": [
+      88821,
+      88824
+    ],
+    "category": 5,
+    "cover": 221658,
+    "created_at": 1652530003,
+    "first_release_date": 1483142400,
+    "game_engines": [
+      763
+    ],
+    "name": "Doom 4 For Doom",
+    "parent_game": 121503,
+    "platforms": [
+      6
+    ],
+    "release_dates": [
+      359104
+    ],
+    "screenshots": [
+      793016,
+      793017
+    ],
+    "slug": "doom-4-for-doom",
+    "summary": "D4D brings Doom 2016\u0027s weapons to GZDoom for all to enjoy, including a few customized versions of the multiplayer weapons. To this day, the mod is continuously being made more and more Doom \u002716-like, slowly but surely.\n\nGuns. Demons. Violence. Runes. Glory. And it continues to grow to this day.",
+    "updated_at": 1652729737,
+    "url": "https://www.igdb.com/games/doom-4-for-doom",
+    "websites": [
+      283347
+    ],
+    "checksum": "88c7a828-dd2d-0176-208b-8de44a6e2f0d"
+  },
+  {
+    "id": 132823,
+    "age_ratings": [
+      107376,
+      107377,
+      123183
+    ],
+    "alternative_names": [
+      130445
+    ],
+    "artworks": [
+      40029
+    ],
+    "category": 3,
+    "collection": 129,
+    "cover": 98257,
+    "created_at": 1587846226,
+    "external_games": [
+      2069128
+    ],
+    "first_release_date": 1534723200,
+    "franchises": [
+      798
+    ],
+    "game_engines": [
+      116
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5
+    ],
+    "involved_companies": [
+      97549,
+      97550
+    ],
+    "keywords": [
+      466,
+      589
+    ],
+    "multiplayer_modes": [
+      10401
+    ],
+    "name": "Doom II + Final Doom",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "release_dates": [
+      193953
+    ],
+    "screenshots": [
+      380366,
+      380367,
+      380368,
+      380369,
+      380370,
+      380371,
+      380372,
+      380373
+    ],
+    "similar_games": [
+      520,
+      19164,
+      55038,
+      57187,
+      68286,
+      103298,
+      103301,
+      105269,
+      107318,
+      113362
+    ],
+    "slug": "doom-ii-plus-final-doom",
+    "storyline": "After days of fighting on Mars and in hell, you successfully defeated the demon forces and stopped the invasion. Though your efforts are marred by being the last survivor of the bloody massacre, you are nevertheless hailed as a hero. Surely that entitles you to some well deserved R\u0026R, right? Not if those demonic bastards have anything to say about it. Landing on Earth following your discharge, you open your pod to a world of fire and blood as the demons have invaded your homeworld. With everyone being killed or mutated to extinction, it’s up to you to do what you do best: kick some demon ass, stop this invasion and save the world. Armed with your ever trusty shotgun, chainsaw and BFG 9000, you must once again do battle with Hell’s spawn and find a way to save Earth. But that’s not all. Once you’ve cleaned up this mess, there are three other bloodied campaigns waiting for you in the Master Levels for Doom II and Final Doom. With no-where left to hide and a legion of demons, mutants and the undead wanting your head, there’s only one thing left to do - don your armor, grab the nearest shotgun and blast your fragging way out of here!",
+    "summary": "The highly anticipated sequel to Doom, this GOG release brings not only Doom II, but the expansions, “Master Levels of Doom” and “Final Doom”. With more vast and polished levels, more enemies and more weapons, Doom II expands the Doom universe and provides an even more thrilling experience for fans of the series. The game and expansions were ported to multiple systems over the years and, like its predecessor, it continues to have a thriving modding and multiplayer community to this day. Undoubtedly a fine addition to the franchise, these campaigns will have you blasting the demons out of Earth and Hell for hours on end.",
+    "tags": [
+      1,
+      18,
+      19,
+      27,
+      268435461,
+      536871378,
+      536871501,
+      536887866
+    ],
+    "themes": [
+      1,
+      18,
+      19,
+      27
+    ],
+    "updated_at": 1694760728,
+    "url": "https://www.igdb.com/games/doom-ii-plus-final-doom",
+    "version_title": "Doom II + Final Doom",
+    "websites": [
+      139205
+    ],
+    "checksum": "65fe81b3-4c78-a646-4600-eb409e80e094",
+    "language_supports": [
+      474416,
+      474417
+    ]
+  },
+  {
+    "id": 201106,
+    "alternative_names": [
+      130442
+    ],
+    "category": 5,
+    "cover": 221564,
+    "created_at": 1652445086,
+    "first_release_date": 1546214400,
+    "game_engines": [
+      763
+    ],
+    "name": "Doom 64 for Doom II",
+    "parent_game": 121503,
+    "platforms": [
+      6
+    ],
+    "release_dates": [
+      358915
+    ],
+    "screenshots": [
+      792679,
+      792680,
+      792681
+    ],
+    "slug": "doom-64-for-doom-ii",
+    "summary": "Doom 64 for Doom II is a vanilla recreation/re-imagining of the Doom 64 maps. They are made with [mostly] vanilla assets and can run in the original vanilla Doom (and Chocolate Doom). The goal was to recreate the major aspects of the maps while allowing for creative liberties where needed or wanted. There are lots of new graphics, some new textures (like skies), some new music tracks, a couple of new monsters, and minor enhancements for folks who play in advanced ports (like GZDoom).",
+    "updated_at": 1678722131,
+    "url": "https://www.igdb.com/games/doom-64-for-doom-ii",
+    "videos": [
+      68048
+    ],
+    "websites": [
+      283187,
+      283188
+    ],
+    "checksum": "99111439-e5ea-629f-b252-7e8e7bd725c2"
+  },
+  {
+    "id": 280,
+    "age_ratings": [
+      45168,
+      110475,
+      124951
+    ],
+    "aggregated_rating": 86.0,
+    "aggregated_rating_count": 7,
+    "alternative_names": [
+      33486,
+      138423,
+      138424
+    ],
+    "artworks": [
+      8081
+    ],
+    "bundles": [
+      47328,
+      260027
+    ],
+    "category": 0,
+    "collection": 129,
+    "cover": 86963,
+    "created_at": 1300350818,
+    "expansions": [
+      672,
+      167753
+    ],
+    "external_games": [
+      14828,
+      24346,
+      73259,
+      83570,
+      96076,
+      143784,
+      223849,
+      246202,
+      1745676,
+      2081686,
+      2175186
+    ],
+    "first_release_date": 1091491200,
+    "follows": 100,
+    "franchises": [
+      798
+    ],
+    "game_engines": [
+      48
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5
+    ],
+    "involved_companies": [
+      546,
+      550,
+      42065,
+      42066,
+      42067
+    ],
+    "keywords": [
+      16,
+      64,
+      72,
+      77,
+      129,
+      137,
+      403,
+      415,
+      453,
+      558,
+      623,
+      789,
+      1158,
+      1293,
+      1299,
+      1317,
+      1333,
+      1405,
+      1422,
+      1440,
+      1675,
+      1710,
+      1756,
+      1836,
+      1898,
+      1935,
+      1986,
+      2115,
+      2141,
+      2153,
+      2170,
+      2199,
+      2324,
+      2362,
+      2366,
+      2415,
+      2543,
+      3087,
+      3203,
+      3224,
+      3486,
+      3831,
+      3931,
+      3988,
+      4134,
+      4150,
+      4221,
+      4240,
+      4245,
+      4266,
+      4272,
+      4287,
+      4345,
+      4346,
+      4351,
+      4353,
+      4359,
+      4405,
+      4410,
+      4455,
+      4468,
+      4510,
+      4532,
+      4534,
+      4544,
+      4580,
+      4586,
+      4613,
+      4615,
+      4647,
+      4681,
+      4760,
+      4776,
+      4777,
+      4841,
+      4862,
+      4890,
+      4891,
+      4918,
+      4940,
+      4984,
+      4989,
+      4992,
+      5029,
+      5105,
+      5164,
+      5176,
+      5181,
+      5182,
+      5257,
+      5308,
+      5310,
+      5377,
+      5386,
+      5523,
+      5542,
+      5594,
+      5612,
+      5628,
+      5633,
+      5657,
+      5675,
+      5687,
+      5691,
+      5735,
+      5736,
+      5836,
+      5850,
+      5885,
+      5909,
+      5959,
+      5967,
+      5987,
+      5989,
+      6022,
+      6034,
+      6036,
+      6137,
+      6189,
+      6248,
+      6295,
+      6296,
+      6298,
+      6299,
+      6315,
+      6461,
+      6603,
+      6619,
+      6736,
+      6827,
+      6846,
+      6863,
+      7080,
+      7096,
+      7097,
+      7115,
+      7117,
+      7221,
+      7341,
+      7403,
+      7416,
+      7503,
+      7568,
+      8025,
+      8196,
+      8263,
+      8896,
+      8959,
+      9071,
+      9083,
+      9343,
+      9529,
+      9695,
+      9835,
+      9989,
+      10048,
+      10336,
+      10460,
+      10613,
+      10919,
+      11827,
+      13110,
+      13115,
+      13117,
+      13295
+    ],
+    "multiplayer_modes": [
+      14199
+    ],
+    "name": "Doom 3",
+    "platforms": [
+      3,
+      6,
+      11,
+      14
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "rating": 79.35906146901482,
+    "rating_count": 330,
+    "release_dates": [
+      402,
+      403,
+      404,
+      405
+    ],
+    "screenshots": [
+      423,
+      424,
+      425,
+      426,
+      427,
+      338696,
+      338697
+    ],
+    "similar_games": [
+      231,
+      296,
+      343,
+      356,
+      517,
+      564,
+      571,
+      1006,
+      2031,
+      7351
+    ],
+    "slug": "doom-3",
+    "summary": "A massive demonic invasion has overwhelmed the Union Aerospace Corporation\u0027s (UAC) Mars Research Facility, leaving only chaos and horror in its wake. As one of only a few survivors, you must fight your way to hell and back against a horde of evil monsters. The path is dark and dangerous, but you\u0027ll have an array of weapons--including a pistol, a chainsaw, grenades, and more--to use for protection.",
+    "tags": [
+      1,
+      18,
+      19,
+      21,
+      268435461,
+      536870928,
+      536870976,
+      536870984,
+      536870989,
+      536871041,
+      536871049,
+      536871315,
+      536871327,
+      536871365,
+      536871470,
+      536871535,
+      536871701,
+      536872070,
+      536872205,
+      536872211,
+      536872229,
+      536872245,
+      536872317,
+      536872334,
+      536872352,
+      536872587,
+      536872622,
+      536872668,
+      536872748,
+      536872810,
+      536872847,
+      536872898,
+      536873027,
+      536873053,
+      536873065,
+      536873082,
+      536873111,
+      536873236,
+      536873274,
+      536873278,
+      536873327,
+      536873455,
+      536873999,
+      536874115,
+      536874136,
+      536874398,
+      536874743,
+      536874843,
+      536874900,
+      536875046,
+      536875062,
+      536875133,
+      536875152,
+      536875157,
+      536875178,
+      536875184,
+      536875199,
+      536875257,
+      536875258,
+      536875263,
+      536875265,
+      536875271,
+      536875317,
+      536875322,
+      536875367,
+      536875380,
+      536875422,
+      536875444,
+      536875446,
+      536875456,
+      536875492,
+      536875498,
+      536875525,
+      536875527,
+      536875559,
+      536875593,
+      536875672,
+      536875688,
+      536875689,
+      536875753,
+      536875774,
+      536875802,
+      536875803,
+      536875830,
+      536875852,
+      536875896,
+      536875901,
+      536875904,
+      536875941,
+      536876017,
+      536876076,
+      536876088,
+      536876093,
+      536876094,
+      536876169,
+      536876220,
+      536876222,
+      536876289,
+      536876298,
+      536876435,
+      536876454,
+      536876506,
+      536876524,
+      536876540,
+      536876545,
+      536876569,
+      536876587,
+      536876599,
+      536876603,
+      536876647,
+      536876648,
+      536876748,
+      536876762,
+      536876797,
+      536876821,
+      536876871,
+      536876879,
+      536876899,
+      536876901,
+      536876934,
+      536876946,
+      536876948,
+      536877049,
+      536877101,
+      536877160,
+      536877207,
+      536877208,
+      536877210,
+      536877211,
+      536877227,
+      536877373,
+      536877515,
+      536877531,
+      536877648,
+      536877739,
+      536877758,
+      536877775,
+      536877992,
+      536878008,
+      536878009,
+      536878027,
+      536878029,
+      536878133,
+      536878253,
+      536878315,
+      536878328,
+      536878415,
+      536878480,
+      536878937,
+      536879108,
+      536879175,
+      536879808,
+      536879871,
+      536879983,
+      536879995,
+      536880255,
+      536880441,
+      536880607,
+      536880747,
+      536880901,
+      536880960,
+      536881248,
+      536881372,
+      536881525,
+      536881831,
+      536882739,
+      536884022,
+      536884027,
+      536884029,
+      536884207
+    ],
+    "themes": [
+      1,
+      18,
+      19,
+      21
+    ],
+    "total_rating": 82.67953073450741,
+    "total_rating_count": 337,
+    "updated_at": 1696509263,
+    "url": "https://www.igdb.com/games/doom-3",
+    "videos": [
+      107
+    ],
+    "websites": [
+      40799,
+      40800,
+      64431,
+      64432,
+      333433
+    ],
+    "checksum": "e86252ce-97fc-69fe-2d36-000500141269",
+    "remasters": [
+      260028
+    ],
+    "language_supports": [
+      159511,
+      159512,
+      159513,
+      159514,
+      159515,
+      159516,
+      159517,
+      159518,
+      159519,
+      159520,
+      159521,
+      159522
+    ]
+  },
+  {
+    "id": 10192,
+    "age_ratings": [
+      33710,
+      72047
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      4542,
+      4543,
+      56536,
+      130031
+    ],
+    "bundles": [
+      6968,
+      52918
+    ],
+    "category": 10,
+    "collection": 129,
+    "cover": 182448,
+    "created_at": 1431216384,
+    "external_games": [
+      15118,
+      39307,
+      78381,
+      139368,
+      245866,
+      2068838
+    ],
+    "first_release_date": 799200000,
+    "follows": 29,
+    "franchises": [
+      798
+    ],
+    "game_engines": [
+      116
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5
+    ],
+    "involved_companies": [
+      24238,
+      24241,
+      24243,
+      95352,
+      107665,
+      107666
+    ],
+    "keywords": [
+      129,
+      453,
+      466,
+      524,
+      558,
+      589,
+      660,
+      687,
+      902,
+      923,
+      977,
+      1069,
+      1158,
+      1986,
+      2153,
+      3087,
+      3203,
+      3486,
+      3831,
+      4134,
+      4150,
+      4285,
+      4351,
+      4353,
+      4403,
+      4580,
+      4637,
+      4711,
+      4885,
+      4891,
+      4984,
+      4990,
+      4993,
+      4999,
+      5029,
+      5181,
+      5287,
+      5441,
+      5594,
+      5599,
+      5601,
+      5703,
+      5801,
+      6296,
+      6619,
+      6655,
+      7096,
+      7653,
+      8818,
+      8896,
+      9200,
+      9261,
+      9739,
+      11827,
+      14023,
+      23933
+    ],
+    "name": "The Ultimate Doom",
+    "parent_game": 673,
+    "platforms": [
+      6,
+      13,
+      14,
+      39
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "rating": 86.92183844995728,
+    "rating_count": 65,
+    "release_dates": [
+      30551,
+      30552,
+      30553,
+      30554,
+      30555
+    ],
+    "screenshots": [
+      46904,
+      46905,
+      46906,
+      46907,
+      46908
+    ],
+    "similar_games": [
+      231,
+      286,
+      312,
+      356,
+      673,
+      1006,
+      2031,
+      5647,
+      7351,
+      19531
+    ],
+    "slug": "the-ultimate-doom",
+    "summary": "The complete megahit game that set the world afire. Plus All-New Episode IV: Thy Flesh Consumed. The demons came and the marines died. Except one. You are the last defense against these hell-spawned hordes. Prepare for the most intense mutant-laden, blood-splattered action ever! The texture-mapped virtual world is so real, you don\u0027t just play Doom - you live it.",
+    "tags": [
+      1,
+      18,
+      19,
+      268435461,
+      536871041,
+      536871365,
+      536871378,
+      536871436,
+      536871470,
+      536871501,
+      536871572,
+      536871599,
+      536871814,
+      536871835,
+      536871889,
+      536871981,
+      536872070,
+      536872898,
+      536873065,
+      536873999,
+      536874115,
+      536874398,
+      536874743,
+      536875046,
+      536875062,
+      536875197,
+      536875263,
+      536875265,
+      536875315,
+      536875492,
+      536875549,
+      536875623,
+      536875797,
+      536875803,
+      536875896,
+      536875902,
+      536875905,
+      536875911,
+      536875941,
+      536876093,
+      536876199,
+      536876353,
+      536876506,
+      536876511,
+      536876513,
+      536876615,
+      536876713,
+      536877208,
+      536877531,
+      536877567,
+      536878008,
+      536878565,
+      536879730,
+      536879808,
+      536880112,
+      536880173,
+      536880651,
+      536882739,
+      536884935,
+      536894845
+    ],
+    "themes": [
+      1,
+      18,
+      19
+    ],
+    "total_rating": 88.46091922497864,
+    "total_rating_count": 66,
+    "updated_at": 1696209025,
+    "url": "https://www.igdb.com/games/the-ultimate-doom",
+    "websites": [
+      67089,
+      94876,
+      119766,
+      333109
+    ],
+    "checksum": "f9f21e89-19ae-1be5-1938-7bf3c5ff41e9",
+    "remasters": [
+      165206
+    ],
+    "ports": [
+      170995,
+      260017
+    ],
+    "language_supports": [
+      86886,
+      86887,
+      86888,
+      86889,
+      86890,
+      474588
+    ],
+    "game_localizations": [
+      22208
+    ]
+  },
+  {
+    "id": 224522,
+    "age_ratings": [
+      101887,
+      102800,
+      102801,
+      149857,
+      149858,
+      149859,
+      149860,
+      149861
+    ],
+    "alternative_names": [
+      130005,
+      131723,
+      131740
+    ],
+    "artworks": [
+      92114
+    ],
+    "category": 9,
+    "collection": 129,
+    "cover": 267803,
+    "created_at": 1667728663,
+    "external_games": [
+      1748703,
+      1859899,
+      2083364,
+      2225065,
+      2518784,
+      2531545,
+      2581985,
+      2583774,
+      2592681,
+      2598240,
+      2604400,
+      2607216,
+      2613457,
+      2621307,
+      2623658
+    ],
+    "first_release_date": 1584662400,
+    "franchises": [
+      798
+    ],
+    "game_engines": [
+      695
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5
+    ],
+    "involved_companies": [
+      193173,
+      193174,
+      193175
+    ],
+    "name": "Doom 64",
+    "parent_game": 3471,
+    "platforms": [
+      6,
+      48,
+      49,
+      130,
+      170
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "rating": 88.82892340611109,
+    "rating_count": 11,
+    "release_dates": [
+      421617,
+      421618,
+      421619,
+      421620,
+      421621
+    ],
+    "screenshots": [
+      1026056,
+      1026057,
+      1026058,
+      1026059,
+      1026060,
+      1026061,
+      1026062,
+      1026063,
+      1026064
+    ],
+    "similar_games": [
+      306,
+      520,
+      55038,
+      57187,
+      68286,
+      103292,
+      105269,
+      107318,
+      111130,
+      113362
+    ],
+    "slug": "doom-64--1",
+    "summary": "Fight against demons in your crusade to hunt down the Mother of Demons and stop Hell\u0027s invasion. As the player battle through more than 30 action-packed levels, they have to be on the lookout for enhanced weapons and secrets to help them put an end to the demonic threat.",
+    "tags": [
+      1,
+      18,
+      19,
+      268435461
+    ],
+    "themes": [
+      1,
+      18,
+      19
+    ],
+    "total_rating": 88.82892340611109,
+    "total_rating_count": 11,
+    "updated_at": 1696606622,
+    "url": "https://www.igdb.com/games/doom-64--1",
+    "videos": [
+      87383
+    ],
+    "websites": [
+      322310,
+      322311,
+      322312,
+      322313,
+      322314,
+      509890
+    ],
+    "checksum": "ecff13fe-6043-cc86-e2bc-4d09a517061c",
+    "language_supports": [
+      753404,
+      753409,
+      753412,
+      753413,
+      753414
+    ]
+  },
+  {
+    "id": 170995,
+    "age_ratings": [
+      73587,
+      77089
+    ],
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      93982,
+      130024,
+      138204
+    ],
+    "artworks": [
+      113961
+    ],
+    "category": 11,
+    "collection": 129,
+    "cover": 179083,
+    "created_at": 1631820910,
+    "first_release_date": 816480000,
+    "franchises": [
+      798
+    ],
+    "genres": [
+      5
+    ],
+    "involved_companies": [
+      149056
+    ],
+    "multiplayer_modes": [
+      16283
+    ],
+    "name": "Doom",
+    "parent_game": 10192,
+    "platforms": [
+      7
+    ],
+    "release_dates": [
+      311491
+    ],
+    "screenshots": [
+      633014,
+      633015,
+      633016
+    ],
+    "similar_games": [
+      58095,
+      78770,
+      95340,
+      103292,
+      106805,
+      261258,
+      264305,
+      266563,
+      266824,
+      267305
+    ],
+    "slug": "doom--3",
+    "summary": "All Hell\u0027s Breaking Loose! This is it! The gaming addiction that\u0027s been played by an estimated 10 million fanatics on the PC. And now it\u0027s out in a sweat-soaked, pulse-pounding, adrenaline-wrenching version for the PlayStation game console. It\u0027s Doom. The Custom PlayStation Edition. Enhanced to take full advantage of the PlayStation\u0027s cutting-edge technology. With over 50 levels of madness and mayhem from Ultimate Doom and Doom II. Plus unique, new levels of destruction that make all hell break loose on your screen!",
+    "tags": [
+      268435461
+    ],
+    "total_rating": 70.0,
+    "total_rating_count": 1,
+    "updated_at": 1694760936,
+    "url": "https://www.igdb.com/games/doom--3",
+    "websites": [
+      225525
+    ],
+    "checksum": "cd07156d-db16-18cb-3c6e-5374c7c9d548",
+    "ports": [
+      259943
+    ],
+    "language_supports": [
+      744504
+    ],
+    "game_localizations": [
+      21650
+    ]
+  }
+]

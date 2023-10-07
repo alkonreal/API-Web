@@ -1,0 +1,1319 @@
+[
+  {
+    "id": 1063,
+    "age_ratings": [
+      8308,
+      49041,
+      151831
+    ],
+    "alternative_names": [
+      58649,
+      58650,
+      58651,
+      139500,
+      139501
+    ],
+    "artworks": [
+      73327
+    ],
+    "bundles": [
+      84168
+    ],
+    "category": 0,
+    "collection": 7274,
+    "cover": 159982,
+    "created_at": 1338875795,
+    "external_games": [
+      31910,
+      139051,
+      218396,
+      246307
+    ],
+    "first_release_date": 704332800,
+    "follows": 19,
+    "franchises": [
+      789
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8
+    ],
+    "involved_companies": [
+      34292,
+      34293,
+      225199
+    ],
+    "keywords": [
+      394,
+      558,
+      1395,
+      1699,
+      2170,
+      3486,
+      3831,
+      4134,
+      4297,
+      4370,
+      4398,
+      4492,
+      4522,
+      4891,
+      5358,
+      5594,
+      5601,
+      5612,
+      5803,
+      6189,
+      6648,
+      7387,
+      7593,
+      9529,
+      23933,
+      26191,
+      30367
+    ],
+    "name": "Kirby\u0027s Dream Land",
+    "platforms": [
+      33,
+      37
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "rating": 78.50209676678078,
+    "rating_count": 130,
+    "release_dates": [
+      514404,
+      514405,
+      514406,
+      514407,
+      514408,
+      514409,
+      514410,
+      514411
+    ],
+    "screenshots": [
+      36097,
+      36098,
+      36099,
+      36100,
+      162964,
+      162965,
+      162966,
+      162967,
+      162968,
+      162969,
+      162970,
+      162971
+    ],
+    "similar_games": [
+      358,
+      1070,
+      1185,
+      19150,
+      20329,
+      24426,
+      36198,
+      55190,
+      56033,
+      105049
+    ],
+    "slug": "kirby-s-dream-land",
+    "summary": "The gluttonous King Dedede has stolen all of the food from the inhabitants of Dream Land for a midnight feast, so Kirby, a resident of Dream Land, goes to retrieve the food and stop Dedede. Kirby\u0027s Dream Land plays like other platformers of the 8-bit and 16-bit era of video games: Kirby must use various natural abilities and occasionally external abilities or items while heading toward the goal at the end of each level. Like many 1980s-era platformers, the player can accumulate points, with an extra life granted when the player has enough points. However, because Kirby lacks a save function, scores are not recorded. Also, there are no save files, so the player has to start over again when the Game Boy is turned off, if the player chooses to return to the title screen after a Game Over, or if the player resets the game. All levels are played on a two-dimensional plane, letting Kirby move only left, right, up, and down. Kirby can walk, jump, and fly. Kirby can also inhale objects and enemies, swallowing them or spitting them out as projectiles.",
+    "tags": [
+      1,
+      17,
+      35,
+      268435464,
+      536871306,
+      536871470,
+      536872307,
+      536872611,
+      536873082,
+      536874398,
+      536874743,
+      536875046,
+      536875209,
+      536875282,
+      536875310,
+      536875404,
+      536875434,
+      536875803,
+      536876270,
+      536876506,
+      536876513,
+      536876524,
+      536876715,
+      536877101,
+      536877560,
+      536878299,
+      536878505,
+      536880441,
+      536894845,
+      536897103,
+      536901279
+    ],
+    "themes": [
+      1,
+      17,
+      35
+    ],
+    "total_rating": 78.50209676678078,
+    "total_rating_count": 130,
+    "updated_at": 1695849968,
+    "url": "https://www.igdb.com/games/kirby-s-dream-land",
+    "videos": [
+      764,
+      63131
+    ],
+    "websites": [
+      6748,
+      6749,
+      6750,
+      242723,
+      333534
+    ],
+    "checksum": "62ca1eef-eeef-ffbe-deab-86f7c98a57a5",
+    "language_supports": [
+      490516
+    ],
+    "game_localizations": [
+      2526,
+      29524
+    ]
+  },
+  {
+    "id": 3718,
+    "age_ratings": [
+      1796,
+      49026,
+      99456
+    ],
+    "alternative_names": [
+      114046,
+      130912,
+      130913,
+      139493,
+      139494
+    ],
+    "artworks": [
+      73346
+    ],
+    "bundles": [
+      84168
+    ],
+    "category": 0,
+    "collection": 7274,
+    "cover": 101646,
+    "created_at": 1389494117,
+    "external_games": [
+      28404,
+      152945,
+      218397,
+      247456,
+      2594585
+    ],
+    "first_release_date": 795744000,
+    "follows": 9,
+    "franchises": [
+      789
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8,
+      9
+    ],
+    "involved_companies": [
+      148299,
+      148300,
+      225091
+    ],
+    "keywords": [
+      164,
+      687,
+      989,
+      1059,
+      1228,
+      1313,
+      1699,
+      1710,
+      2071,
+      2109,
+      2170,
+      3203,
+      3313,
+      3486,
+      4134,
+      4162,
+      4164,
+      4297,
+      4370,
+      4405,
+      4484,
+      4492,
+      4544,
+      4760,
+      4790,
+      4897,
+      4940,
+      4991,
+      4997,
+      5100,
+      5358,
+      5386,
+      5601,
+      5628,
+      5722,
+      5731,
+      5803,
+      5840,
+      5967,
+      6127,
+      6848,
+      7305,
+      7593,
+      9529,
+      23933,
+      26191,
+      30367,
+      37362
+    ],
+    "name": "Kirby\u0027s Dream Land 2",
+    "platforms": [
+      33,
+      37
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "rating": 80.12347235685601,
+    "rating_count": 46,
+    "release_dates": [
+      510036,
+      510037,
+      510038,
+      510039,
+      510040,
+      510041,
+      510042,
+      510043,
+      514417
+    ],
+    "screenshots": [
+      24721,
+      24722,
+      24723,
+      24724,
+      24725,
+      162972,
+      162973,
+      162974,
+      162975,
+      162976,
+      162977,
+      162978
+    ],
+    "similar_games": [
+      358,
+      1035,
+      1185,
+      1186,
+      1334,
+      1963,
+      3721,
+      7342,
+      9061,
+      55190
+    ],
+    "slug": "kirby-s-dream-land-2",
+    "summary": "Kirby returns and has joined forces with new friends in this thrilling sequel!\n\nThe Rainbow Bridges that connect the seven Rainbow Islands have disappeared! Help Kirby solve the mystery! Search through the different islands while battling King DeDeDe and his horde of evil minions.\n\nAlong the way, meet Rick the Hamster, Kine the Fish, and Coo the Owl. Each possesses important abilities that can multiply the magnitude of Kirby\u0027s powers! Earn the mysterious Rainbow Sword, and prepare to face Kirby\u0027s most menacing rival ever--the evil Dark Matter!",
+    "tags": [
+      1,
+      268435464,
+      268435465,
+      536871076,
+      536871599,
+      536871901,
+      536871971,
+      536872140,
+      536872225,
+      536872611,
+      536872622,
+      536872983,
+      536873021,
+      536873082,
+      536874115,
+      536874225,
+      536874398,
+      536875046,
+      536875074,
+      536875076,
+      536875209,
+      536875282,
+      536875317,
+      536875396,
+      536875404,
+      536875456,
+      536875672,
+      536875702,
+      536875809,
+      536875852,
+      536875903,
+      536875909,
+      536876012,
+      536876270,
+      536876298,
+      536876513,
+      536876540,
+      536876634,
+      536876643,
+      536876715,
+      536876752,
+      536876879,
+      536877039,
+      536877760,
+      536878217,
+      536878505,
+      536880441,
+      536894845,
+      536897103,
+      536901279,
+      536908274
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 80.12347235685601,
+    "total_rating_count": 46,
+    "updated_at": 1695850017,
+    "url": "https://www.igdb.com/games/kirby-s-dream-land-2",
+    "websites": [
+      7644,
+      242708,
+      316011,
+      334643
+    ],
+    "checksum": "3974706c-5388-261a-c76a-74cb7c7a1f8d",
+    "language_supports": [
+      490595
+    ],
+    "game_localizations": [
+      3679
+    ]
+  },
+  {
+    "id": 3720,
+    "age_ratings": [
+      1798,
+      47398,
+      49009
+    ],
+    "alternative_names": [
+      32870,
+      32968,
+      108683,
+      139504
+    ],
+    "artworks": [
+      73552
+    ],
+    "bundles": [
+      84168
+    ],
+    "category": 0,
+    "collection": 7274,
+    "cover": 100830,
+    "created_at": 1389494445,
+    "external_games": [
+      57499,
+      146932,
+      218398,
+      247982,
+      2594215
+    ],
+    "first_release_date": 880588800,
+    "follows": 9,
+    "franchises": [
+      789
+    ],
+    "game_modes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "genres": [
+      8,
+      31
+    ],
+    "involved_companies": [
+      148252,
+      148253,
+      224668
+    ],
+    "keywords": [
+      394,
+      989,
+      1059,
+      2170,
+      4297,
+      4522,
+      4891,
+      5195,
+      5673,
+      6778,
+      7593,
+      10101,
+      26191,
+      26906,
+      27629,
+      30490
+    ],
+    "multiplayer_modes": [
+      16453
+    ],
+    "name": "Kirby\u0027s Dream Land 3",
+    "platforms": [
+      5,
+      19,
+      41,
+      58
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "rating": 81.55340445144988,
+    "rating_count": 45,
+    "release_dates": [
+      140560,
+      140561,
+      140562,
+      140563,
+      140564,
+      140565,
+      214736,
+      214737,
+      379403,
+      498557
+    ],
+    "screenshots": [
+      24736,
+      24737,
+      24738,
+      24739,
+      24740,
+      162979,
+      162980,
+      162981,
+      162982,
+      162983,
+      162984,
+      162985
+    ],
+    "similar_games": [
+      1070,
+      1741,
+      5867,
+      19150,
+      20342,
+      24426,
+      28070,
+      55173,
+      55190,
+      56033
+    ],
+    "slug": "kirby-s-dream-land-3",
+    "summary": "That mean old King Dedede is at it again! He\u0027s causing his mischief and Dreamland\u0027s in trouble! Kirby, the resident hero of Dreamland, sets out to teach Dedede a lesson, this time with the help of many of his good friends!\n\nBut wait! Something\u0027s wrong! Dedede doesn\u0027t seem to be himself...\n\nLooks like Kirby has to stop Dedede and find out what is wrong with him! It almost seems like something\u0027s controlling him...",
+    "tags": [
+      1,
+      268435464,
+      268435487,
+      536871306,
+      536871901,
+      536871971,
+      536873082,
+      536875209,
+      536875434,
+      536875803,
+      536876107,
+      536876585,
+      536877690,
+      536878505,
+      536881013,
+      536897103,
+      536897818,
+      536898541,
+      536901402
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 81.55340445144988,
+    "total_rating_count": 45,
+    "updated_at": 1695779536,
+    "url": "https://www.igdb.com/games/kirby-s-dream-land-3",
+    "websites": [
+      7647,
+      239296,
+      514014,
+      514015
+    ],
+    "checksum": "7881fd5a-0a0c-883b-7db5-e5661619721a",
+    "language_supports": [
+      491169
+    ],
+    "game_localizations": [
+      2340
+    ]
+  },
+  {
+    "id": 173146,
+    "category": 5,
+    "cover": 186536,
+    "created_at": 1633257599,
+    "first_release_date": 1592697600,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8
+    ],
+    "involved_companies": [
+      151494
+    ],
+    "keywords": [
+      2004,
+      16696,
+      30018
+    ],
+    "name": "Kirby\u0027s Dream Land DX",
+    "parent_game": 1063,
+    "platforms": [
+      22
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "release_dates": [
+      315113
+    ],
+    "screenshots": [
+      646436,
+      646437,
+      646438,
+      646439,
+      646440
+    ],
+    "similar_games": [
+      19150,
+      24426,
+      28070,
+      29032,
+      37001,
+      54775,
+      55199,
+      96217,
+      106987,
+      120184
+    ],
+    "slug": "kirbys-dream-land-dx",
+    "summary": "Just like Legend of Zelda: Link’s Awakening DX and Tetris DX, Dream Land DX is a port of the monochrome Gameboy game to the Gameboy Color.",
+    "tags": [
+      1,
+      17,
+      35,
+      268435464,
+      536872916,
+      536887608,
+      536900930
+    ],
+    "themes": [
+      1,
+      17,
+      35
+    ],
+    "updated_at": 1684824575,
+    "url": "https://www.igdb.com/games/kirbys-dream-land-dx",
+    "checksum": "0c429cfd-4c37-20dc-60ab-af546c91a646",
+    "language_supports": [
+      629909
+    ]
+  },
+  {
+    "id": 248574,
+    "category": 5,
+    "cover": 316292,
+    "created_at": 1683229864,
+    "first_release_date": 1683763200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8
+    ],
+    "keywords": [
+      2004,
+      30018
+    ],
+    "name": "Kirby\u0027s Dream Land 2 DX",
+    "parent_game": 3718,
+    "platforms": [
+      22
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "release_dates": [
+      495181
+    ],
+    "similar_games": [
+      24426,
+      28070,
+      29032,
+      37001,
+      54775,
+      55199,
+      96217,
+      106987,
+      113636,
+      120184
+    ],
+    "slug": "kirbys-dream-land-2-dx",
+    "summary": "Kirby\u0027s Dream Land 2 DX is an extensive hack of the original game that offers a fully colorized version of the classic Game Boy platformer. Enjoy the colorful and charming adventure of Kirby and his animal friends as they explore seven worlds and face the evil Dark Matter. This edition features full colorization of the original monochrome graphics, customization options through a new settings menu, and eliminated slow down for a smoother gameplay experience.",
+    "tags": [
+      1,
+      17,
+      268435464,
+      536872916,
+      536900930
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "updated_at": 1689875445,
+    "url": "https://www.igdb.com/games/kirbys-dream-land-2-dx",
+    "checksum": "f5bc7639-3e3d-0c1a-adbf-195431734e89"
+  },
+  {
+    "id": 174592,
+    "category": 0,
+    "cover": 221865,
+    "created_at": 1633439032,
+    "external_games": [
+      2129010
+    ],
+    "first_release_date": 1465516800,
+    "game_engines": [
+      79
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8
+    ],
+    "involved_companies": [
+      151744
+    ],
+    "keywords": [
+      2004,
+      2933,
+      16800,
+      24124,
+      29423
+    ],
+    "name": "Kirby\u0027s Dream Land Advance",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "release_dates": [
+      359380
+    ],
+    "screenshots": [
+      654681,
+      655317
+    ],
+    "similar_games": [
+      19150,
+      24426,
+      28070,
+      29032,
+      37001,
+      54775,
+      55199,
+      96217,
+      106987,
+      120184
+    ],
+    "slug": "kirbys-dream-land-advance",
+    "summary": "Kirby\u0027s Dream Land Advance is a GBA-styled remake of HAL Laboratory\u0027s Kirby\u0027s Dream Land for Game Boy. Control your favorite pink puffball as you embark on a journey through 5 unique stages to defeat the mischievous King Dedede!",
+    "tags": [
+      1,
+      17,
+      268435464,
+      536872916,
+      536873845,
+      536887712,
+      536895036,
+      536900335
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "updated_at": 1686297994,
+    "url": "https://www.igdb.com/games/kirbys-dream-land-advance",
+    "websites": [
+      231833,
+      471436
+    ],
+    "checksum": "9bd0a5e2-7dad-9691-3ae4-561e23765af3",
+    "language_supports": [
+      629905
+    ]
+  },
+  {
+    "id": 196707,
+    "category": 5,
+    "cover": 216296,
+    "created_at": 1649461382,
+    "first_release_date": 1635638400,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      31
+    ],
+    "involved_companies": [
+      167516
+    ],
+    "keywords": [
+      16800
+    ],
+    "multiplayer_modes": [
+      18681
+    ],
+    "name": "Kirby: Revenge of Dream Land",
+    "parent_game": 3725,
+    "platforms": [
+      5
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "release_dates": [
+      352404
+    ],
+    "screenshots": [
+      771133
+    ],
+    "similar_games": [
+      25646,
+      55199,
+      76253,
+      81249,
+      87622,
+      96217,
+      103292,
+      106987,
+      111130,
+      115280
+    ],
+    "slug": "kirby-revenge-of-dream-land",
+    "summary": "Tougher levels, tougher enemies, tougher everything! This mod of Kirby\u0027s Return to Dreamland increases the difficulty tenfold in order to create an experience for Kirby veterans looking for a challenge.",
+    "tags": [
+      1,
+      268435487,
+      536887712
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1649662440,
+    "url": "https://www.igdb.com/games/kirby-revenge-of-dream-land",
+    "videos": [
+      66435
+    ],
+    "websites": [
+      274701,
+      274702
+    ],
+    "checksum": "6af5f688-1bff-8d72-2ec4-6d77e41b8f1d"
+  },
+  {
+    "id": 3726,
+    "age_ratings": [
+      1804,
+      49145
+    ],
+    "aggregated_rating": 70.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      136773,
+      136774,
+      136775,
+      136776
+    ],
+    "artworks": [
+      73476
+    ],
+    "category": 8,
+    "collection": 244,
+    "cover": 88573,
+    "created_at": 1389495670,
+    "external_games": [
+      32621,
+      137291,
+      218404,
+      247334
+    ],
+    "first_release_date": 1035504000,
+    "follows": 11,
+    "franchises": [
+      789
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      8,
+      31
+    ],
+    "involved_companies": [
+      9622,
+      133651,
+      133652
+    ],
+    "keywords": [
+      394,
+      2170,
+      4134,
+      4297,
+      4522,
+      4891,
+      5673,
+      5803,
+      6653,
+      7454,
+      30490,
+      37362
+    ],
+    "name": "Kirby: Nightmare in Dream Land",
+    "parent_game": 3717,
+    "platforms": [
+      24,
+      41
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "rating": 82.37451346486965,
+    "rating_count": 80,
+    "release_dates": [
+      496320,
+      509934,
+      509935,
+      509936,
+      509937,
+      509938,
+      509939
+    ],
+    "screenshots": [
+      24746,
+      24747,
+      24748,
+      24749,
+      24750,
+      163014,
+      163015,
+      163016,
+      163017,
+      163018,
+      163019,
+      163020
+    ],
+    "similar_games": [
+      1070,
+      19150,
+      20329,
+      20342,
+      24426,
+      28070,
+      36198,
+      55173,
+      55190,
+      56033
+    ],
+    "slug": "kirby-nightmare-in-dream-land",
+    "summary": "A remake of the original Kirby\u0027s Adventure for the NES.",
+    "tags": [
+      1,
+      268435464,
+      268435487,
+      536871306,
+      536873082,
+      536875046,
+      536875209,
+      536875434,
+      536875803,
+      536876585,
+      536876715,
+      536877565,
+      536878366,
+      536901402,
+      536908274
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 76.18725673243483,
+    "total_rating_count": 81,
+    "updated_at": 1695779542,
+    "url": "https://www.igdb.com/games/kirby-nightmare-in-dream-land",
+    "videos": [
+      10120
+    ],
+    "websites": [
+      95129,
+      242966,
+      316467,
+      334524
+    ],
+    "checksum": "c50ba678-2493-60bf-98eb-a8e7fc3e3e24",
+    "language_supports": [
+      492303,
+      492304,
+      492305,
+      492306,
+      492307,
+      785702
+    ],
+    "game_localizations": [
+      28562
+    ]
+  },
+  {
+    "id": 3725,
+    "age_ratings": [
+      1803,
+      8810,
+      48840,
+      97412
+    ],
+    "aggregated_rating": 86.5,
+    "aggregated_rating_count": 4,
+    "alternative_names": [
+      6623,
+      72429,
+      72430,
+      72431,
+      72432,
+      137015
+    ],
+    "artworks": [
+      3379,
+      3380,
+      3381,
+      3382,
+      3383,
+      3384
+    ],
+    "category": 0,
+    "collection": 7274,
+    "cover": 88483,
+    "created_at": 1389495400,
+    "external_games": [
+      35821,
+      73855,
+      73873,
+      124723,
+      218401,
+      246662,
+      1930064,
+      1934588,
+      1937261,
+      2594063,
+      2594447,
+      2594804
+    ],
+    "first_release_date": 1319414400,
+    "follows": 13,
+    "franchises": [
+      789
+    ],
+    "game_modes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "genres": [
+      8,
+      31
+    ],
+    "involved_companies": [
+      133645,
+      133647
+    ],
+    "keywords": [
+      589,
+      947,
+      1422,
+      2152,
+      2170,
+      3486,
+      4164,
+      4215,
+      4297,
+      4484,
+      4699,
+      4777,
+      5673,
+      5803,
+      6537,
+      7690,
+      9951,
+      10489,
+      11782
+    ],
+    "multiplayer_modes": [
+      14648
+    ],
+    "name": "Kirby\u0027s Return to Dream Land",
+    "platforms": [
+      5,
+      41
+    ],
+    "rating": 89.75753400409444,
+    "rating_count": 49,
+    "release_dates": [
+      8392,
+      140574,
+      140575,
+      140576,
+      140577,
+      140578
+    ],
+    "screenshots": [
+      24818,
+      24819,
+      24820,
+      24821,
+      24822,
+      162993,
+      162994,
+      162995,
+      162996,
+      162997,
+      162998,
+      162999
+    ],
+    "similar_games": [
+      19150,
+      20329,
+      20342,
+      24426,
+      28070,
+      55173,
+      55190,
+      56033,
+      89597,
+      118313
+    ],
+    "slug": "kirbys-return-to-dream-land",
+    "summary": "Kirby and his friends are back in an adventure designed to satisfy longtime Kirby fans and beginners alike. When an alien spaceship crashes in the otherwise peaceful realm of Pop Star, its pieces are scattered throughout the land. Players must guide Kirby as he retrieves the ship’s parts and helps the aliens return to their home planet. This time, however, he’s not alone. At any time, up to three more players can join in the fun and play as Meta Knight, King Dedede and Waddle Dee to help Kirby in his quest.",
+    "tags": [
+      1,
+      27,
+      268435464,
+      268435487,
+      536871501,
+      536871859,
+      536872334,
+      536873064,
+      536873082,
+      536874398,
+      536875076,
+      536875127,
+      536875209,
+      536875396,
+      536875611,
+      536875689,
+      536876585,
+      536876715,
+      536877449,
+      536878602,
+      536880863,
+      536881401,
+      536882694
+    ],
+    "themes": [
+      1,
+      27
+    ],
+    "total_rating": 88.12876700204723,
+    "total_rating_count": 53,
+    "updated_at": 1695779381,
+    "url": "https://www.igdb.com/games/kirbys-return-to-dream-land",
+    "videos": [
+      42926,
+      42927
+    ],
+    "websites": [
+      7695,
+      333880
+    ],
+    "checksum": "06b9132b-3fab-08c5-7e8f-a1bab1f1f5d2",
+    "expanded_games": [
+      217565
+    ],
+    "language_supports": [
+      492725,
+      492726,
+      492727,
+      492728,
+      492729
+    ],
+    "game_localizations": [
+      331,
+      332,
+      28694
+    ]
+  },
+  {
+    "id": 217565,
+    "age_ratings": [
+      91139,
+      102241,
+      106401
+    ],
+    "aggregated_rating": 85.16666666666667,
+    "aggregated_rating_count": 9,
+    "alternative_names": [
+      100989,
+      108957
+    ],
+    "artworks": [
+      87333
+    ],
+    "category": 10,
+    "collection": 244,
+    "cover": 246024,
+    "created_at": 1663080513,
+    "external_games": [
+      2568650,
+      2592101,
+      2592138,
+      2592140,
+      2592145,
+      2593752,
+      2604244,
+      2604252,
+      2627641,
+      2631721
+    ],
+    "first_release_date": 1677196800,
+    "follows": 1,
+    "franchises": [
+      789
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      8,
+      31
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      186894
+    ],
+    "keywords": [
+      16800
+    ],
+    "name": "Kirby’s Return to Dream Land Deluxe",
+    "parent_game": 3725,
+    "platforms": [
+      130
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "rating": 71.77924587457247,
+    "rating_count": 5,
+    "release_dates": [
+      388923
+    ],
+    "screenshots": [
+      882631,
+      882632,
+      882633,
+      882634,
+      882635
+    ],
+    "similar_games": [
+      20342,
+      24426,
+      28070,
+      29032,
+      55190,
+      56033,
+      87622,
+      96217,
+      103292,
+      111130
+    ],
+    "slug": "kirbys-return-to-dream-land-deluxe",
+    "summary": "The tough puff Kirby is back for a 4-player* platforming adventure. Copy enemies’ abilities and use their power to attack with a sword, wield a whip, and float with a parasol. You can also laser blast with the new Mecha Copy Ability that makes a series debut! The extra muscle will be handy in finding missing pieces for Magolor’s ship, which crash landed on Planet Popstar. Float and fight along with friends on the same system, where each player can control another Kirby or one of Kirby’s iconic friends like King Dedede, Meta Knight, and Bandana Waddle Dee.",
+    "tags": [
+      1,
+      268435464,
+      268435487,
+      536887712
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 78.47295627061956,
+    "total_rating_count": 14,
+    "updated_at": 1693905044,
+    "url": "https://www.igdb.com/games/kirbys-return-to-dream-land-deluxe",
+    "videos": [
+      74622,
+      83942
+    ],
+    "websites": [
+      311542,
+      503706
+    ],
+    "checksum": "32d9ec44-df7f-106d-ed0e-0afb0391dedf",
+    "language_supports": [
+      340477,
+      340478,
+      340479,
+      340480,
+      340481,
+      340482,
+      340483,
+      340484,
+      340485,
+      340486,
+      340487
+    ],
+    "game_localizations": [
+      1693,
+      18142
+    ]
+  }
+]

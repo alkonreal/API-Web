@@ -1,0 +1,1698 @@
+[
+  {
+    "id": 84920,
+    "age_ratings": [
+      30483,
+      47141
+    ],
+    "aggregated_rating": 47.5,
+    "aggregated_rating_count": 6,
+    "alternative_names": [
+      39353,
+      57298,
+      57299,
+      57300,
+      57301,
+      57302,
+      57303,
+      57304,
+      57305,
+      57306,
+      57307
+    ],
+    "artworks": [
+      89887,
+      103627,
+      103628,
+      103629
+    ],
+    "category": 11,
+    "collection": 240,
+    "cover": 134616,
+    "created_at": 1517347362,
+    "external_games": [
+      220716,
+      1932115,
+      1933332
+    ],
+    "first_release_date": 1287619200,
+    "franchises": [
+      845
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      8,
+      33
+    ],
+    "involved_companies": [
+      102645
+    ],
+    "keywords": [
+      26057
+    ],
+    "multiplayer_modes": [
+      14657
+    ],
+    "name": "Super Mario All-Stars: Limited Edition",
+    "parent_game": 5199,
+    "platforms": [
+      5
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "rating": 75.0,
+    "rating_count": 2,
+    "release_dates": [
+      143756,
+      143757,
+      143758
+    ],
+    "screenshots": [
+      174694,
+      174695,
+      174696,
+      174697,
+      174698,
+      174699,
+      174700,
+      174701,
+      174702
+    ],
+    "similar_games": [
+      43367,
+      51485,
+      55042,
+      55190,
+      56033,
+      57187,
+      81183,
+      87728,
+      110503,
+      117311
+    ],
+    "slug": "super-mario-all-stars-limited-edition",
+    "summary": "Super Mario All-Stars Limited Edition is a Mario special edition pack for the Wii released as a Wii emulation of the SNES game Super Mario All-Stars. The game is a tribute to the 25th anniversary of Super Mario Bros. and includes an extra package, with a Super Mario History 1985-2010 booklet, that tells about Mario\u0027s history and the people who made a big effort making the Mario games, and a CD with many songs across the main series. The game itself is a unaltered emulation of Super Mario All-Stars for the Super Nintendo Entertainment System, down to showing the SNES controller in the configuration screen rather than any of the standard Wii controllers.",
+    "tags": [
+      1,
+      268435464,
+      268435489,
+      536887664,
+      536896969
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 61.25,
+    "total_rating_count": 8,
+    "updated_at": 1690982497,
+    "url": "https://www.igdb.com/games/super-mario-all-stars-limited-edition",
+    "version_parent": 5199,
+    "version_title": "Limited Edition",
+    "websites": [
+      70715,
+      239840,
+      239883
+    ],
+    "checksum": "de58aa00-3217-6dbc-c6ea-4c5f908d13d0",
+    "language_supports": [
+      645926
+    ],
+    "game_localizations": [
+      10340,
+      20563,
+      22519
+    ]
+  },
+  {
+    "id": 132109,
+    "age_ratings": [
+      71847
+    ],
+    "alternative_names": [
+      31576,
+      31577,
+      31578,
+      31579,
+      31580,
+      31581,
+      31582,
+      31583
+    ],
+    "category": 11,
+    "collection": 530,
+    "cover": 97072,
+    "created_at": 1586514791,
+    "first_release_date": 1255392000,
+    "franchises": [
+      457,
+      845
+    ],
+    "game_modes": [
+      1,
+      4
+    ],
+    "genres": [
+      14
+    ],
+    "involved_companies": [
+      96037,
+      96038,
+      96039
+    ],
+    "name": "Mario \u0026 Sonic at the Olympic Winter Games",
+    "parent_game": 2707,
+    "platforms": [
+      20
+    ],
+    "release_dates": [
+      192884,
+      192885,
+      192886,
+      192887
+    ],
+    "screenshots": [
+      377413,
+      377414,
+      377415,
+      377416,
+      377417,
+      377418,
+      377419
+    ],
+    "similar_games": [
+      15851,
+      113149,
+      113895,
+      114285,
+      116353,
+      116795,
+      118871,
+      119422,
+      215551,
+      231056
+    ],
+    "slug": "mario-and-sonic-at-the-olympic-winter-games--1",
+    "summary": "The DS-exclusive adventure mode features a story in which Dr. Eggman and Bowser melt away all the ice needed for the Olympic Games. To set things right Mario \u0026 Sonic need to travel to different locations, talk to the inhabitants and solve challenges. Those consist of the sports mini games with certain winning requirements. Playing this mode also unlocks the dream events. Besides this players can decide to enter the party game mode or to play the games separately respectively in a custom tournament. All modes except the adventure mode are also available for up to four players.",
+    "tags": [
+      1,
+      40,
+      268435470
+    ],
+    "themes": [
+      1,
+      40
+    ],
+    "updated_at": 1688530599,
+    "url": "https://www.igdb.com/games/mario-and-sonic-at-the-olympic-winter-games--1",
+    "videos": [
+      35075
+    ],
+    "checksum": "1c2b0ca9-3b69-fb36-d192-103a5725bcf4"
+  },
+  {
+    "id": 2707,
+    "age_ratings": [
+      661,
+      47156
+    ],
+    "aggregated_rating": 74.0,
+    "aggregated_rating_count": 6,
+    "alternative_names": [
+      14644,
+      31570,
+      31571,
+      31572,
+      31573,
+      31574,
+      31575,
+      45920
+    ],
+    "artworks": [
+      4483,
+      4484,
+      4485,
+      4486,
+      4487,
+      4488,
+      4489
+    ],
+    "category": 0,
+    "collection": 530,
+    "cover": 89271,
+    "created_at": 1374598562,
+    "external_games": [
+      35685,
+      72918,
+      134122,
+      218703,
+      218704,
+      1191225,
+      1930661
+    ],
+    "first_release_date": 1255392000,
+    "follows": 7,
+    "franchises": [
+      457,
+      845
+    ],
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      14
+    ],
+    "involved_companies": [
+      186501,
+      186502,
+      186503
+    ],
+    "keywords": [
+      44,
+      274,
+      833,
+      917,
+      960,
+      1075,
+      1710,
+      1953,
+      2152,
+      3227,
+      4162,
+      4239,
+      4287,
+      4294,
+      4328,
+      4347,
+      4359,
+      4388,
+      4455,
+      4456,
+      4484,
+      4657,
+      5704,
+      5727,
+      6094,
+      6368,
+      6795,
+      6796,
+      7107,
+      9075,
+      10699,
+      12953,
+      13082,
+      17141,
+      36686
+    ],
+    "multiplayer_modes": [
+      14684
+    ],
+    "name": "Mario \u0026 Sonic at the Olympic Winter Games",
+    "platforms": [
+      5
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 68.88075126176476,
+    "rating_count": 25,
+    "release_dates": [
+      192882,
+      192883
+    ],
+    "screenshots": [
+      377407,
+      377408,
+      377409,
+      377410,
+      377411,
+      377412
+    ],
+    "similar_games": [
+      1078,
+      2193,
+      2342,
+      2706,
+      2708,
+      3989,
+      3990,
+      6601,
+      28113,
+      28213
+    ],
+    "slug": "mario-and-sonic-at-the-olympic-winter-games",
+    "summary": "Mario \u0026 Sonic at the Olympic Winter Games is a sports game with the official license of the 2010 Winter Olympic Games and a crossover franchise from the Mario and the Sonic universe similar to Mario \u0026 Sonic at the Olympic Games. It takes place at the Vancouver Winter Olympics of 2010. Like the previous game, the 27 events are presented as motion-based mini-games. Aside from the main events there are a series of Dream Events that have enhanced features and visuals. Some of the events can optionally be played using the balance board peripheral. Events include for instance skiing, snowboarding, bobsleigh, ice hockey, figure skating and more. The games can be played individually or in a festival mode that spans 17 days.",
+    "tags": [
+      1,
+      40,
+      268435470,
+      536870956,
+      536871186,
+      536871745,
+      536871829,
+      536871872,
+      536871987,
+      536872622,
+      536872865,
+      536873064,
+      536874139,
+      536875074,
+      536875151,
+      536875199,
+      536875206,
+      536875240,
+      536875259,
+      536875271,
+      536875300,
+      536875367,
+      536875368,
+      536875396,
+      536875569,
+      536876616,
+      536876639,
+      536877006,
+      536877280,
+      536877707,
+      536877708,
+      536878019,
+      536879987,
+      536881611,
+      536883865,
+      536883994,
+      536888053,
+      536907598
+    ],
+    "themes": [
+      1,
+      40
+    ],
+    "total_rating": 71.44037563088239,
+    "total_rating_count": 31,
+    "updated_at": 1692966824,
+    "url": "https://www.igdb.com/games/mario-and-sonic-at-the-olympic-winter-games",
+    "videos": [
+      35074
+    ],
+    "websites": [
+      53911,
+      53912,
+      513239
+    ],
+    "checksum": "155287a6-7a43-a2cb-c335-09b63a783ed0",
+    "ports": [
+      56927,
+      132109
+    ],
+    "language_supports": [
+      473189,
+      473190
+    ]
+  },
+  {
+    "id": 3365,
+    "age_ratings": [
+      6763,
+      29439,
+      47113,
+      98128
+    ],
+    "aggregated_rating": 80.4,
+    "aggregated_rating_count": 12,
+    "alternative_names": [
+      34032,
+      34035,
+      38717,
+      38718,
+      48381,
+      48382,
+      48384,
+      111649,
+      132080,
+      141151
+    ],
+    "artworks": [
+      4468,
+      4469,
+      4470
+    ],
+    "category": 0,
+    "collection": 595,
+    "cover": 200222,
+    "created_at": 1388897024,
+    "external_games": [
+      28106,
+      119181,
+      218694,
+      250403,
+      1929346,
+      1933692,
+      2595200
+    ],
+    "first_release_date": 1373587200,
+    "follows": 10,
+    "franchises": [
+      845
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      9,
+      12,
+      31
+    ],
+    "involved_companies": [
+      8775,
+      8776,
+      8777
+    ],
+    "keywords": [
+      72,
+      137,
+      274,
+      415,
+      575,
+      589,
+      621,
+      1186,
+      1289,
+      1381,
+      1395,
+      1422,
+      1834,
+      2052,
+      2071,
+      2170,
+      3203,
+      3486,
+      3831,
+      4134,
+      4138,
+      4160,
+      4162,
+      4239,
+      4284,
+      4285,
+      4287,
+      4297,
+      4359,
+      4388,
+      4396,
+      4398,
+      4410,
+      4484,
+      4510,
+      4536,
+      4544,
+      4613,
+      4709,
+      4787,
+      4841,
+      4927,
+      4974,
+      4984,
+      4990,
+      4998,
+      5018,
+      5105,
+      5183,
+      5260,
+      5305,
+      5417,
+      5441,
+      5518,
+      5594,
+      5659,
+      5731,
+      5840,
+      5967,
+      5989,
+      6184,
+      6295,
+      6539,
+      6648,
+      6655,
+      6846,
+      6848,
+      7112,
+      7215,
+      7243,
+      7396,
+      7423,
+      7603,
+      7688,
+      7690,
+      7693,
+      23933
+    ],
+    "name": "Mario \u0026 Luigi: Dream Team",
+    "platforms": [
+      37
+    ],
+    "player_perspectives": [
+      3,
+      4
+    ],
+    "rating": 77.40369755968912,
+    "rating_count": 49,
+    "release_dates": [
+      29598,
+      29599,
+      29600,
+      240695
+    ],
+    "screenshots": [
+      9798,
+      9799,
+      9800,
+      164314,
+      164315,
+      164316,
+      164317,
+      164318,
+      164319,
+      164320,
+      164321,
+      164322
+    ],
+    "similar_games": [
+      832,
+      1026,
+      1035,
+      2939,
+      3188,
+      3349,
+      7386,
+      8456,
+      9727,
+      12597
+    ],
+    "slug": "mario-luigi-dream-team",
+    "storyline": "One day in the Mushroom Kingdom, Princess Peach, Mario, Luigi, Toadsworth, and some Toads are invited to Pi\u0027illo Island, which is said to contain a special power that makes people fall asleep. During the flight, a dark pillow falls onto a blimp and transforms into a dark figure who Mario defeats. After defeating him, the blimp malfunctions and crashes into the Pi\u0027illo Blimport. However, it is revealed that it was all Luigi\u0027s dream. The group proceeds to Pi\u0027illo Castle, where they meet Starlow. Mario and Luigi go to a room where Peach and Toadsworth accidentally set off a test platform sending them to ancient Pi\u0027illo ruins. Mario \u0026 Luigi follow and eventually find Peach and Toadsworth, as well as a Pi\u0027illo, which later turns out to be Prince Dreambert. They find a collection room where Luigi takes a nap on the pillow. After everyone gathers in the collection room, a Dream Portal opens a portal to the Dream World. The dark figure from Luigi\u0027s dream pulls Princess Peach into the Dream World. After Mario chases after Peach into Dreamy Pi\u0027illo Castle, with the help of a dreamy version of Broque Monsieur, he comes across Dreamy Luigi, Luigi\u0027s dream representation, who assists Mario through his treks in the Dream World.",
+    "summary": "Mario and Luigi embark on the adventure of their dreams in a hilarious action RPG that combines the resort world of Pi’illo Island with the wild landscapes of Luigi’s imagination, where anything can happen. Meet a host of hilarious characters as you strive to rescue Princess Peach and help Prince Dreambert free his petrified Pi’illo people from the bat-king Antasma’s curse.",
+    "tags": [
+      1,
+      27,
+      268435465,
+      268435468,
+      268435487,
+      536870984,
+      536871049,
+      536871186,
+      536871327,
+      536871487,
+      536871501,
+      536871533,
+      536872098,
+      536872201,
+      536872293,
+      536872307,
+      536872334,
+      536872746,
+      536872964,
+      536872983,
+      536873082,
+      536874115,
+      536874398,
+      536874743,
+      536875046,
+      536875050,
+      536875072,
+      536875074,
+      536875151,
+      536875196,
+      536875197,
+      536875199,
+      536875209,
+      536875271,
+      536875300,
+      536875308,
+      536875310,
+      536875322,
+      536875396,
+      536875422,
+      536875448,
+      536875456,
+      536875525,
+      536875621,
+      536875699,
+      536875753,
+      536875839,
+      536875886,
+      536875896,
+      536875902,
+      536875910,
+      536875930,
+      536876017,
+      536876095,
+      536876172,
+      536876217,
+      536876329,
+      536876353,
+      536876430,
+      536876506,
+      536876571,
+      536876643,
+      536876752,
+      536876879,
+      536876901,
+      536877096,
+      536877207,
+      536877451,
+      536877560,
+      536877567,
+      536877758,
+      536877760,
+      536878024,
+      536878127,
+      536878155,
+      536878308,
+      536878335,
+      536878515,
+      536878600,
+      536878602,
+      536878605,
+      536894845
+    ],
+    "themes": [
+      1,
+      27
+    ],
+    "total_rating": 78.90184877984456,
+    "total_rating_count": 61,
+    "updated_at": 1695883103,
+    "url": "https://www.igdb.com/games/mario-luigi-dream-team",
+    "videos": [
+      4075
+    ],
+    "websites": [
+      149577,
+      149578,
+      149579,
+      149580,
+      149581,
+      149582,
+      149583,
+      337521
+    ],
+    "checksum": "781d4c12-9231-4785-efd8-5c53cd37fa7a",
+    "language_supports": [
+      491141,
+      491143,
+      491145,
+      491147,
+      491149,
+      491151,
+      491153,
+      491154
+    ],
+    "game_localizations": [
+      2405,
+      22117,
+      28681
+    ]
+  },
+  {
+    "id": 116795,
+    "age_ratings": [
+      31563,
+      37792,
+      47157,
+      95547,
+      96803
+    ],
+    "aggregated_rating": 63.0,
+    "aggregated_rating_count": 2,
+    "alternative_names": [
+      31618,
+      31619,
+      31620,
+      31621,
+      31622,
+      31623,
+      31624,
+      86536,
+      109971
+    ],
+    "artworks": [
+      7517
+    ],
+    "category": 0,
+    "collection": 530,
+    "cover": 97077,
+    "created_at": 1553929339,
+    "external_games": [
+      1724887,
+      1775414,
+      1865380,
+      1865470,
+      1865568,
+      1865669,
+      1865756,
+      1865881,
+      1914093,
+      1928464,
+      1928940,
+      1933664,
+      1937824,
+      2597668,
+      2605819
+    ],
+    "first_release_date": 1572566400,
+    "follows": 25,
+    "franchises": [
+      457,
+      845
+    ],
+    "game_engines": [
+      885
+    ],
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      14
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      96047
+    ],
+    "keywords": [
+      9774
+    ],
+    "multiplayer_modes": [
+      12827
+    ],
+    "name": "Mario \u0026 Sonic at the Olympic Games Tokyo 2020",
+    "platforms": [
+      130
+    ],
+    "rating": 72.92974996304515,
+    "rating_count": 9,
+    "release_dates": [
+      192899,
+      192900,
+      192901,
+      192902
+    ],
+    "screenshots": [
+      296702,
+      296703,
+      317593,
+      317594,
+      317595,
+      317598,
+      317599
+    ],
+    "similar_games": [
+      11258,
+      15851,
+      96452,
+      103218,
+      113149,
+      113895,
+      114285,
+      116353,
+      118871,
+      119422
+    ],
+    "slug": "mario-and-sonic-at-the-olympic-games-tokyo-2020",
+    "summary": "Mario \u0026 Sonic at the Olympic Games Tokyo 2020 is the sixth installment in the Mario \u0026 Sonic series based on the real-world 2020 Summer Olympics, which will take place in Tokyo, Japan. The game includes a number of events, including returning ones from previous Mario \u0026 Sonic titles, such as boxing, soccer, swimming, and gymnastics, and new ones, such as karate, skateboarding, sport climbing, and surfing. It will also feature a mode with 2D Events where players can compete in classic 2D versions of events from the 1964 Summer Olympics. Based off older sports games, these events are played using button controls only and will only feature eight playable characters. These 2D Events\u0027 animations reflect the 8-bit Mario and 16-bit Sonic game art style.",
+    "tags": [
+      1,
+      40,
+      268435470,
+      536880686
+    ],
+    "themes": [
+      1,
+      40
+    ],
+    "total_rating": 67.96487498152257,
+    "total_rating_count": 11,
+    "updated_at": 1693032478,
+    "url": "https://www.igdb.com/games/mario-and-sonic-at-the-olympic-games-tokyo-2020",
+    "videos": [
+      28096,
+      35081
+    ],
+    "websites": [
+      108429,
+      116663,
+      121288,
+      388579
+    ],
+    "checksum": "3261c6a6-2a25-d7c2-ee9c-c585725f1842",
+    "ports": [
+      158975
+    ],
+    "language_supports": [
+      500030,
+      500031,
+      500032,
+      500034,
+      500035,
+      500036,
+      500037
+    ],
+    "game_localizations": [
+      11739,
+      20866
+    ]
+  },
+  {
+    "id": 132110,
+    "age_ratings": [
+      47155,
+      58597,
+      98131
+    ],
+    "alternative_names": [
+      31591,
+      31592,
+      31593,
+      31594,
+      31595,
+      31596,
+      31597,
+      111658
+    ],
+    "category": 11,
+    "collection": 530,
+    "cover": 97074,
+    "created_at": 1586520176,
+    "external_games": [
+      2594573
+    ],
+    "first_release_date": 1328745600,
+    "franchises": [
+      457,
+      845
+    ],
+    "game_modes": [
+      1,
+      4
+    ],
+    "genres": [
+      14
+    ],
+    "involved_companies": [
+      96040,
+      96041,
+      96042
+    ],
+    "name": "Mario \u0026 Sonic at the London 2012 Olympic Games",
+    "parent_game": 2708,
+    "platforms": [
+      37
+    ],
+    "release_dates": [
+      192888,
+      192889,
+      192890,
+      192891
+    ],
+    "screenshots": [
+      377425,
+      377426,
+      377427,
+      377428,
+      377429,
+      377430,
+      377431,
+      377432
+    ],
+    "similar_games": [
+      15851,
+      113149,
+      113895,
+      114285,
+      116353,
+      116795,
+      118871,
+      119422,
+      215551,
+      231056
+    ],
+    "slug": "mario-and-sonic-at-the-london-2012-olympic-games",
+    "summary": "The 3DS version of Mario \u0026 Sonic at the London 2012 Olympic Games has some key differences from the Wii version. While it shares many events, it has more. It also features an exclusive Story Mode. The protagonists from the Mario and Sonic series team up to defeat Bowser and Dr. Eggman, who, along with their underlings, have taken over London. There are different parts to the story, depending on the character played. The player must win events against the antagonists. Playable characters consist of all 20 playable characters from the previous installment\u0027s Nintendo DS version, and are split into five groups of four.",
+    "tags": [
+      1,
+      40,
+      268435470
+    ],
+    "themes": [
+      1,
+      40
+    ],
+    "updated_at": 1685538040,
+    "url": "https://www.igdb.com/games/mario-and-sonic-at-the-london-2012-olympic-games",
+    "videos": [
+      35076
+    ],
+    "checksum": "c973d19c-8e09-eda1-262d-305fa70bec20",
+    "game_localizations": [
+      12854
+    ]
+  },
+  {
+    "id": 2708,
+    "age_ratings": [
+      662,
+      13273,
+      47154
+    ],
+    "aggregated_rating": 62.0,
+    "aggregated_rating_count": 5,
+    "alternative_names": [
+      31584,
+      31585,
+      31586,
+      31587,
+      31588,
+      31589,
+      31590
+    ],
+    "category": 0,
+    "collection": 530,
+    "cover": 93254,
+    "created_at": 1374598864,
+    "external_games": [
+      35866,
+      125281,
+      190146,
+      218699,
+      218700,
+      1192991,
+      1931965,
+      1932878,
+      1934752,
+      1937888
+    ],
+    "first_release_date": 1321315200,
+    "follows": 4,
+    "franchises": [
+      457,
+      845
+    ],
+    "game_modes": [
+      1,
+      4
+    ],
+    "genres": [
+      14
+    ],
+    "involved_companies": [
+      180349,
+      180350,
+      180351
+    ],
+    "keywords": [
+      1075,
+      2152,
+      4657,
+      4842,
+      4869,
+      5727,
+      5989,
+      6094,
+      9774,
+      11894,
+      17141,
+      36686
+    ],
+    "name": "Mario \u0026 Sonic at the London 2012 Olympic Games",
+    "platforms": [
+      5
+    ],
+    "rating": 67.04822986816994,
+    "rating_count": 24,
+    "release_dates": [
+      108647,
+      108648,
+      108649,
+      108650
+    ],
+    "screenshots": [
+      377420,
+      377421,
+      377422,
+      377423,
+      377424
+    ],
+    "similar_games": [
+      2183,
+      2349,
+      2350,
+      3405,
+      19930,
+      23667,
+      114286,
+      116353,
+      116795,
+      120795
+    ],
+    "slug": "mario-sonic-at-the-london-2012-olympic-games",
+    "summary": "Mario \u0026 Sonic at the London 2012 Olympic Games is a collection of numerous events based on the Olympic Games. Mario \u0026 Sonic brings together the two titular characters and eighteen more from both franchises to participate in environments based on the official venues of the 2012 Summer Olympics in London. The characters are divided into four categories: all-around, speed, power, and skill.",
+    "tags": [
+      40,
+      268435470,
+      536871987,
+      536873064,
+      536875569,
+      536875754,
+      536875781,
+      536876639,
+      536876901,
+      536877006,
+      536880686,
+      536882806,
+      536888053,
+      536907598
+    ],
+    "themes": [
+      40
+    ],
+    "total_rating": 64.52411493408496,
+    "total_rating_count": 29,
+    "updated_at": 1692966771,
+    "url": "https://www.igdb.com/games/mario-sonic-at-the-london-2012-olympic-games",
+    "videos": [
+      15035
+    ],
+    "websites": [
+      52520,
+      53946,
+      513240
+    ],
+    "checksum": "dd845434-32ac-a598-5dde-5e0e70353b62",
+    "ports": [
+      132110
+    ],
+    "language_supports": [
+      473191,
+      473192
+    ]
+  },
+  {
+    "id": 3990,
+    "age_ratings": [
+      13282,
+      35701,
+      47160,
+      97556
+    ],
+    "aggregated_rating": 58.4,
+    "aggregated_rating_count": 5,
+    "alternative_names": [
+      31598,
+      31599,
+      31600,
+      31601,
+      31602,
+      31603,
+      31604,
+      110877
+    ],
+    "category": 0,
+    "collection": 530,
+    "cover": 89287,
+    "created_at": 1390367766,
+    "external_games": [
+      37141,
+      118273,
+      218708,
+      253279,
+      2594131
+    ],
+    "first_release_date": 1383868800,
+    "follows": 2,
+    "franchises": [
+      457,
+      845
+    ],
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      14
+    ],
+    "involved_companies": [
+      10342,
+      95185,
+      126331
+    ],
+    "keywords": [
+      44,
+      667,
+      833,
+      917,
+      1075,
+      4657,
+      5727,
+      6795,
+      6796
+    ],
+    "name": "Mario \u0026 Sonic at the Sochi 2014 Olympic Winter Games",
+    "platforms": [
+      41
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 65.01628864558013,
+    "rating_count": 10,
+    "release_dates": [
+      108663,
+      108664,
+      108666,
+      140979
+    ],
+    "screenshots": [
+      28767,
+      164397,
+      164398,
+      164399,
+      164400,
+      164401
+    ],
+    "similar_games": [
+      15851,
+      55077,
+      72812,
+      103218,
+      114285,
+      116353,
+      118871,
+      119161,
+      119422,
+      121036
+    ],
+    "slug": "mario-sonic-at-the-sochi-2014-olympic-winter-games",
+    "summary": "Mario \u0026 Sonic at the Sochi 2014 Olympic Winter Games is a Wii U game, and is the fourth installment in the Mario \u0026 Sonic series. It includes a variety of events from the winter games such as skiing, figure skating, and curling. As the title implies, the game is centered around the 2014 Olympic Winter Games, taking place in Sochi, Russia. Different events uses the Wii Remote Plus controller, Wii U GamePad, or both. As the other games in the series, it features realistic events with ones in Mario\u0027s and Sonic\u0027s worlds. As the game is a Wii U exclusive, Mario \u0026 Sonic at the Sochi 2014 Olympic Winter Games is the first in the series to not have a handheld version.",
+    "tags": [
+      1,
+      268435470,
+      536870956,
+      536871579,
+      536871745,
+      536871829,
+      536871987,
+      536875569,
+      536876639,
+      536877707,
+      536877708
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 61.70814432279006,
+    "total_rating_count": 15,
+    "updated_at": 1692966824,
+    "url": "https://www.igdb.com/games/mario-sonic-at-the-sochi-2014-olympic-winter-games",
+    "videos": [
+      15038
+    ],
+    "websites": [
+      52528,
+      53955,
+      340272
+    ],
+    "checksum": "ecdbcfd8-e6da-47ed-ff50-e20f2c0f9cb5",
+    "game_localizations": [
+      3724
+    ]
+  },
+  {
+    "id": 11195,
+    "age_ratings": [
+      7862,
+      12872,
+      47114,
+      62683,
+      62684,
+      62685,
+      62686
+    ],
+    "aggregated_rating": 74.93333333333334,
+    "aggregated_rating_count": 17,
+    "alternative_names": [
+      120115,
+      120116,
+      120117,
+      120118,
+      120119,
+      136998,
+      141156
+    ],
+    "artworks": [
+      73573
+    ],
+    "category": 0,
+    "collection": 595,
+    "cover": 200223,
+    "created_at": 1434476672,
+    "external_games": [
+      28257,
+      111191,
+      218695,
+      249000,
+      1930024,
+      1930666,
+      1933463,
+      1933663,
+      1934178,
+      2596180
+    ],
+    "first_release_date": 1449100800,
+    "follows": 10,
+    "franchises": [
+      845
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      30545,
+      30546
+    ],
+    "keywords": [
+      415,
+      521,
+      1075,
+      1186,
+      2229,
+      2555,
+      4934,
+      5343,
+      7243,
+      25315,
+      26965,
+      29428
+    ],
+    "name": "Mario \u0026 Luigi: Paper Jam",
+    "platforms": [
+      37
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 64.9715876594627,
+    "rating_count": 17,
+    "release_dates": [
+      44189,
+      44190,
+      44191,
+      250306
+    ],
+    "screenshots": [
+      10524,
+      10525,
+      10526,
+      164323,
+      164324,
+      164325,
+      164326,
+      164327,
+      164328,
+      164329,
+      164330,
+      164331
+    ],
+    "similar_games": [
+      22387,
+      25311,
+      28309,
+      28414,
+      55038,
+      55199,
+      80916,
+      96217,
+      106987,
+      115280
+    ],
+    "slug": "mario-and-luigi-paper-jam",
+    "storyline": "Luigi stumbles across a mysterious book and accidentally unleashes paper-thin versions of Princess Peach, Toad, and many others. Now he and Mario must team up with Paper Mario to help their paper friends get back to their own world!",
+    "summary": "Paper Mario jumps out of a book and into the bizarre adventures of Mario \u0026 Luigi, resulting in hilarious, and dangerous, hijinks! Become the superstar team of Mario, Luigi and Paper Mario to take on quests, take down enemies, and untangle these two unique universes in this playful new entry in the Mario \u0026 Luigi series.",
+    "tags": [
+      1,
+      268435468,
+      268435487,
+      536871327,
+      536871433,
+      536871987,
+      536872098,
+      536873141,
+      536873467,
+      536875846,
+      536876255,
+      536878155,
+      536896227,
+      536897877,
+      536900340
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 69.95246049639802,
+    "total_rating_count": 34,
+    "updated_at": 1695796879,
+    "url": "https://www.igdb.com/games/mario-and-luigi-paper-jam",
+    "videos": [
+      4461
+    ],
+    "websites": [
+      5717,
+      5718,
+      49675,
+      516449
+    ],
+    "checksum": "9919195d-c095-346a-b3df-2eb8fccbb84e",
+    "language_supports": [
+      493311,
+      493312,
+      493313,
+      493314,
+      493315,
+      493316,
+      493318,
+      493319
+    ],
+    "game_localizations": [
+      4871,
+      28682
+    ]
+  },
+  {
+    "id": 3364,
+    "age_ratings": [
+      38795,
+      62625,
+      62626,
+      62627,
+      62628,
+      62629
+    ],
+    "aggregated_rating": 90.66666666666667,
+    "aggregated_rating_count": 3,
+    "alternative_names": [
+      16225,
+      31284,
+      43701,
+      132904,
+      132905,
+      132906,
+      132907,
+      136999,
+      141153
+    ],
+    "artworks": [
+      4471,
+      4472,
+      4473,
+      4474,
+      87527
+    ],
+    "category": 0,
+    "collection": 595,
+    "cover": 95600,
+    "created_at": 1388896802,
+    "external_games": [
+      28908,
+      142969,
+      218696,
+      248604,
+      2594374
+    ],
+    "first_release_date": 1133136000,
+    "follows": 24,
+    "franchises": [
+      845
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      9,
+      12,
+      31
+    ],
+    "involved_companies": [
+      133773,
+      133774,
+      212158
+    ],
+    "keywords": [
+      3,
+      16,
+      72,
+      170,
+      274,
+      415,
+      575,
+      732,
+      826,
+      947,
+      1186,
+      1299,
+      1320,
+      1381,
+      1682,
+      1707,
+      1710,
+      1772,
+      2071,
+      2096,
+      2152,
+      2555,
+      2628,
+      2759,
+      3203,
+      3486,
+      4138,
+      4162,
+      4213,
+      4284,
+      4285,
+      4297,
+      4353,
+      4388,
+      4398,
+      4468,
+      4484,
+      4522,
+      4583,
+      4613,
+      4709,
+      4856,
+      4993,
+      4997,
+      5105,
+      5151,
+      5164,
+      5175,
+      5183,
+      5260,
+      5358,
+      5441,
+      5494,
+      5518,
+      5703,
+      5803,
+      5963,
+      5967,
+      6007,
+      6230,
+      6620,
+      6846,
+      7107,
+      7166,
+      7241,
+      7423,
+      8801,
+      9339,
+      9750,
+      10587,
+      12242,
+      13109,
+      23933,
+      25315,
+      29428
+    ],
+    "name": "Mario \u0026 Luigi: Partners in Time",
+    "platforms": [
+      20,
+      41
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "rating": 78.51856266350767,
+    "rating_count": 97,
+    "release_dates": [
+      140967,
+      140969,
+      140971,
+      249425,
+      471420,
+      471421,
+      471422,
+      471423,
+      471424,
+      471425
+    ],
+    "screenshots": [
+      26692,
+      164332,
+      164333,
+      164334,
+      164335,
+      164336,
+      164337,
+      164338,
+      164339,
+      164340,
+      164341,
+      164342
+    ],
+    "similar_games": [
+      358,
+      1035,
+      2899,
+      3340,
+      3349,
+      3351,
+      3363,
+      3365,
+      9727,
+      11292
+    ],
+    "slug": "mario-luigi-partners-in-time",
+    "summary": "The famous Mario Brothers return in this sequel to the humorous Superstar Saga. In this adventure, Princess Peach takes a trip in a time machine, but when it returns, there\u0027s only a monster inside! The heroic brothers travel back in time only to discover that evil alien life forms known as the Shroobs have taken over the Mushroom Kingdom, and no-one is safe! They soon meet up with their younger selves, and set out to stop the alien menace, not to mention rescue the Princess!",
+    "tags": [
+      1,
+      27,
+      268435465,
+      268435468,
+      268435487,
+      536870915,
+      536870928,
+      536870984,
+      536871082,
+      536871186,
+      536871327,
+      536871487,
+      536871644,
+      536871738,
+      536871859,
+      536872098,
+      536872211,
+      536872232,
+      536872293,
+      536872594,
+      536872619,
+      536872622,
+      536872684,
+      536872983,
+      536873008,
+      536873064,
+      536873467,
+      536873540,
+      536873671,
+      536874115,
+      536874398,
+      536875050,
+      536875074,
+      536875125,
+      536875196,
+      536875197,
+      536875209,
+      536875265,
+      536875300,
+      536875310,
+      536875380,
+      536875396,
+      536875434,
+      536875495,
+      536875525,
+      536875621,
+      536875768,
+      536875905,
+      536875909,
+      536876017,
+      536876063,
+      536876076,
+      536876087,
+      536876095,
+      536876172,
+      536876270,
+      536876353,
+      536876406,
+      536876430,
+      536876615,
+      536876715,
+      536876875,
+      536876879,
+      536876919,
+      536877142,
+      536877532,
+      536877758,
+      536878019,
+      536878078,
+      536878153,
+      536878335,
+      536879713,
+      536880251,
+      536880662,
+      536881499,
+      536883154,
+      536884021,
+      536894845,
+      536896227,
+      536900340
+    ],
+    "themes": [
+      1,
+      27
+    ],
+    "total_rating": 84.59261466508717,
+    "total_rating_count": 100,
+    "updated_at": 1695781649,
+    "url": "https://www.igdb.com/games/mario-luigi-partners-in-time",
+    "videos": [
+      65575
+    ],
+    "websites": [
+      186062,
+      196893,
+      270782,
+      335763
+    ],
+    "checksum": "90d51dcd-07fc-8e1d-6a3d-6a5fdfce35e4",
+    "language_supports": [
+      492657,
+      492658,
+      492660,
+      492661,
+      492662
+    ],
+    "game_localizations": [
+      2407,
+      28683
+    ]
+  }
+]

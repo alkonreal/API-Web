@@ -1,0 +1,494 @@
+[
+  {
+    "id": 96437,
+    "age_ratings": [
+      147316,
+      151509,
+      151863,
+      151871,
+      151872,
+      151873,
+      151874
+    ],
+    "aggregated_rating": 86.66666666666667,
+    "aggregated_rating_count": 9,
+    "artworks": [
+      11722
+    ],
+    "category": 0,
+    "cover": 152779,
+    "created_at": 1523890339,
+    "expansions": [
+      263480
+    ],
+    "external_games": [
+      637225,
+      1457764,
+      1683575,
+      1910919,
+      2675534,
+      2715526,
+      2715534,
+      2715551,
+      2715552,
+      2715627,
+      2715631,
+      2715632,
+      2715642,
+      2715671,
+      2715736,
+      2715737,
+      2717064,
+      2717078,
+      2717280,
+      2720321,
+      2725831,
+      2739255,
+      2739545,
+      2739576,
+      2739613
+    ],
+    "first_release_date": 1693958400,
+    "follows": 42,
+    "game_engines": [
+      1488
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      12,
+      31
+    ],
+    "hypes": 136,
+    "involved_companies": [
+      138821,
+      138822
+    ],
+    "keywords": [
+      974,
+      1198,
+      1722,
+      18526,
+      39454
+    ],
+    "name": "Starfield",
+    "platforms": [
+      6,
+      169
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 47.57568925667001,
+    "rating_count": 35,
+    "release_dates": [
+      482784,
+      482785
+    ],
+    "screenshots": [
+      214042,
+      214043,
+      810809,
+      810810,
+      810811,
+      810812,
+      1054927,
+      1054928,
+      1054929,
+      1054930,
+      1140855
+    ],
+    "similar_games": [
+      1877,
+      19164,
+      19564,
+      26574,
+      47823,
+      55038,
+      90099,
+      105269,
+      107318,
+      113114
+    ],
+    "slug": "starfield",
+    "summary": "In this next generation role-playing game set amongst the stars, create any character you want and explore with unparalleled freedom as you embark on an epic journey to answer humanity’s greatest mystery.",
+    "tags": [
+      1,
+      18,
+      33,
+      38,
+      268435461,
+      268435468,
+      268435487,
+      536871886,
+      536872110,
+      536872634,
+      536889438,
+      536910366
+    ],
+    "themes": [
+      1,
+      18,
+      33,
+      38
+    ],
+    "total_rating": 67.12117796166834,
+    "total_rating_count": 44,
+    "updated_at": 1695456225,
+    "url": "https://www.igdb.com/games/starfield",
+    "videos": [
+      20662,
+      50890,
+      55338,
+      69881,
+      70086,
+      85832,
+      91719,
+      96157,
+      97989
+    ],
+    "websites": [
+      80136,
+      80216,
+      80217,
+      186519,
+      186527,
+      186888,
+      186889,
+      214040,
+      214041,
+      252104,
+      385504
+    ],
+    "checksum": "d9905c0f-9c5c-3d00-a839-4de966dd63f3",
+    "language_supports": [
+      634597,
+      634598,
+      634599,
+      634600,
+      634601,
+      634602,
+      634603,
+      634604,
+      634605,
+      634606,
+      634607,
+      634608,
+      634609,
+      634610,
+      634611,
+      634612,
+      634613,
+      634614,
+      634615,
+      634616,
+      634617,
+      634618,
+      634619,
+      634620,
+      634621
+    ]
+  },
+  {
+    "id": 104915,
+    "category": 0,
+    "created_at": 1530694617,
+    "external_games": [
+      1171023,
+      1953420
+    ],
+    "first_release_date": 1530748800,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      10,
+      13,
+      32
+    ],
+    "involved_companies": [
+      67530
+    ],
+    "name": "Starfield Wars",
+    "platforms": [
+      6
+    ],
+    "release_dates": [
+      403155
+    ],
+    "screenshots": [
+      223252,
+      223253,
+      223254,
+      223255,
+      223256
+    ],
+    "similar_games": [
+      25311,
+      35994,
+      36553,
+      37419,
+      65827,
+      76263,
+      105011,
+      111130,
+      113895,
+      118871
+    ],
+    "slug": "starfield-wars",
+    "summary": "Starfield Wars is a high-speed 3D infinite racing game. Explore the super beautiful universe and escape the big monsters of various planets.",
+    "tags": [
+      1,
+      268435466,
+      268435469,
+      268435488
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1694053750,
+    "url": "https://www.igdb.com/games/starfield-wars",
+    "websites": [
+      82944,
+      410811
+    ],
+    "checksum": "fc4fe56e-7a6c-d4c2-d530-fb8e0d1597ea",
+    "language_supports": [
+      18740,
+      18741,
+      18742,
+      18743,
+      18744,
+      18745,
+      18746,
+      18747,
+      18748,
+      18749,
+      18750,
+      18751,
+      18752,
+      18753,
+      18754,
+      18755,
+      18756,
+      18757,
+      18758,
+      18759,
+      18760
+    ]
+  },
+  {
+    "id": 263480,
+    "category": 2,
+    "cover": 326239,
+    "created_at": 1693168899,
+    "follows": 1,
+    "game_engines": [
+      1488
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      12,
+      31
+    ],
+    "involved_companies": [
+      228856,
+      228857
+    ],
+    "keywords": [
+      974,
+      1198,
+      1722,
+      18526,
+      39454
+    ],
+    "name": "Starfield: Shattered Space",
+    "parent_game": 96437,
+    "platforms": [
+      6,
+      169
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "release_dates": [
+      508385,
+      508386
+    ],
+    "screenshots": [
+      1126143
+    ],
+    "similar_games": [
+      1877,
+      19164,
+      19564,
+      26574,
+      47823,
+      55038,
+      90099,
+      105269,
+      107318,
+      113114
+    ],
+    "slug": "starfield-shattered-space",
+    "summary": "This will be the first story expansion to Starfield. This DLC is bundled with Premium Edition (digital), Premium Edition Upgrade (digital), Premium Edition Upgrade (physical), and Constellation Edition of Starfield.",
+    "tags": [
+      1,
+      18,
+      33,
+      38,
+      268435461,
+      268435468,
+      268435487,
+      536871886,
+      536872110,
+      536872634,
+      536889438,
+      536910366
+    ],
+    "themes": [
+      1,
+      18,
+      33,
+      38
+    ],
+    "updated_at": 1693233488,
+    "url": "https://www.igdb.com/games/starfield-shattered-space",
+    "websites": [
+      577048,
+      577049,
+      577050,
+      577051,
+      577052
+    ],
+    "checksum": "b2a009a2-5487-88ef-cb02-5789a4d75728"
+  },
+  {
+    "id": 254215,
+    "age_ratings": [
+      151588,
+      151589,
+      151590,
+      151591,
+      151592,
+      151593,
+      151594
+    ],
+    "artworks": [
+      116437
+    ],
+    "category": 0,
+    "cover": 325822,
+    "created_at": 1687237297,
+    "external_games": [
+      2715517,
+      2715592,
+      2715618,
+      2715676,
+      2715681,
+      2717106,
+      2717206,
+      2717212,
+      2717213,
+      2720185,
+      2738164,
+      2738179,
+      2738189,
+      2739549,
+      2739582,
+      2739620
+    ],
+    "first_release_date": 1693440000,
+    "follows": 1,
+    "game_modes": [
+      1
+    ],
+    "name": "Starfield: Premium Edition",
+    "platforms": [
+      6,
+      169
+    ],
+    "release_dates": [
+      506447,
+      506448
+    ],
+    "screenshots": [
+      1132350,
+      1132351,
+      1132352,
+      1132353,
+      1132354,
+      1132355,
+      1132356,
+      1132357,
+      1132358
+    ],
+    "slug": "starfield-premium-edition",
+    "summary": "Starfield is the first new universe in over 25 years from Bethesda Game Studios, the award-winning creators of The Elder Scrolls V: Skyrim and Fallout 4. In this next generation role-playing game set amongst the stars, create any character you want and explore with unparalleled freedom as you embark on an epic journey to answer humanity’s greatest mystery.\n\nPremium Edition includes:\n- Starfield Base Game\n- Shattered Space Story Expansion (upon release)\n- Up to 5 days early access*\n- Constellation Skin Pack: Equinox Laser Rifle, Spacesuit, Helmet and Boost Pack\n- Access to Starfield Digital Artbook \u0026 Original Soundtrack",
+    "updated_at": 1695489074,
+    "url": "https://www.igdb.com/games/starfield-premium-edition",
+    "version_parent": 96437,
+    "version_title": "Premium Edition",
+    "checksum": "be33ca99-b568-71db-a059-5d0b164fffc7",
+    "language_supports": [
+      787428,
+      787429,
+      787430,
+      787431,
+      787432,
+      787433,
+      787434,
+      787435,
+      787436,
+      787437,
+      787438,
+      787439,
+      787440,
+      787441,
+      787442,
+      787443,
+      787444,
+      787445,
+      787446,
+      787447,
+      787448,
+      787449,
+      787450
+    ]
+  },
+  {
+    "id": 254216,
+    "category": 0,
+    "cover": 326786,
+    "created_at": 1687237452,
+    "external_games": [
+      2715591,
+      2715729,
+      2725949
+    ],
+    "first_release_date": 1693440000,
+    "name": "Starfield: Constellation Edition",
+    "platforms": [
+      6,
+      169
+    ],
+    "release_dates": [
+      506445,
+      506446
+    ],
+    "slug": "starfield-constellation-edition",
+    "summary": "In this next generation role-playing game set amongst the stars, create any character you want and explore with unparalleled freedom as you embark on an epic journey to answer humanity’s greatest mystery.",
+    "updated_at": 1693361342,
+    "url": "https://www.igdb.com/games/starfield-constellation-edition",
+    "version_parent": 96437,
+    "version_title": "Constellation Edition",
+    "checksum": "7c97407a-3912-53d7-e66c-de35f37d36ab"
+  }
+]

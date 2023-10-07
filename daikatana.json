@@ -1,0 +1,301 @@
+[
+  {
+    "id": 80764,
+    "age_ratings": [
+      77033
+    ],
+    "alternative_names": [
+      57435
+    ],
+    "category": 11,
+    "collection": 4978,
+    "cover": 201061,
+    "created_at": 1515278856,
+    "external_games": [
+      138130
+    ],
+    "first_release_date": 970185600,
+    "genres": [
+      9,
+      25,
+      31
+    ],
+    "involved_companies": [
+      122353,
+      122354
+    ],
+    "keywords": [
+      21,
+      61,
+      170,
+      962,
+      1033,
+      1186,
+      1705,
+      1986,
+      4031,
+      4587,
+      23933
+    ],
+    "name": "Daikatana",
+    "parent_game": 8201,
+    "platforms": [
+      22
+    ],
+    "release_dates": [
+      227696,
+      235243,
+      235244
+    ],
+    "screenshots": [
+      427763,
+      427764
+    ],
+    "similar_games": [
+      5867,
+      24426,
+      28070,
+      28168,
+      36198,
+      47823,
+      55038,
+      55984,
+      96217,
+      103168
+    ],
+    "slug": "daikatana--1",
+    "storyline": "Daikatana stars Hiro Miyamoto, who is told that an enemy of his family, Kage Mishima, had stolen the Daikatana with the intention of using its time-warping abilities to change history. Mishima then kidnaps his friend Mikiko and attacks the family dojo.",
+    "summary": "Unlike the first-person shooter for PC and Nintendo 64, the Game Boy Color version of Daikatana was a top-down action-adventure game.",
+    "tags": [
+      1,
+      17,
+      18,
+      22,
+      268435465,
+      268435481,
+      268435487,
+      536870933,
+      536870973,
+      536871082,
+      536871874,
+      536871945,
+      536872098,
+      536872617,
+      536872898,
+      536874943,
+      536875499,
+      536894845
+    ],
+    "themes": [
+      1,
+      17,
+      18,
+      22
+    ],
+    "updated_at": 1692188937,
+    "url": "https://www.igdb.com/games/daikatana--1",
+    "websites": [
+      168870
+    ],
+    "checksum": "31786ec9-ea87-67cf-276a-493086a8535f"
+  },
+  {
+    "id": 8201,
+    "age_ratings": [
+      5207,
+      123389,
+      123390
+    ],
+    "aggregated_rating": 50.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      3013
+    ],
+    "category": 0,
+    "collection": 4978,
+    "cover": 104236,
+    "created_at": 1416207573,
+    "external_games": [
+      12546,
+      76892,
+      149968,
+      354403
+    ],
+    "first_release_date": 959040000,
+    "follows": 7,
+    "game_engines": [
+      97
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      5,
+      9
+    ],
+    "involved_companies": [
+      19765,
+      19766,
+      19767,
+      123729
+    ],
+    "keywords": [
+      21,
+      24,
+      61,
+      129,
+      170,
+      453,
+      466,
+      558,
+      660,
+      923,
+      962,
+      1033,
+      1158,
+      1186,
+      1440,
+      1705,
+      1986,
+      3988,
+      4031,
+      4134,
+      4345,
+      4359,
+      4410,
+      4580,
+      4587,
+      4681,
+      4891,
+      4956,
+      5029,
+      5414,
+      5436,
+      5638,
+      5657,
+      8792,
+      9931,
+      10048,
+      13120,
+      13121,
+      23933
+    ],
+    "name": "Daikatana",
+    "platforms": [
+      4,
+      6
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "rating": 56.01591940811314,
+    "rating_count": 21,
+    "release_dates": [
+      23243,
+      23244,
+      23246,
+      23247,
+      23248
+    ],
+    "screenshots": [
+      100434,
+      100435,
+      100436,
+      100437,
+      100438,
+      355888,
+      355889
+    ],
+    "similar_games": [
+      72,
+      231,
+      564,
+      571,
+      1006,
+      2031,
+      5647,
+      11646,
+      19531,
+      55038
+    ],
+    "slug": "daikatana",
+    "summary": "In 2455 A.D. , Kage Hishima used the magical powers of the Daikatana, the most powerful sword ever forged, to alter time and establish himself as supreme ruler. You are Hiro Miyamoto, one of the few people on Earth who remembers what really happened. The burden of saving the world, your version of it, has fallen unto your shoulders. You’re not alone as your friends, Superfly Johnson and Mikiko Ebihara, travel by your side. You must gather weapons, overcome all obstacles, discover deviously concealed secrets, and battle a bewildering array of foes. Use your resources wisely as you’ll need all the help you can get.",
+    "tags": [
+      1,
+      17,
+      18,
+      22,
+      268435461,
+      268435465,
+      536870933,
+      536870936,
+      536870973,
+      536871041,
+      536871082,
+      536871365,
+      536871378,
+      536871470,
+      536871572,
+      536871835,
+      536871874,
+      536871945,
+      536872070,
+      536872098,
+      536872352,
+      536872617,
+      536872898,
+      536874900,
+      536874943,
+      536875046,
+      536875257,
+      536875271,
+      536875322,
+      536875492,
+      536875499,
+      536875593,
+      536875803,
+      536875868,
+      536875941,
+      536876326,
+      536876348,
+      536876550,
+      536876569,
+      536879704,
+      536880843,
+      536880960,
+      536884032,
+      536884033,
+      536894845
+    ],
+    "themes": [
+      1,
+      17,
+      18,
+      22
+    ],
+    "total_rating": 53.00795970405657,
+    "total_rating_count": 22,
+    "updated_at": 1694955909,
+    "url": "https://www.igdb.com/games/daikatana",
+    "videos": [
+      3189,
+      3190,
+      31507
+    ],
+    "websites": [
+      26389,
+      119232,
+      136523,
+      342738
+    ],
+    "checksum": "c17e1e4f-69e8-b948-140a-59b7b9a2a787",
+    "ports": [
+      80764
+    ],
+    "language_supports": [
+      270367,
+      270368
+    ]
+  }
+]

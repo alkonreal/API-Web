@@ -1,0 +1,1281 @@
+[
+  {
+    "id": 2342,
+    "age_ratings": [
+      339,
+      49251,
+      81781,
+      82838
+    ],
+    "aggregated_rating": 81.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      23329,
+      32156,
+      32159,
+      88218,
+      119037,
+      119038,
+      119039,
+      119040,
+      119041,
+      119042,
+      137656
+    ],
+    "artworks": [
+      73441,
+      111433,
+      111434,
+      111435,
+      111436,
+      111437,
+      111438,
+      111439
+    ],
+    "category": 0,
+    "collection": 449,
+    "cover": 289642,
+    "created_at": 1372663073,
+    "external_games": [
+      28456,
+      147832,
+      218724,
+      246522,
+      1933119,
+      1933169,
+      2594811
+    ],
+    "first_release_date": 850521600,
+    "follows": 136,
+    "franchise": 24,
+    "franchises": [
+      24,
+      845
+    ],
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      98362,
+      205224,
+      225567
+    ],
+    "keywords": [
+      25,
+      280,
+      1075,
+      1381,
+      1440,
+      1678,
+      1682,
+      1710,
+      1744,
+      2071,
+      2152,
+      2415,
+      2759,
+      3627,
+      3831,
+      3988,
+      4162,
+      4170,
+      4179,
+      4210,
+      4286,
+      4294,
+      4333,
+      4359,
+      4522,
+      4657,
+      4760,
+      4803,
+      4994,
+      5029,
+      5612,
+      5639,
+      5704,
+      5801,
+      5876,
+      5987,
+      6191,
+      6368,
+      6765,
+      6832,
+      7026,
+      7070,
+      7107,
+      7305,
+      8132,
+      9075,
+      9275,
+      9529,
+      13121,
+      13491,
+      26906,
+      27629,
+      30490,
+      31533,
+      37362,
+      37741
+    ],
+    "multiplayer_modes": [
+      14461,
+      14462,
+      24157
+    ],
+    "name": "Mario Kart 64",
+    "platforms": [
+      4,
+      5,
+      41
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 82.10133038755423,
+    "rating_count": 465,
+    "release_dates": [
+      496362,
+      509656,
+      509657,
+      509658,
+      509659,
+      509660,
+      509661,
+      509662,
+      509663,
+      509664,
+      509665,
+      509666,
+      509667,
+      509668,
+      509669
+    ],
+    "screenshots": [
+      383313,
+      383314,
+      383315,
+      383316,
+      383317,
+      383318,
+      383319
+    ],
+    "similar_games": [
+      1192,
+      1193,
+      2332,
+      2343,
+      2345,
+      2349,
+      2723,
+      3408,
+      39342,
+      45160
+    ],
+    "slug": "mario-kart-64",
+    "summary": "Mario Kart 64 is the second main installment of the Mario Kart series. It is the first game in the series to use three-dimensional graphics, however, the characters and items in this game are still two-dimensional, pre-rendered sprites. The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc. Each kart has distinctive handling, acceleration and top speed capabilities. Shells that you fire at rival racers, Bananas that make them skid out and Lightning Bolts that make them small and very slow are just a few of the game\u0027s unique power-ups.",
+    "tags": [
+      1,
+      35,
+      40,
+      268435466,
+      536870937,
+      536871192,
+      536871987,
+      536872293,
+      536872352,
+      536872590,
+      536872594,
+      536872622,
+      536872656,
+      536872983,
+      536873064,
+      536873327,
+      536873671,
+      536874539,
+      536874743,
+      536874900,
+      536875074,
+      536875082,
+      536875091,
+      536875122,
+      536875198,
+      536875206,
+      536875245,
+      536875271,
+      536875434,
+      536875569,
+      536875672,
+      536875715,
+      536875906,
+      536875941,
+      536876524,
+      536876551,
+      536876616,
+      536876713,
+      536876788,
+      536876899,
+      536877103,
+      536877280,
+      536877677,
+      536877744,
+      536877938,
+      536877982,
+      536878019,
+      536878217,
+      536879044,
+      536879987,
+      536880187,
+      536880441,
+      536884033,
+      536884403,
+      536897818,
+      536898541,
+      536901402,
+      536902445,
+      536908274,
+      536908653
+    ],
+    "themes": [
+      1,
+      35,
+      40
+    ],
+    "total_rating": 81.55066519377712,
+    "total_rating_count": 466,
+    "updated_at": 1696380718,
+    "url": "https://www.igdb.com/games/mario-kart-64",
+    "videos": [
+      35661,
+      60121
+    ],
+    "websites": [
+      7506,
+      112678,
+      243101,
+      513537
+    ],
+    "checksum": "ce803edc-4272-bb1b-5113-40e6a02454b6",
+    "language_supports": [
+      473318,
+      473319,
+      473320,
+      473321
+    ],
+    "game_localizations": [
+      2535,
+      2536
+    ]
+  },
+  {
+    "id": 2349,
+    "age_ratings": [
+      35755,
+      47119,
+      96229,
+      98449,
+      98450,
+      98451
+    ],
+    "aggregated_rating": 83.5,
+    "aggregated_rating_count": 6,
+    "alternative_names": [
+      108808,
+      108861,
+      108862,
+      119145,
+      136962,
+      137026,
+      138515
+    ],
+    "artworks": [
+      4490,
+      4491,
+      4492
+    ],
+    "category": 0,
+    "collection": 449,
+    "cover": 94758,
+    "created_at": 1372710994,
+    "external_games": [
+      27983,
+      128181,
+      218725,
+      250216,
+      1929231,
+      1929237,
+      1929408,
+      1933655,
+      1934117,
+      1936177,
+      1936478,
+      1937225,
+      2594654
+    ],
+    "first_release_date": 1322784000,
+    "follows": 44,
+    "franchise": 24,
+    "franchises": [
+      24,
+      845
+    ],
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      10
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      31986,
+      130242,
+      226326
+    ],
+    "keywords": [
+      25,
+      280,
+      394,
+      1075,
+      1299,
+      1333,
+      1678,
+      1682,
+      1744,
+      2152,
+      2165,
+      2646,
+      3627,
+      3988,
+      4179,
+      4359,
+      4647,
+      4657,
+      4803,
+      4841,
+      4842,
+      4869,
+      4940,
+      5143,
+      5727,
+      5801,
+      5876,
+      5987,
+      6145,
+      6191,
+      6198,
+      6765,
+      7243,
+      7402,
+      7403,
+      11782,
+      11894,
+      12462,
+      12661,
+      17141,
+      23983,
+      25315,
+      29428,
+      30703
+    ],
+    "name": "Mario Kart 7",
+    "platforms": [
+      37
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 82.22653003382337,
+    "rating_count": 193,
+    "release_dates": [
+      498148,
+      498149,
+      498150,
+      498151,
+      501910
+    ],
+    "screenshots": [
+      2726,
+      2727,
+      24231,
+      24232,
+      24233,
+      164498,
+      164499,
+      164500,
+      164501,
+      164502,
+      164503,
+      164504
+    ],
+    "similar_games": [
+      1192,
+      2183,
+      2332,
+      2342,
+      2343,
+      2345,
+      2350,
+      3772,
+      39342,
+      45160
+    ],
+    "slug": "mario-kart-7",
+    "summary": "The seventh installment of the fan-favorite Mario Kart franchise brings Mushroom Kingdom racing fun into glorious 3D. For the first time, drivers explore new competitive kart possibilities, such as soaring through the skies or plunging to the depths of the sea. New courses, strategic new abilities and customizable karts bring the racing excitement to new heights.",
+    "tags": [
+      40,
+      268435466,
+      536870937,
+      536871192,
+      536871306,
+      536871987,
+      536872211,
+      536872245,
+      536872590,
+      536872594,
+      536872656,
+      536873064,
+      536873077,
+      536873558,
+      536874539,
+      536874900,
+      536875091,
+      536875271,
+      536875559,
+      536875569,
+      536875715,
+      536875753,
+      536875754,
+      536875781,
+      536875852,
+      536876055,
+      536876639,
+      536876713,
+      536876788,
+      536876899,
+      536877057,
+      536877103,
+      536877110,
+      536877677,
+      536878155,
+      536878314,
+      536878315,
+      536882694,
+      536882806,
+      536883374,
+      536883573,
+      536888053,
+      536894895,
+      536896227,
+      536900340,
+      536901615
+    ],
+    "themes": [
+      40
+    ],
+    "total_rating": 82.86326501691168,
+    "total_rating_count": 199,
+    "updated_at": 1694221774,
+    "url": "https://www.igdb.com/games/mario-kart-7",
+    "videos": [
+      1355
+    ],
+    "websites": [
+      645,
+      7510,
+      318263,
+      513835
+    ],
+    "checksum": "7381545d-5fb3-06a1-7302-14fec1f77515",
+    "language_supports": [
+      473522,
+      473523,
+      473524,
+      490611,
+      490612,
+      490613,
+      490614,
+      490615,
+      490616,
+      490617
+    ],
+    "game_localizations": [
+      2371,
+      28649
+    ]
+  },
+  {
+    "id": 145732,
+    "alternative_names": [
+      64372,
+      64373,
+      64374
+    ],
+    "category": 5,
+    "cover": 277798,
+    "created_at": 1618294187,
+    "first_release_date": 1389484800,
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      193448,
+      193449
+    ],
+    "keywords": [
+      2004,
+      2392,
+      24124
+    ],
+    "multiplayer_modes": [
+      14052
+    ],
+    "name": "Mario Kart Wii: CTGP Revolution",
+    "parent_game": 2183,
+    "platforms": [
+      5
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "release_dates": [
+      238108
+    ],
+    "similar_games": [
+      19164,
+      82090,
+      87673,
+      105011,
+      113895,
+      118871,
+      119207,
+      145015,
+      174622,
+      265055
+    ],
+    "slug": "mario-kart-wii-ctgp-revolution",
+    "summary": "CTGP Revolution is a mod for Mario Kart Wii which adds many new custom tracks and cups to the game.",
+    "tags": [
+      1,
+      27,
+      268435466,
+      536872059,
+      536872916,
+      536873304,
+      536895036
+    ],
+    "themes": [
+      1,
+      27
+    ],
+    "updated_at": 1692353191,
+    "url": "https://www.igdb.com/games/mario-kart-wii-ctgp-revolution",
+    "websites": [
+      177231,
+      177232
+    ],
+    "checksum": "ccea369e-b5fb-09d7-77de-bef52b51a03d"
+  },
+  {
+    "id": 231822,
+    "alternative_names": [
+      120805
+    ],
+    "category": 5,
+    "cover": 280950,
+    "created_at": 1674031555,
+    "first_release_date": 1435622400,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      233733
+    ],
+    "keywords": [
+      2004,
+      16696
+    ],
+    "name": "Mario Kart Zero",
+    "parent_game": 2345,
+    "platforms": [
+      20
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "release_dates": [
+      523549
+    ],
+    "screenshots": [
+      959358,
+      959359
+    ],
+    "similar_games": [
+      27378,
+      27553,
+      44178,
+      55192,
+      80382,
+      82090,
+      103018,
+      104983,
+      109292,
+      250038
+    ],
+    "slug": "mario-kart-zero",
+    "summary": "This is a hack of Mario Kart DS that changes the tracks to different ones. It also has custom music.",
+    "tags": [
+      268435466,
+      536872916,
+      536887608
+    ],
+    "updated_at": 1696535181,
+    "url": "https://www.igdb.com/games/mario-kart-zero",
+    "checksum": "7dd928ea-ac40-843f-7f6a-1f377e72f8c4",
+    "language_supports": [
+      811357
+    ]
+  },
+  {
+    "id": 45160,
+    "alternative_names": [
+      34742,
+      110277
+    ],
+    "category": 0,
+    "collection": 6182,
+    "cover": 95873,
+    "created_at": 1499455346,
+    "external_games": [
+      18463,
+      136785,
+      218728,
+      1187561
+    ],
+    "first_release_date": 1128902400,
+    "franchises": [
+      845,
+      892
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      99067,
+      99071
+    ],
+    "keywords": [
+      25,
+      1075,
+      1381,
+      1678,
+      1682,
+      1744,
+      2152,
+      2759,
+      3627,
+      3988,
+      4170,
+      4179,
+      4657,
+      4803,
+      5876,
+      5959,
+      5987,
+      6368,
+      6765,
+      6832,
+      7070
+    ],
+    "name": "Mario Kart Arcade GP",
+    "platforms": [
+      52
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 51.98805383175308,
+    "rating_count": 5,
+    "release_dates": [
+      195907,
+      195908,
+      195909,
+      195915
+    ],
+    "screenshots": [
+      164523,
+      164524,
+      164525,
+      164526,
+      164527,
+      164528,
+      164529
+    ],
+    "similar_games": [
+      1192,
+      1193,
+      2332,
+      2342,
+      2343,
+      2349,
+      3772,
+      19840,
+      38161,
+      39342
+    ],
+    "slug": "mario-kart-arcade-gp",
+    "summary": "Mario Kart Arcade GP is an arcade-only iteration of Nintendo\u0027s Mario Kart series, developed by Namco. Designed for the Triforce arcade board (also used for F-Zero AX), players can race as one of eleven characters on twenty-four tracks. On certain machines, for an additional fee, a player\u0027s data can be saved on a magnetic card which can be inserted into the machine again later to retain unlocked items and records. Nintendo\u0027s limited role of development was mainly isolated to ensuring that it was a worthy title for the established franchise.\n\nThis game\u0027s arcade cabinet houses a camera that will take a photograph of the player\u0027s face. The photo can be customized and then will be displayed above the player\u0027s character during multiplayer races.\n\nThe game is noted for being the first Mario Kart to feature playable crossover characters: Namco\u0027s Pac-Man, Ms. Pac-Man and Blinky. The game\u0027s sequel also featured Mametchi, a character from the Tamagotchi games. The third installment included Don from the Taiko no Tatsujin franchise.",
+    "tags": [
+      1,
+      268435466,
+      536870937,
+      536871987,
+      536872293,
+      536872590,
+      536872594,
+      536872656,
+      536873064,
+      536873671,
+      536874539,
+      536874900,
+      536875082,
+      536875091,
+      536875569,
+      536875715,
+      536876788,
+      536876871,
+      536876899,
+      536877280,
+      536877677,
+      536877744,
+      536877982
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 51.98805383175308,
+    "total_rating_count": 5,
+    "updated_at": 1689936349,
+    "url": "https://www.igdb.com/games/mario-kart-arcade-gp",
+    "websites": [
+      125174,
+      125175,
+      513855
+    ],
+    "checksum": "a5b5bdd0-eb32-d7aa-716c-4ddf08f57519",
+    "language_supports": [
+      473532,
+      473533
+    ],
+    "game_localizations": [
+      2513
+    ]
+  },
+  {
+    "id": 138251,
+    "age_ratings": [
+      30407,
+      54937,
+      98117
+    ],
+    "aggregated_rating": 80.5,
+    "aggregated_rating_count": 7,
+    "alternative_names": [
+      50236,
+      111626
+    ],
+    "artworks": [
+      11914
+    ],
+    "category": 0,
+    "collection": 449,
+    "cover": 113864,
+    "created_at": 1599163451,
+    "external_games": [
+      1939787,
+      1941759,
+      1942464,
+      2598675
+    ],
+    "first_release_date": 1602720000,
+    "franchises": [
+      845
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      109767,
+      109768
+    ],
+    "keywords": [
+      451,
+      16715
+    ],
+    "name": "Mario Kart Live: Home Circuit",
+    "platforms": [
+      130
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "release_dates": [
+      209248,
+      341507
+    ],
+    "screenshots": [
+      398250,
+      398251,
+      398252,
+      398253,
+      398254
+    ],
+    "similar_games": [
+      11588,
+      55217,
+      80382,
+      87029,
+      87673,
+      108759,
+      109292,
+      119207,
+      120795,
+      172864
+    ],
+    "slug": "mario-kart-live-home-circuit",
+    "summary": "Turn your home into a race track with Mario Kart Live: Home Circuit, a brand new way to experience Mario Kart on Nintendo Switch!\n\nDrive a kart in the real world using familiar Mario Kart controls and see the action from your kart’s on-board camera displayed on your Nintendo Switch or TV screen. Watch as your home is transformed into ocean depths, a sandy desert and more from the world of Mario Kart!",
+    "tags": [
+      35,
+      40,
+      268435466,
+      536871363,
+      536887627
+    ],
+    "themes": [
+      35,
+      40
+    ],
+    "total_rating": 80.5,
+    "total_rating_count": 7,
+    "updated_at": 1693296439,
+    "url": "https://www.igdb.com/games/mario-kart-live-home-circuit",
+    "videos": [
+      40173,
+      41351,
+      59854
+    ],
+    "websites": [
+      155166,
+      402801
+    ],
+    "checksum": "b03b8922-b995-3a47-a521-df221c4b2038",
+    "language_supports": [
+      667412
+    ],
+    "game_localizations": [
+      13514
+    ]
+  },
+  {
+    "id": 39342,
+    "alternative_names": [
+      110511,
+      110512
+    ],
+    "category": 0,
+    "collection": 6182,
+    "cover": 95939,
+    "created_at": 1498124278,
+    "external_games": [
+      18456,
+      134150,
+      1708755
+    ],
+    "first_release_date": 1173830400,
+    "franchises": [
+      155,
+      845,
+      892
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      99069,
+      99070
+    ],
+    "keywords": [
+      25,
+      280,
+      1075,
+      1381,
+      1682,
+      1744,
+      2071,
+      2152,
+      3627,
+      3988,
+      4179,
+      4657,
+      5876,
+      5959,
+      5987,
+      6368,
+      6765,
+      7070
+    ],
+    "name": "Mario Kart Arcade GP 2",
+    "platforms": [
+      52
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "release_dates": [
+      195910,
+      195911,
+      195912,
+      195913
+    ],
+    "screenshots": [
+      106175
+    ],
+    "similar_games": [
+      1192,
+      1193,
+      2183,
+      2332,
+      2342,
+      2343,
+      2349,
+      3772,
+      19840,
+      45160
+    ],
+    "slug": "mario-kart-arcade-gp-2",
+    "summary": "Mario Kart Arcade GP 2 is the second game of the exclusive Mario Kart series for arcades by Namco, which runs on the Triforce system.",
+    "tags": [
+      1,
+      268435466,
+      536870937,
+      536871192,
+      536871987,
+      536872293,
+      536872594,
+      536872656,
+      536872983,
+      536873064,
+      536874539,
+      536874900,
+      536875091,
+      536875569,
+      536876788,
+      536876871,
+      536876899,
+      536877280,
+      536877677,
+      536877982
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1685513918,
+    "url": "https://www.igdb.com/games/mario-kart-arcade-gp-2",
+    "websites": [
+      140724,
+      513856
+    ],
+    "checksum": "1f711fd9-bfea-b851-3b0a-27b6c71c13de",
+    "language_supports": [
+      473534,
+      473535,
+      473536,
+      473537
+    ],
+    "game_localizations": [
+      2531
+    ]
+  },
+  {
+    "id": 247274,
+    "category": 5,
+    "cover": 311651,
+    "created_at": 1682520797,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      211974
+    ],
+    "keywords": [
+      1603,
+      2004,
+      2555
+    ],
+    "name": "Mario Kart",
+    "parent_game": 11689,
+    "platforms": [
+      99
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "release_dates": [
+      471177
+    ],
+    "similar_games": [
+      27378,
+      27553,
+      44178,
+      55192,
+      80382,
+      82090,
+      109292,
+      232794,
+      250038,
+      268440
+    ],
+    "slug": "mario-kart--1",
+    "summary": "A F1 Race hack that changes the three courses to Mushroom, Flower, and Lightning Cup and allows the player to play as either Mario or Luigi. The graphics are used from Super Mario Kart, Mario Kart Super Circuit, and Mario Kart 7 (with a lower resolution and fewer colors). The game only appears on the Famiclone system Family Karaoto.",
+    "tags": [
+      268435466,
+      536872515,
+      536872916,
+      536873467
+    ],
+    "updated_at": 1693476472,
+    "url": "https://www.igdb.com/games/mario-kart--1",
+    "websites": [
+      547310
+    ],
+    "checksum": "d6fd3841-5082-b806-6ee5-1da77e29655c"
+  },
+  {
+    "id": 221269,
+    "category": 5,
+    "cover": 254693,
+    "created_at": 1665415114,
+    "first_release_date": 1558828800,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      233416
+    ],
+    "keywords": [
+      2004,
+      16696
+    ],
+    "name": "Mario Kart",
+    "parent_game": 9155,
+    "platforms": [
+      18
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "release_dates": [
+      522717
+    ],
+    "screenshots": [
+      901661,
+      901662
+    ],
+    "similar_games": [
+      27378,
+      27553,
+      44178,
+      55192,
+      80382,
+      82090,
+      103018,
+      104983,
+      109292,
+      250038
+    ],
+    "slug": "mario-kart",
+    "summary": "It’s Mario Kart… for the NES!!! Join Mario, Luigi, Wario, and Waluigi, to see who has what it takes to become a racing champion. Collect power ups along the way to upgrade your kart, and to battle the other racers. Upgrade your players to race as Toad and his buddies, as well as Yoshi and his friends.",
+    "tags": [
+      268435466,
+      536872916,
+      536887608
+    ],
+    "updated_at": 1696352852,
+    "url": "https://www.igdb.com/games/mario-kart",
+    "videos": [
+      97620
+    ],
+    "checksum": "a2b0f886-fbb2-e6db-e231-aaac79d1daf5",
+    "language_supports": [
+      809306
+    ]
+  },
+  {
+    "id": 19840,
+    "alternative_names": [
+      110513
+    ],
+    "category": 0,
+    "collection": 6182,
+    "cover": 96056,
+    "created_at": 1467312809,
+    "dlcs": [
+      229515,
+      229516,
+      229517,
+      229518,
+      229519,
+      229520,
+      229521
+    ],
+    "external_games": [
+      74418,
+      74419,
+      119241,
+      218729,
+      252336
+    ],
+    "first_release_date": 1374710400,
+    "follows": 1,
+    "franchises": [
+      845,
+      892,
+      2138
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      99073,
+      99074
+    ],
+    "keywords": [
+      25,
+      280,
+      1075,
+      1299,
+      1682,
+      1744,
+      1821,
+      3627,
+      3988,
+      4657,
+      4803,
+      4940,
+      5959,
+      5987,
+      7020,
+      7070
+    ],
+    "multiplayer_modes": [
+      21841
+    ],
+    "name": "Mario Kart Arcade GP DX",
+    "platforms": [
+      52
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "release_dates": [
+      53145
+    ],
+    "similar_games": [
+      626,
+      1193,
+      2342,
+      2343,
+      2349,
+      3772,
+      39342,
+      43859,
+      45160,
+      63232
+    ],
+    "slug": "mario-kart-arcade-gp-dx",
+    "summary": "Mario Kart Arcade GP DX is a Mario Kart game for arcade systems, developed by Namco Bandai Games in partnership with Nintendo. It is the tenth installment in the Mario Kart franchise and the third title in the Arcade series following Mario Kart Arcade GP 2, which was a follow-up to Mario Kart Arcade GP. The game was released in Japan on July 25, 2013 and in the United States during 2014. Just like the previous two Arcade GP games, it is possible to do multiplayer play by linking up to four cabinets.",
+    "tags": [
+      1,
+      268435466,
+      536870937,
+      536871192,
+      536871987,
+      536872211,
+      536872594,
+      536872656,
+      536872733,
+      536874539,
+      536874900,
+      536875569,
+      536875715,
+      536875852,
+      536876871,
+      536876899,
+      536877932,
+      536877982
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1686041116,
+    "url": "https://www.igdb.com/games/mario-kart-arcade-gp-dx",
+    "videos": [
+      8758
+    ],
+    "websites": [
+      140725,
+      513849,
+      513850,
+      513852
+    ],
+    "checksum": "acab8aca-6e0a-4dd3-91bc-6647504c2e4b",
+    "ports": [
+      229513
+    ],
+    "language_supports": [
+      473530,
+      473531
+    ],
+    "game_localizations": [
+      2538
+    ]
+  }
+]

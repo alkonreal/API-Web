@@ -1,0 +1,1375 @@
+[
+  {
+    "id": 3193,
+    "age_ratings": [
+      11734,
+      35355,
+      69810,
+      117017,
+      117018,
+      125253
+    ],
+    "aggregated_rating": 84.73684210526316,
+    "aggregated_rating_count": 17,
+    "alternative_names": [
+      13095,
+      13096,
+      13097,
+      13098,
+      13099,
+      13100,
+      43238,
+      43240
+    ],
+    "artworks": [
+      10701
+    ],
+    "category": 0,
+    "collection": 12,
+    "cover": 93677,
+    "created_at": 1384958101,
+    "dlcs": [
+      26186,
+      27929,
+      117321
+    ],
+    "external_games": [
+      56797,
+      74417,
+      81302,
+      81304,
+      122075,
+      213919,
+      225159,
+      352357,
+      402482,
+      402678,
+      1303548,
+      1928309,
+      1929443,
+      1930369,
+      1931494,
+      1931841,
+      1932351,
+      1932879,
+      1933040,
+      1933175,
+      1934134,
+      1935161,
+      1937619,
+      2028303,
+      2161641,
+      2452313,
+      2654501
+    ],
+    "first_release_date": 1351555200,
+    "follows": 103,
+    "franchises": [
+      729
+    ],
+    "game_engines": [
+      122
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      10,
+      31
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      212592,
+      212593
+    ],
+    "keywords": [
+      402,
+      735,
+      1293,
+      1297,
+      1333,
+      1678,
+      2452,
+      2543,
+      4134,
+      4205,
+      4221,
+      4245,
+      4359,
+      4437,
+      4510,
+      4520,
+      4544,
+      4717,
+      4726,
+      4803,
+      4869,
+      4890,
+      4897,
+      4931,
+      4932,
+      5195,
+      5328,
+      5345,
+      5348,
+      5523,
+      5572,
+      5629,
+      5657,
+      5687,
+      5783,
+      5885,
+      5909,
+      6036,
+      6254,
+      6601,
+      7041,
+      7080,
+      7303,
+      7503,
+      8156,
+      8263,
+      8272,
+      11146
+    ],
+    "name": "Need for Speed: Most Wanted",
+    "platforms": [
+      6,
+      9,
+      12
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 73.96151983772276,
+    "rating_count": 325,
+    "release_dates": [
+      67246,
+      67249,
+      67250,
+      67254,
+      67257,
+      67258,
+      67259,
+      108331,
+      108332,
+      416817
+    ],
+    "screenshots": [
+      3606,
+      6472,
+      6473,
+      6475,
+      6477,
+      188278,
+      188279,
+      188280,
+      188281,
+      188283
+    ],
+    "similar_games": [
+      97,
+      98,
+      100,
+      101,
+      105,
+      620,
+      1006,
+      2150,
+      3047,
+      10965
+    ],
+    "slug": "need-for-speed-most-wanted-53b9fef3-adb4-41a0-8ca0-ffcbb0060467",
+    "summary": "Need for Speed: Most Wanted takes on the gameplay style of the first Most Wanted title in the Need for Speed franchise. Most Wanted allows players to select one car and compete against other racers in three types of events: Sprint races, which involves traveling from one point of the city to another, Circuit races, each having two or three laps total and Speed runs, which involve traversing through a course in the highest average speed possible. There is also the Ambush races, which start with the player surrounded by cops and tasked to evade their pursuit as quickly as possible.",
+    "tags": [
+      1,
+      38,
+      268435466,
+      268435487,
+      536871314,
+      536871647,
+      536872205,
+      536872209,
+      536872245,
+      536872590,
+      536873364,
+      536873455,
+      536875046,
+      536875117,
+      536875133,
+      536875157,
+      536875271,
+      536875349,
+      536875422,
+      536875432,
+      536875456,
+      536875629,
+      536875638,
+      536875715,
+      536875781,
+      536875802,
+      536875809,
+      536875843,
+      536875844,
+      536876107,
+      536876240,
+      536876257,
+      536876260,
+      536876435,
+      536876484,
+      536876541,
+      536876569,
+      536876599,
+      536876695,
+      536876797,
+      536876821,
+      536876948,
+      536877166,
+      536877513,
+      536877953,
+      536877992,
+      536878215,
+      536878415,
+      536879068,
+      536879175,
+      536879184,
+      536882058
+    ],
+    "themes": [
+      1,
+      38
+    ],
+    "total_rating": 79.34918097149296,
+    "total_rating_count": 342,
+    "updated_at": 1695359761,
+    "url": "https://www.igdb.com/games/need-for-speed-most-wanted-53b9fef3-adb4-41a0-8ca0-ffcbb0060467",
+    "videos": [
+      1741,
+      12748
+    ],
+    "websites": [
+      17967,
+      17968,
+      17969,
+      188288,
+      549400
+    ],
+    "checksum": "257aaf67-b040-c332-2a2e-bece6cb5b644",
+    "ports": [
+      248205,
+      248206
+    ],
+    "language_supports": [
+      6554,
+      6555,
+      6556,
+      6557,
+      6559,
+      6561,
+      6562,
+      6563,
+      6564,
+      6565,
+      6566,
+      6567,
+      6568,
+      6569,
+      6570,
+      6571,
+      6572,
+      6573,
+      6574,
+      6575,
+      6576,
+      6577,
+      6578,
+      6579,
+      6580,
+      6581,
+      6582,
+      6583
+    ]
+  },
+  {
+    "id": 45465,
+    "age_ratings": [
+      89772
+    ],
+    "alternative_names": [
+      41534,
+      41535,
+      76100,
+      76101
+    ],
+    "category": 11,
+    "collection": 12,
+    "cover": 130010,
+    "created_at": 1499507020,
+    "external_games": [
+      48062,
+      152734
+    ],
+    "first_release_date": 838512000,
+    "follows": 1,
+    "franchises": [
+      729
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      153509
+    ],
+    "name": "Road \u0026 Track Presents: The Need for Speed",
+    "parent_game": 90,
+    "platforms": [
+      32
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "release_dates": [
+      98956
+    ],
+    "similar_games": [
+      27378,
+      27553,
+      44178,
+      55192,
+      80382,
+      103018,
+      104983,
+      107227,
+      109292,
+      264225
+    ],
+    "slug": "road-and-track-presents-the-need-for-speed",
+    "summary": "Road \u0026 Track Presents: The Need for Speed, later released in Japan as Over Drivin\u0027, is a 1994 racing video game first released on the 3DO and then ported to MS-DOS, PlayStation and Sega Saturn. It is the first installment released in the Need for Speed series. The premise of the game involves racing in sport cars, including several exotic models and Japanese imports.\n\nThe Saturn version also allows users to select the time of day which is not seen in older versions.",
+    "tags": [
+      268435466
+    ],
+    "updated_at": 1682973614,
+    "url": "https://www.igdb.com/games/road-and-track-presents-the-need-for-speed",
+    "checksum": "a0f2b8b3-7082-8d17-b8a9-387561b6a430",
+    "language_supports": [
+      685290
+    ]
+  },
+  {
+    "id": 90,
+    "age_ratings": [
+      1379
+    ],
+    "aggregated_rating": 76.5,
+    "aggregated_rating_count": 2,
+    "alternative_names": [
+      9274
+    ],
+    "category": 0,
+    "collection": 12,
+    "cover": 78439,
+    "created_at": 1298026917,
+    "external_games": [
+      16071,
+      1959579
+    ],
+    "first_release_date": 778291200,
+    "follows": 13,
+    "franchises": [
+      729
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      10,
+      13
+    ],
+    "involved_companies": [
+      207607,
+      207608
+    ],
+    "name": "The Need for Speed",
+    "platforms": [
+      6,
+      7,
+      13,
+      50
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 71.73858698024758,
+    "rating_count": 63,
+    "release_dates": [
+      522,
+      523,
+      525,
+      174267
+    ],
+    "screenshots": [
+      114253,
+      114254,
+      114255,
+      114256,
+      114257
+    ],
+    "similar_games": [
+      27378,
+      40470,
+      44178,
+      80382,
+      101573,
+      109292,
+      116667,
+      117855,
+      118871,
+      120126
+    ],
+    "slug": "the-need-for-speed",
+    "summary": "Welcome to The Need For Speed racing game. Here you\u0027ll find spine-tingling action coupled with awesome graphics. As you race down an alpine road in your choice of eight high performance cars, you\u0027ll be amazed by the detail and realism. The sophisticated physics model recreates the feel of the cars themselves; you\u0027ll notice the difference in handling, breaking and just plain power. Plan your strategy for each track, there are six to choose from during regular play, and each demands a different style of driving.\n\nThere\u0027s also a bonus track if you win the Tournament. There are four game modes to try, with an option to compete against another driver over a modem. With different cars, different tracks, and different styles of racing fueling your need for speed, you\u0027ll find your addiction growing to a fewer pitch. No need to worry, when you crash and burn in the game, there\u0027s always another day.",
+    "tags": [
+      268435466,
+      268435469
+    ],
+    "total_rating": 74.1192934901238,
+    "total_rating_count": 65,
+    "updated_at": 1692966710,
+    "url": "https://www.igdb.com/games/the-need-for-speed",
+    "websites": [
+      416702
+    ],
+    "checksum": "bb75997a-6604-9daf-57ef-84fb978c514b",
+    "ports": [
+      45465,
+      209107
+    ],
+    "language_supports": [
+      685289
+    ]
+  },
+  {
+    "id": 94,
+    "age_ratings": [
+      1381
+    ],
+    "alternative_names": [
+      56602,
+      56603,
+      56604,
+      56605
+    ],
+    "bundles": [
+      121824
+    ],
+    "category": 0,
+    "collection": 12,
+    "cover": 183954,
+    "created_at": 1298027177,
+    "external_games": [
+      33248,
+      148979,
+      247070
+    ],
+    "first_release_date": 948499200,
+    "follows": 48,
+    "franchises": [
+      729
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      10,
+      13
+    ],
+    "involved_companies": [
+      1047,
+      1050,
+      71459
+    ],
+    "keywords": [
+      735,
+      1158,
+      4205,
+      4210,
+      4359,
+      4544,
+      4647,
+      5572,
+      7070,
+      8281,
+      9529
+    ],
+    "name": "Need for Speed: Porsche Unleashed",
+    "platforms": [
+      6,
+      7
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 82.18592947016833,
+    "rating_count": 166,
+    "release_dates": [
+      933,
+      934
+    ],
+    "screenshots": [
+      58
+    ],
+    "similar_games": [
+      95,
+      96,
+      97,
+      1594,
+      3772,
+      5928,
+      37419,
+      78511,
+      105011,
+      118871
+    ],
+    "slug": "need-for-speed-porsche-unleashed",
+    "summary": "Unleash the power of Porsche! Push yourself to the limit and break the will of your opponents, as you climb into the driver\u0027s seat of Destination Software\u0027s Need For Speed Porsche Unleashed racing game for your Nintendo Game Boy Advance system, sub-licensed from series originator Electronic Arts. Need for Speed Porsche Unleashed features circuit track racing, streetcar excitement, open road thrills, crashes, traffic, and more. Feel the surge of adrenaline as your own driving savvy and years of Porsche excellence come together at your fingertips for a thrilling ride at breakneck speed. Features 25 different models of Porsche cars, link cable support for four players (multiple cartridge), and cartridge save ability with four slots.",
+    "tags": [
+      1,
+      268435466,
+      268435469,
+      536871647,
+      536872070,
+      536875117,
+      536875122,
+      536875271,
+      536875456,
+      536875559,
+      536876484,
+      536877982,
+      536879193,
+      536880441
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 82.18592947016833,
+    "total_rating_count": 166,
+    "updated_at": 1695359868,
+    "url": "https://www.igdb.com/games/need-for-speed-porsche-unleashed",
+    "videos": [
+      405
+    ],
+    "websites": [
+      10720,
+      334272
+    ],
+    "checksum": "d4ed7568-de78-5e5e-689c-b9726b0e3f4b",
+    "ports": [
+      248143
+    ],
+    "game_localizations": [
+      22071
+    ]
+  },
+  {
+    "id": 93,
+    "age_ratings": [
+      1380
+    ],
+    "alternative_names": [
+      40628,
+      40630,
+      40631,
+      56519,
+      133158,
+      133159,
+      133160
+    ],
+    "bundles": [
+      121824
+    ],
+    "category": 0,
+    "collection": 12,
+    "cover": 93646,
+    "created_at": 1298027128,
+    "external_games": [
+      40949,
+      156585,
+      1710163
+    ],
+    "first_release_date": 916876800,
+    "follows": 12,
+    "franchises": [
+      729
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      10,
+      13
+    ],
+    "involved_companies": [
+      950,
+      951
+    ],
+    "keywords": [
+      1403,
+      1669,
+      4205,
+      4210,
+      4359,
+      4452,
+      5212,
+      5572,
+      8263,
+      8272,
+      8281,
+      9529,
+      13119
+    ],
+    "multiplayer_modes": [
+      23138
+    ],
+    "name": "Need for Speed: High Stakes",
+    "platforms": [
+      6,
+      7
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 72.94962724573935,
+    "rating_count": 70,
+    "release_dates": [
+      817,
+      818
+    ],
+    "screenshots": [
+      353933,
+      353934,
+      353935
+    ],
+    "similar_games": [
+      95,
+      96,
+      97,
+      98,
+      1594,
+      3772,
+      5928,
+      6391,
+      10965,
+      78511
+    ],
+    "slug": "need-for-speed-high-stakes",
+    "summary": "Just like its predecessors Need for Speed: High Stakes is an action racing game with a wide selection of exotic sports cars and many different types of tracks. The trademark Hot Pursuit mode game mode from the first game in the series is still present, where players race opponents on tracks filled with regular traffic and police cars that chase the racers. The classic pursuit mode is extended with two additional modes: Getaway and Time Trap. In Getaway the player needs to shake off the police in a set amount of time, or playing as the police trap a speeder before time runs out. In Time Trap an entire race needs to be completed before time runs out, or as the police all speeders need to be arrested. There are minor differences between the two platforms for this game mode, regarding spike strips, road blocks, and back-up. The latter for instance is unique to the PlayStation version. The Pursuit mode is available in multiplayer as well and players can take different sides or race together.\n\nIt is the first game in the series to introduce a Career mode with a set of challenges. Beating these is rewarded with trophies for unlocks, and money to spend on new cars, repairs and upgrades. In the PlayStation version the Career mode is split up into two different sets of challenges: Tournament (required races) and Special Event (optional races). High Stakes in the title refers to races where players bet their cars. In the PC version these are a part of the Career mode when the player owns more than two cars. In the PlayStation version two players can insert their memory cards and race against each other. The winner immediately receives the opponent\u0027s car and it is deleted from the loser\u0027s memory card right away.\n\nIn addition to the new game modes it is also the first game in the series to have a detailed physics models. Damage now affects both the appearance and the performance of the car for the first time.",
+    "tags": [
+      268435466,
+      268435469,
+      536872315,
+      536872581,
+      536875117,
+      536875122,
+      536875271,
+      536875364,
+      536876124,
+      536876484,
+      536879175,
+      536879184,
+      536879193,
+      536880441,
+      536884031
+    ],
+    "total_rating": 72.94962724573935,
+    "total_rating_count": 70,
+    "updated_at": 1691892541,
+    "url": "https://www.igdb.com/games/need-for-speed-high-stakes",
+    "websites": [
+      10722,
+      352964
+    ],
+    "checksum": "a40e4eb2-a1b8-7c1e-1442-f473d1cba36c",
+    "language_supports": [
+      685287
+    ],
+    "game_localizations": [
+      26999,
+      27013
+    ]
+  },
+  {
+    "id": 91,
+    "age_ratings": [
+      72899
+    ],
+    "aggregated_rating": 60.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      40612,
+      40613
+    ],
+    "bundles": [
+      121824
+    ],
+    "category": 0,
+    "collection": 12,
+    "cover": 93640,
+    "created_at": 1298026965,
+    "external_games": [
+      37544,
+      156660,
+      253739
+    ],
+    "first_release_date": 859766400,
+    "follows": 22,
+    "franchises": [
+      729
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      10,
+      13
+    ],
+    "involved_companies": [
+      943,
+      944
+    ],
+    "name": "Need for Speed II",
+    "platforms": [
+      6,
+      7
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 75.95597744186348,
+    "rating_count": 137,
+    "release_dates": [
+      174560,
+      174561,
+      174562,
+      174563
+    ],
+    "screenshots": [
+      392133,
+      392134,
+      392135,
+      392136,
+      392137,
+      392138,
+      392139,
+      392140,
+      392141,
+      392142,
+      392143,
+      392144
+    ],
+    "similar_games": [
+      27378,
+      40470,
+      44178,
+      80382,
+      101573,
+      109292,
+      116667,
+      117855,
+      118871,
+      120126
+    ],
+    "slug": "need-for-speed-ii",
+    "summary": "There are three main game types. The first two are single race and tournament and the last is a knockout race. Single races allow players to become familiar with the circuits and increase their skill of any one of the six tracks. The six tracks are called Mediterranean, Mystic Peaks, Proving Grounds, Outback, North Country, and Pacific Spirit.",
+    "tags": [
+      268435466,
+      268435469
+    ],
+    "total_rating": 67.97798872093173,
+    "total_rating_count": 138,
+    "updated_at": 1695215933,
+    "url": "https://www.igdb.com/games/need-for-speed-ii",
+    "videos": [
+      398
+    ],
+    "websites": [
+      10721,
+      340721
+    ],
+    "checksum": "7aab9beb-7314-b336-ffb7-d96908ef4331",
+    "ports": [
+      201747
+    ]
+  },
+  {
+    "id": 25635,
+    "alternative_names": [
+      25526
+    ],
+    "category": 0,
+    "collection": 12,
+    "cover": 93668,
+    "created_at": 1478609934,
+    "external_games": [
+      208203,
+      252755
+    ],
+    "first_release_date": 1513209600,
+    "follows": 1,
+    "franchises": [
+      729
+    ],
+    "game_modes": [
+      5
+    ],
+    "genres": [
+      10,
+      33
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      82987,
+      82988,
+      82989
+    ],
+    "name": "Need for Speed: Edge",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "release_dates": [
+      174270
+    ],
+    "similar_games": [
+      25905,
+      26853,
+      27378,
+      80382,
+      90965,
+      103018,
+      109292,
+      111151,
+      263579,
+      265427
+    ],
+    "slug": "need-for-speed-edge",
+    "status": 5,
+    "summary": "Online F2P game in the NEED FOR SPEED franchise.\nIt launched in Korea(Dec. 7th, 2017) and China(Oct. 27th, 2017)\nIn Korea, it is titled as Need for Speed Edge, and in China, it is titled as 极品飞车ONLINE",
+    "tags": [
+      268435466,
+      268435489
+    ],
+    "updated_at": 1682973476,
+    "url": "https://www.igdb.com/games/need-for-speed-edge",
+    "websites": [
+      113320,
+      339777
+    ],
+    "checksum": "fc8e0ca3-9bc9-eac3-2a70-521ec4a11c9d",
+    "game_localizations": [
+      26381
+    ]
+  },
+  {
+    "id": 104,
+    "age_ratings": [
+      7205
+    ],
+    "aggregated_rating": 63.0,
+    "aggregated_rating_count": 4,
+    "alternative_names": [
+      6294,
+      23777,
+      45899,
+      45900
+    ],
+    "category": 0,
+    "collection": 12,
+    "cover": 93681,
+    "created_at": 1298028076,
+    "external_games": [
+      37919,
+      134203,
+      190016,
+      246360
+    ],
+    "first_release_date": 1280188800,
+    "follows": 11,
+    "franchises": [
+      729
+    ],
+    "game_engines": [
+      287
+    ],
+    "game_modes": [
+      5
+    ],
+    "genres": [
+      10,
+      13
+    ],
+    "involved_companies": [
+      3563,
+      3564,
+      82771
+    ],
+    "keywords": [
+      25,
+      735,
+      1333,
+      1440,
+      1678,
+      1682,
+      2385,
+      2452,
+      2478,
+      3627,
+      4239,
+      4261,
+      4284,
+      4400,
+      4520,
+      4578,
+      4647,
+      4803,
+      5453,
+      5572,
+      5657,
+      6832,
+      8272,
+      8281,
+      8828,
+      11474,
+      12189,
+      23778
+    ],
+    "name": "Need for Speed: World",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 66.72575019088542,
+    "rating_count": 60,
+    "release_dates": [
+      833
+    ],
+    "screenshots": [
+      63,
+      1979,
+      1980,
+      1981,
+      1982
+    ],
+    "similar_games": [
+      96,
+      98,
+      100,
+      101,
+      105,
+      1594,
+      2150,
+      3772,
+      5928,
+      78511
+    ],
+    "slug": "need-for-speed-world",
+    "status": 5,
+    "summary": "Need for Speed: World was the fifteenth installment in the long-running racing video game Need for Speed franchise published by Electronic Arts. This iteration was co-developed by EA Black Box (rebranded Quicklime Games before closing in 2013) and EA Singapore. It was the first freemium MMORG in the Need for Speed series (though Motor City Online was originally conceived as a Need for Speed game) and was available on Microsoft Windows. World was released worldwide on July 27, 2010. However, people who ordered a \"Starter Pack\" had an early \"head-start\" in the game, which started on July 20, 2010.\nNeed for Speed: World, along with other EA free-to-play titles Battlefield Heroes, Battlefield Play4Free, and FIFA World, went offline on July 14, 2015.",
+    "tags": [
+      268435466,
+      268435469,
+      536870937,
+      536871647,
+      536872245,
+      536872352,
+      536872590,
+      536872594,
+      536873297,
+      536873364,
+      536873390,
+      536874539,
+      536875151,
+      536875173,
+      536875196,
+      536875312,
+      536875432,
+      536875490,
+      536875559,
+      536875715,
+      536876365,
+      536876484,
+      536876569,
+      536877744,
+      536879184,
+      536879193,
+      536879740,
+      536882386,
+      536883101,
+      536894690
+    ],
+    "total_rating": 64.86287509544272,
+    "total_rating_count": 64,
+    "updated_at": 1695359748,
+    "url": "https://www.igdb.com/games/need-for-speed-world",
+    "websites": [
+      333587
+    ],
+    "checksum": "48c64b13-bee3-b562-1585-98700a7c119c"
+  },
+  {
+    "id": 92,
+    "age_ratings": [
+      19290
+    ],
+    "alternative_names": [
+      30808,
+      41786,
+      41787,
+      41788
+    ],
+    "bundles": [
+      121824
+    ],
+    "category": 0,
+    "collection": 12,
+    "cover": 93643,
+    "created_at": 1298027049,
+    "external_games": [
+      40948,
+      151573,
+      248427
+    ],
+    "first_release_date": 890784000,
+    "follows": 56,
+    "franchises": [
+      729
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      946,
+      39933,
+      39934
+    ],
+    "keywords": [
+      4210,
+      4221,
+      4359,
+      5572,
+      5876,
+      7070,
+      8263,
+      8272,
+      8281,
+      8907,
+      9529,
+      13120,
+      15242
+    ],
+    "name": "Need for Speed III: Hot Pursuit",
+    "platforms": [
+      6,
+      7
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 78.95078918481525,
+    "rating_count": 203,
+    "release_dates": [
+      55882,
+      55883,
+      55884,
+      55885
+    ],
+    "screenshots": [
+      31048,
+      31049,
+      31050
+    ],
+    "similar_games": [
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      5928,
+      6391,
+      10965,
+      118871
+    ],
+    "slug": "need-for-speed-iii-hot-pursuit",
+    "summary": "Drive some of the most exotic cars in illegal street race on many different tracks, while trying not to be caught by police!",
+    "tags": [
+      1,
+      268435466,
+      536875122,
+      536875133,
+      536875271,
+      536876484,
+      536876788,
+      536877982,
+      536879175,
+      536879184,
+      536879193,
+      536879819,
+      536880441,
+      536884032,
+      536886154
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 78.95078918481525,
+    "total_rating_count": 203,
+    "updated_at": 1695359904,
+    "url": "https://www.igdb.com/games/need-for-speed-iii-hot-pursuit",
+    "videos": [
+      10032
+    ],
+    "websites": [
+      10718,
+      335593
+    ],
+    "checksum": "e31b099f-a6ce-b4c3-e5d5-ddff1a3ce3d7",
+    "language_supports": [
+      685286
+    ]
+  },
+  {
+    "id": 139346,
+    "age_ratings": [
+      31363,
+      56259,
+      67388,
+      116956,
+      124962,
+      127278
+    ],
+    "aggregated_rating": 79.83333333333333,
+    "aggregated_rating_count": 6,
+    "alternative_names": [
+      50067,
+      50688
+    ],
+    "artworks": [
+      10700
+    ],
+    "bundles": [
+      164701
+    ],
+    "category": 9,
+    "collection": 12,
+    "cover": 123752,
+    "created_at": 1601911632,
+    "external_games": [
+      1942036,
+      1942063,
+      1942146,
+      1942255,
+      1942284,
+      1942289,
+      1942342,
+      1942430,
+      1942721,
+      1942752,
+      1942929,
+      1942933,
+      1942935,
+      1943025,
+      1943092,
+      1984705,
+      1996341,
+      1996345,
+      1996386,
+      1996423,
+      1996468,
+      1996470,
+      1996486,
+      2001942,
+      2002060,
+      2003782,
+      2037443,
+      2081842,
+      2085996,
+      2086013,
+      2086731,
+      2175812,
+      2254959,
+      2452658,
+      2580932,
+      2586085,
+      2587640,
+      2587961,
+      2598592,
+      2608336,
+      2654420,
+      2657040,
+      2712899,
+      2712900,
+      2713001,
+      2725782
+    ],
+    "first_release_date": 1604620800,
+    "follows": 9,
+    "franchises": [
+      729
+    ],
+    "game_engines": [
+      122
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      10
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      120926,
+      120927,
+      128436
+    ],
+    "keywords": [
+      427
+    ],
+    "multiplayer_modes": [
+      21280
+    ],
+    "name": "Need for Speed: Hot Pursuit - Remastered",
+    "parent_game": 105,
+    "platforms": [
+      6,
+      48,
+      49,
+      130
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 76.77499640035641,
+    "rating_count": 35,
+    "release_dates": [
+      212876,
+      216346,
+      216347,
+      216348
+    ],
+    "screenshots": [
+      402324,
+      402325,
+      402326,
+      402327,
+      402328,
+      406300,
+      406301,
+      406302,
+      406303
+    ],
+    "similar_games": [
+      11999,
+      80382,
+      82090,
+      100800,
+      109292,
+      113895,
+      115283,
+      118871,
+      119207,
+      120487
+    ],
+    "slug": "need-for-speed-hot-pursuit-remastered",
+    "storyline": "Racers and Cops never sleep in Seacrest County with the racers doing their best to outrun the law with a range of exclusive cars, and the cops trying to stop them with equal speed and horse power, you have a two choices in game, either your with the law or against it.",
+    "summary": "Feel the thrill of the chase and the rush of escape behind the wheels of the world’s hottest high-performance cars in Need for Speed Hot Pursuit Remastered– a heart-pumping, socially competitive racing experience.",
+    "tags": [
+      1,
+      268435466,
+      536871339
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 78.30416486684487,
+    "total_rating_count": 41,
+    "updated_at": 1695519645,
+    "url": "https://www.igdb.com/games/need-for-speed-hot-pursuit-remastered",
+    "videos": [
+      41287,
+      48369
+    ],
+    "websites": [
+      155197,
+      155198,
+      229505,
+      229506,
+      229507,
+      229508,
+      229509,
+      229510,
+      229511,
+      440701
+    ],
+    "checksum": "8d1ab5d5-6650-d131-89aa-3da05db5b160",
+    "language_supports": [
+      80545,
+      80546,
+      80547,
+      80548,
+      80549,
+      80550,
+      80551,
+      80552,
+      80553,
+      80554,
+      80555,
+      80556,
+      80557,
+      80558,
+      80559,
+      80560,
+      159653,
+      159654,
+      503651,
+      638755,
+      638756,
+      638757,
+      638758,
+      638759,
+      638760,
+      638761,
+      638762,
+      638763,
+      638764,
+      638765
+    ],
+    "game_localizations": [
+      26032
+    ]
+  }
+]
