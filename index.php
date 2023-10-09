@@ -77,7 +77,7 @@
       <br>
 
       <ul class="list-group">
-
+<li> <?php  mostrarInformacionJuego($joder);  ?></li>
 
         <li class="list-group-item"><strong>ID:</strong> <?php echo $key["id"] ?><?php  ?> </li>
 
@@ -155,13 +155,27 @@ else {
         
         <li class="list-group-item"><strong>Caratula: </strong> <?php echo $coverURL ?> </li>
         
-        <li class="list-group-item"><strong>Caratula: </strong> <?php echo $coverURL2 ?> </li>
-        <li class="list-group-item"><strong>Caratula: </strong> <?php echo $html ?> </li>
+        <li class="list-group-item"><strong>Caratula $coverURL2: </strong> <?php echo $coverURL2 ?> </li>
+        
+        <li class="list-group-item"><strong>Caratula $HTML: </strong> <?php echo $html ?> </li>
+       
+        <li class="list-group-item"><strong>Caratula $joder: </strong> <?php echo $joder ?> </li>
+        <?php foreach ($joder[0] as $key3): print_r($joder);?>
+          
 
 
-     
+<li class="list-group-item"><strong>Caratula $KEY3: </strong> <?php  
 
-   
+
+
+
+
+echo $key3 ?> </li>
+
+
+          <?php endforeach; ?>
+
+    
 
       </ul>
     </div>

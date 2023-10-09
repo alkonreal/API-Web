@@ -1,6 +1,7 @@
 <?php
 
 require_once('obtenerCaratula.php');
+
 // Obtener datos del campo de busqueda
 
 // Inicializa la variable $juego
@@ -69,24 +70,87 @@ echo "Nombre del juego sin espacios: ".$entradaLimpia;
 
 // Aquí lo que hace es coger el ID que sale en COVER y pasar ese ID para que lo busque 
 // la función de obtener caratula con la variable $coverURL
-foreach($data as $game){
-//  Para obtener los datos del cover
-  $coverURL = $game['cover'];
-  print_r("tocate los webos");
-  print_r($coverURL);
-  // llama a esta funcion con los datos obtenidos en >$coverURL
-  obteneresacosa($coverURL);
-  // Se procesa la función de obteneresacosa y devuelve la URL que se busca en la función
-  print_r("PUTA CARATULA2");
 
-};
 
+
+
+//  SIN FOREACH SOLO ME PUEDE MOSTAR UN JUEGO:
+// //  Para obtener los datos del cover
+//   $coverURL = $data[0]['cover'];
+
+//   // ########################################
+//   //Para convertir esto en STRING
+//   // $coverURL = json_encode($game['cover']);
+//   // #############################################
+
+
+//   print_r("tocate los webos");
+//   print_r($coverURL);
+//   // llama a esta funcion con los datos obtenidos en >$coverURL
+//   global $joder;
+//   $joder= obteneresacosa($coverURL);
+//   print_r("OSTIA");
+//   print_r($joder[0]["url"]);
+// //   $html = '<div><img src="' . $joder[0]["url"]. '" alt="Carátula del juego"></div>';
+
+// // //     // Imprimir el HTML resultante
+// // echo $html;
+//   // Se procesa la función de obteneresacosa y devuelve la URL que se busca en la función
+//   print_r("PUTA CARATULA2");
+
+
+
+
+
+
+
+// TODO LO ANTERIOR EN UN FOREACH desde la linera 74 hasta la 96
+
+// foreach($data as $game){
+//   //  Para obtener los datos del cover
+//     $coverURL = $game['cover'];
+  
+//     // ########################################
+//     //Para convertir esto en STRING
+//     // $coverURL = json_encode($game['cover']);
+//     // #############################################
+  
+  
+//     print_r("tocate los webos");
+//     print_r($coverURL);
+//     // llama a esta funcion con los datos obtenidos en >$coverURL
+//     global $joder;
+//     $joder= obteneresacosa($coverURL);
+//     print_r("OSTIA");
+//     print_r($joder[0]["url"]);
+//   //   $html = '<div><img src="' . $joder[0]["url"]. '" alt="Carátula del juego"></div>';
+  
+//   // //     // Imprimir el HTML resultante
+//   // echo $html;
+//     // Se procesa la función de obteneresacosa y devuelve la URL que se busca en la función
+//     print_r("PUTA CARATULA2");
+  
+
+//   };
+  
  
-  // print_r($coverURL);
+//   print_r($coverURL);
  
-  // print_r($lacaratula);
+//   print_r($lacaratula);
 // print_r(" TODOS LOS PUTOS DATOS DE DATA");
 // print_r($data);
+
+
+
+foreach ($data as $tururu)
+
+echo "<h2>Información del Juego ANTES FUNCION</h2>";
+echo "<p><strong>ID:</strong> " . $tururu['id'] . "</p>";
+echo "<p><strong>Nombre:</strong> " . $tururu['name'] . "</p>";
+echo "<p><strong>Cover:</strong> " . $tururu['cover'] . "</p>";
+echo "<p><strong>Cover:</strong> " . $tururu['cover'] . "</p>";
+// print_r($data);
+print_r($joder[0]["url"]);
 return $data;
 
 }
@@ -94,6 +158,24 @@ return $data;
 // pero introduciendo esos datos en la variable $juegoABuscar y así saber que buscar
 // Luego lo que esté almacenado en $resultado, saldrá en el HTML
 $resultado = obtenerDatos($juego);
+
+
+
+
+
+
+function mostrarInformacionJuego($resultado) {
+  echo "<h2>Información del Juego</h2>";
+  echo "<p><strong>ID:</strong> " . $resultado[0]['id'] . "</p>";
+  echo "<p><strong>Nombre:</strong> " . $resultado[0]['name'] . "</p>";
+  echo "<p><strong>Cover:</strong> " . $resultado[0]['cover'] . "</p>";
+  echo "<p><strong>Cover:</strong> " . $resultado[0]['cover'] . "</p>";
+
+  
+}
+
+
+
 // print_r("Json recogido del juego introducido en juego: ");
 // print_r($resultado);
 // Con RESULTADO, lo que hacemos es que luego se pinten todos los datos del juego

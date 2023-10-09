@@ -46,11 +46,11 @@ require_once('obtenerdatos.php');
 
 
 
-function obteneresacosa($juegoABuscar){
-    // $juegoABuscar = intval($juegoABuscar); // Convertir a entero
+function obteneresacosa($joder){
+    // $joder = intval($joder); // Convertir a entero
   $curl = curl_init();
-//   echo "a ver si busca el juego ".$juegoABuscar;
-  $query = "fields url; where id = " . $juegoABuscar.";"; // Construir la cadena de consulta
+//   echo "a ver si busca el juego ".$joder;
+  $query = "fields url; where id = " . $joder.";"; // Construir la cadena de consulta
   curl_setopt_array($curl, array(
     CURLOPT_URL => 'https://api.igdb.com/v4/covers',
     CURLOPT_RETURNTRANSFER => true,
@@ -116,18 +116,54 @@ print_r($data);
 
 
 global $coverURL2;
+// Obtenemos la ULR dentro del ARRAY (EJEMPLO)
+// Array ( [0] => Array
+//  ( [id] => 76903 
+// [url] => //images.igdb.com/igdb/image/upload/t_thumb/co1nc7.jpg ) )
 
-$coverURL2=$data[0]['url'];
+$coverURL2=$data[0]["url"];
 print_r("URL dentro de la peticion:\n");
 print_r($coverURL2);
 print_r("Hay algo dentro?:\n");
-// Con esto si  que muestra la imagen individualmente, pero no como quiero
+// Con esto si  que muestra la imagen individualmente, pero no como
 global $html;
 $html = '<div><img src="' . $coverURL2 . '" alt="Carátula del juego"></div>';
 
 //     // Imprimir el HTML resultante
 echo $html;
 // echo "<br>\n";
+
+
+
+
+
+
+// Ahora con un FOREACH
+// foreach($data as $game2){
+// global $coverURL2;
+// // Obtenemos la ULR dentro del ARRAY (EJEMPLO)
+// // Array ( [0] => Array
+// //  ( [id] => 76903 
+// // [url] => //images.igdb.com/igdb/image/upload/t_thumb/co1nc7.jpg ) )
+
+// $coverURL2=$game2[0]["url"];
+// print_r("URL dentro de la peticion:\n");
+// print_r($coverURL2);
+// print_r("Hay algo dentro?:\n");
+// // Con esto si  que muestra la imagen individualmente, pero no como
+// global $html;
+// $html = '<div><img src="' . $coverURL2 . '" alt="Carátula del juego"></div>';
+
+// //     // Imprimir el HTML resultante
+// echo $html;
+// // echo "<br>\n";
+
+
+
+// };
+
+
+
 return $data;
 
 
