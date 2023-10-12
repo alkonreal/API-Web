@@ -1,44 +1,6 @@
 <?php 
 
-require_once('obtenerdatos.php');
-
-
-
-// Obtener los datos de la variable que está en el formulario en HTML
-// $valorRecibido = $_POST['texto']; 
-
-// echo "que coño ".$valorRecibido;
-
-
-
-
-// echo "Datos del JSON:JUEGO2\n";
-// print_r($encasa);
-
-
-
-
-// $juego3 ="100830";
-// $juego3 = intval($juego3); // Convertir a entero
-// echo "nose si cadena o integeter ".$juego3."\n";
-// array
-
-// $caratulasid=["86963","221564","267803"];
-
-
-// foreach($caratulasid as $caratula){
-
-
-// echo "LA CARATULA ".$caratula;
-// //  obteneresacosa($caratula);
-//  $resultado2 = obteneresacosa($caratula);
-
-
-
-// //  $resultado3 = implode(", ", $resultado2);
-
-// };
-
+require_once('general.php');
 
 
 
@@ -74,45 +36,17 @@ CURLOPT_POSTFIELDS => $query,
   $response = curl_exec($curl);
 
   curl_close($curl);
-// Se guarda un Json con toda la informacion del campo de busqueda del formulario pero sin espacios
-// $entradaLimpia = preg_replace('/[^A-Za-z]/', '', $juegoABuscar);
-
-// Imprimir la cadena resultante
-// echo "Nombre del juego sin espacios: ".$entradaLimpia;
-
-//    $jsonFileName = $juegoABuscar.'.json' ;
-//    echo "Ruta donde esta el juego: ".$jsonFileName;
-//    file_put_contents($jsonFileName, $response);
 
   $data = json_decode($response, true);
 
 
 
 
-// CON ESTE CODIGO LO QUE HAGO ES MOSTAR PINTAR EN HTML
-// EL DIV E IMG  DIRECTAMENTE....
-
-//   // Comprobar si se encontraron datos
-//   if (!empty($data)) {
-//     // Obtener la URL de la imagen si existe
-//     $imageUrl = isset($data[0]['url']) ? $data[0]['url'] : '';
-
-//     // Crear la etiqueta <div> con la etiqueta <img> dentro
-//     $html = '<div><img src="' . $imageUrl . '" alt="Carátula del juego"></div>';
-
-//     // Imprimir el HTML resultante
-//  echo $html;
-// } else {
-//     echo 'No se encontraron datos para la carátula del juego.';
-// }
-
-// return $data;
-// }
 
 echo "Datos del JSON EN LA la FUNCION DE OBTENER CARATULA:\n";
 
 
-print_r($data);
+// print_r($data);
 
 
 global $coverURL2;
@@ -121,32 +55,30 @@ global $coverURL2;
 //  ( [id] => 76903 
 // [url] => //images.igdb.com/igdb/image/upload/t_thumb/co1nc7.jpg ) )
 
-$coverURL2=$data[0]["url"];
-print_r("URL dentro de la peticion:\n");
-print_r($coverURL2);
-print_r("Hay algo dentro?:\n");
-// Con esto si  que muestra la imagen individualmente, pero no como
-global $html;
-$html = '<div><img src="' . $coverURL2 . '" alt="Carátula del juego"></div>';
+// PRUEBAS
+// ##############################################
+
+foreach($data as $cara2){
+
+
+  // print_r("URL : ");
+  // print_r($cara2["url"]);
+  global $caratula2;
+  $caratula2=$cara2["url"];
+  $html2 = '<div><img src="' . $caratula2 . '" alt="Carátula del juego"></div>';
 
 //     // Imprimir el HTML resultante
-echo $html;
-// echo "<br>\n";
+echo $html2;
+
+};
 
 
 
 
+// #################################################
 
 
-// Ahora con un FOREACH
-// foreach($data as $game2){
-// global $coverURL2;
-// // Obtenemos la ULR dentro del ARRAY (EJEMPLO)
-// // Array ( [0] => Array
-// //  ( [id] => 76903 
-// // [url] => //images.igdb.com/igdb/image/upload/t_thumb/co1nc7.jpg ) )
-
-// $coverURL2=$game2[0]["url"];
+// $coverURL2=$data[0]["url"];
 // print_r("URL dentro de la peticion:\n");
 // print_r($coverURL2);
 // print_r("Hay algo dentro?:\n");
@@ -160,7 +92,6 @@ echo $html;
 
 
 
-// };
 
 
 

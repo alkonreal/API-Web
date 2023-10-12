@@ -370,8 +370,8 @@
     "player_perspectives": [
       1
     ],
-    "rating": 85.97347641891224,
-    "rating_count": 1456,
+    "rating": 85.97374493083295,
+    "rating_count": 1458,
     "release_dates": [
       45903,
       45904,
@@ -515,9 +515,9 @@
       18,
       19
     ],
-    "total_rating": 86.47111320945612,
-    "total_rating_count": 1486,
-    "updated_at": 1696869934,
+    "total_rating": 86.47124746541647,
+    "total_rating_count": 1488,
+    "updated_at": 1697052387,
     "url": "https://www.igdb.com/games/doom--2",
     "videos": [
       2664,
@@ -539,7 +539,7 @@
       61572,
       332473
     ],
-    "checksum": "c2aa9c2b-0600-742d-023a-944ab97052b8",
+    "checksum": "c1e72665-b520-45d7-a7ed-d5db1b7af4bc",
     "ports": [
       76217
     ],
@@ -664,8 +664,8 @@
       1,
       6
     ],
-    "rating": 80.99408965774484,
-    "rating_count": 13,
+    "rating": 80.98699665036932,
+    "rating_count": 14,
     "release_dates": [
       234301,
       234302,
@@ -711,9 +711,9 @@
       17,
       19
     ],
-    "total_rating": 81.12204482887242,
-    "total_rating_count": 17,
-    "updated_at": 1695847199,
+    "total_rating": 81.11849832518466,
+    "total_rating_count": 18,
+    "updated_at": 1696907180,
     "url": "https://www.igdb.com/games/doom-eternal-the-ancient-gods-part-two",
     "videos": [
       50059,
@@ -724,7 +724,7 @@
       173758,
       531540
     ],
-    "checksum": "b00e4fad-b913-0ca9-51f8-e06c6e51db10",
+    "checksum": "d572a957-2b1c-e5df-ffd9-186681d9075f",
     "language_supports": [
       469477,
       469478,
@@ -1195,8 +1195,8 @@
     "player_perspectives": [
       1
     ],
-    "rating": 79.35906146901482,
-    "rating_count": 330,
+    "rating": 79.35909400759803,
+    "rating_count": 331,
     "release_dates": [
       402,
       403,
@@ -1404,9 +1404,9 @@
       19,
       21
     ],
-    "total_rating": 82.67953073450741,
-    "total_rating_count": 337,
-    "updated_at": 1696869423,
+    "total_rating": 82.67954700379902,
+    "total_rating_count": 338,
+    "updated_at": 1696995061,
     "url": "https://www.igdb.com/games/doom-3",
     "videos": [
       107
@@ -1418,7 +1418,7 @@
       64432,
       333433
     ],
-    "checksum": "2514e518-7f95-041f-1ff0-29d1eb13702b",
+    "checksum": "1790282e-ff82-4b45-ebe6-e9126f4e2799",
     "remasters": [
       260028
     ],
@@ -1560,8 +1560,8 @@
     "player_perspectives": [
       1
     ],
-    "rating": 86.92183844995728,
-    "rating_count": 65,
+    "rating": 86.92357681935388,
+    "rating_count": 66,
     "release_dates": [
       30551,
       30552,
@@ -1657,9 +1657,9 @@
       18,
       19
     ],
-    "total_rating": 88.46091922497864,
-    "total_rating_count": 66,
-    "updated_at": 1696209025,
+    "total_rating": 88.46178840967694,
+    "total_rating_count": 67,
+    "updated_at": 1696907022,
     "url": "https://www.igdb.com/games/the-ultimate-doom",
     "websites": [
       67089,
@@ -1667,7 +1667,7 @@
       119766,
       333109
     ],
-    "checksum": "f9f21e89-19ae-1be5-1938-7bf3c5ff41e9",
+    "checksum": "26300230-8427-ee08-79af-c939bac12e17",
     "remasters": [
       165206
     ],
@@ -1759,7 +1759,7 @@
       1
     ],
     "rating": 88.82892340611109,
-    "rating_count": 11,
+    "rating_count": 12,
     "release_dates": [
       421617,
       421618,
@@ -1804,8 +1804,8 @@
       19
     ],
     "total_rating": 88.82892340611109,
-    "total_rating_count": 11,
-    "updated_at": 1696871618,
+    "total_rating_count": 12,
+    "updated_at": 1697044132,
     "url": "https://www.igdb.com/games/doom-64--1",
     "videos": [
       87383
@@ -1818,7 +1818,7 @@
       322314,
       509890
     ],
-    "checksum": "101c864f-2788-5493-ba1e-dfe35dcc5f41",
+    "checksum": "60ad8675-7fa1-b4ec-feb2-9e59d4eaef7b",
     "language_supports": [
       753404,
       753409,

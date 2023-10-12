@@ -1,6 +1,6 @@
 <?php
 
-require_once('obtenerCaratula.php');
+require_once('general.php');
 
 // Obtener datos del campo de busqueda
 
@@ -60,198 +60,133 @@ echo "Nombre del juego sin espacios: ".$entradaLimpia;
    file_put_contents($jsonFileName, $response);
 
   $data = json_decode($response, true);
-// print_r("Json recogido del juego introducido en juego: ");
+
+  // print_r("Hay algo dentro de PLAYER PÊRSPECTIVE?:\n");
   // print_r($data);
 
-  // $coverURL = $data[0]['cover']['url'];
-  // print_r("PUTA CARATULA");
-  // print_r($coverURL);
-  // print_r("PUTA CARATULA2");
+  // PRUEBAS
+// ################################
 
-// Aquí lo que hace es coger el ID que sale en COVER y pasar ese ID para que lo busque 
-// la función de obtener caratula con la variable $coverURL
+// $ID=$data[0]["id"];
+// $nombre=$data[0]["name"];
+// print_r("URL dentro de la peticion:\n");
+// // print_r($ID);
+// print_r("Hay algo dentro?:\n");
+// // Con esto si  que muestra la imagen individualmente, pero no como
+// global $html;
+// $html = "<p><strong>ID:</strong> " . $ID . "</p>";
+// echo "<p><strong>ID o NO:</strong> " . $ID . "</p>";
 
-
-
-
-//  SIN FOREACH SOLO ME PUEDE MOSTAR UN JUEGO:
-// //  Para obtener los datos del cover
-//   $coverURL = $data[0]['cover'];
-
-//   // ########################################
-//   //Para convertir esto en STRING
-//   // $coverURL = json_encode($game['cover']);
-//   // #############################################
+//     // Imprimir el HTML resultante
+// echo $html;
 
 
-//   print_r("tocate los webos");
-//   print_r($coverURL);
-//   // llama a esta funcion con los datos obtenidos en >$coverURL
-//   global $joder;
-//   $joder= obteneresacosa($coverURL);
-//   print_r("OSTIA");
-//   print_r($joder[0]["url"]);
-// //   $html = '<div><img src="' . $joder[0]["url"]. '" alt="Carátula del juego"></div>';
 
-// // //     // Imprimir el HTML resultante
-// // echo $html;
-//   // Se procesa la función de obteneresacosa y devuelve la URL que se busca en la función
-//   print_r("PUTA CARATULA2");
+// $html2= "<p><strong>ID:</strong> " . $nombre . "</p>";
+// echo $html2;
+// echo "<br>\n";
+
+
+// foreach ($ID as $tururu){
+
+// echo "<h2>Información del Juego ANTES FUNCION</h2>";
+// echo "<p><strong>ID:</strong> " . $tururu['id'] . "</p>";
 
 
 
 
+// };
+// // PRUEBAS 2
 
+ // Verificar si el campo "player_perspectives" existe
+ if (isset($data[0]['player_perspectives'])) {
+  // Comprobar si "player_perspectives" es un array
+  if (is_array($data[0]['player_perspectives'])) {
+      $playerPerspectives = $data[0]['player_perspectives'];
 
+      // Ahora, $playerPerspectives contiene un array de objetos
 
-// TODO LO ANTERIOR EN UN FOREACH desde la linera 74 hasta la 96
-
-// foreach($data as $game){
-//   //  Para obtener los datos del cover
-//     $coverURL = $game['cover'];
-  
-//     // ########################################
-//     //Para convertir esto en STRING
-//     // $coverURL = json_encode($game['cover']);
-//     // #############################################
-  
-  
-//     print_r("tocate los webos");
-//     print_r($coverURL);
-//     // llama a esta funcion con los datos obtenidos en >$coverURL
-//     global $joder;
-//     $joder= obteneresacosa($coverURL);
-//     print_r("OSTIA");
-//     print_r($joder[0]["url"]);
-//   //   $html = '<div><img src="' . $joder[0]["url"]. '" alt="Carátula del juego"></div>';
-  
-//   // //     // Imprimir el HTML resultante
-//   // echo $html;
-//     // Se procesa la función de obteneresacosa y devuelve la URL que se busca en la función
-//     print_r("PUTA CARATULA2");
-  
-
-//   };
-  
- 
-//   print_r($coverURL);
- 
-//   print_r($lacaratula);
-// print_r(" TODOS LOS PUTOS DATOS DE DATA");
-// print_r($data);
-
-
-
-foreach ($data as $tururu)
-
-echo "<h2>Información del Juego ANTES FUNCION</h2>";
-echo "<p><strong>ID:</strong> " . $tururu['id'] . "</p>";
-echo "<p><strong>Nombre:</strong> " . $tururu['name'] . "</p>";
-echo "<p><strong>Cover:</strong> " . $tururu['cover'] . "</p>";
-echo "<p><strong>Cover:</strong> " . $tururu['cover'] . "</p>";
-// print_r($data);
-print_r($joder[0]["url"]);
-return $data;
-
+      if (!empty($playerPerspectives)) {
+          // Puedes iterar a través de los objetos en $playerPerspectives
+          foreach ($playerPerspectives as $perspective) {
+              // $perspective contiene un objeto con información sobre una perspectiva de jugador
+              // Puedes acceder a las propiedades del objeto según tus necesidades
+              echo "Nombre: " . $perspective['name'] . "<br>";
+          }
+      } else {
+          echo "No se encontraron perspectivas de jugador en el JSON.";
+      }
+  } else {
+      echo "El campo 'player_perspectives' no es un array en el JSON.";
+  }
+} else {
+  echo "El campo 'player_perspectives' no está presente en el JSON.";
 }
+
+
+// $playerPerspectives = $data[0]['player_perspectives'];
+// print_r("VA O NO VA");
+// print_r($playerPerspectives);
+
+
+// foreach ($playerPerspectives as $perspective) {
+//   // $perspective contiene un objeto con información sobre una perspectiva de jugador
+//   // Puedes acceder a las propiedades del objeto según tus necesidades
+//   echo "Nombre: " . $perspective['name'] . "<br>";
+// }
+
+// foreach($data as $ninu){
+
+//   print_r("Perspectiva ID: ");
+//   print_r($ninu["player_perspectives"]);
+  
+//   $perspectivas2=$ninu["player_perspectives"];
+//   print_r("SERA SERA \n");
+//   print_r($perspectivas2);
+//   print_r("SERA SERA DEL DOS \n");
+
+
+// foreach($perspectivas2 as $venga){
+//   print_r("VENGA");
+//   print_r($venga);
+
+
+
+// };
+
+
+// };
+// ######################################################
+
+
+// #################################
+
+
+foreach ($data as $cara){
+
+  print_r("Caratula ID: ");
+  print_r($cara["cover"]);
+  global $caratula;
+  $caratula=$cara["cover"];
+  // obteneresacosa($caratula);
+  
+
+};
+
+// ############################################
+
+// $caratula= $data[0]['cover'];
+// print_r("Caratula ID: ");
+// print_r($caratula);
+
+  return $data;
+
+};
+
 // Todo lo que está almacenado en la varibale $Juego luego es introducido en la funcion ObtenerDatos
 // pero introduciendo esos datos en la variable $juegoABuscar y así saber que buscar
 // Luego lo que esté almacenado en $resultado, saldrá en el HTML
 $resultado = obtenerDatos($juego);
-
-
-
-
-
-
-function mostrarInformacionJuego($resultado) {
-  echo "<h2>Información del Juego</h2>";
-  echo "<p><strong>ID:</strong> " . $resultado[0]['id'] . "</p>";
-  echo "<p><strong>Nombre:</strong> " . $resultado[0]['name'] . "</p>";
-  echo "<p><strong>Cover:</strong> " . $resultado[0]['cover'] . "</p>";
-  echo "<p><strong>Cover:</strong> " . $resultado[0]['cover'] . "</p>";
-
-  
-}
-
-
-
-// print_r("Json recogido del juego introducido en juego: ");
-// print_r($resultado);
-// Con RESULTADO, lo que hacemos es que luego se pinten todos los datos del juego
-
-// $resultado2 = obteneresacosa($juego);
-
-
-// // ############################################################################################
-// Aquí sacamos los datos almacenados del juego de manera local
-// $juego2 = str_replace(' ', '', $juego);
-
-// echo "a ver ahora ".$juego2;
-// $jsonFilePath = $juego2.'.json' ;
-// // Mostrar la ruta de donde está el JSON
-// echo $jsonFilePath;
-// $jsonData = file_get_contents($jsonFilePath);
-// $encasa = json_decode($jsonData, true);
-
-// echo "Datos del JSON:\n";
-// print_r($encasa);
-
-// if ($encasa !== null) {
-//   // Inicializa un array para almacenar los valores de "COVER"
-//   $covers = array();
-
-
-//   // Recorre cada objeto en el array
-//   foreach ($encasa as $item) {
-//       // Verifica si el campo "COVER" está presente en el objeto
-//       if (isset($item['cover'])) {
-//           // Agrega el valor de "COVER" al array de "covers"
-//           $covers[] = $item['cover'];
-//       }
-//   };
-
-
-
-//    // Ahora, puedes recorrer el array de "covers" según tus necesidades
-//    foreach ($covers as $cover) {
-   
-//     echo "COVER: $cover\n" . PHP_EOL;
-//     // $resultado2 = obteneresacosa($cover);
-   
-// }
-// } else {
-// echo "Error al decodificar el JSON." . PHP_EOL;
-// };
-
-
-
-
-
-// Pruebas
-
-
-// array
-
-// $caratulasid=["86963","221564","267803"];
-
-
-// foreach($caratulasid as $caratula){
-
-
-// echo "PUTA CARATULA ".$caratula;
-
-// };
-
-
-
-
-// $datosJuego = obtenerDatos($juego);
-// $datosURL = obteneresacosa($cover);
-
-
-// $datoscombinados = $datosJuego.$datosURL;
-
 
 
 
