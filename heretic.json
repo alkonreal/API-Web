@@ -1,0 +1,827 @@
+[
+  {
+    "id": 6362,
+    "age_ratings": [
+      13491
+    ],
+    "alternative_names": [
+      16977,
+      42722
+    ],
+    "category": 0,
+    "collection": 176,
+    "cover": 76355,
+    "created_at": 1398166378,
+    "expansions": [
+      8419
+    ],
+    "external_games": [
+      42608,
+      73049,
+      147485,
+      384992
+    ],
+    "first_release_date": 788140800,
+    "follows": 10,
+    "game_engines": [
+      116
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      20708,
+      20709
+    ],
+    "keywords": [
+      129,
+      151,
+      226,
+      453,
+      466,
+      537,
+      558,
+      589,
+      604,
+      1158,
+      1320,
+      1333,
+      1405,
+      2472,
+      3486,
+      3988,
+      4134,
+      4150,
+      4239,
+      4407,
+      4699,
+      4891,
+      4991,
+      5150,
+      7653,
+      11567,
+      14022,
+      14023
+    ],
+    "multiplayer_modes": [
+      1943
+    ],
+    "name": "Heretic",
+    "platforms": [
+      6,
+      13,
+      14
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "rating": 79.61242992657021,
+    "rating_count": 68,
+    "release_dates": [
+      24673,
+      24674,
+      24675
+    ],
+    "screenshots": [
+      23056,
+      296716,
+      296717
+    ],
+    "similar_games": [
+      564,
+      660,
+      3277,
+      3512,
+      8746,
+      10388,
+      11544,
+      11646,
+      15127,
+      19164
+    ],
+    "slug": "heretic",
+    "summary": "Three brothers, known as the Serpent Riders, have used their powerful magic to possess seven kings of Parthoris into mindless puppets and corrupt their armies. The Sidhe elves resist the Serpent Riders\u0027 magic. The Serpent Riders thus declared the Sidhe as heretics and waged war against them. The Sidhe are forced to take a drastic measure to sever the natural power of the kings destroying them and their armies, but at the cost of weakening the elves\u0027 power, giving the Serpent riders an advantage to slay the elders. While the Sidhe retreat, one elf, sets off on a quest of vengeance against the weakest of the three Serpent Riders, D\u0027Sparil. He travels through the \"City of the Damned\", the ruined capital of the Sidhe, then past Hell\u0027s Maw and finally the Dome of D\u0027Sparil.",
+    "tags": [
+      17,
+      22,
+      268435461,
+      536871041,
+      536871063,
+      536871138,
+      536871365,
+      536871378,
+      536871449,
+      536871470,
+      536871501,
+      536871516,
+      536872070,
+      536872232,
+      536872245,
+      536872317,
+      536873384,
+      536874398,
+      536874900,
+      536875046,
+      536875062,
+      536875151,
+      536875319,
+      536875611,
+      536875803,
+      536875903,
+      536876062,
+      536878565,
+      536882479,
+      536884934,
+      536884935
+    ],
+    "themes": [
+      17,
+      22
+    ],
+    "total_rating": 79.61242992657021,
+    "total_rating_count": 68,
+    "updated_at": 1695872092,
+    "url": "https://www.igdb.com/games/heretic",
+    "videos": [
+      87880
+    ],
+    "websites": [
+      1940,
+      164120,
+      342970
+    ],
+    "checksum": "db3b4848-c2c7-3f1f-39da-99754292fe57",
+    "ports": [
+      166491
+    ]
+  },
+  {
+    "id": 20752,
+    "age_ratings": [
+      9160
+    ],
+    "alternative_names": [
+      15522,
+      44545
+    ],
+    "category": 0,
+    "collection": 176,
+    "cover": 106010,
+    "created_at": 1468890274,
+    "external_games": [
+      41489,
+      73261,
+      138949,
+      1188556
+    ],
+    "first_release_date": 909878400,
+    "follows": 5,
+    "game_engines": [
+      97
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      25,
+      31
+    ],
+    "involved_companies": [
+      37665,
+      84416,
+      84417,
+      84418,
+      84419
+    ],
+    "keywords": [
+      129,
+      151,
+      159,
+      226,
+      558,
+      592,
+      770,
+      1032,
+      1033,
+      1345,
+      1422,
+      2071,
+      2280,
+      2324,
+      2472,
+      3486,
+      3831,
+      4392,
+      4711,
+      4891,
+      5150,
+      6210,
+      6248,
+      7344,
+      7440,
+      7653,
+      8983,
+      9256
+    ],
+    "multiplayer_modes": [
+      10123
+    ],
+    "name": "Heretic II",
+    "platforms": [
+      3,
+      6,
+      14,
+      16
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 77.34329024991547,
+    "rating_count": 15,
+    "release_dates": [
+      53893,
+      53894,
+      53895,
+      53896,
+      186716
+    ],
+    "screenshots": [
+      28136,
+      28137,
+      28138,
+      28139,
+      28140
+    ],
+    "similar_games": [
+      533,
+      660,
+      1942,
+      3025,
+      11133,
+      15127,
+      34155,
+      35371,
+      36198,
+      80916
+    ],
+    "slug": "heretic-ii",
+    "storyline": "After Corvus returns from his banishment, he finds that a mysterious plague has swept the land of Parthoris, taking the sanity of those it does not kill. Corvus, the protagonist of the first game, is forced to flee his hometown of Silverspring after the infected attack him, but not before he is infected himself. The effects of the disease are held at bay in Corvus’ case because he holds one of the Tomes of Power, but he still must find a cure before he succumbs.",
+    "summary": "Heretic II is a third-person action game based on the Quake II engine that plunges you into a deep, compelling game combining brutal face-to-face combat and mystery-laden adventure. Gamers travel through complex, richly detailed environments filled with stunning special effects, wicked magic spells, detailed characters, vivid artwork and challenging level designs created by the Raven team and renowned fantasy artist Brom.",
+    "tags": [
+      1,
+      22,
+      268435481,
+      268435487,
+      536871041,
+      536871063,
+      536871071,
+      536871138,
+      536871470,
+      536871504,
+      536871682,
+      536871944,
+      536871945,
+      536872257,
+      536872334,
+      536872983,
+      536873192,
+      536873236,
+      536873384,
+      536874398,
+      536874743,
+      536875304,
+      536875623,
+      536875803,
+      536876062,
+      536877122,
+      536877160,
+      536878256,
+      536878352,
+      536878565,
+      536879895,
+      536880168
+    ],
+    "themes": [
+      1,
+      22
+    ],
+    "total_rating": 77.34329024991547,
+    "total_rating_count": 15,
+    "updated_at": 1695850466,
+    "url": "https://www.igdb.com/games/heretic-ii",
+    "videos": [
+      37328
+    ],
+    "websites": [
+      131089,
+      131090,
+      144054,
+      346087
+    ],
+    "checksum": "6fb1ef23-5860-f61a-0cab-bfbd01c188f4"
+  },
+  {
+    "id": 142047,
+    "category": 5,
+    "cover": 123571,
+    "created_at": 1609350938,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5
+    ],
+    "involved_companies": [
+      115747
+    ],
+    "name": "Heretic Hunt",
+    "parent_game": 740,
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "release_dates": [
+      223287
+    ],
+    "screenshots": [
+      415528
+    ],
+    "slug": "heretic-hunt",
+    "summary": "A little campaign mod by Spiral and Heempy \nThis is a modification of the standard campaign, only with new encounters and with a new feel! \nYou are now elites, dropped of by phantoms, killing heretics!",
+    "themes": [
+      1,
+      18
+    ],
+    "updated_at": 1609758351,
+    "url": "https://www.igdb.com/games/heretic-hunt",
+    "videos": [
+      44047,
+      44048
+    ],
+    "websites": [
+      164752,
+      164753
+    ],
+    "checksum": "d956e72a-5c58-b184-be77-00a3367b9048"
+  },
+  {
+    "id": 86646,
+    "age_ratings": [
+      20956,
+      23182
+    ],
+    "artworks": [
+      72636
+    ],
+    "category": 0,
+    "cover": 62781,
+    "created_at": 1518291964,
+    "external_games": [
+      1994253,
+      2327070
+    ],
+    "first_release_date": 1518220800,
+    "follows": 2,
+    "game_engines": [
+      529
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      25
+    ],
+    "involved_companies": [
+      69563
+    ],
+    "keywords": [
+      581,
+      4878
+    ],
+    "name": "Heretic Gods",
+    "platforms": [
+      34
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "release_dates": [
+      146932
+    ],
+    "screenshots": [
+      184368,
+      184369,
+      184370,
+      184371
+    ],
+    "similar_games": [
+      19164,
+      54775,
+      55199,
+      81249,
+      96217,
+      103168,
+      103303,
+      106987,
+      113109,
+      113636
+    ],
+    "slug": "heretic-gods",
+    "status": 4,
+    "storyline": "Heretic Gods is an ARPG in which players can enter a dark world, full of dungeons and monsters, set in the land of the Viking Myths. Your objective will be to enter the depths of a cursed abbey to banish the heretical gods.",
+    "summary": "Heretic Gods is an ARPG in which players can enter a dark world, full of dungeons and monsters, set in the land of the Viking Myths. Your objective will be to enter the depths of a cursed abbey to banish the heretical gods. \n \nThe control system of Heretic Gods – Ragnarok is intuitive and is very well adapted to tactile devices. With the virtual crossbar on the left of the screen you can move your character, while with the buttons on the right you can attack and use skills. With just pressing the attack buttons, your hero will automatically target the nearest enemy. \n \nThe dungeons of Heretic Gods – Ragnarok are generated randomly, so you will never play twice in the same scenario. That said, many levels are very similar to each other, with different variations in architecture and especially in the variation of enemies. The more levels you raise, the deeper you dive into new dungeons with stronger enemies to fight. \n \nA very important aspect of Heretic Gods – Ragnarok is the loot. You can find and equip hundreds and hundreds of different objects, including axes, helmets, gloves, boots, armor, shields, bows, swords, rings, and so on. In the village, in addition, we can trade with its inhabitants or even craft your own items. \n \nHeretic Gods – Ragnarok manages to successfully adapt the formula of popular roleplaying games to tactile devices. For this, it not only offers an accessible control system, but also some levels with a relatively short duration, which we can finish in a few minutes perfectly styled for mobile gaming. \n \n• random generated dungeons \n• shape up different characterbuilds out of 75+ skills \n• adjustable graphic settings for best performance even on old hardware \n• innovative auto targeting system \n• optional auto fight system \n• infinite random generated magic items \n• hundreds of unique items and set items \n• fully playable for free \n• 3 difficulties \n• ongoing updates for even more game-content \n \nHereticGods grants full playability now and will be upgraded through updates. \nfuture updates will include more: \n• unique items \n• set items \n• enemies \n• boss enemies \n• quests \n• skills \n• game environments",
+    "tags": [
+      1,
+      17,
+      268435468,
+      268435481,
+      536871493,
+      536875790
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "updated_at": 1692616774,
+    "url": "https://www.igdb.com/games/heretic-gods",
+    "videos": [
+      18151
+    ],
+    "websites": [
+      71443,
+      88343,
+      88344,
+      88345,
+      88346,
+      88347,
+      449806
+    ],
+    "checksum": "a213bdb4-9804-6051-d8e5-44b4d97c8797"
+  },
+  {
+    "id": 158566,
+    "artworks": [
+      94703
+    ],
+    "category": 0,
+    "cover": 194837,
+    "created_at": 1626373610,
+    "external_games": [
+      2051977,
+      2075024
+    ],
+    "genres": [
+      32
+    ],
+    "name": "Heretic\u0027s Lot",
+    "screenshots": [
+      546783,
+      546784,
+      546785,
+      546787,
+      546791
+    ],
+    "similar_games": [
+      51591,
+      65827,
+      75948,
+      94741,
+      106992,
+      111043,
+      113895,
+      115850,
+      119788,
+      121309
+    ],
+    "slug": "heretics-lot",
+    "summary": "What will you get out of mixing puzzle, RPG and roguelike? Correct - HERETIC’S LOT! Make your way through cursed lands to repent your sins. Learn perks, collect battle spells, solve puzzles, discover magic auras, fight bosses, find what cursed lands are hiding.",
+    "tags": [
+      268435488
+    ],
+    "updated_at": 1692850520,
+    "url": "https://www.igdb.com/games/heretics-lot",
+    "websites": [
+      330206,
+      463567
+    ],
+    "checksum": "746cdcea-bdcf-5b0e-9315-0e34026c1e06",
+    "language_supports": [
+      365359,
+      365360,
+      365361,
+      365362
+    ]
+  },
+  {
+    "id": 216329,
+    "category": 0,
+    "cover": 242969,
+    "created_at": 1662850999,
+    "external_games": [
+      2565491
+    ],
+    "first_release_date": 1569888000,
+    "game_engines": [
+      235
+    ],
+    "genres": [
+      31
+    ],
+    "involved_companies": [
+      186655
+    ],
+    "keywords": [
+      218
+    ],
+    "name": "Heretic\u0027s Hope",
+    "platforms": [
+      82
+    ],
+    "player_perspectives": [
+      5
+    ],
+    "release_dates": [
+      387830
+    ],
+    "screenshots": [
+      873047,
+      873048,
+      873049,
+      873050,
+      873051
+    ],
+    "similar_games": [
+      26765,
+      55038,
+      55199,
+      81249,
+      96217,
+      103168,
+      103303,
+      106987,
+      113360,
+      115653
+    ],
+    "slug": "heretics-hope",
+    "summary": "Eser is the only human left alive.\n\nGods and monsters, blessings and curses, an island ruled by giant insects — and in their midst: a reluctant human priest. Grief-stricken and bound by oath to obey the Queen’s newest divine decree, Eser will seek advice, encounter strange visitors, draw the attention of powers beyond comprehension, and surely make mistakes.\n\nAs a baby, they were brought to Achthoven to save their life.\n\nAs an adult, they must decide what kind of life is worth living.",
+    "tags": [
+      17,
+      268435487,
+      536871130
+    ],
+    "themes": [
+      17
+    ],
+    "updated_at": 1671020727,
+    "url": "https://www.igdb.com/games/heretics-hope",
+    "websites": [
+      309806,
+      309807,
+      502591
+    ],
+    "checksum": "c39e7c05-f90a-5d69-9d9b-3b097fb33144"
+  },
+  {
+    "id": 104599,
+    "category": 0,
+    "created_at": 1530264731,
+    "external_games": [
+      944347,
+      1955965
+    ],
+    "name": "Doomed Heretic",
+    "slug": "doomed-heretic",
+    "updated_at": 1670979819,
+    "url": "https://www.igdb.com/games/doomed-heretic",
+    "websites": [
+      413254
+    ],
+    "checksum": "40b7db99-0912-b619-31f5-16c7141fb736"
+  },
+  {
+    "id": 223462,
+    "artworks": [
+      90478
+    ],
+    "category": 0,
+    "cover": 300738,
+    "created_at": 1667328153,
+    "external_games": [
+      2617285,
+      2617941
+    ],
+    "first_release_date": 1694563200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      15,
+      32,
+      33
+    ],
+    "involved_companies": [
+      229380,
+      229381
+    ],
+    "keywords": [
+      77,
+      1451,
+      25826,
+      37930
+    ],
+    "name": "Heretic\u0027s Fork",
+    "platforms": [
+      6
+    ],
+    "release_dates": [
+      512752
+    ],
+    "screenshots": [
+      911979,
+      911980,
+      911981,
+      911982,
+      911983
+    ],
+    "similar_games": [
+      25311,
+      25640,
+      26574,
+      28182,
+      35994,
+      36553,
+      43367,
+      56033,
+      111130,
+      113895
+    ],
+    "slug": "heretics-fork",
+    "summary": "Roguelike Deckbuilder where you use your cards to construct a hellish tower capable of keeping the endless hordes of the underworld from escaping their torment.",
+    "tags": [
+      1,
+      268435471,
+      268435488,
+      268435489,
+      536870989,
+      536872363,
+      536896738,
+      536908842
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1697253390,
+    "url": "https://www.igdb.com/games/heretics-fork",
+    "videos": [
+      96833,
+      96834
+    ],
+    "websites": [
+      320780,
+      509281
+    ],
+    "checksum": "d3991229-3a61-820a-a71e-a0df9b844aae",
+    "language_supports": [
+      132916,
+      132917,
+      132918,
+      733517,
+      733518,
+      733519,
+      733520,
+      733521,
+      733522,
+      733523
+    ]
+  },
+  {
+    "id": 113792,
+    "artworks": [
+      28336
+    ],
+    "category": 0,
+    "cover": 127442,
+    "created_at": 1547115415,
+    "dlcs": [
+      168188
+    ],
+    "external_games": [
+      1687869,
+      1746490,
+      1913082
+    ],
+    "first_release_date": 1550448000,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      15
+    ],
+    "hypes": 1,
+    "keywords": [
+      1158,
+      1293,
+      4004,
+      4134
+    ],
+    "name": "Heretic Operative",
+    "platforms": [
+      6
+    ],
+    "rating": 70.0,
+    "rating_count": 0,
+    "release_dates": [
+      423374
+    ],
+    "screenshots": [
+      279333,
+      279334,
+      279335,
+      279336,
+      279337,
+      279338,
+      279339,
+      279340,
+      279341,
+      279342
+    ],
+    "similar_games": [
+      7615,
+      9278,
+      13196,
+      17130,
+      19404,
+      28113,
+      33153,
+      36263,
+      103232,
+      113402
+    ],
+    "slug": "heretic-operative",
+    "summary": "Learn forbidden spells. Outwit the Cult. Resist the corruption of magic. As a Heretic Operative, a secret mage sworn to oppose the Cult, you must harness the arcane without becoming lost in its power. A unique narrative strategy-RPG inspired by classic boardgames like Arkham Horror and Pandemic.",
+    "tags": [
+      268435468,
+      268435471,
+      536872070,
+      536872205,
+      536874916,
+      536875046
+    ],
+    "total_rating": 70.0,
+    "total_rating_count": 0,
+    "updated_at": 1685746305,
+    "url": "https://www.igdb.com/games/heretic-operative",
+    "websites": [
+      98557,
+      98558,
+      387603
+    ],
+    "checksum": "4275e2dc-e576-2827-82a1-7369f8b9d4f5",
+    "language_supports": [
+      610190,
+      610191
+    ]
+  },
+  {
+    "id": 268775,
+    "category": 5,
+    "created_at": 1695769363,
+    "first_release_date": 1303430400,
+    "genres": [
+      5
+    ],
+    "name": "Heretic Amplified",
+    "parent_game": 6362,
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "release_dates": [
+      520394
+    ],
+    "slug": "heretic-amplified",
+    "summary": "This is a new episode for Heretic based on the idea that the D\u0027Speril that was killed was not the real D\u0027Speril, so you now have to find your way through his realm and slay him once and for all with new Weapons, Enemies, and Items.",
+    "themes": [
+      1
+    ],
+    "updated_at": 1695779327,
+    "url": "https://www.igdb.com/games/heretic-amplified",
+    "websites": [
+      584720
+    ],
+    "checksum": "f36312a2-1e54-e33f-3489-60771681e2c4"
+  }
+]

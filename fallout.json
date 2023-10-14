@@ -338,7 +338,7 @@
     ],
     "total_rating": 70.2302784188552,
     "total_rating_count": 79,
-    "updated_at": 1695932444,
+    "updated_at": 1697280277,
     "url": "https://www.igdb.com/games/fallout-tactics-brotherhood-of-steel",
     "videos": [
       292,
@@ -355,7 +355,7 @@
       320499,
       337618
     ],
-    "checksum": "de407a0f-786c-0b1b-58d6-25525cca0879",
+    "checksum": "cde5d191-d87d-e1e6-6496-47234088e7cc",
     "language_supports": [
       9940,
       9941,
@@ -432,7 +432,6 @@
       536871872,
       536871945,
       536872798,
-      536875831,
       536876330,
       536878247,
       536894768
@@ -441,12 +440,12 @@
       1,
       18
     ],
-    "updated_at": 1693471713,
+    "updated_at": 1695739993,
     "url": "https://www.igdb.com/games/fallout-trilogy",
     "websites": [
       57556
     ],
-    "checksum": "567870d4-09fe-7fa9-1bf2-51804805288a"
+    "checksum": "23060b29-9381-215b-421a-00fcf3fafaea"
   },
   {
     "id": 13,
@@ -618,8 +617,8 @@
     "player_perspectives": [
       3
     ],
-    "rating": 85.91386138912918,
-    "rating_count": 502,
+    "rating": 85.9154847800373,
+    "rating_count": 505,
     "release_dates": [
       2773,
       2774,
@@ -765,9 +764,9 @@
       23,
       38
     ],
-    "total_rating": 85.91386138912918,
-    "total_rating_count": 502,
-    "updated_at": 1695861299,
+    "total_rating": 85.9154847800373,
+    "total_rating_count": 505,
+    "updated_at": 1697201306,
     "url": "https://www.igdb.com/games/fallout",
     "videos": [
       903
@@ -786,7 +785,7 @@
       320720,
       333460
     ],
-    "checksum": "9b055298-b022-0f2f-04c3-a07764e64f2d",
+    "checksum": "ab32d468-49d7-c3c2-8961-627725085a11",
     "language_supports": [
       474668,
       474669,
@@ -1104,8 +1103,8 @@
     "player_perspectives": [
       3
     ],
-    "rating": 89.71934538796633,
-    "rating_count": 635,
+    "rating": 89.71546968597417,
+    "rating_count": 639,
     "release_dates": [
       338553,
       338554
@@ -1312,9 +1311,9 @@
       27,
       38
     ],
-    "total_rating": 89.71934538796633,
-    "total_rating_count": 635,
-    "updated_at": 1695861445,
+    "total_rating": 89.71546968597417,
+    "total_rating_count": 639,
+    "updated_at": 1697288667,
     "url": "https://www.igdb.com/games/fallout-2",
     "videos": [
       288,
@@ -1335,7 +1334,7 @@
       323553,
       333572
     ],
-    "checksum": "a7f06214-8902-4a33-59a1-ffc3bca6c75e",
+    "checksum": "4803d6c1-aae4-746f-bf30-a662315ee7e3",
     "language_supports": [
       474170,
       474171,
@@ -1900,8 +1899,8 @@
       1,
       2
     ],
-    "rating": 83.48917054693581,
-    "rating_count": 1378,
+    "rating": 83.48375923214945,
+    "rating_count": 1382,
     "release_dates": [
       447,
       449,
@@ -2230,9 +2229,9 @@
       33,
       38
     ],
-    "total_rating": 86.2945852734679,
-    "total_rating_count": 1390,
-    "updated_at": 1695916895,
+    "total_rating": 86.29187961607472,
+    "total_rating_count": 1394,
+    "updated_at": 1697303542,
     "url": "https://www.igdb.com/games/fallout-3",
     "videos": [
       2362
@@ -2250,7 +2249,7 @@
       152678,
       332700
     ],
-    "checksum": "269c01fe-99cf-8f9d-0748-940560530401",
+    "checksum": "ed384ef0-c717-a648-bf0e-1e0df4289d19",
     "remasters": [
       267307
     ],
@@ -2516,8 +2515,8 @@
       1,
       2
     ],
-    "rating": 80.28200767516293,
-    "rating_count": 1258,
+    "rating": 80.28499278591511,
+    "rating_count": 1267,
     "release_dates": [
       30673,
       30674,
@@ -2686,9 +2685,9 @@
       33,
       38
     ],
-    "total_rating": 82.4743371709148,
-    "total_rating_count": 1285,
-    "updated_at": 1695920749,
+    "total_rating": 82.4758297262909,
+    "total_rating_count": 1294,
+    "updated_at": 1697301067,
     "url": "https://www.igdb.com/games/fallout-4",
     "videos": [
       4349,
@@ -2708,7 +2707,7 @@
       152692,
       522499
     ],
-    "checksum": "8702cf11-58c1-8e81-cb7b-61aaf67d28b0",
+    "checksum": "302a3dcb-ceea-383d-ec5f-3f85a96e862b",
     "language_supports": [
       57927,
       57928,

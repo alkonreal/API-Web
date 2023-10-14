@@ -1,0 +1,911 @@
+[
+  {
+    "id": 3512,
+    "age_ratings": [
+      116423,
+      116424,
+      116425,
+      116426
+    ],
+    "aggregated_rating": 37.0,
+    "aggregated_rating_count": 2,
+    "alternative_names": [
+      3351,
+      3352,
+      14973,
+      45363
+    ],
+    "artworks": [
+      34143
+    ],
+    "bundles": [
+      154327
+    ],
+    "category": 0,
+    "collection": 176,
+    "cover": 76354,
+    "created_at": 1389103314,
+    "expansions": [
+      8851
+    ],
+    "external_games": [
+      15110,
+      38011,
+      73328,
+      136637,
+      281544,
+      2070214,
+      2531596
+    ],
+    "first_release_date": 815011200,
+    "follows": 12,
+    "game_engines": [
+      116
+    ],
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      5,
+      9,
+      12
+    ],
+    "involved_companies": [
+      20716,
+      183668,
+      183669,
+      183670
+    ],
+    "keywords": [
+      129,
+      226,
+      453,
+      466,
+      537,
+      589,
+      1186,
+      1289,
+      1313,
+      1333,
+      1405,
+      1682,
+      2472,
+      4134,
+      4150,
+      4614,
+      4891,
+      4991,
+      5150,
+      6735,
+      7576,
+      10048,
+      11567,
+      13121,
+      14022,
+      14023,
+      32424
+    ],
+    "multiplayer_modes": [
+      13701
+    ],
+    "name": "Hexen: Beyond Heretic",
+    "platforms": [
+      6,
+      13,
+      14
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "rating": 73.48229285715747,
+    "rating_count": 51,
+    "release_dates": [
+      24682,
+      24683,
+      24684,
+      24685,
+      24692
+    ],
+    "screenshots": [
+      46869,
+      46870,
+      46871,
+      46872,
+      46873
+    ],
+    "similar_games": [
+      660,
+      3277,
+      11646,
+      18225,
+      19164,
+      36198,
+      55038,
+      55199,
+      103298,
+      105049
+    ],
+    "slug": "hexen-beyond-heretic",
+    "storyline": "Following the tale of D\u0027Sparil\u0027s defeat in Heretic, Hexen takes place in another realm, Cronos, which is besieged by the second of the three Serpent Riders, Korax. Three heroes set out to destroy Korax. The player assumes the role of one such hero. Throughout the course of his quest, he travels through elemental dungeons, a wilderness region, a mountainside seminary, a large castle, and finally a necropolis, before the final showdown with the Serpent Rider.",
+    "summary": "While you were battling the evil forces of D\u0027Sparil, the other Serpent Riders were busy sowing the seeds of destruction in other dimensions. One such dimension is the decaying world where Hexen takes place. A world littered with the mangled corpses of nonbelievers and inhabited by the undead followers that executed them. Only three humans; a warrior, a mage and a cleric; have escaped the leaders\u0027 vicious spell. Now these brave souls have sworn to crush the evil regime that threatens to destroy the world forever. Separated upon entering the mystical portal, the three are forced to attempt on their own what they had hoped to do together: find Korax\u0027s stronghold, destroy him and restore order in the physical world.\n\nBecome one of 3 heroes. Wield superhuman powers and lethal weapons.\nWalk. Run. Fly. Look all around. Inflict serious pain.\nPillage your way through earthquakes, crumbling bridges and fog.\nTrack down powerful artifacts and cast wicked spells.\nFour sick individuals can wreak havoc via network, two by modem.",
+    "tags": [
+      1,
+      17,
+      19,
+      268435461,
+      268435465,
+      268435468,
+      536871041,
+      536871138,
+      536871365,
+      536871378,
+      536871449,
+      536871501,
+      536872098,
+      536872201,
+      536872225,
+      536872245,
+      536872317,
+      536872594,
+      536873384,
+      536875046,
+      536875062,
+      536875526,
+      536875803,
+      536875903,
+      536876062,
+      536877647,
+      536878488,
+      536880960,
+      536882479,
+      536884033,
+      536884934,
+      536884935,
+      536903336
+    ],
+    "themes": [
+      1,
+      17,
+      19
+    ],
+    "total_rating": 55.24114642857874,
+    "total_rating_count": 53,
+    "updated_at": 1695906661,
+    "url": "https://www.igdb.com/games/hexen-beyond-heretic",
+    "videos": [
+      31570
+    ],
+    "websites": [
+      15987,
+      15988,
+      126339,
+      164132,
+      341794
+    ],
+    "checksum": "1fc0a31b-3185-8d60-2729-39d3c9da302b",
+    "ports": [
+      93641,
+      93642,
+      93643
+    ],
+    "language_supports": [
+      288625
+    ]
+  },
+  {
+    "id": 6637,
+    "age_ratings": [
+      127167,
+      127168,
+      127169,
+      127170,
+      127171,
+      127172
+    ],
+    "alternative_names": [
+      16198,
+      43735
+    ],
+    "artworks": [
+      26955
+    ],
+    "bundles": [
+      154327
+    ],
+    "category": 0,
+    "collection": 176,
+    "cover": 123981,
+    "created_at": 1399074862,
+    "expansions": [
+      745
+    ],
+    "external_games": [
+      14827,
+      38260,
+      73050,
+      142769,
+      321642,
+      2070238,
+      2678261
+    ],
+    "first_release_date": 873936000,
+    "follows": 9,
+    "game_engines": [
+      97
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5,
+      12,
+      31
+    ],
+    "involved_companies": [
+      23738,
+      107482
+    ],
+    "keywords": [
+      151,
+      226,
+      453,
+      558,
+      698,
+      953,
+      1138,
+      1158,
+      2472,
+      4134,
+      4150,
+      4351,
+      4891,
+      5150,
+      5173,
+      5308,
+      5403,
+      7529,
+      13121,
+      14022
+    ],
+    "multiplayer_modes": [
+      1944
+    ],
+    "name": "Hexen II",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "rating": 68.80940080618305,
+    "rating_count": 18,
+    "release_dates": [
+      209442
+    ],
+    "screenshots": [
+      46331,
+      46332,
+      46333,
+      46334,
+      46335
+    ],
+    "similar_games": [
+      8746,
+      10388,
+      11646,
+      19164,
+      22387,
+      36198,
+      47823,
+      55038,
+      96217,
+      105049
+    ],
+    "slug": "hexen-ii",
+    "summary": "The Four Horsemen of the Apocalypse lurk in the shadows before you. They are Death, Pestilence, Famine, and War. They are the root of all that is evil. They are the least of your worries. The last know Serpent Rider, Eidolon, lives. As the Necromancer, the Assassin, the Crusader, or the Paladin, you must defeat the dark generals and their Hell-spawned legions before you can face the Archfiend and attempt to end his ravenous onslaught. Go in peace and you will surely die.\n\nExperience the Quake Engine\u0027s true, polygon-based modeling for the most realistic, detailed environments ever seen in 3D gaming.\nPossess distinct spells, powers and 32 new weapons. With experience, gain levels, more hit points and certain abilities that apply to your specific character class, such as increased speed, firepower, and jump distance.\nBludgeon your way through four demon-infested worlds - Medieval, Egyptian, Mesoamerican and Roman. Smash stained glass windows, collapse structural beams, and pulverize trees.\nCome face-to-face with Knight Archers, Fire Imps, Were-Jaguars, Skull Wizards and more. Go in with friends, or go against foes in a bloody Deathmatch. Up to 16 players can go at it via LAN and over the Internet.",
+    "tags": [
+      1,
+      17,
+      22,
+      268435461,
+      268435468,
+      268435487,
+      536871063,
+      536871138,
+      536871365,
+      536871470,
+      536871610,
+      536871865,
+      536872050,
+      536872070,
+      536873384,
+      536875046,
+      536875062,
+      536875263,
+      536875803,
+      536876062,
+      536876085,
+      536876220,
+      536876315,
+      536878441,
+      536884033,
+      536884934
+    ],
+    "themes": [
+      1,
+      17,
+      22
+    ],
+    "total_rating": 68.80940080618305,
+    "total_rating_count": 18,
+    "updated_at": 1696598019,
+    "url": "https://www.igdb.com/games/hexen-ii",
+    "videos": [
+      62498
+    ],
+    "websites": [
+      40798,
+      152143,
+      152144,
+      164134,
+      342465
+    ],
+    "checksum": "1d928110-fd61-2033-ba9f-eb962292a479",
+    "language_supports": [
+      485844
+    ]
+  },
+  {
+    "id": 93641,
+    "age_ratings": [
+      60217
+    ],
+    "category": 11,
+    "collection": 6002,
+    "cover": 154601,
+    "created_at": 1521239251,
+    "first_release_date": 865036800,
+    "follows": 1,
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      5,
+      25
+    ],
+    "involved_companies": [
+      131762,
+      183672,
+      183673,
+      183674,
+      224704
+    ],
+    "keywords": [
+      26906,
+      28703
+    ],
+    "multiplayer_modes": [
+      14984
+    ],
+    "name": "Hexen",
+    "parent_game": 3512,
+    "platforms": [
+      4
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "release_dates": [
+      293451,
+      293452,
+      293453,
+      498600
+    ],
+    "screenshots": [
+      466641,
+      466642,
+      1046017,
+      1046018
+    ],
+    "similar_games": [
+      19164,
+      47823,
+      54775,
+      55038,
+      96217,
+      103168,
+      103292,
+      105049,
+      106805,
+      118490
+    ],
+    "slug": "hexen",
+    "summary": "The Nintendo 64 version, developed by Software Creations, retains all of the graphical quality and scenery architecture, has a consistent frame rate, and includes high detail and smooth filtering.\n\nThis version also has four-player split-screen cooperative and deathmatch modes, although they must be played in low detail mode. Due to cartridge storage limitations, the Nintendo 64 version is based on the original PC floppy version and lacks the FMV scenes and Redbook audio music introduced in the CD-ROM version, although it has new narrative introductions to the levels.",
+    "tags": [
+      1,
+      17,
+      268435461,
+      268435481,
+      536897818,
+      536899615
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "updated_at": 1691976159,
+    "url": "https://www.igdb.com/games/hexen",
+    "websites": [
+      188291,
+      188292
+    ],
+    "checksum": "379b7254-9b7d-1978-e24f-f3f4c59110db",
+    "language_supports": [
+      637924,
+      637925
+    ]
+  },
+  {
+    "id": 93642,
+    "age_ratings": [
+      87926
+    ],
+    "category": 11,
+    "collection": 176,
+    "cover": 237825,
+    "created_at": 1521239884,
+    "first_release_date": 862358400,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5
+    ],
+    "involved_companies": [
+      183664,
+      183665,
+      183666,
+      183667
+    ],
+    "name": "Hexen",
+    "parent_game": 3512,
+    "platforms": [
+      32
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "release_dates": [
+      381197,
+      381198,
+      381199
+    ],
+    "screenshots": [
+      1046014,
+      1046015,
+      1046016
+    ],
+    "similar_games": [
+      19164,
+      38030,
+      54775,
+      55038,
+      95340,
+      96217,
+      103292,
+      106805,
+      106987,
+      113636
+    ],
+    "slug": "hexen--1",
+    "summary": "The Sega Saturn version inherits most of the restrictions of the PlayStation version, such as the simplified scenery architecture and the downgraded lighting, although it does feature improvements in certain aspects.\n\nThe scripting is faster, and the frame rate, while not fluid or consistent, is slightly better. The enemies still have all but their front sprites missing, but they retain their gory deaths when killed by a strong hit or weapon.\n\nThis version also has hidden two-player link-up cooperative and deathmatch modes, accessible only through the unlockable cheat menu. While this port shares the FMV scenes and most of the Redbook audio music from the other CD-ROM versions, it also includes some new music tracks.",
+    "tags": [
+      1,
+      17,
+      268435461
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "updated_at": 1683509486,
+    "url": "https://www.igdb.com/games/hexen--1",
+    "websites": [
+      304809
+    ],
+    "checksum": "a9786813-0ec8-9faa-f11d-e472f7b9abc0"
+  },
+  {
+    "id": 93643,
+    "age_ratings": [
+      87927
+    ],
+    "alternative_names": [
+      98515
+    ],
+    "category": 11,
+    "collection": 176,
+    "cover": 237826,
+    "created_at": 1521240489,
+    "first_release_date": 857174400,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5
+    ],
+    "hypes": 2,
+    "involved_companies": [
+      183660,
+      183661,
+      183662,
+      183663
+    ],
+    "name": "Hexen: Beyond Heretic",
+    "parent_game": 3512,
+    "platforms": [
+      7
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "release_dates": [
+      381194,
+      381195,
+      381196
+    ],
+    "screenshots": [
+      1046011,
+      1046012,
+      1046013
+    ],
+    "similar_games": [
+      19164,
+      38030,
+      54775,
+      55038,
+      95340,
+      96217,
+      103292,
+      106805,
+      106987,
+      113636
+    ],
+    "slug": "hexen-beyond-heretic--1",
+    "summary": "The PlayStation version has the FMV scenes and audio music from the PC CD-ROM version, but no multiplayer mode. The scripting and animation is slower, enemies have only their front sprites and lack gory deaths when attacked by strong hits or weapons, and the frame rate is slower.\n\nAlthough all levels are present in this version and feature their correct layouts, their architecture details are somewhat simplified and there is some loss in overall lighting quality. This port is based on a beta version of the original PC version of Hexen as many gameplay tweaks are shared, such as the simpler level design and the Fighter\u0027s fists being weaker compared to other versions.",
+    "tags": [
+      1,
+      17,
+      268435461
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "updated_at": 1683509485,
+    "url": "https://www.igdb.com/games/hexen-beyond-heretic--1",
+    "websites": [
+      304808
+    ],
+    "checksum": "404239bf-a60e-1e2b-7824-31349c56c65b"
+  },
+  {
+    "id": 745,
+    "age_ratings": [
+      29917
+    ],
+    "alternative_names": [
+      40215
+    ],
+    "category": 2,
+    "collection": 176,
+    "cover": 157709,
+    "created_at": 1317748999,
+    "external_games": [
+      153771
+    ],
+    "first_release_date": 891302400,
+    "game_engines": [
+      97
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5,
+      31
+    ],
+    "involved_companies": [
+      1690,
+      107500
+    ],
+    "keywords": [
+      129,
+      151,
+      226,
+      453,
+      1313,
+      1333,
+      1345,
+      3988,
+      4891,
+      5029,
+      5150,
+      5181,
+      5182
+    ],
+    "multiplayer_modes": [
+      11636
+    ],
+    "name": "Hexen II Mission Pack: Portal of Praevus",
+    "parent_game": 6637,
+    "platforms": [
+      6,
+      14
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "release_dates": [
+      1635,
+      2207
+    ],
+    "similar_games": [
+      9243,
+      9835,
+      14394,
+      19164,
+      34155,
+      47823,
+      55038,
+      96217,
+      105049,
+      106987
+    ],
+    "slug": "hexen-ii-mission-pack-portal-of-praevus",
+    "summary": "Hexen II Mission Pack: Portal of Praevus, Raven Software\u0027s official follow-up to Hexen II, sends players back to the dark medieval fantasy setting of Thyrion, where a new evil has arisen to fill the void left by Eidolon\u0027s death.",
+    "tags": [
+      1,
+      17,
+      22,
+      268435461,
+      268435487,
+      536871041,
+      536871063,
+      536871138,
+      536871365,
+      536872225,
+      536872245,
+      536872257,
+      536872449,
+      536874900,
+      536875803,
+      536875941,
+      536876062,
+      536876093,
+      536876094
+    ],
+    "themes": [
+      1,
+      17,
+      22
+    ],
+    "updated_at": 1692356814,
+    "url": "https://www.igdb.com/games/hexen-ii-mission-pack-portal-of-praevus",
+    "websites": [
+      152217,
+      152218
+    ],
+    "checksum": "df6364b5-87a7-7a83-46a8-93a308a5d47d"
+  },
+  {
+    "id": 109776,
+    "category": 0,
+    "cover": 238456,
+    "created_at": 1537530449,
+    "external_games": [
+      1600616,
+      1949812
+    ],
+    "first_release_date": 1541894400,
+    "game_modes": [
+      2,
+      3
+    ],
+    "genres": [
+      15,
+      32
+    ],
+    "name": "Hexen Hegemony",
+    "platforms": [
+      6
+    ],
+    "release_dates": [
+      382388
+    ],
+    "screenshots": [
+      257993,
+      257994,
+      257995,
+      257996,
+      257997,
+      257998
+    ],
+    "similar_games": [
+      25311,
+      25640,
+      28182,
+      36269,
+      36553,
+      65827,
+      95340,
+      111130,
+      113895,
+      118091
+    ],
+    "slug": "hexen-hegemony",
+    "status": 4,
+    "summary": "Hexen Hegemony is a TPS (Third Person Shooter) game that makes it possible to fight against other witches with hundreds of different magic combinations. Enjoy team strategy, competition and spoils in 4 vs 4 matches. Remember, winners takes everything on the world of hexen.",
+    "tags": [
+      1,
+      268435471,
+      268435488
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1692070869,
+    "url": "https://www.igdb.com/games/hexen-hegemony",
+    "websites": [
+      92107,
+      407332
+    ],
+    "checksum": "aab8936c-039c-dcae-c287-3aca6393c2b4",
+    "language_supports": [
+      105108
+    ]
+  },
+  {
+    "id": 268920,
+    "category": 5,
+    "created_at": 1695866811,
+    "first_release_date": 875145600,
+    "genres": [
+      5
+    ],
+    "name": "Hexen Badlands",
+    "parent_game": 3512,
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "release_dates": [
+      520702
+    ],
+    "slug": "hexen-badlands",
+    "summary": "A detailed single player only level for Hexen. Some devious puzzles as well as loads of action. A huge outdoor desert area, with a fort, a castle, a well, a tower and lots of dungeons and cultist places.",
+    "themes": [
+      1
+    ],
+    "updated_at": 1695872109,
+    "url": "https://www.igdb.com/games/hexen-badlands",
+    "websites": [
+      584971
+    ],
+    "checksum": "75351dd3-f7c5-a8a0-ce63-d3c04d4ebb74"
+  },
+  {
+    "id": 198681,
+    "category": 5,
+    "cover": 219257,
+    "created_at": 1651179608,
+    "first_release_date": 1640908800,
+    "name": "Brutal Hexen RPG",
+    "parent_game": 93641,
+    "platforms": [
+      6
+    ],
+    "release_dates": [
+      356285
+    ],
+    "screenshots": [
+      781492,
+      781493,
+      781494,
+      781495
+    ],
+    "slug": "brutal-hexen-rpg",
+    "summary": "This is the continuation of Sergeant Mark IV\u0027s Brutal Hexen mod. Well, after been seemingly abandoned for a few years, we have continued Brutal HeXen where Sarge and Seidolon has left off.",
+    "updated_at": 1651220531,
+    "url": "https://www.igdb.com/games/brutal-hexen-rpg",
+    "websites": [
+      279197
+    ],
+    "checksum": "05c29c15-e784-51de-54fe-a32832d6cfa4"
+  },
+  {
+    "id": 154327,
+    "age_ratings": [
+      107358
+    ],
+    "artworks": [
+      40164
+    ],
+    "category": 3,
+    "cover": 156629,
+    "created_at": 1625215975,
+    "external_games": [
+      2069278
+    ],
+    "first_release_date": 1353456000,
+    "game_modes": [
+      1
+    ],
+    "name": "Heretic + Hexen Collection",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "release_dates": [
+      296548
+    ],
+    "screenshots": [
+      509695,
+      509696,
+      509697,
+      509698,
+      509699,
+      509700,
+      509701,
+      509702,
+      509703,
+      509704,
+      509705,
+      509706,
+      509707,
+      509708
+    ],
+    "similar_games": [
+      54775,
+      55199,
+      56967,
+      81249,
+      96217,
+      103303,
+      106987,
+      113201,
+      113636,
+      119156
+    ],
+    "slug": "heretic-plus-hexen-collection",
+    "tags": [
+      1,
+      17
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "updated_at": 1690204894,
+    "url": "https://www.igdb.com/games/heretic-plus-hexen-collection",
+    "websites": [
+      195636
+    ],
+    "checksum": "8159f515-47e4-664f-a69d-559ac76b7d2e",
+    "language_supports": [
+      482170
+    ]
+  }
+]

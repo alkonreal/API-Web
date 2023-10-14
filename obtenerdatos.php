@@ -1,6 +1,6 @@
 <?php
 
-require_once('general.php');
+require('general.php');
 
 // Obtener datos del campo de busqueda
 
@@ -20,6 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
 
 // ##############;################################################################
+
 
  
 function obtenerDatos($juegoABuscar){
@@ -49,6 +50,9 @@ function obtenerDatos($juegoABuscar){
   $response = curl_exec($curl);
 
   curl_close($curl);
+
+
+
 // Se guarda un Json con toda la informacion del campo de busqueda del formulario pero sin espacios
 $entradaLimpia = preg_replace('/[^A-Za-z]/', '', $juegoABuscar);
 
@@ -59,16 +63,33 @@ echo "Nombre del juego sin espacios: ".$entradaLimpia;
    echo "Ruta donde esta el juego: ".$jsonFileName;
    file_put_contents($jsonFileName, $response);
 
-  $data = json_decode($response, true);
+  // $response = json_decode($response, true);
+  global $response2;
+ $response2 = json_decode($response);
+//  $summary = $response2[0]->summary;
+// echo "<pre>" . $summary . "</pre>";
+echo ("Que coñondo es el summary?");
+
+// Categrorias
+
+
+
+
+
+
+
+
+
+
 
   // print_r("Hay algo dentro de PLAYER PÊRSPECTIVE?:\n");
-  // print_r($data);
+  //  print_r($response);
 
   // PRUEBAS
 // ################################
 
-// $ID=$data[0]["id"];
-// $nombre=$data[0]["name"];
+// $ID=$response[0]["id"];
+// $nombre=$response[0]["name"];
 // print_r("URL dentro de la peticion:\n");
 // // print_r($ID);
 // print_r("Hay algo dentro?:\n");
@@ -93,49 +114,40 @@ echo "Nombre del juego sin espacios: ".$entradaLimpia;
 // echo "<p><strong>ID:</strong> " . $tururu['id'] . "</p>";
 
 
-
+return $response;
 
 // };
-// // PRUEBAS 2
-
- // Verificar si el campo "player_perspectives" existe
- if (isset($data[0]['player_perspectives'])) {
-  // Comprobar si "player_perspectives" es un array
-  if (is_array($data[0]['player_perspectives'])) {
-      $playerPerspectives = $data[0]['player_perspectives'];
-
-      // Ahora, $playerPerspectives contiene un array de objetos
-
-      if (!empty($playerPerspectives)) {
-          // Puedes iterar a través de los objetos en $playerPerspectives
-          foreach ($playerPerspectives as $perspective) {
-              // $perspective contiene un objeto con información sobre una perspectiva de jugador
-              // Puedes acceder a las propiedades del objeto según tus necesidades
-              echo "Nombre: " . $perspective['name'] . "<br>";
-          }
-      } else {
-          echo "No se encontraron perspectivas de jugador en el JSON.";
-      }
-  } else {
-      echo "El campo 'player_perspectives' no es un array en el JSON.";
-  }
-} else {
-  echo "El campo 'player_perspectives' no está presente en el JSON.";
-}
-
-
-// $playerPerspectives = $data[0]['player_perspectives'];
+// PRUEBAS 2
+// echo "<li class='list-group-item'><strong>Resumen: </strong>".$response['summary']."</li>";
+// echo $response['summary'];
+// $playerPerspectives = $response[0]['player_perspectives'];
 // print_r("VA O NO VA");
 // print_r($playerPerspectives);
 
 
-// foreach ($playerPerspectives as $perspective) {
+
+
+
+
+
+// foreach ($response as $perspective =>$valor) {
 //   // $perspective contiene un objeto con información sobre una perspectiva de jugador
 //   // Puedes acceder a las propiedades del objeto según tus necesidades
-//   echo "Nombre: " . $perspective['name'] . "<br>";
+
+
+
+//   echo ("Creo que muestra algo,...");
+//   // echo $perspective;
+
+//   echo("ES PERSPECTIVA O NO");
+//   echo $valor;
+//   print_r($valor);
+
+//   obtenerPerspectiva($perspective);
+
 // }
 
-// foreach($data as $ninu){
+// foreach($response as $ninu){
 
 //   print_r("Perspectiva ID: ");
 //   print_r($ninu["player_perspectives"]);
@@ -162,24 +174,24 @@ echo "Nombre del juego sin espacios: ".$entradaLimpia;
 // #################################
 
 
-foreach ($data as $cara){
+// foreach ($response as $cara){
 
-  print_r("Caratula ID: ");
-  print_r($cara["cover"]);
-  global $caratula;
-  $caratula=$cara["cover"];
-  // obteneresacosa($caratula);
+//   print_r("Caratula ID: ");
+//   print_r($cara["cover"]);
+//   global $caratula;
+//   $caratula=$cara["cover"];
+//   // obteneresacosa($caratula);
   
 
-};
+// };
 
 // ############################################
 
-// $caratula= $data[0]['cover'];
+// $caratula= $response[0]['cover'];
 // print_r("Caratula ID: ");
 // print_r($caratula);
 
-  return $data;
+  
 
 };
 
@@ -189,9 +201,22 @@ foreach ($data as $cara){
 $resultado = obtenerDatos($juego);
 
 
+// echo "<pre>" . $resultado . "</pre>";
 
 
 
+// echo "<pre>" . $resultado["summary"] . "</pre>";
+
+
+// foreach $resultado as $mira => $toma {
+
+
+
+
+
+
+
+// };
 
 
 

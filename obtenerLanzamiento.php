@@ -6,15 +6,15 @@ require_once('general.php');
 
 
 
-function obtenerPerspectiva($perspective){
-    // $perspective = intval($perspective); // Convertir a entero
+function obtenerFechasalida($fecha){
+    // $fecha = intval($fecha); // Convertir a entero
   $curl = curl_init();
-//   echo "a ver si busca el juego ".$perspective;
-  $query = "fields name; where id = ".$perspective.";"; // Construir la cadena de consulta
+//   echo "a ver si busca el juego ".$fecha;
+  $query = "fields *; where game = ".$fecha.";"; // Construir la cadena de consulta
 // $query = "fields name; where id=1;"; // Construir la cadena de consulta
 
 curl_setopt_array($curl, array(
-    CURLOPT_URL => 'https://api.igdb.com/v4/player_perspectives',
+    CURLOPT_URL => 'https://api.igdb.com/v4/release_dates',
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => '',
     CURLOPT_MAXREDIRS => 10,
@@ -43,14 +43,15 @@ CURLOPT_POSTFIELDS => $query,
 
 
 
-// echo "Datos del JSON EN LA la FUNCION DE OBTENER Perspectiva:\n";
+// echo "Datos del JSON EN LA la FUNCION DE OBTENER LANZAMIENTO:\n";
 
 
 //  print_r($data);
 
 
+//  echo "<-  Datos del JSON EN LA la FUNCION DE OBTENER LANZAMIENTO:\n";
 // ##############################################
-$cara2=$data[0]["name"];
+$cara2=$data[0]["human"];
 // foreach($data as $cara2){
     // if (isset($cara2["player_perspectives"]) && is_array($cara2["player_perspectives"])) {
     //     echo implode(', ', $cara2["player_perspectives"]);
@@ -59,10 +60,10 @@ $cara2=$data[0]["name"];
     // }
   //  print_r("PLAYER_PERSPECTIVE: ");
 //    print_r($cara2[0]["name"]);
-  global $perspectiva;
-//   $perspectiva=$cara2["name"];
-  $perspectiva=$cara2;
-  $html2 ="<li class='list-group-item'><strong>Perspectiva: </strong>".$perspectiva."</li>";
+  global $fecha;
+//   $fecha=$cara2["name"];
+  $fecha=$cara2;
+  $html2 ="<li class='list-group-item'><strong>Lanzado: </strong>".$fecha."</li>";
 
 //     // Imprimir el HTML resultante
 echo $html2;

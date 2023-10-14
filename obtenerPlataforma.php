@@ -6,15 +6,15 @@ require_once('general.php');
 
 
 
-function obtenerPerspectiva($perspective){
-    // $perspective = intval($perspective); // Convertir a entero
+function obtenerPlataforma($plataformas){
+    // $plataformas = intval($plataformas); // Convertir a entero
   $curl = curl_init();
-//   echo "a ver si busca el juego ".$perspective;
-  $query = "fields name; where id = ".$perspective.";"; // Construir la cadena de consulta
+//   echo "a ver si busca el juego ".$plataformas;
+  $query = "fields name; where id = ".$plataformas.";"; // Construir la cadena de consulta
 // $query = "fields name; where id=1;"; // Construir la cadena de consulta
 
 curl_setopt_array($curl, array(
-    CURLOPT_URL => 'https://api.igdb.com/v4/player_perspectives',
+    CURLOPT_URL => 'https://api.igdb.com/v4/platforms',
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => '',
     CURLOPT_MAXREDIRS => 10,
@@ -59,10 +59,10 @@ $cara2=$data[0]["name"];
     // }
   //  print_r("PLAYER_PERSPECTIVE: ");
 //    print_r($cara2[0]["name"]);
-  global $perspectiva;
-//   $perspectiva=$cara2["name"];
-  $perspectiva=$cara2;
-  $html2 ="<li class='list-group-item'><strong>Perspectiva: </strong>".$perspectiva."</li>";
+  global $plataformas;
+//   $plataformas=$cara2["name"];
+  $plataformas=$cara2;
+  $html2 ="<li class='list-group-item'><strong>Plataformas: </strong>".$plataformas."</li>";
 
 //     // Imprimir el HTML resultante
 echo $html2;

@@ -82,8 +82,8 @@
     "player_perspectives": [
       4
     ],
-    "rating": 78.50209676678078,
-    "rating_count": 130,
+    "rating": 78.50356137975443,
+    "rating_count": 131,
     "release_dates": [
       514404,
       514405,
@@ -160,9 +160,9 @@
       17,
       35
     ],
-    "total_rating": 78.50209676678078,
-    "total_rating_count": 130,
-    "updated_at": 1695849968,
+    "total_rating": 78.50356137975443,
+    "total_rating_count": 131,
+    "updated_at": 1697072077,
     "url": "https://www.igdb.com/games/kirby-s-dream-land",
     "videos": [
       764,
@@ -175,7 +175,10 @@
       242723,
       333534
     ],
-    "checksum": "62ca1eef-eeef-ffbe-deab-86f7c98a57a5",
+    "checksum": "8f097e16-a2dc-1b13-86af-51cf24b68870",
+    "remakes": [
+      271258
+    ],
     "language_supports": [
       490516
     ],
@@ -290,8 +293,8 @@
     "player_perspectives": [
       4
     ],
-    "rating": 80.12347235685601,
-    "rating_count": 46,
+    "rating": 80.12762728190819,
+    "rating_count": 47,
     "release_dates": [
       510036,
       510037,
@@ -387,9 +390,9 @@
     "themes": [
       1
     ],
-    "total_rating": 80.12347235685601,
-    "total_rating_count": 46,
-    "updated_at": 1695850017,
+    "total_rating": 80.12762728190819,
+    "total_rating_count": 47,
+    "updated_at": 1697179426,
     "url": "https://www.igdb.com/games/kirby-s-dream-land-2",
     "websites": [
       7644,
@@ -397,7 +400,7 @@
       316011,
       334643
     ],
-    "checksum": "3974706c-5388-261a-c76a-74cb7c7a1f8d",
+    "checksum": "5fbd41cf-d1d3-57ec-ce7a-712b9766a129",
     "language_supports": [
       490595
     ],
@@ -467,7 +470,6 @@
       5673,
       6778,
       7593,
-      10101,
       26191,
       26906,
       27629,
@@ -543,7 +545,6 @@
       536876585,
       536877690,
       536878505,
-      536881013,
       536897103,
       536897818,
       536898541,
@@ -554,7 +555,7 @@
     ],
     "total_rating": 81.55340445144988,
     "total_rating_count": 45,
-    "updated_at": 1695779536,
+    "updated_at": 1697191759,
     "url": "https://www.igdb.com/games/kirby-s-dream-land-3",
     "websites": [
       7647,
@@ -562,7 +563,7 @@
       514014,
       514015
     ],
-    "checksum": "7881fd5a-0a0c-883b-7db5-e5661619721a",
+    "checksum": "4c84be43-eab9-edee-4f28-f98e5d397d97",
     "language_supports": [
       491169
     ],
@@ -1164,7 +1165,7 @@
     ],
     "total_rating": 88.12876700204723,
     "total_rating_count": 53,
-    "updated_at": 1695779381,
+    "updated_at": 1696727490,
     "url": "https://www.igdb.com/games/kirbys-return-to-dream-land",
     "videos": [
       42926,
@@ -1174,7 +1175,7 @@
       7695,
       333880
     ],
-    "checksum": "06b9132b-3fab-08c5-7e8f-a1bab1f1f5d2",
+    "checksum": "2c2baf1f-a5f5-0fbb-57b8-a27cd9264d9a",
     "expanded_games": [
       217565
     ],
@@ -1250,8 +1251,8 @@
     "player_perspectives": [
       4
     ],
-    "rating": 71.77924587457247,
-    "rating_count": 5,
+    "rating": 71.80493404911442,
+    "rating_count": 8,
     "release_dates": [
       388923
     ],
@@ -1285,9 +1286,9 @@
     "themes": [
       1
     ],
-    "total_rating": 78.47295627061956,
-    "total_rating_count": 14,
-    "updated_at": 1693905044,
+    "total_rating": 78.48580035789055,
+    "total_rating_count": 17,
+    "updated_at": 1697022814,
     "url": "https://www.igdb.com/games/kirbys-return-to-dream-land-deluxe",
     "videos": [
       74622,
@@ -1297,7 +1298,7 @@
       311542,
       503706
     ],
-    "checksum": "32d9ec44-df7f-106d-ed0e-0afb0391dedf",
+    "checksum": "e494a2b6-26b4-17c5-5e16-9a538b0cc098",
     "language_supports": [
       340477,
       340478,

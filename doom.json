@@ -121,7 +121,7 @@
     ],
     "total_rating": 89.9030373119926,
     "total_rating_count": 13,
-    "updated_at": 1696583409,
+    "updated_at": 1697301087,
     "url": "https://www.igdb.com/games/doom-ii",
     "version_parent": 312,
     "version_title": "Classic",
@@ -144,7 +144,7 @@
       573170,
       573171
     ],
-    "checksum": "0ab4ae5f-d41e-c8ca-c420-1c8112f34151",
+    "checksum": "b8721a43-4f8e-f2b4-5450-a38a515d8dc0",
     "language_supports": [
       164319,
       164321,
@@ -370,8 +370,8 @@
     "player_perspectives": [
       1
     ],
-    "rating": 85.97374493083295,
-    "rating_count": 1458,
+    "rating": 85.97374897757103,
+    "rating_count": 1460,
     "release_dates": [
       45903,
       45904,
@@ -515,9 +515,9 @@
       18,
       19
     ],
-    "total_rating": 86.47124746541647,
-    "total_rating_count": 1488,
-    "updated_at": 1697052387,
+    "total_rating": 86.47124948878552,
+    "total_rating_count": 1490,
+    "updated_at": 1697303559,
     "url": "https://www.igdb.com/games/doom--2",
     "videos": [
       2664,
@@ -539,7 +539,7 @@
       61572,
       332473
     ],
-    "checksum": "c1e72665-b520-45d7-a7ed-d5db1b7af4bc",
+    "checksum": "1319d8b2-994c-8278-6f97-3fe4c4d29185",
     "ports": [
       76217
     ],
@@ -1406,7 +1406,7 @@
     ],
     "total_rating": 82.67954700379902,
     "total_rating_count": 338,
-    "updated_at": 1696995061,
+    "updated_at": 1697300348,
     "url": "https://www.igdb.com/games/doom-3",
     "videos": [
       107
@@ -1418,7 +1418,7 @@
       64432,
       333433
     ],
-    "checksum": "1790282e-ff82-4b45-ebe6-e9126f4e2799",
+    "checksum": "d18f74ff-021d-e531-0343-25e42ef59efd",
     "remasters": [
       260028
     ],
@@ -1696,7 +1696,6 @@
       149857,
       149858,
       149859,
-      149860,
       149861
     ],
     "alternative_names": [
@@ -1746,6 +1745,16 @@
       193174,
       193175
     ],
+    "keywords": [
+      453,
+      1069,
+      1308,
+      2199,
+      4164,
+      4991,
+      9312,
+      23933
+    ],
     "name": "Doom 64",
     "parent_game": 3471,
     "platforms": [
@@ -1758,8 +1767,8 @@
     "player_perspectives": [
       1
     ],
-    "rating": 88.82892340611109,
-    "rating_count": 12,
+    "rating": 88.84853805449237,
+    "rating_count": 13,
     "release_dates": [
       421617,
       421618,
@@ -1803,9 +1812,9 @@
       18,
       19
     ],
-    "total_rating": 88.82892340611109,
-    "total_rating_count": 12,
-    "updated_at": 1697044132,
+    "total_rating": 88.84853805449237,
+    "total_rating_count": 13,
+    "updated_at": 1697231442,
     "url": "https://www.igdb.com/games/doom-64--1",
     "videos": [
       87383
@@ -1814,11 +1823,11 @@
       322310,
       322311,
       322312,
-      322313,
       322314,
-      509890
+      509890,
+      589229
     ],
-    "checksum": "60ad8675-7fa1-b4ec-feb2-9e59d4eaef7b",
+    "checksum": "343eb172-03c5-a769-58ca-309984205837",
     "language_supports": [
       753404,
       753409,

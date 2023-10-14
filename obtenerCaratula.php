@@ -12,7 +12,7 @@ function obteneresacosa($joder){
     // $joder = intval($joder); // Convertir a entero
   $curl = curl_init();
 //   echo "a ver si busca el juego ".$joder;
-  $query = "fields url; where id = " . $joder.";"; // Construir la cadena de consulta
+  $query = "fields image_id; where id = " . $joder.";"; // Construir la cadena de consulta
   curl_setopt_array($curl, array(
     CURLOPT_URL => 'https://api.igdb.com/v4/covers',
     CURLOPT_RETURNTRANSFER => true,
@@ -50,7 +50,7 @@ echo "Datos del JSON EN LA la FUNCION DE OBTENER CARATULA:\n";
 
 
 global $coverURL2;
-// Obtenemos la ULR dentro del ARRAY (EJEMPLO)
+// Obtenemos la URL ( o el image_id) dentro del ARRAY (EJEMPLO)
 // Array ( [0] => Array
 //  ( [id] => 76903 
 // [url] => //images.igdb.com/igdb/image/upload/t_thumb/co1nc7.jpg ) )
@@ -64,8 +64,11 @@ foreach($data as $cara2){
   // print_r("URL : ");
   // print_r($cara2["url"]);
   global $caratula2;
-  $caratula2=$cara2["url"];
-  $html2 = '<div><img src="' . $caratula2 . '" alt="Carátula del juego"></div>';
+  $caratula2=$cara2["image_id"];
+  // antigua manera
+  // $html2 = '<div><img   id="caratula"   class="card-img-top"; src="' . $caratula2 . '" alt="Carátula del juego"></div>';
+// Nueva manera
+  $html2 = '<div><img   id="caratula"   class="card-img-top;img-fluid"; src="https://images.igdb.com/igdb/image/upload/t_cover_big/' . $caratula2 . '.png" alt="Carátula del juego"></div>';
 
 //     // Imprimir el HTML resultante
 echo $html2;
