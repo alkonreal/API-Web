@@ -50,6 +50,12 @@
         <h5 class="card-title">Card title</h5>
         <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
+      <div class="card">
+      <img src="https://images.igdb.com/igdb/image/upload/t_cover_big/co28fg.png" class="card-img-top;img-fluid" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      </div>
     </div>
   </div>
   </div>
@@ -185,7 +191,7 @@ if (property_exists($tururu, 'category')) {
   } else if ($category == 2) {
       echo "<li class='list-group-item'><strong>Categoria: </strong> Expansión</li>";
   } else if ($category == 3) {
-      echo "<li class='list-group-item'><strong>Categoria: </strong> Paquete</li>";
+      echo "<li class='list-group-item'><strong>Categoria: </strong> Combo</li>";
   } else if ($category == 4) {
       echo "<li class='list-group-item'><strong>Categoria: </strong> Expansión Independiente</li>";
   } else if ($category == 5) {
