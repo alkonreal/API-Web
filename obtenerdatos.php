@@ -22,8 +22,11 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 // ##############;################################################################
 
 
+
  
 function obtenerDatos($juegoABuscar){
+
+
   $curl = curl_init();
   
   curl_setopt_array($curl, array(
@@ -66,15 +69,12 @@ echo "Nombre del juego sin espacios: ".$entradaLimpia;
   // $response = json_decode($response, true);
   global $response2;
  $response2 = json_decode($response);
-//  $summary = $response2[0]->summary;
+//   $summary = $response2[0]->summary;
+  
 // echo "<pre>" . $summary . "</pre>";
-echo ("Que coñondo es el summary?");
+echo ("Que coño es el summary?");
 
 // Categrorias
-
-
-
-
 
 
 

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 268920,
+    "category": 5,
+    "created_at": 1695866811,
+    "first_release_date": 875145600,
+    "genres": [
+      5
+    ],
+    "name": "Hexen Badlands",
+    "parent_game": 3512,
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "release_dates": [
+      520702
+    ],
+    "slug": "hexen-badlands",
+    "summary": "A detailed single player only level for Hexen. Some devious puzzles as well as loads of action. A huge outdoor desert area, with a fort, a castle, a well, a tower and lots of dungeons and cultist places.",
+    "themes": [
+      1
+    ],
+    "updated_at": 1695872109,
+    "url": "https://www.igdb.com/games/hexen-badlands",
+    "websites": [
+      584971
+    ],
+    "checksum": "75351dd3-f7c5-a8a0-ce63-d3c04d4ebb74"
+  }
+]

@@ -7,15 +7,81 @@
   <title>Juegos Jugados</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="estilos.css">
+
+<style>
+#loader {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #3498db;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+  margin: auto;
+  margin-top: 200px;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.hidden {
+  display: none;
+}
+
+
+
+/* #loader2{
+
+
+  margin: auto;
+  margin-top: 300px;
+display: absolute; 
+
+
+} */
+/* .cortar{
+  width:200px;
+  height:20px;
+  padding:20px;
+  border:1px solid blue;
+  text-overflow:ellipsis;
+  white-space:nowrap; 
+  overflow:hidden;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  transition: all 1s;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.cortar:hover {
+  width: 100%;
+  white-space: initial;
+  overflow:visible;
+  cursor: pointer;
+} */
+
+
+</style>
+
+
+
+
+
+
+
+
+
 </head>
 
-<body>
+<body style=";">
 
   <?php include 'general.php'; ?>
   <div class="container mt-5">
     <h1>Formulario con URL</h1>
     <!-- <form method="POST" action="obtenerCaratula.php"> -->
-    <form method="POST" action="">
+    <form method="POST" action="" onsubmit="showLoader()">
       <!-- El formulario enviará los datos a un archivo "procesar.php" -->
       <div class="form-group">
         <label for="texto">Busqueda del juego:</label>
@@ -40,8 +106,8 @@
     <h2>Juego introducido:</h2>
     <?php echo $juego; ?>
   </div>
-<!-- Prueba -->
-
+<!-- Prueba - SI PONGO ESTO, ME SALEN LAS  TARJETAS UNA AL LADO DE LA OTRA....--> 
+<!-- 
   <div class="row row-cols-1 row-cols-md-4 g-4">
   <div class="col">
     <div class="card">
@@ -58,28 +124,59 @@
       </div>
     </div>
   </div>
-  </div>
+  </div> -->
 
-
+  <div id="loader"></div>
+  <!-- <h5 id="loader2"> Esta cargando.... te jodes   </h5> -->
 <!--################################################################# -->
 
+<div class='row row-cols-1 row-cols-md-4 g-2 mx-auto'>
 
   <?php
 
 foreach ($response2 as $tururu){
 
- 
+     // Iniciar el temporizador
+$start = microtime(true);
 
 
-  echo " <div class='row row-cols-1 row-cols-md-2 g-4'>";//inicio etiqueta row
+  // echo " <div class='row row-cols-1 row-cols-md-2 g-4'>";//inicio etiqueta row
  echo "<div class='col'>"; //inicio etiqueta col
-  echo  "<div class='card' style='width: 24rem;'>"; //inicio etiqueta card
-  echo "<h5 class='card-title ' style='text-align:center'>Juego Buscado</h5>";
+  echo  "<div class='card mx-auto' style='width: 22rem;'>"; //inicio etiqueta card
+  
+  // Mostrar la caratula del juego ##########################################################
+
+  // Verificar si la propiedad 'cover' existe
+  if (property_exists($tururu, 'cover')) {
+    obteneresacosa($tururu->cover);
+    $cover = $tururu->cover;
+    if (is_array($cover)) {
+        // Si 'cover' es un array
+        // echo "Player Perspectives: " . implode(', ', $cover);
+          // Obtener las diferentes perspectivas del juego
+  
+    } 
+  } else {
+    // Si 'cover' no existe
+    echo '<div><img   id="caratula" style="width:100%;"  class="card-img-top;img-fluid"; src="img/error.svg" alt="Carátula del juego"></div>';
+
+  
+  }
+   
+   
+
+
+
+
+
+
+
+
+
+  //#############################################
+  echo "<h5 class='card-title ' style='text-align:center'>".$tururu->name."</h5>";
   echo  "<div class='card-body'>";
 
-  // Mostrar la caratula del juego
-  obteneresacosa($tururu->cover);
-  //#############################################
 
   echo " <ul class='list-group'>";
   // echo "<pre>" . $tururu->summary . "</pre>";
@@ -89,8 +186,9 @@ foreach ($response2 as $tururu){
  
 //  SUMMARY RESUMEN #############################################################################
  
- // Verificar si la propiedad 'summary' existe
+  // Verificar si la propiedad 'summary' existe
 if (property_exists($tururu, 'summary')) {
+  echo "<li class='list-group-item'><strong>Resumen: </strong>".$tururu->summary."</li>";
   $summary = $tururu->summary;
   if (is_array($summary)) {
       // Si 'summary' es un array
@@ -100,12 +198,13 @@ if (property_exists($tururu, 'summary')) {
   } 
 } else {
   // Si 'summary' no existe
-  echo "<li class='list-group-item'><strong>Perspectiva: </strong> No hay información del Resumen</strong></li>";
+  echo "<li class='list-group-item'><strong>Resumen </strong> No hay información del Resumen</strong></li>";
 }
  
  
  
-  echo "<li class='list-group-item'><strong>Resumen: </strong>".$tururu->summary."</li>";
+  
+
 
 //#############################################################################
 
@@ -118,12 +217,13 @@ if (property_exists($tururu, 'platforms')) {
       // Si 'platforms' es un array
       // echo "Player Perspectives: " . implode(', ', $platforms);
         // Obtener las diferentes perspectivas del juego
-foreach($platforms as $juju){
+foreach($platforms as $juju2){
   // $pers=$tururu->platforms;
   // print_r("Perspectivas del juego");
-  // print_r($pers);
+  print_r($juju2);
   // print_r($pers[0]);
-  obtenerPlataforma($juju);
+  global $juju2;
+  obtenerPlataforma($juju2);
 };
   } else {
       // // Si 'platforms' no es un array
@@ -134,6 +234,10 @@ foreach($platforms as $juju){
   // Si 'platforms' no existe
   echo "<li class='list-group-item'><strong>Perspectiva: </strong> No hay información de la plataforma</strong></li>";
 }
+
+// Para mostrar las Imagenes de las plataformas
+
+
 
 
 
@@ -304,83 +408,53 @@ foreach($player_perspectives as $juju){
 
 
   echo "</ul>";
+  
+$end = microtime(true);
+$time = $end - $start;
+
+// Imprimir el tiempo transcurrido
+echo "Tiempo transcurrido: " . $time . " segundos EN CARGAR LA INFO DE CADA JUEGO!!";
+
+    print_r($time);
+
+  echo "<div class='card-body ' style='text-align:center;'>";// Apertura del div de los LINKS
+  echo "<a href='$tururu->url' target='_¡blank' class='card-link'>+ INFO</a>";
+ echo "<a href='#' class='card-link'>Añadir a la lista</a>";
+echo "</div>";// Cierre del div de los LINKS
+
+
+
 
   echo "</div>" ;//Cierre card-body
   echo "</div>" ;//Cierre etiqueta card
   echo "</div>" ;//Cierre etiqueta col
-  echo "</div>" ;//Cierre etiqueta row
+  // echo "</div>" ;//Cierre etiqueta row
+
 }; //cierre del Foreach GENERAL
 
 
 
-// Otra manera que hice
 
-// foreach($resultado as $toma){
-
-// echo  "<div class='card-body'>";
-
-// echo "<h5 class='card-title ' style='text-align:center'>Juego Buscado NUEVO</h5>";
-
-// echo " <ul class='list-group'>";
-// obteneresacosa($toma["cover"]);
-// echo "<li class='list-group-item'><strong>ID: </strong>".$toma['id']."</li>";
-// echo "<li class='list-group-item'><strong>Nombre: </strong>".$toma['name']."</li>";
-// echo "<li class='list-group-item'><strong>Resumen: </strong>".$toma['summary']."</li>";
-// echo "<li class='list-group-item'><strong>Plataformas: </strong>".$toma['platforms']."</li>";
-// echo "<li class='list-group-item'><strong>Edades: </strong>".$toma['age_ratings']."</li>";
-// echo "<li class='list-group-item'><strong>Categoria: </strong>".$toma['category']."</li>";
-// echo "<li class='list-group-item'><strong>Lanzado: </strong>".$toma['first_release_date']."</li>";
-
-// // foreach($resultado as $vamos){
-
-// // $pers=$vamos['player_perspectives'];
-// $pers=$toma['player_perspectives'];
-// // print_r("Perspectivas del juego");
-// // print_r($pers);
-// // print_r($pers[0]);
-// obtenerPerspectiva($pers[0]);
-// print_r("FUNCIONA???");
-
-// // };
-// // obtenerPerspectiva($pers);
-// echo "<li class='list-group-item'><strong>Puntuación: </strong>".$toma['rating']."</li>";
-
- 
-
-
-
-
-
-// echo "</ul>";
-
-
-
-// // echo "<div class="card-body  ">
-// // <h5 class="card-title " style="text-align:center">Juego Buscado</h5>
-
-// echo "</div>" ;//Cierre card-body
-
-
-
-
-
-// };
-
-
-
-
-
-
-// echo $response;
 
 ?>
 
 
+</div>
 
-
-
-
-
+<script>
+  // Este script ocultará el cargador después de que la página haya terminado de cargar.
+  window.addEventListener('load', function showLoader(){
+    var loader = document.getElementById('loader');
+    // var loader2 = document.getElementById('loader2');
+    
+    loader.classList.add('hidden')
+    // loader2.classList.add('hidden')
+    setTimeout(function() {
+      loader.classList.add('hidden');
+      // loader2.classList.add('hidden');
+    }, 3000); // Ajusta el tiempo según la duración de tu tarea de procesamiento.
+  });
+</script>
 
 
 </body>

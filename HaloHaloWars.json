@@ -1,0 +1,28 @@
+[
+  {
+    "id": 163108,
+    "age_ratings": [
+      44679
+    ],
+    "category": 3,
+    "cover": 333217,
+    "created_at": 1628356007,
+    "first_release_date": 1262217600,
+    "involved_companies": [
+      194667,
+      194668,
+      194669
+    ],
+    "name": "Halo 3 + Halo Wars",
+    "platforms": [
+      12
+    ],
+    "release_dates": [
+      427097
+    ],
+    "slug": "halo-3-plus-halo-wars",
+    "updated_at": 1695765920,
+    "url": "https://www.igdb.com/games/halo-3-plus-halo-wars",
+    "checksum": "5829810a-2a1f-b627-25af-b6b840d70f51"
+  }
+]

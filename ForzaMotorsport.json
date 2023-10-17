@@ -1,0 +1,1375 @@
+[
+  {
+    "id": 78511,
+    "age_ratings": [
+      155107,
+      155390,
+      155492,
+      155569,
+      155571,
+      155572,
+      155574
+    ],
+    "aggregated_rating": 86.75,
+    "aggregated_rating_count": 7,
+    "alternative_names": [
+      37828
+    ],
+    "artworks": [
+      109609
+    ],
+    "category": 0,
+    "collection": 448,
+    "cover": 308425,
+    "created_at": 1513699883,
+    "external_games": [
+      2709622,
+      2712689,
+      2712995,
+      2715576,
+      2717096,
+      2725572,
+      2725573,
+      2725672,
+      2725966,
+      2747204,
+      2749329,
+      2749686,
+      2749761,
+      2749828,
+      2751965,
+      2751967,
+      2752055,
+      2752235,
+      2754223,
+      2754224
+    ],
+    "first_release_date": 1696896000,
+    "follows": 15,
+    "franchises": [
+      1043
+    ],
+    "game_engines": [
+      1043
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      10,
+      13,
+      14
+    ],
+    "hypes": 27,
+    "involved_companies": [
+      104398,
+      104399
+    ],
+    "keywords": [
+      155,
+      304,
+      778,
+      2478,
+      4205,
+      4647,
+      5789,
+      8281,
+      17083,
+      24972
+    ],
+    "name": "Forza Motorsport",
+    "platforms": [
+      6,
+      169
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "release_dates": [
+      482697,
+      482698,
+      525701
+    ],
+    "screenshots": [
+      394961,
+      394962,
+      810984,
+      810985,
+      810986,
+      810987,
+      810988,
+      810989,
+      810990,
+      810991,
+      810992,
+      1070080,
+      1070081,
+      1070082,
+      1070083,
+      1070084,
+      1070085,
+      1070086,
+      1070087,
+      1070088
+    ],
+    "similar_games": [
+      2159,
+      3772,
+      14363,
+      38967,
+      44242,
+      103218,
+      107196,
+      114286,
+      118871,
+      120126
+    ],
+    "slug": "forza-motorsport--1",
+    "summary": "Out-build the competition in the new career. Race your friends in adjudicated multiplayer events. Compete in over 500 cars on world-famous tracks with cutting-edge AI, advanced physics, tire and fuel strategy, and driver and safety ratings.",
+    "tags": [
+      32,
+      268435466,
+      268435469,
+      268435470,
+      536871067,
+      536871216,
+      536871690,
+      536873390,
+      536875117,
+      536875559,
+      536876701,
+      536879193,
+      536887995,
+      536895884
+    ],
+    "themes": [
+      32
+    ],
+    "total_rating": 86.75,
+    "total_rating_count": 7,
+    "updated_at": 1697452682,
+    "url": "https://www.igdb.com/games/forza-motorsport--1",
+    "videos": [
+      38756,
+      69911,
+      69912,
+      82863,
+      91681,
+      96450
+    ],
+    "websites": [
+      64275,
+      64276,
+      64277,
+      148805,
+      148806,
+      148807,
+      148808,
+      148809,
+      148810,
+      289604
+    ],
+    "checksum": "8cb37124-6e1e-6898-68f9-1dd30825ada4",
+    "language_supports": [
+      708391,
+      708392,
+      708393,
+      733627,
+      733628,
+      733629,
+      733630,
+      733631,
+      733632,
+      733633,
+      733634,
+      733635,
+      733636,
+      733637,
+      733638,
+      733639,
+      733640,
+      733641,
+      733642,
+      733643,
+      733644,
+      733645,
+      733646,
+      733647,
+      733648,
+      733649,
+      733650,
+      733651,
+      733652,
+      733653,
+      733654,
+      733655,
+      733656,
+      733657,
+      733658,
+      733659,
+      733660,
+      733661,
+      733662,
+      733663,
+      733664,
+      733665,
+      815929,
+      815930,
+      815931,
+      815932,
+      815933,
+      815934
+    ],
+    "game_localizations": [
+      26176
+    ]
+  },
+  {
+    "id": 26911,
+    "age_ratings": [
+      116587,
+      116588,
+      116589,
+      116590
+    ],
+    "alternative_names": [
+      127851
+    ],
+    "artworks": [
+      58246
+    ],
+    "category": 0,
+    "collection": 448,
+    "cover": 77987,
+    "created_at": 1485238968,
+    "external_games": [
+      107678,
+      245977,
+      1304374,
+      2160435
+    ],
+    "first_release_date": 1473120000,
+    "follows": 3,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      10
+    ],
+    "keywords": [
+      4355
+    ],
+    "name": "Forza Motorsport 6: Apex",
+    "platforms": [
+      6
+    ],
+    "rating": 70.00966503578518,
+    "rating_count": 7,
+    "release_dates": [
+      120081
+    ],
+    "similar_games": [
+      40470,
+      44178,
+      59341,
+      77104,
+      79334,
+      79547,
+      79859,
+      80068,
+      80382,
+      109292
+    ],
+    "slug": "forza-motorsport-6-apex",
+    "summary": "Apex takes elements from Forza Motorsport 6, brings them up to PC visual standards, and exists as a free game.",
+    "tags": [
+      268435466,
+      536875069,
+      536875267
+    ],
+    "total_rating": 70.00966503578518,
+    "total_rating_count": 7,
+    "updated_at": 1684460517,
+    "url": "https://www.igdb.com/games/forza-motorsport-6-apex",
+    "websites": [
+      333216
+    ],
+    "checksum": "dd977a16-d080-f240-738d-14b697e1473b"
+  },
+  {
+    "id": 36872,
+    "age_ratings": [
+      14569,
+      14570,
+      145322,
+      145323,
+      145324
+    ],
+    "aggregated_rating": 86.14285714285714,
+    "aggregated_rating_count": 16,
+    "alternative_names": [
+      9768
+    ],
+    "artworks": [
+      10327
+    ],
+    "bundles": [
+      83742
+    ],
+    "category": 0,
+    "collection": 448,
+    "cover": 99121,
+    "created_at": 1497000945,
+    "external_games": [
+      102140,
+      210525,
+      253086,
+      1304375,
+      1928410,
+      1931623,
+      1933837,
+      1936071,
+      1936350,
+      1936688,
+      1937250,
+      1938309,
+      2159970
+    ],
+    "first_release_date": 1506988800,
+    "follows": 35,
+    "franchises": [
+      1043
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      10,
+      13
+    ],
+    "hypes": 4,
+    "involved_companies": [
+      50708,
+      50709
+    ],
+    "keywords": [
+      2071,
+      4154,
+      4221,
+      4224,
+      4345,
+      4355,
+      4356,
+      4357,
+      4358,
+      4890,
+      12087,
+      12153,
+      12556,
+      14092,
+      14093,
+      16826,
+      16832,
+      16833
+    ],
+    "name": "Forza Motorsport 7",
+    "platforms": [
+      6,
+      49
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 75.40162195488291,
+    "rating_count": 48,
+    "release_dates": [
+      83736,
+      83774,
+      115807,
+      119684
+    ],
+    "screenshots": [
+      103787,
+      103788,
+      103789,
+      103790,
+      103791
+    ],
+    "similar_games": [
+      1905,
+      3772,
+      11186,
+      19539,
+      26709,
+      27081,
+      27789,
+      28540,
+      36926,
+      36952
+    ],
+    "slug": "forza-motorsport-7",
+    "summary": "Forza Motorsport 7 immerses players in the exhilarating thrill of competitive racing. From mastering the new motorsport-inspired campaign to collecting a wide range of cars to experiencing the excitement of driving at the limit, this is Forza reimagined.",
+    "tags": [
+      268435466,
+      268435469,
+      536872983,
+      536875066,
+      536875133,
+      536875136,
+      536875257,
+      536875267,
+      536875268,
+      536875269,
+      536875270,
+      536875802,
+      536882999,
+      536883065,
+      536883468,
+      536885004,
+      536885005,
+      536887738,
+      536887744,
+      536887745
+    ],
+    "total_rating": 80.77223954887003,
+    "total_rating_count": 64,
+    "updated_at": 1691673328,
+    "url": "https://www.igdb.com/games/forza-motorsport-7",
+    "videos": [
+      14521
+    ],
+    "websites": [
+      39613,
+      58515,
+      58516,
+      58517,
+      58518,
+      340087
+    ],
+    "checksum": "761a66c4-7a0e-7ae2-f737-ec3bc999a0a9"
+  },
+  {
+    "id": 3072,
+    "age_ratings": [
+      1102,
+      67893
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 4,
+    "alternative_names": [
+      30837,
+      30838,
+      41762,
+      41763
+    ],
+    "bundles": [
+      246614
+    ],
+    "category": 0,
+    "collection": 448,
+    "cover": 152873,
+    "created_at": 1382305404,
+    "external_games": [
+      25201,
+      151658,
+      213563,
+      248283,
+      1304369,
+      2161200
+    ],
+    "first_release_date": 1179878400,
+    "follows": 14,
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      10,
+      13,
+      14
+    ],
+    "involved_companies": [
+      21297,
+      21298
+    ],
+    "keywords": [
+      155,
+      271,
+      401,
+      1293,
+      1678,
+      1744,
+      2478,
+      2921,
+      3224,
+      4205,
+      4210,
+      4239,
+      4282,
+      4359,
+      4400,
+      4647,
+      4869,
+      4890,
+      4994,
+      5029,
+      5300,
+      5523,
+      5572,
+      5789,
+      5850,
+      5876,
+      5909,
+      6036,
+      6137,
+      6191,
+      6490,
+      6765,
+      6832,
+      7041,
+      8281,
+      9077,
+      9222,
+      9529,
+      9853,
+      13106
+    ],
+    "name": "Forza Motorsport 2",
+    "platforms": [
+      12
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 78.25583151969224,
+    "rating_count": 49,
+    "release_dates": [
+      6766
+    ],
+    "screenshots": [
+      3359,
+      3360
+    ],
+    "similar_games": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      1594,
+      3047,
+      3068,
+      3073,
+      78511
+    ],
+    "slug": "forza-motorsport-2",
+    "summary": "Forza Motorsport 2 brings Microsoft\u0027s racing sim series to the Xbox 360 with new tracks, new cars, and an impressive livery editor.",
+    "tags": [
+      268435466,
+      268435469,
+      268435470,
+      536871067,
+      536871183,
+      536871313,
+      536872205,
+      536872590,
+      536872656,
+      536873390,
+      536873833,
+      536874136,
+      536875117,
+      536875122,
+      536875151,
+      536875194,
+      536875271,
+      536875312,
+      536875559,
+      536875781,
+      536875802,
+      536875906,
+      536875941,
+      536876212,
+      536876435,
+      536876484,
+      536876701,
+      536876762,
+      536876788,
+      536876821,
+      536876948,
+      536877049,
+      536877103,
+      536877402,
+      536877677,
+      536877744,
+      536877953,
+      536879193,
+      536879989,
+      536880134,
+      536880441,
+      536880765,
+      536884018
+    ],
+    "total_rating": 84.12791575984612,
+    "total_rating_count": 53,
+    "updated_at": 1697223947,
+    "url": "https://www.igdb.com/games/forza-motorsport-2",
+    "videos": [
+      1627
+    ],
+    "websites": [
+      901,
+      136968,
+      335451
+    ],
+    "checksum": "248bdeae-e77a-bc39-6dc4-65b21145688b"
+  },
+  {
+    "id": 3073,
+    "age_ratings": [
+      1103
+    ],
+    "aggregated_rating": 87.75,
+    "aggregated_rating_count": 4,
+    "category": 0,
+    "collection": 448,
+    "cover": 152876,
+    "created_at": 1382305680,
+    "external_games": [
+      24363,
+      140998,
+      1187846
+    ],
+    "first_release_date": 1115078400,
+    "follows": 6,
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      10,
+      13,
+      14
+    ],
+    "involved_companies": [
+      7790,
+      7791
+    ],
+    "keywords": [
+      155,
+      401,
+      1333,
+      1744,
+      2478,
+      4205,
+      4210,
+      4239,
+      4345,
+      4359,
+      4400,
+      4647,
+      4890,
+      5029,
+      5523,
+      5572,
+      5789,
+      5876,
+      5909,
+      6137,
+      6832,
+      8281,
+      9077,
+      9222,
+      9529,
+      13110,
+      13295
+    ],
+    "name": "Forza Motorsport",
+    "platforms": [
+      11
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 84.18089483938942,
+    "rating_count": 26,
+    "release_dates": [
+      428252
+    ],
+    "similar_games": [
+      96,
+      97,
+      98,
+      100,
+      1594,
+      3047,
+      3068,
+      3072,
+      3772,
+      78511
+    ],
+    "slug": "forza-motorsport",
+    "summary": "Racing sim from Microsoft, targeted at gamers who are passionate about cars and racing. Own, customize, and race your favorite cars in the most technologically advanced and realistic driving sim yet. Use race earnings to buy upgrades and aftermarket parts, so you can transform real production cars into high-performance racers. On the track, experience an impressively accurate simulation, while putting your performance-tuned creations to the test against the online gaming world on Xbox Live. Features car models from more than 60 top car manufacturers, customization via decals and team paint-schemes, and vehicle tuning that really affects performance.",
+    "tags": [
+      268435466,
+      268435469,
+      268435470,
+      536871067,
+      536871313,
+      536872245,
+      536872656,
+      536873390,
+      536875117,
+      536875122,
+      536875151,
+      536875257,
+      536875271,
+      536875312,
+      536875559,
+      536875802,
+      536875941,
+      536876435,
+      536876484,
+      536876701,
+      536876788,
+      536876821,
+      536877049,
+      536877744,
+      536879193,
+      536879989,
+      536880134,
+      536880441,
+      536884022,
+      536884207
+    ],
+    "total_rating": 85.96544741969471,
+    "total_rating_count": 30,
+    "updated_at": 1689890842,
+    "url": "https://www.igdb.com/games/forza-motorsport",
+    "videos": [
+      1628
+    ],
+    "websites": [
+      902,
+      345506
+    ],
+    "checksum": "757f125c-c53f-4c99-2e05-8678506ffcc9"
+  },
+  {
+    "id": 3068,
+    "age_ratings": [
+      1095,
+      27533,
+      67894
+    ],
+    "aggregated_rating": 85.71428571428571,
+    "aggregated_rating_count": 11,
+    "category": 0,
+    "collection": 448,
+    "cover": 96228,
+    "created_at": 1382298786,
+    "dlcs": [
+      20824
+    ],
+    "external_games": [
+      25361,
+      126706,
+      213565,
+      247708,
+      1304371,
+      1928307,
+      1930719,
+      1932727,
+      2161198
+    ],
+    "first_release_date": 1318291200,
+    "follows": 26,
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      10,
+      13,
+      14
+    ],
+    "involved_companies": [
+      7776,
+      7777
+    ],
+    "keywords": [
+      155,
+      271,
+      401,
+      1293,
+      1678,
+      2478,
+      3224,
+      4180,
+      4205,
+      4221,
+      4239,
+      4282,
+      4438,
+      4473,
+      4578,
+      4647,
+      4869,
+      4890,
+      5333,
+      5348,
+      5572,
+      5789,
+      5909,
+      6137,
+      6832,
+      8281,
+      9077,
+      9951,
+      9952,
+      11208,
+      11750,
+      11782,
+      11894
+    ],
+    "name": "Forza Motorsport 4",
+    "platforms": [
+      12
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 83.71202405161797,
+    "rating_count": 60,
+    "release_dates": [
+      6759
+    ],
+    "screenshots": [
+      3353,
+      3354,
+      3355
+    ],
+    "similar_games": [
+      97,
+      100,
+      101,
+      1594,
+      3047,
+      3072,
+      3073,
+      3772,
+      8558,
+      78511
+    ],
+    "slug": "forza-motorsport-4",
+    "summary": "Forza Motorsport 4 is a racing video game, and the fourth in the Forza Motorsport series. Like Sony\u0027s Gran Turismo franchise, Forza games are racing simulations; heavy emphasis is placed on making the cars drive and look as realistic as possible. Races are conducted on closed circuit tracks. 500 cars are featured in the core game experience, ranging from road cars to race cars. \n \nPlayers can utilize Kinect to look into a corner using a new head tracking feature. This allows them to look toward the apex of a corner or at nearby cars. The controller or steering wheel is used to control the car while Kinect is used independently for viewing around the driver. Players can also use Kinect as a game controller. In this setting the game automatically accelerates and decelerates the player\u0027s vehicle utilizing a modified version of the feature known as Auto Brake in Forza Motorsport 3. The steering is controlled by placing the players arms out as if controlling an invisible steering wheel. Kinect will allow the player to use voice commands to start races and navigate menus.",
+    "tags": [
+      268435466,
+      268435469,
+      268435470,
+      536871067,
+      536871183,
+      536871313,
+      536872205,
+      536872590,
+      536873390,
+      536874136,
+      536875092,
+      536875117,
+      536875133,
+      536875151,
+      536875194,
+      536875350,
+      536875385,
+      536875490,
+      536875559,
+      536875781,
+      536875802,
+      536876245,
+      536876260,
+      536876484,
+      536876701,
+      536876821,
+      536877049,
+      536877744,
+      536879193,
+      536879989,
+      536880863,
+      536880864,
+      536882120,
+      536882662,
+      536882694,
+      536882806
+    ],
+    "total_rating": 84.71315488295184,
+    "total_rating_count": 71,
+    "updated_at": 1695336455,
+    "url": "https://www.igdb.com/games/forza-motorsport-4",
+    "videos": [
+      34904
+    ],
+    "websites": [
+      897,
+      137994,
+      334890
+    ],
+    "checksum": "64daa9de-8b83-43e3-2152-3f89d4454dca"
+  },
+  {
+    "id": 2131,
+    "age_ratings": [
+      3900,
+      4346,
+      67361
+    ],
+    "aggregated_rating": 78.18181818181819,
+    "aggregated_rating_count": 11,
+    "category": 0,
+    "collection": 448,
+    "cover": 127248,
+    "created_at": 1371816258,
+    "external_games": [
+      26685,
+      118241,
+      245983,
+      1304372,
+      1932120,
+      1933551
+    ],
+    "first_release_date": 1385078400,
+    "follows": 22,
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      10,
+      13,
+      14
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      4620,
+      4621
+    ],
+    "keywords": [
+      778,
+      895,
+      1299,
+      1333,
+      4180,
+      4205,
+      4282,
+      4438,
+      4473,
+      4890,
+      5025,
+      5305,
+      5306,
+      5327,
+      5333,
+      5348,
+      5417,
+      5574,
+      5789,
+      6036,
+      6137,
+      6169,
+      6214
+    ],
+    "name": "Forza Motorsport 5",
+    "platforms": [
+      49
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 75.28283013180035,
+    "rating_count": 44,
+    "release_dates": [
+      6892
+    ],
+    "screenshots": [
+      3440,
+      3441,
+      3442,
+      3443,
+      3444
+    ],
+    "similar_games": [
+      3047,
+      3068,
+      3772,
+      5597,
+      7316,
+      14363,
+      38967,
+      44242,
+      78511,
+      118871
+    ],
+    "slug": "forza-motorsport-5",
+    "summary": "Forza Motorsport 5 is a cinematic automotive journey starring the world’s greatest cars and tracks. Built from the ground up to take advantage of Xbox One and the vast power of the cloud, no game better delivers the wide-eyed thrill of racing.",
+    "tags": [
+      32,
+      268435466,
+      268435469,
+      268435470,
+      536871690,
+      536871807,
+      536872211,
+      536872245,
+      536875092,
+      536875117,
+      536875194,
+      536875350,
+      536875385,
+      536875802,
+      536875937,
+      536876217,
+      536876218,
+      536876239,
+      536876245,
+      536876260,
+      536876329,
+      536876486,
+      536876701,
+      536876948,
+      536877049,
+      536877081,
+      536877126
+    ],
+    "themes": [
+      32
+    ],
+    "total_rating": 76.73232415680927,
+    "total_rating_count": 55,
+    "updated_at": 1692354734,
+    "url": "https://www.igdb.com/games/forza-motorsport-5",
+    "websites": [
+      936,
+      112983,
+      333222
+    ],
+    "checksum": "40e913ee-5bc7-06bb-6415-81099cbf948f"
+  },
+  {
+    "id": 3069,
+    "age_ratings": [
+      48513,
+      67902
+    ],
+    "aggregated_rating": 90.4,
+    "aggregated_rating_count": 7,
+    "category": 0,
+    "collection": 448,
+    "cover": 152872,
+    "created_at": 1382299549,
+    "external_games": [
+      25102,
+      134411,
+      213564,
+      249121,
+      1304370,
+      2161199
+    ],
+    "first_release_date": 1256169600,
+    "follows": 24,
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      10,
+      13,
+      14
+    ],
+    "involved_companies": [
+      7781,
+      7782
+    ],
+    "keywords": [
+      155,
+      4205,
+      6137
+    ],
+    "name": "Forza Motorsport 3",
+    "platforms": [
+      12
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 80.00789158924584,
+    "rating_count": 58,
+    "release_dates": [
+      6760
+    ],
+    "screenshots": [
+      5387,
+      5388,
+      5389
+    ],
+    "similar_games": [
+      3772,
+      44178,
+      78511,
+      107196,
+      116136,
+      116667,
+      117855,
+      118871,
+      119161,
+      120126
+    ],
+    "slug": "forza-motorsport-3",
+    "summary": "Forza Motorsport 3 is a racing video game developed for Xbox 360 by Turn 10 Studios. It was released in October 2009. It is the sequel to Forza Motorsport 2 and the third installment in the Forza Motorsport series. The game includes more than 400 customizable cars (More than 500 cars in the Ultimate Collection version) from 50 manufacturers and more than 100 race track variations with the ability to race up to eight cars on track at a time. These cars vary from production cars to race cars such as those from the American Le Mans Series.[1]",
+    "tags": [
+      268435466,
+      268435469,
+      268435470,
+      536871067,
+      536875117,
+      536877049
+    ],
+    "total_rating": 85.20394579462292,
+    "total_rating_count": 65,
+    "updated_at": 1686022712,
+    "url": "https://www.igdb.com/games/forza-motorsport-3",
+    "websites": [
+      896,
+      136967,
+      336266
+    ],
+    "checksum": "e44c22a2-3683-02d8-8df5-d95b6cd03ff4"
+  },
+  {
+    "id": 8558,
+    "age_ratings": [
+      13103,
+      32471,
+      67832
+    ],
+    "aggregated_rating": 83.64285714285714,
+    "aggregated_rating_count": 16,
+    "category": 0,
+    "collection": 448,
+    "cover": 127249,
+    "created_at": 1421146853,
+    "external_games": [
+      26840,
+      112584,
+      190199,
+      210524,
+      245322,
+      1238117,
+      1304373,
+      1928607,
+      1933625,
+      1937905
+    ],
+    "first_release_date": 1442275200,
+    "follows": 27,
+    "franchises": [
+      1043
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      10,
+      13,
+      14
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      21167,
+      52139
+    ],
+    "keywords": [
+      271,
+      401,
+      1293,
+      1333,
+      1678,
+      2071,
+      3224,
+      4134,
+      4180,
+      4205,
+      4239,
+      4282,
+      4473,
+      4578,
+      4647,
+      4869,
+      4871,
+      5318,
+      5343,
+      5379,
+      5572,
+      5789,
+      5909,
+      6036,
+      6137,
+      6200,
+      6832
+    ],
+    "multiplayer_modes": [
+      8084
+    ],
+    "name": "Forza Motorsport 6",
+    "platforms": [
+      49
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 76.4213646180323,
+    "rating_count": 44,
+    "release_dates": [
+      93355,
+      93356,
+      93357,
+      93358
+    ],
+    "screenshots": [
+      10668,
+      10669,
+      10670,
+      10671,
+      10672
+    ],
+    "similar_games": [
+      97,
+      100,
+      3047,
+      3068,
+      3772,
+      7331,
+      10965,
+      16992,
+      21564,
+      78511
+    ],
+    "slug": "forza-motorsport-6",
+    "summary": "Experience unrelenting action in the most beautiful and comprehensive racing game of this generation. Collect, customize, and race over 450 Forzavista cars, all with working cockpits, opening doors and full damage. Compete in epic 24-player races across 26 world-famous locales. Master wet weather and night racing on your road to victory.",
+    "tags": [
+      1,
+      268435466,
+      268435469,
+      268435470,
+      536871183,
+      536871313,
+      536872205,
+      536872245,
+      536872590,
+      536872983,
+      536874136,
+      536875046,
+      536875092,
+      536875117,
+      536875151,
+      536875194,
+      536875385,
+      536875490,
+      536875559,
+      536875781,
+      536875783,
+      536876230,
+      536876255,
+      536876291,
+      536876484,
+      536876701,
+      536876821,
+      536876948,
+      536877049,
+      536877112,
+      536877744
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 80.03211088044472,
+    "total_rating_count": 60,
+    "updated_at": 1691032542,
+    "url": "https://www.igdb.com/games/forza-motorsport-6",
+    "videos": [
+      3348,
+      4470
+    ],
+    "websites": [
+      51992,
+      51993,
+      51994,
+      332590
+    ],
+    "checksum": "97ed8483-59dc-e0b0-ace6-0cfb85699ff0"
+  },
+  {
+    "id": 83742,
+    "age_ratings": [
+      20982
+    ],
+    "category": 3,
+    "cover": 62823,
+    "created_at": 1516632471,
+    "external_games": [
+      212289
+    ],
+    "first_release_date": 1514764800,
+    "keywords": [
+      4890
+    ],
+    "name": "Forza Motorsport 7 and Forza Horizon 3 Bundle",
+    "platforms": [
+      49
+    ],
+    "rating": 90.0,
+    "rating_count": 0,
+    "release_dates": [
+      147031
+    ],
+    "screenshots": [
+      184546
+    ],
+    "similar_games": [
+      20559,
+      20956,
+      66253,
+      66419,
+      66423,
+      66429,
+      67964,
+      71607,
+      72895,
+      76139
+    ],
+    "slug": "forza-motorsport-7-and-forza-horizon-3-bundle",
+    "summary": "Get two incredible games for one low price! Whether it’s on the track or off the beaten path, get your fix with two of the best-rated racing games ever made. This bundle includes the award-winning Forza Motorsport 7 and Forza Horizon 3 games for both Xbox One and Windows 10 PCs.\n\nFORZA MOTORSPORT 7\nExperience the thrill of motorsport at the limit with the most comprehensive, beautiful and authentic racing game ever made. Enjoy gorgeous graphics at 60fps and native 4K resolution in HDR. Collect and race more than 700 cars across 30 destinations, where race conditions change every time you return to the track.\n\nFORZA HORIZON 3\nYou’re in charge of the Horizon Festival. Customize everything, hire and fire your friends, and explore Australia in over 350 of the world’s greatest cars. Make your Horizon the ultimate celebration of cars, music, and freedom of the open road. How you get there is up to you.",
+    "tags": [
+      536875802
+    ],
+    "total_rating": 90.0,
+    "total_rating_count": 0,
+    "updated_at": 1619543181,
+    "url": "https://www.igdb.com/games/forza-motorsport-7-and-forza-horizon-3-bundle",
+    "checksum": "1518447d-9a64-029c-5d45-7f0ad0fcf51a"
+  }
+]

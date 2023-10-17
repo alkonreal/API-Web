@@ -9,6 +9,14 @@ require_once('general.php');
 
 
 function obteneresacosa($joder){
+
+  // Para saber lo que tarda en recoger cada caratula de un juego
+//     // Iniciar el temporizador
+// $start = microtime(true);
+
+// ######################################################
+
+
     // $joder = intval($joder); // Convertir a entero
   $curl = curl_init();
 //   echo "a ver si busca el juego ".$joder;
@@ -43,7 +51,7 @@ CURLOPT_POSTFIELDS => $query,
 
 
 
-echo "Datos del JSON EN LA la FUNCION DE OBTENER CARATULA:\n";
+// echo "Datos del JSON EN LA la FUNCION DE OBTENER CARATULA:\n";
 
 
 // print_r($data);
@@ -68,7 +76,7 @@ foreach($data as $cara2){
   // antigua manera
   // $html2 = '<div><img   id="caratula"   class="card-img-top"; src="' . $caratula2 . '" alt="Carátula del juego"></div>';
 // Nueva manera
-  $html2 = '<div><img   id="caratula"   class="card-img-top;img-fluid"; src="https://images.igdb.com/igdb/image/upload/t_cover_big/' . $caratula2 . '.png" alt="Carátula del juego"></div>';
+  $html2 = '<div><img   id="caratula" style="width:100%;"  class="card-img-top;img-fluid"; src="https://images.igdb.com/igdb/image/upload/t_cover_big/' . $caratula2 . '.png" alt="Carátula del juego"></div>';
 
 //     // Imprimir el HTML resultante
 echo $html2;
@@ -93,6 +101,16 @@ echo $html2;
 // echo $html;
 // // echo "<br>\n";
 
+
+// Este codigo va en conjunto con el de arriba del temporizador
+// $end = microtime(true);
+// $time = $end - $start;
+
+// // Imprimir el tiempo transcurrido
+// echo "Tiempo transcurrido: " . $time . " segundos";
+
+//     print_r($time);
+//######################################################################
 
 
 

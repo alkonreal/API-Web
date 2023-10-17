@@ -228,8 +228,8 @@
       1,
       2
     ],
-    "rating": 83.94459691723583,
-    "rating_count": 693,
+    "rating": 83.94582982794222,
+    "rating_count": 694,
     "release_dates": [
       22931,
       22932,
@@ -417,9 +417,9 @@
       1,
       18
     ],
-    "total_rating": 85.30563179195124,
-    "total_rating_count": 697,
-    "updated_at": 1697227718,
+    "total_rating": 85.30624824730444,
+    "total_rating_count": 698,
+    "updated_at": 1697465165,
     "url": "https://www.igdb.com/games/halo-combat-evolved",
     "videos": [
       1690
@@ -434,7 +434,7 @@
       577018,
       577019
     ],
-    "checksum": "6811b371-5b74-6ff0-f8c2-71784f15ad71",
+    "checksum": "90084731-8b4e-9ad4-ae31-617c81e2bc54",
     "remasters": [
       2640
     ],
@@ -707,8 +707,8 @@
       1,
       2
     ],
-    "rating": 86.08187900866267,
-    "rating_count": 192,
+    "rating": 86.08250794454413,
+    "rating_count": 193,
     "release_dates": [
       22840,
       180685,
@@ -925,9 +925,9 @@
       18,
       39
     ],
-    "total_rating": 86.04093950433133,
-    "total_rating_count": 209,
-    "updated_at": 1697303959,
+    "total_rating": 86.04125397227207,
+    "total_rating_count": 210,
+    "updated_at": 1697433320,
     "url": "https://www.igdb.com/games/halo-the-master-chief-collection",
     "videos": [
       2762,
@@ -947,7 +947,7 @@
       205181,
       333343
     ],
-    "checksum": "b3aca60c-3adf-3cd8-fc87-3c9d258b84a7",
+    "checksum": "071d597f-d7a6-5571-194e-ffd41851ddfc",
     "language_supports": [
       163854,
       163856,
@@ -2255,8 +2255,8 @@
       1,
       2
     ],
-    "rating": 82.11073316986398,
-    "rating_count": 152,
+    "rating": 82.11328555653554,
+    "rating_count": 153,
     "release_dates": [
       506240,
       506241,
@@ -2355,9 +2355,9 @@
       18,
       38
     ],
-    "total_rating": 84.99981102937643,
-    "total_rating_count": 163,
-    "updated_at": 1697303367,
+    "total_rating": 85.00108722271221,
+    "total_rating_count": 164,
+    "updated_at": 1697476198,
     "url": "https://www.igdb.com/games/halo-infinite",
     "videos": [
       27858,
@@ -2379,7 +2379,7 @@
       205182,
       515133
     ],
-    "checksum": "c6ce696f-7f09-5354-4e3e-2be021cc3ea3",
+    "checksum": "30547267-f63b-98ae-4c09-da5ca5f390c9",
     "language_supports": [
       183510,
       183511,

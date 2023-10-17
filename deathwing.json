@@ -1,0 +1,527 @@
+[
+  {
+    "id": 6879,
+    "age_ratings": [
+      110208
+    ],
+    "aggregated_rating": 59.88888888888889,
+    "aggregated_rating_count": 11,
+    "artworks": [
+      29073
+    ],
+    "category": 0,
+    "collection": 947,
+    "cover": 99559,
+    "created_at": 1400787920,
+    "external_games": [
+      11091,
+      75284,
+      82969,
+      90329,
+      94207,
+      94208,
+      98907,
+      117184,
+      248582,
+      2175463
+    ],
+    "first_release_date": 1481673600,
+    "follows": 21,
+    "franchise": 6,
+    "franchises": [
+      6
+    ],
+    "game_engines": [
+      6
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5,
+      25,
+      31
+    ],
+    "hypes": 15,
+    "involved_companies": [
+      16386,
+      39163,
+      41320
+    ],
+    "keywords": [
+      453,
+      947,
+      1697,
+      1704,
+      4883,
+      5343
+    ],
+    "multiplayer_modes": [
+      7544
+    ],
+    "name": "Space Hulk: Deathwing",
+    "platforms": [
+      6,
+      48,
+      49
+    ],
+    "player_perspectives": [
+      1
+    ],
+    "rating": 59.78749556968231,
+    "rating_count": 5,
+    "release_dates": [
+      56089,
+      62056,
+      134129,
+      134130
+    ],
+    "screenshots": [
+      5429,
+      10342,
+      10343,
+      10344,
+      10345
+    ],
+    "similar_games": [
+      1877,
+      19564,
+      28070,
+      55038,
+      103292,
+      103301,
+      103329,
+      105269,
+      107318,
+      115283
+    ],
+    "slug": "space-hulk-deathwing",
+    "storyline": "\"A colossal mass of derelict ships, asteroids and debris, known as a Space Hulk, has spilled from the Warp. It’s entered into a system where the Imperium is already beset by a Tyranid hive swarm - the immense Space Hulk is dubbed ‘Olethros’.\n\nThe Dark Angels Chapter of the Space Marines answer the astropathic emergency calls from beleaguered worlds in the system. However, it’s a more important quest that ultimately draws the Dark Angels to the warzone.\n\nAzrael - Supreme Grand Master of the Dark Angels - receives dire premonitions from his psychic Librarians and dispatches a strike fleet to Olethros. Belial – Grandmaster of Dark Angels’ 1st Company, the Deathwing – is charged with boarding the Space Hulk.\n\nAzrael’s psykers believe the strange visions emanating from Olethros foretell disaster. Not only this, but they seem intrinsically linked with the distant past of the Dark Angels chapter.\n\nYou are the Librarian who has been chosen to enter the Genestealer-infested Space Hulk with your squad. In Space Hulk: Deathwing, you’ll venture deep into Olethros in order to uncover the dark secrets within…\"",
+    "summary": "Space Hulk: Deathwing is a First-Person Shooter experience of Games Workshop\u0027s classic Space Hulk boardgame set in the universe of Warhammer 40,000, developed on Unreal Engine 4 by Streum On Studio, the team behind E.Y.E: Divine Cybermancy. Published by Focus Home Interactive and co-produced by Cyanide Studio, Space Hulk: Deathwing offers players the chance to experience a desperate battle against Genestealers in the claustrophobic tunnels of a Space Hulk, as they will gain skills, new abilities and new equipment thanks to experience earned during perilous missions.\n\nSpace Hulks drift along the currents of the Warp, the immaterial dimension of Chaos. Made up of gigantic mangled asteroids, derelict ship wrecks and other spatial debris, they sometimes grow to the size of a moon and often contain treasured and ancient lost technologies. However, they are ripe with danger including infestations of the lethal Genestealers.\n\nPlayers take on the role of a Space Marine from one of the most secret and most feared Space Marine Companies: the Deathwing from the Dark Angels. Strap on your Terminator armour and equip the emblematic weaponry of the Space Marines to overcome the threats awaiting you in the Space Hulk. As a Librarian, you will also master the destructive powers of the Psykers. Your skills and performance in battle grant you Fervor Points, to spend on 4 skill trees allowing you to improve your abilities, unlock new powers, access powerful relics and devastating new weapons.",
+    "tags": [
+      1,
+      18,
+      268435461,
+      268435481,
+      268435487,
+      536871365,
+      536871859,
+      536872609,
+      536872616,
+      536875795,
+      536876255
+    ],
+    "themes": [
+      1,
+      18
+    ],
+    "total_rating": 59.8381922292856,
+    "total_rating_count": 16,
+    "updated_at": 1695841783,
+    "url": "https://www.igdb.com/games/space-hulk-deathwing",
+    "videos": [
+      2712,
+      3609,
+      9689,
+      10242,
+      10880,
+      10881,
+      11045,
+      11195,
+      11307
+    ],
+    "websites": [
+      15113,
+      15114,
+      15115,
+      15116,
+      66457,
+      335741
+    ],
+    "checksum": "e74db7b4-f9bb-0761-e743-be45a171ac85",
+    "expanded_games": [
+      95068
+    ],
+    "language_supports": [
+      401121,
+      401122,
+      401123,
+      401124,
+      401125,
+      401126,
+      401127,
+      401128,
+      401129
+    ]
+  },
+  {
+    "id": 95068,
+    "age_ratings": [
+      50328,
+      116213,
+      116214,
+      124474,
+      125364
+    ],
+    "aggregated_rating": 65.66666666666667,
+    "aggregated_rating_count": 4,
+    "artworks": [
+      4895
+    ],
+    "bundles": [
+      118863,
+      194260
+    ],
+    "category": 10,
+    "cover": 96095,
+    "created_at": 1521818067,
+    "dlcs": [
+      154596
+    ],
+    "external_games": [
+      827850,
+      1037619,
+      1930510,
+      2000897,
+      2069509,
+      2159663,
+      2176751,
+      2220857
+    ],
+    "first_release_date": 1526947200,
+    "follows": 3,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      5,
+      31
+    ],
+    "involved_companies": [
+      67733,
+      67734
+    ],
+    "keywords": [
+      466
+    ],
+    "name": "Space Hulk: Deathwing - Enhanced Edition",
+    "parent_game": 6879,
+    "platforms": [
+      6,
+      48
+    ],
+    "rating": 50.0,
+    "rating_count": 3,
+    "release_dates": [
+      149710,
+      411622
+    ],
+    "screenshots": [
+      204014,
+      204015,
+      204016,
+      204017,
+      204018,
+      204019,
+      204020,
+      204021
+    ],
+    "similar_games": [
+      1877,
+      19164,
+      25311,
+      55038,
+      103292,
+      103301,
+      103329,
+      105269,
+      106805,
+      107318
+    ],
+    "slug": "space-hulk-deathwing-enhanced-edition",
+    "summary": "Space Hulk: Deathwing - Enhanced Edition is a First-Person Shooter for PS4 and PC based on Games Workshop’s cult classic board game set in Warhammer 40,000 universe. Expanding upon the original game, and featuring a host of new content, new features and a richer multiplayer mode, the Enhanced Edition is the ultimate Space Hulk: Deathwing experience on PC and for the first time on PlayStation 4\n\nPlay as a Terminator of the Deathwing – the feared 1st Company comprised of the elite of the secretive Space Marine Chapter, the Dark Angels – and engage in a desperate battle against Genestealers, within the claustrophobic confines of a Space Hulk. Grow stronger, gaining skills, new abilities, and powerful equipment as you earn experience across perilous missions. The Enhanced Edition brings a host of fresh features to enjoy in both solo and multiplayer: a new class, an expanded arsenal, deadly new enemies , a deep online customisation system, and a new Special Missions mode bringing infinite replayability with randomly-generated missions for every game chapter.\n\nThis edition marks the game’s first release on PlayStation 4, with all its additional content available through free updates for all present and future Space Hulk: Deathwing players on PC. Strap on your Terminator armour and equip the iconic weaponry of the Space Marines to overcome the threats lurking deep within Space Hulk Olethros!",
+    "tags": [
+      1,
+      18,
+      268435461,
+      268435487,
+      536871378,
+      536889169
+    ],
+    "themes": [
+      1,
+      18
+    ],
+    "total_rating": 57.83333333333334,
+    "total_rating_count": 7,
+    "updated_at": 1697289621,
+    "url": "https://www.igdb.com/games/space-hulk-deathwing-enhanced-edition",
+    "videos": [
+      20091
+    ],
+    "websites": [
+      77721,
+      85915,
+      194605,
+      453885
+    ],
+    "checksum": "99e1e5f2-9f22-1336-3c62-a0a766aea3df",
+    "language_supports": [
+      95752,
+      95753,
+      95754,
+      95755,
+      95756,
+      95757,
+      95758,
+      95759,
+      95760,
+      95761,
+      95762,
+      95763,
+      95764,
+      95765,
+      95766
+    ]
+  },
+  {
+    "id": 154595,
+    "age_ratings": [
+      107451
+    ],
+    "artworks": [
+      40521
+    ],
+    "category": 0,
+    "cover": 200391,
+    "created_at": 1625301270,
+    "external_games": [
+      2070300,
+      2176754
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      31
+    ],
+    "name": "Space Hulk: Deathwing - Enhanced Edition Deluxe",
+    "screenshots": [
+      512458,
+      512461,
+      512462,
+      512464,
+      512466,
+      512468,
+      512470,
+      512471
+    ],
+    "similar_games": [
+      25311,
+      55038,
+      86477,
+      87622,
+      89550,
+      103292,
+      105269,
+      107318,
+      111130,
+      115283
+    ],
+    "slug": "space-hulk-deathwing-enhanced-edition-deluxe",
+    "summary": "Space Hulk: Deathwing \u0026ndash Enhanced Edition - Deluxe, includes the base game and the Official Soundtrack.",
+    "tags": [
+      1,
+      18,
+      268435487
+    ],
+    "themes": [
+      1,
+      18
+    ],
+    "updated_at": 1697281436,
+    "url": "https://www.igdb.com/games/space-hulk-deathwing-enhanced-edition-deluxe",
+    "version_parent": 95068,
+    "version_title": "Deluxe",
+    "videos": [
+      84674
+    ],
+    "websites": [
+      196068
+    ],
+    "checksum": "cbe2131c-025b-f75f-5df0-8903c2b21cc6",
+    "language_supports": [
+      485791,
+      485792,
+      485794,
+      485795,
+      485796,
+      485797,
+      485798,
+      485799
+    ]
+  },
+  {
+    "id": 154596,
+    "age_ratings": [
+      107380
+    ],
+    "artworks": [
+      40520
+    ],
+    "category": 1,
+    "cover": 208818,
+    "created_at": 1625301274,
+    "external_games": [
+      2043339,
+      2069654
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      31
+    ],
+    "name": "Space Hulk: Deathwing - Enhanced Edition: Infested Mines",
+    "parent_game": 95068,
+    "screenshots": [
+      512463,
+      512465,
+      512467,
+      512469
+    ],
+    "similar_games": [
+      25311,
+      55038,
+      86477,
+      87622,
+      89550,
+      103292,
+      105269,
+      107318,
+      111130,
+      115283
+    ],
+    "slug": "space-hulk-deathwing-enhanced-edition-infested-mines",
+    "summary": "Enjoy free new content for Space Hulk: Deathwing – Enhanced Edition! Lead your squad through dark, xenos-filled corridors and caverns in the imposing new environments of the Infested Mines. This DLC is free for all Space Hulk: Deathwing – Enhanced Edition owners.",
+    "tags": [
+      1,
+      18,
+      268435487
+    ],
+    "themes": [
+      1,
+      18
+    ],
+    "updated_at": 1696856849,
+    "url": "https://www.igdb.com/games/space-hulk-deathwing-enhanced-edition-infested-mines",
+    "websites": [
+      196067,
+      224810,
+      224811
+    ],
+    "checksum": "4e5f1854-19e4-93fe-4049-35f23fd5ecce",
+    "language_supports": [
+      321279,
+      321280,
+      321281,
+      321282,
+      321283,
+      321284,
+      321285,
+      321286,
+      321287,
+      321288,
+      321289,
+      321290,
+      321291
+    ]
+  },
+  {
+    "id": 194260,
+    "age_ratings": [
+      63805
+    ],
+    "artworks": [
+      71273
+    ],
+    "category": 3,
+    "cover": 212864,
+    "created_at": 1646988946,
+    "external_games": [
+      2289315,
+      2327946
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      31
+    ],
+    "name": "Shooter Dual Pack I Necromunda: Hired Gun + Space Hulk: Deathwing - Enhanced Edition",
+    "screenshots": [
+      757138,
+      757139,
+      757140,
+      757141,
+      757142,
+      757143,
+      757144,
+      757145,
+      757146,
+      757147
+    ],
+    "similar_games": [
+      25646,
+      55199,
+      76253,
+      87622,
+      96217,
+      103292,
+      106805,
+      106987,
+      111130,
+      115280
+    ],
+    "slug": "shooter-dual-pack-i-necromunda-hired-gun-plus-space-hulk-deathwing-enhanced-edition",
+    "summary": "The Shooter Dual Pack includes:\n- Necromunda: Hired Gun\n- Space Hulk: Deathwing - Enhanced Edition at a reduced price.",
+    "tags": [
+      1,
+      268435487
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1697367846,
+    "url": "https://www.igdb.com/games/shooter-dual-pack-i-necromunda-hired-gun-plus-space-hulk-deathwing-enhanced-edition",
+    "videos": [
+      66275,
+      66276
+    ],
+    "websites": [
+      269897
+    ],
+    "checksum": "fee121dd-a628-b982-08ca-c020466cca17",
+    "language_supports": [
+      482049,
+      482050,
+      482051,
+      482052,
+      482053,
+      482054,
+      482055,
+      482056,
+      482057,
+      482058,
+      482059
+    ]
+  }
+]

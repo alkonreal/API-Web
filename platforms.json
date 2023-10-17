@@ -1,7 +1,5 @@
-PLATAFORMAS
-
 {
-    "consoles": [
+    "platforms": [
         {
             "id": 4,
             "alternative_name": "N64",
