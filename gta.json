@@ -148,8 +148,8 @@
     "player_perspectives": [
       3
     ],
-    "rating": 77.96030811463669,
-    "rating_count": 123,
+    "rating": 77.95749964884095,
+    "rating_count": 125,
     "release_dates": [
       7476,
       7478,
@@ -280,9 +280,9 @@
       33,
       38
     ],
-    "total_rating": 83.48015405731834,
-    "total_rating_count": 135,
-    "updated_at": 1695217429,
+    "total_rating": 83.47874982442048,
+    "total_rating_count": 137,
+    "updated_at": 1697049764,
     "url": "https://www.igdb.com/games/grand-theft-auto-chinatown-wars",
     "videos": [
       1811
@@ -294,7 +294,7 @@
       123254,
       342171
     ],
-    "checksum": "e49e0af1-13f5-1315-446d-98c76a330ba9"
+    "checksum": "85b26852-6376-1344-ef5f-04ff6a8d00a7"
   },
   {
     "id": 45131,
@@ -342,8 +342,8 @@
       1,
       2
     ],
-    "rating": 99.61549769615962,
-    "rating_count": 33,
+    "rating": 99.60530292149895,
+    "rating_count": 34,
     "release_dates": [
       94075,
       159145
@@ -381,13 +381,13 @@
       27,
       38
     ],
-    "total_rating": 99.61549769615962,
-    "total_rating_count": 33,
-    "updated_at": 1695068305,
+    "total_rating": 99.60530292149895,
+    "total_rating_count": 34,
+    "updated_at": 1696912724,
     "url": "https://www.igdb.com/games/grand-theft-auto-v-special-edition",
     "version_parent": 1020,
     "version_title": "Special Edition",
-    "checksum": "a06055a5-a511-c718-007e-37e9e6b2b67f"
+    "checksum": "00846203-c058-b42b-084e-751fc732a804"
   },
   {
     "id": 27912,
@@ -451,8 +451,8 @@
     "player_perspectives": [
       2
     ],
-    "rating": 88.01701537540671,
-    "rating_count": 48,
+    "rating": 88.02464904328254,
+    "rating_count": 51,
     "release_dates": [
       189906,
       211239,
@@ -500,9 +500,9 @@
       33,
       38
     ],
-    "total_rating": 88.01701537540671,
-    "total_rating_count": 48,
-    "updated_at": 1695072151,
+    "total_rating": 88.02464904328254,
+    "total_rating_count": 51,
+    "updated_at": 1697049684,
     "url": "https://www.igdb.com/games/grand-theft-auto-iv-complete-edition",
     "videos": [
       97269
@@ -512,7 +512,7 @@
       312862,
       322977
     ],
-    "checksum": "1cca0676-0935-0b32-d34c-51437952e0b8",
+    "checksum": "791b3c99-2ff9-ad33-acf2-54878e192fe7",
     "language_supports": [
       512057,
       512058,
@@ -600,8 +600,8 @@
       1,
       2
     ],
-    "rating": 93.51553033413408,
-    "rating_count": 33,
+    "rating": 93.47653021221318,
+    "rating_count": 34,
     "release_dates": [
       189410,
       189411,
@@ -622,7 +622,7 @@
       103292,
       103303,
       105011,
-      113111,
+      106805,
       115785,
       119161
     ],
@@ -642,16 +642,16 @@
       27,
       38
     ],
-    "total_rating": 93.51553033413408,
-    "total_rating_count": 33,
-    "updated_at": 1695639580,
+    "total_rating": 93.47653021221318,
+    "total_rating_count": 34,
+    "updated_at": 1697800478,
     "url": "https://www.igdb.com/games/grand-theft-auto-v-premium-online-edition",
     "version_parent": 1020,
     "version_title": "Premium Online Edition",
     "websites": [
       218027
     ],
-    "checksum": "a9831a08-3dfc-4855-6c10-f26d02eb60fc",
+    "checksum": "aea26859-62e2-18df-6e19-9012806cad3e",
     "game_localizations": [
       24081
     ]
@@ -711,12 +711,12 @@
     "themes": [
       1
     ],
-    "updated_at": 1695112477,
+    "updated_at": 1696491470,
     "url": "https://www.igdb.com/games/prison-life-simulator-2022-world-fight-battle-gta-ultimate",
     "websites": [
       494205
     ],
-    "checksum": "d37b6c7c-d505-03c6-726c-29a45c140334",
+    "checksum": "1301e88b-9cc6-c836-d87b-cfe663232fe9",
     "language_supports": [
       506243
     ]
@@ -858,7 +858,7 @@
       318144,
       318145
     ],
-    "checksum": "a0a481ad-35c6-8b5d-0934-8cc49dc10d99"
+    "checksum": "715de7d4-3c7c-03ed-144e-6afd0942c1bf"
   },
   {
     "id": 732,
@@ -1043,8 +1043,8 @@
       1,
       2
     ],
-    "rating": 90.64567566705576,
-    "rating_count": 2690,
+    "rating": 90.5608902302782,
+    "rating_count": 2726,
     "release_dates": [
       1613,
       3317,
@@ -1178,9 +1178,9 @@
       23,
       38
     ],
-    "total_rating": 91.89426640495645,
-    "total_rating_count": 2697,
-    "updated_at": 1695648147,
+    "total_rating": 91.85187368656767,
+    "total_rating_count": 2733,
+    "updated_at": 1697741511,
     "url": "https://www.igdb.com/games/grand-theft-auto-san-andreas",
     "videos": [
       19022,
@@ -1198,7 +1198,7 @@
       72599,
       516689
     ],
-    "checksum": "5bd96a5b-362f-9db5-4f4e-72d2760e5ccc",
+    "checksum": "350cfa25-b3fc-b31c-446e-b1ac91384b34",
     "remasters": [
       178126
     ],
@@ -1209,299 +1209,6 @@
     ],
     "game_localizations": [
       25680
-    ]
-  },
-  {
-    "id": 731,
-    "age_ratings": [
-      44861,
-      47886,
-      47887,
-      47888,
-      47889,
-      47890,
-      48125
-    ],
-    "aggregated_rating": 88.125,
-    "aggregated_rating_count": 10,
-    "alternative_names": [
-      52711,
-      52712,
-      52713,
-      52714,
-      52715,
-      52716,
-      52717,
-      52718,
-      52719
-    ],
-    "artworks": [
-      2617,
-      2618,
-      2619,
-      2620,
-      2621,
-      2622,
-      2623,
-      2624,
-      2625,
-      2626,
-      2627
-    ],
-    "bundles": [
-      27912
-    ],
-    "category": 0,
-    "collection": 847,
-    "cover": 120955,
-    "created_at": 1317748962,
-    "external_games": [
-      14732,
-      72528,
-      79998,
-      85119,
-      94449,
-      94521,
-      96678,
-      96679,
-      138457,
-      189565,
-      213605,
-      245435,
-      403693,
-      1304316,
-      1304317,
-      1931906,
-      1935320,
-      1937284,
-      2083016,
-      2161117,
-      2587723
-    ],
-    "first_release_date": 1209427200,
-    "follows": 467,
-    "franchises": [
-      493
-    ],
-    "game_engines": [
-      26
-    ],
-    "game_modes": [
-      1,
-      2
-    ],
-    "genres": [
-      5,
-      10,
-      31
-    ],
-    "involved_companies": [
-      5701,
-      5702,
-      5703,
-      20017
-    ],
-    "keywords": [
-      21,
-      54,
-      57,
-      72,
-      109,
-      129,
-      155,
-      221,
-      222,
-      284,
-      299,
-      441,
-      735,
-      889,
-      977,
-      1313,
-      1403,
-      1669,
-      1971,
-      2002,
-      2071,
-      2452,
-      3586,
-      4615,
-      4709,
-      4852,
-      4884,
-      4918,
-      5264,
-      5323,
-      5377,
-      5468,
-      5474,
-      5480,
-      5633,
-      5836,
-      6066,
-      6075,
-      6469,
-      7335,
-      8150,
-      8157,
-      8170,
-      8263,
-      8272,
-      8281,
-      8828,
-      11635,
-      17215,
-      24168,
-      38555
-    ],
-    "multiplayer_modes": [
-      1709,
-      8573
-    ],
-    "name": "Grand Theft Auto IV",
-    "platforms": [
-      6,
-      9,
-      12
-    ],
-    "player_perspectives": [
-      2
-    ],
-    "rating": 83.40179577468868,
-    "rating_count": 1382,
-    "release_dates": [
-      1609,
-      3315,
-      3316,
-      103341,
-      103342,
-      103343
-    ],
-    "screenshots": [
-      442,
-      443,
-      444,
-      445,
-      446
-    ],
-    "similar_games": [
-      730,
-      732,
-      733,
-      819,
-      980,
-      1020,
-      1121,
-      1267,
-      3262,
-      19441
-    ],
-    "slug": "grand-theft-auto-iv",
-    "standalone_expansions": [
-      3174,
-      3265
-    ],
-    "storyline": "Grand Theft Auto IV follows the story of Niko Bellic, a veteran of an unnamed war in Eastern Europe, who is haunted by the betrayal of his 15 man army unit. Ten years later, after a smuggling run goes bad due to a betrayal from a partner, Niko leaves Eastern Europe[23] to escape the anger of his employer, Ray Bulgarin. After six months in the merchant navy (serving aboard the cargo ship the Platypus), and believing the stories of his cousin Roman, Niko comes to Liberty City to pursue the American Dream as well as searching for the traitor of his unit. After his arrival, however, Niko quickly learns that Roman\u0027s tales of riches and luxury were lies concealing struggles with gambling debts and loansharks, and that Roman lives in a dirty apartment rather than a mansion.",
-    "summary": "Grand Theft Auto IV is an action-adventure video game developed by Rockstar North and published by Rockstar Games. It is the eleventh title in the Grand Theft Auto series, and the first main entry since 2004\u0027s Grand Theft Auto: San Andreas.\n\nThe game is played from a third-person perspective and its world is navigated on-foot or by vehicle. Throughout the single-player mode, players play as Niko Bellic. An online multiplayer mode is included with the game, allowing up to 32 players to engage in both co-operative and competitive gameplay in a recreation of the single-player setting.\n\nTwo expansion packs were later released for the game, The Lost and Damned and The Ballad of Gay Tony, which both feature new plots that are interconnected with the main Grand Theft Auto IV storyline, and follow new protagonists.",
-    "tags": [
-      1,
-      38,
-      268435461,
-      268435466,
-      268435487,
-      536870933,
-      536870966,
-      536870969,
-      536870984,
-      536871021,
-      536871041,
-      536871067,
-      536871133,
-      536871134,
-      536871196,
-      536871211,
-      536871353,
-      536871647,
-      536871801,
-      536871889,
-      536872225,
-      536872315,
-      536872581,
-      536872883,
-      536872914,
-      536872983,
-      536873364,
-      536874498,
-      536875527,
-      536875621,
-      536875764,
-      536875796,
-      536875830,
-      536876176,
-      536876235,
-      536876289,
-      536876380,
-      536876386,
-      536876392,
-      536876545,
-      536876748,
-      536876978,
-      536876987,
-      536877381,
-      536878247,
-      536879062,
-      536879069,
-      536879082,
-      536879175,
-      536879184,
-      536879193,
-      536879740,
-      536882547,
-      536888127,
-      536895080,
-      536909467
-    ],
-    "themes": [
-      1,
-      38
-    ],
-    "total_rating": 85.76339788734434,
-    "total_rating_count": 1392,
-    "updated_at": 1695646318,
-    "url": "https://www.igdb.com/games/grand-theft-auto-iv",
-    "videos": [
-      2707,
-      76019,
-      76021
-    ],
-    "websites": [
-      16207,
-      67028,
-      123252,
-      123253,
-      332699
-    ],
-    "checksum": "76191f7f-3bde-c1a9-04ae-ca7d05543d30",
-    "language_supports": [
-      54460,
-      54461,
-      54462,
-      54463,
-      54464,
-      54465,
-      54466,
-      54467,
-      54468,
-      54469,
-      54470,
-      162638,
-      162640,
-      162643,
-      162651,
-      162653
-    ],
-    "game_localizations": [
-      25745
     ]
   },
   {
@@ -1891,8 +1598,8 @@
       1,
       2
     ],
-    "rating": 89.92634833530978,
-    "rating_count": 3978,
+    "rating": 89.88956709392045,
+    "rating_count": 4031,
     "release_dates": [
       20290,
       20291,
@@ -2150,9 +1857,9 @@
       33,
       38
     ],
-    "total_rating": 89.03213968489626,
-    "total_rating_count": 4015,
-    "updated_at": 1695661679,
+    "total_rating": 89.0137490642016,
+    "total_rating_count": 4068,
+    "updated_at": 1697875373,
     "url": "https://www.igdb.com/games/grand-theft-auto-v",
     "videos": [
       710,
@@ -2172,7 +1879,7 @@
       141326,
       514612
     ],
-    "checksum": "55068dcc-ecc9-2953-17b9-507410edebfe",
+    "checksum": "db1aef32-0ba2-7dd2-7e55-f39df2da5a3a",
     "language_supports": [
       21176,
       21178,
@@ -2206,5 +1913,61 @@
       1479,
       1480
     ]
+  },
+  {
+    "id": 52189,
+    "alternative_names": [
+      9263,
+      9265,
+      139291
+    ],
+    "category": 0,
+    "collection": 847,
+    "created_at": 1501144586,
+    "external_games": [
+      100649
+    ],
+    "follows": 5,
+    "franchises": [
+      493
+    ],
+    "genres": [
+      5,
+      31
+    ],
+    "hypes": 17,
+    "involved_companies": [
+      98111,
+      187811
+    ],
+    "name": "Grand Theft Auto VI",
+    "similar_games": [
+      55038,
+      75242,
+      76877,
+      87622,
+      95340,
+      103292,
+      105269,
+      106805,
+      107318,
+      111130
+    ],
+    "slug": "grand-theft-auto-vi",
+    "summary": "The next entry in the Grand Theft Auto series.",
+    "tags": [
+      1,
+      268435461,
+      268435487
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1696855956,
+    "url": "https://www.igdb.com/games/grand-theft-auto-vi",
+    "websites": [
+      332289
+    ],
+    "checksum": "7a9eb232-4293-d913-b217-1fe996a3d0b5"
   }
 ]

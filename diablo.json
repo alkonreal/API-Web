@@ -1,0 +1,1757 @@
+[
+  {
+    "id": 3182,
+    "age_ratings": [
+      43870,
+      48153,
+      117299
+    ],
+    "aggregated_rating": 88.61538461538461,
+    "aggregated_rating_count": 12,
+    "alternative_names": [
+      30620,
+      67634,
+      67641,
+      67642,
+      69695,
+      69696,
+      69697,
+      69698,
+      69699,
+      69700,
+      69701,
+      86628
+    ],
+    "bundles": [
+      47452,
+      136083
+    ],
+    "category": 2,
+    "collection": 24,
+    "cover": 161277,
+    "created_at": 1384856392,
+    "external_games": [
+      40564,
+      117334,
+      213425,
+      1304709,
+      1934372,
+      1935627,
+      2162858
+    ],
+    "first_release_date": 1395705600,
+    "follows": 158,
+    "franchises": [
+      2417
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      25,
+      31
+    ],
+    "hypes": 8,
+    "involved_companies": [
+      19457,
+      19458
+    ],
+    "keywords": [
+      1102,
+      2002,
+      2472,
+      2498,
+      4918,
+      5306,
+      5308,
+      5323,
+      5327,
+      5600,
+      5806,
+      6648,
+      7096,
+      7458
+    ],
+    "multiplayer_modes": [
+      9096
+    ],
+    "name": "Diablo III: Reaper of Souls",
+    "parent_game": 120,
+    "platforms": [
+      6,
+      9,
+      12,
+      14,
+      48,
+      49
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 82.26555514081599,
+    "rating_count": 298,
+    "release_dates": [
+      22606,
+      22607,
+      22608,
+      22609,
+      22610,
+      22611,
+      22612,
+      22613,
+      22614,
+      22615,
+      22616,
+      22617,
+      22618,
+      22619,
+      22620,
+      22621,
+      121871
+    ],
+    "screenshots": [
+      33050,
+      33051
+    ],
+    "similar_games": [
+      120,
+      27092,
+      36198,
+      54775,
+      55038,
+      55199,
+      96217,
+      103168,
+      105049,
+      106987
+    ],
+    "slug": "diablo-iii-reaper-of-souls",
+    "summary": "Diablo III is an action role-playing game that takes place throughout the dark fantasy world of Sanctuary.\n\nYou play a hero who engages in fast-paced combat that tests your reflexes and rewards tactical decisions. As you slay hordes of monsters and challenging bosses, you grow in experience and ability, learning new skills and acquiring items of incredible power.",
+    "tags": [
+      1,
+      17,
+      268435468,
+      268435481,
+      268435487,
+      536872014,
+      536872914,
+      536873384,
+      536873410,
+      536875830,
+      536876218,
+      536876220,
+      536876235,
+      536876239,
+      536876512,
+      536876718,
+      536877560,
+      536878008,
+      536878370
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 85.4404698781003,
+    "total_rating_count": 310,
+    "updated_at": 1697843896,
+    "url": "https://www.igdb.com/games/diablo-iii-reaper-of-souls",
+    "videos": [
+      1740
+    ],
+    "websites": [
+      5172,
+      5173,
+      522733
+    ],
+    "checksum": "09f897b0-56b7-4770-d640-488153b69965",
+    "game_localizations": [
+      3557,
+      19352
+    ]
+  },
+  {
+    "id": 47452,
+    "age_ratings": [
+      13872,
+      13873,
+      117301
+    ],
+    "aggregated_rating": 89.88888888888889,
+    "aggregated_rating_count": 10,
+    "alternative_names": [
+      67645,
+      67646,
+      67647,
+      67648,
+      67649
+    ],
+    "bundles": [
+      90628
+    ],
+    "category": 3,
+    "collection": 24,
+    "cover": 164293,
+    "created_at": 1499868526,
+    "external_games": [
+      26398,
+      79451,
+      79452,
+      114791,
+      210444,
+      376613,
+      401637,
+      401638,
+      1237760,
+      1930649,
+      1932112,
+      1933072,
+      1933919,
+      1934593,
+      1938042
+    ],
+    "first_release_date": 1408406400,
+    "follows": 11,
+    "franchises": [
+      2417
+    ],
+    "game_modes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "genres": [
+      12,
+      15,
+      25,
+      31
+    ],
+    "involved_companies": [
+      52620
+    ],
+    "keywords": [
+      16,
+      147,
+      510,
+      701,
+      816,
+      960,
+      1102,
+      1422,
+      1986,
+      2002,
+      2498,
+      3203,
+      4179,
+      4245,
+      4282,
+      4284,
+      4351,
+      4357,
+      4486,
+      4545,
+      4699,
+      4843,
+      4852,
+      4877,
+      4878,
+      4918,
+      4942,
+      4956,
+      5029,
+      5124,
+      5308,
+      5315,
+      5316,
+      5317,
+      5323,
+      5327,
+      5600,
+      5792,
+      5818,
+      5988,
+      6295,
+      6541,
+      6648,
+      6656,
+      7096,
+      7161,
+      7163,
+      8242,
+      9737,
+      16826
+    ],
+    "multiplayer_modes": [
+      2132,
+      8047
+    ],
+    "name": "Diablo III: Reaper of Souls - Ultimate Evil Edition",
+    "platforms": [
+      9,
+      12,
+      48,
+      49
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 80.38789431799073,
+    "rating_count": 36,
+    "release_dates": [
+      101243,
+      101244,
+      101245,
+      101246,
+      135966
+    ],
+    "screenshots": [
+      114754,
+      114755,
+      114756,
+      114757
+    ],
+    "similar_games": [
+      120,
+      1081,
+      1593,
+      1911,
+      1942,
+      3025,
+      7334,
+      9938,
+      27092,
+      105049
+    ],
+    "slug": "diablo-iii-reaper-of-souls-ultimate-evil-edition",
+    "summary": "Diablo III: Ultimate Evil Edition includes the expansion pack Reaper of Souls and features special four-player co-op features. With the wireless controller and a custom-designed console interface, players will be outfitted with touch pad functionality and new social features as they engage in pulse-pounding combat with hordes of monsters and acquire items of incredible power.",
+    "tags": [
+      1,
+      17,
+      19,
+      268435468,
+      268435471,
+      268435481,
+      268435487,
+      536870928,
+      536871059,
+      536871422,
+      536871613,
+      536871728,
+      536871872,
+      536872014,
+      536872334,
+      536872898,
+      536872914,
+      536873410,
+      536874115,
+      536875091,
+      536875157,
+      536875194,
+      536875196,
+      536875263,
+      536875269,
+      536875398,
+      536875457,
+      536875611,
+      536875755,
+      536875764,
+      536875789,
+      536875790,
+      536875830,
+      536875854,
+      536875868,
+      536875941,
+      536876036,
+      536876220,
+      536876227,
+      536876228,
+      536876229,
+      536876235,
+      536876239,
+      536876512,
+      536876704,
+      536876730,
+      536876900,
+      536877207,
+      536877453,
+      536877560,
+      536877568,
+      536878008,
+      536878073,
+      536878075,
+      536879154,
+      536880649,
+      536887738
+    ],
+    "themes": [
+      1,
+      17,
+      19
+    ],
+    "total_rating": 85.1383916034398,
+    "total_rating_count": 46,
+    "updated_at": 1697765947,
+    "url": "https://www.igdb.com/games/diablo-iii-reaper-of-souls-ultimate-evil-edition",
+    "version_parent": 3182,
+    "version_title": "Ultimate Evil Edition",
+    "videos": [
+      15197,
+      15198,
+      15199
+    ],
+    "websites": [
+      53522,
+      53523,
+      53524,
+      170811
+    ],
+    "checksum": "887297c5-9d24-d5cb-631a-daf783bf6334"
+  },
+  {
+    "id": 142803,
+    "age_ratings": [
+      43943,
+      55991,
+      93018,
+      99383,
+      108401,
+      126277
+    ],
+    "aggregated_rating": 80.45454545454545,
+    "aggregated_rating_count": 13,
+    "alternative_names": [
+      54408,
+      55494,
+      74324,
+      74325,
+      86508,
+      113877,
+      121866
+    ],
+    "artworks": [
+      9654
+    ],
+    "bundles": [
+      173127
+    ],
+    "category": 9,
+    "collection": 24,
+    "cover": 161120,
+    "created_at": 1611557934,
+    "external_games": [
+      1998992,
+      2072562,
+      2072563,
+      2072572,
+      2072611,
+      2124226,
+      2124245,
+      2172379,
+      2584693,
+      2586206,
+      2589580,
+      2590696,
+      2599774,
+      2657542
+    ],
+    "first_release_date": 1632268800,
+    "follows": 21,
+    "franchises": [
+      2417
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      25,
+      31
+    ],
+    "hypes": 10,
+    "involved_companies": [
+      142341,
+      142342
+    ],
+    "multiplayer_modes": [
+      17089,
+      17090
+    ],
+    "name": "Diablo II: Resurrected",
+    "parent_game": 126,
+    "platforms": [
+      6,
+      48,
+      49,
+      130,
+      167,
+      169
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 90.58951806343518,
+    "rating_count": 54,
+    "release_dates": [
+      299399,
+      299400,
+      299401,
+      299402,
+      299403,
+      299404,
+      339227
+    ],
+    "screenshots": [
+      423172,
+      423173,
+      423174,
+      423175,
+      423176,
+      423177
+    ],
+    "similar_games": [
+      54775,
+      55038,
+      55199,
+      81249,
+      96217,
+      103168,
+      103303,
+      106987,
+      113360,
+      116530
+    ],
+    "slug": "diablo-ii-resurrected",
+    "storyline": "Pursue the mysterious Dark Wanderer and fight the denizens of hell as you uncover the fate of the Prime Evils Diablo, Mephisto, and Baal.",
+    "summary": "Diablo II: Resurrected breathes new life into Blizzard Entertainment’s acclaimed ARPG and its expansion, Diablo II: Lord of Destruction, from beginning to end. Return to fight for Sanctuary and discover the fate of the mysterious Dark Wanderer rebuilt in all-new 3D graphics, brand-new cinematics, remastered audio… and the same classic Diablo II gameplay you remember.",
+    "tags": [
+      1,
+      17,
+      19,
+      40,
+      268435468,
+      268435481,
+      268435487
+    ],
+    "themes": [
+      1,
+      17,
+      19,
+      40
+    ],
+    "total_rating": 85.52203175899032,
+    "total_rating_count": 67,
+    "updated_at": 1697845679,
+    "url": "https://www.igdb.com/games/diablo-ii-resurrected",
+    "videos": [
+      45851,
+      50902
+    ],
+    "websites": [
+      167287,
+      167288,
+      167289,
+      170514,
+      170808,
+      170809,
+      229436,
+      229437,
+      229438
+    ],
+    "checksum": "926d7a9f-8b39-3d12-0925-14307dcbe848",
+    "language_supports": [
+      155206,
+      155207,
+      155208,
+      155209,
+      155210,
+      155211,
+      155212,
+      155213,
+      155214,
+      155215,
+      155216,
+      155217,
+      155218,
+      155219,
+      155220,
+      155221,
+      155222,
+      155223,
+      155224,
+      155225,
+      155226,
+      155227,
+      155228,
+      155229,
+      155230,
+      157129,
+      157132,
+      157135,
+      157138,
+      157141,
+      157144,
+      157147,
+      157150,
+      157153,
+      157156,
+      157159,
+      157162,
+      157164,
+      157165,
+      503328
+    ],
+    "game_localizations": [
+      918,
+      13991
+    ]
+  },
+  {
+    "id": 126,
+    "age_ratings": [
+      5114,
+      33452,
+      81822
+    ],
+    "aggregated_rating": 90.0,
+    "aggregated_rating_count": 2,
+    "alternative_names": [
+      2889,
+      31902,
+      31927,
+      67632,
+      96444,
+      128223
+    ],
+    "artworks": [
+      87874,
+      87875,
+      87876,
+      87877,
+      87878
+    ],
+    "bundles": [
+      46976
+    ],
+    "category": 0,
+    "collection": 24,
+    "cover": 161270,
+    "created_at": 1300111653,
+    "expansions": [
+      246
+    ],
+    "external_games": [
+      37518,
+      72405,
+      155982,
+      190090,
+      245852,
+      2621940
+    ],
+    "first_release_date": 962236800,
+    "follows": 348,
+    "franchises": [
+      2417
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      25
+    ],
+    "involved_companies": [
+      6010,
+      6011
+    ],
+    "keywords": [
+      129,
+      223,
+      226,
+      236,
+      2071,
+      4345
+    ],
+    "multiplayer_modes": [
+      10481
+    ],
+    "name": "Diablo II",
+    "platforms": [
+      6,
+      14
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 88.34317400193356,
+    "rating_count": 1108,
+    "release_dates": [
+      22584,
+      22585,
+      22586,
+      22587
+    ],
+    "screenshots": [
+      907902,
+      907903,
+      907904,
+      907905,
+      907906,
+      907907
+    ],
+    "similar_games": [
+      660,
+      19164,
+      54775,
+      55038,
+      55199,
+      81249,
+      96217,
+      103168,
+      103303,
+      106987
+    ],
+    "slug": "diablo-ii",
+    "storyline": "Diablo II takes place after the end of the previous Diablo in the world of Sanctuary. An unnamed warrior defeated Diablo and attempted to contain the Lord of Terror\u0027s essence within his own body. Since then, the hero has become corrupted by the demon\u0027s spirit, causing demons to enter the world around him and wreak havoc. Again, it is up to a single mortal to stand in Diablo\u0027s path and to prevent the Three Prime Evils from reuniting. If that mortal fails, the world of Sanctuary will become a permanent outpost of the Burning Hells.",
+    "summary": "Like its predecessor, Diablo II is an action role-playing game with dark fantasy and horror themes. The player controls a new hero attempting to stop the destruction unleashed by Diablo\u0027s return. The game\u0027s 4 acts feature a variety of locations and settings to explore and battle in, as well as an increased cast of characters to play as and interact with. Diablo II had become one of the most popular online games of all time. Major factors that contributed to Diablo II\u0027s success include what fans found to be addictive hack-and-slash gameplay and free access to Battle.net.",
+    "tags": [
+      1,
+      17,
+      268435468,
+      268435481,
+      536871041,
+      536871135,
+      536871138,
+      536871148,
+      536872983,
+      536875257
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 89.17158700096678,
+    "total_rating_count": 1110,
+    "updated_at": 1697845104,
+    "url": "https://www.igdb.com/games/diablo-ii",
+    "videos": [
+      38
+    ],
+    "websites": [
+      17,
+      2339,
+      172426,
+      333095
+    ],
+    "checksum": "77726db8-66a0-28ca-3ae9-54951edd32c0",
+    "remasters": [
+      142803
+    ],
+    "game_localizations": [
+      19153
+    ]
+  },
+  {
+    "id": 120,
+    "age_ratings": [
+      1398,
+      44655,
+      117300
+    ],
+    "aggregated_rating": 83.4,
+    "aggregated_rating_count": 22,
+    "alternative_names": [
+      52572,
+      52573,
+      52574
+    ],
+    "artworks": [
+      2082,
+      2083,
+      2084,
+      2085
+    ],
+    "bundles": [
+      47452,
+      136083
+    ],
+    "category": 0,
+    "collection": 24,
+    "cover": 120594,
+    "created_at": 1300107266,
+    "dlcs": [
+      38659
+    ],
+    "expansions": [
+      3182
+    ],
+    "external_games": [
+      24003,
+      72595,
+      74433,
+      74434,
+      74514,
+      74881,
+      79450,
+      138135,
+      188919,
+      213424,
+      245737,
+      403770,
+      1304708,
+      1931669,
+      1936761,
+      2162874
+    ],
+    "first_release_date": 1337040000,
+    "follows": 244,
+    "franchises": [
+      2417
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      25,
+      31
+    ],
+    "involved_companies": [
+      19455,
+      19456
+    ],
+    "keywords": [
+      122,
+      175,
+      1033,
+      1102,
+      2002,
+      2071,
+      2498,
+      4282,
+      4347,
+      4787,
+      4877,
+      5323,
+      5600,
+      5806,
+      5967,
+      6870,
+      7096,
+      7458,
+      17215
+    ],
+    "multiplayer_modes": [
+      12759
+    ],
+    "name": "Diablo III",
+    "platforms": [
+      6,
+      9,
+      12,
+      14,
+      48,
+      49
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 78.4156320585941,
+    "rating_count": 753,
+    "release_dates": [
+      22588,
+      22589,
+      22592,
+      22593,
+      22594,
+      22595,
+      22596,
+      22597,
+      22598,
+      22599,
+      22600,
+      22601,
+      22602,
+      22603,
+      22604,
+      22605,
+      102528,
+      102529
+    ],
+    "screenshots": [
+      907917,
+      907918,
+      907919,
+      907920,
+      907921
+    ],
+    "similar_games": [
+      28168,
+      36198,
+      47823,
+      55038,
+      55199,
+      80916,
+      96217,
+      103168,
+      106987,
+      116530
+    ],
+    "slug": "diablo-iii",
+    "storyline": "The game takes place in the dark fantasy world of the Diablo series twenty years after the events of Diablo II. Deckard Cain and his niece Leah are in the Tristram Cathedral investigating ancient texts regarding an ominous prophecy. Suddenly, a mysterious star falling from the sky strikes the Cathedral, creating a deep crater into which Deckard Cain disappears.",
+    "summary": "Diablo III is the third installment in Blizzard\u0027s franchise. The game, like its predecessors, is a dungeon crawler in which the player fights against hordes of enemies ranging from beasts and undead to actual demons. The game has four acts, two game modes (normal and hardcore) as well as four difficulty levels: Normal, Nightmare, Hell and Inferno. A new addition to Diablo III is the auction house, where items are exchanged for in-game gold or real money, also usable to purchase Blizzard merchandise. The game features a wide array of achievements earned upon meeting certain requirements.",
+    "tags": [
+      1,
+      17,
+      19,
+      268435468,
+      268435481,
+      268435487,
+      536871034,
+      536871087,
+      536871945,
+      536872014,
+      536872914,
+      536872983,
+      536873410,
+      536875194,
+      536875259,
+      536875699,
+      536875789,
+      536876235,
+      536876512,
+      536876718,
+      536876879,
+      536877782,
+      536878008,
+      536878370,
+      536888127
+    ],
+    "themes": [
+      1,
+      17,
+      19
+    ],
+    "total_rating": 80.90781602929705,
+    "total_rating_count": 775,
+    "updated_at": 1697843896,
+    "url": "https://www.igdb.com/games/diablo-iii",
+    "videos": [
+      30,
+      2896
+    ],
+    "websites": [
+      13,
+      2340,
+      41252,
+      41253,
+      41254,
+      41256,
+      332984
+    ],
+    "checksum": "b4c82b80-1c48-622a-7867-349bb748edb8",
+    "game_localizations": [
+      1577,
+      1646
+    ]
+  },
+  {
+    "id": 125165,
+    "age_ratings": [
+      115134,
+      141412,
+      141453,
+      141454,
+      141455,
+      141456,
+      141457
+    ],
+    "aggregated_rating": 89.66666666666667,
+    "aggregated_rating_count": 11,
+    "alternative_names": [
+      26601,
+      121935
+    ],
+    "artworks": [
+      8150,
+      8152,
+      8170,
+      8171,
+      8172,
+      8173
+    ],
+    "category": 0,
+    "collection": 24,
+    "cover": 292630,
+    "created_at": 1572577428,
+    "external_games": [
+      1806434,
+      1806695,
+      1809002,
+      1916468,
+      2088971,
+      2632951,
+      2632968,
+      2632987,
+      2633648,
+      2634665,
+      2634685,
+      2634689,
+      2659334,
+      2659607,
+      2700027,
+      2700054,
+      2700099,
+      2701797,
+      2701832,
+      2703585,
+      2703692,
+      2703728,
+      2705696,
+      2711073,
+      2711107,
+      2713191,
+      2713217,
+      2731770,
+      2750038,
+      2750225
+    ],
+    "first_release_date": 1685664000,
+    "follows": 3,
+    "franchises": [
+      2417
+    ],
+    "game_engines": [
+      761
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      25
+    ],
+    "hypes": 65,
+    "involved_companies": [
+      175260
+    ],
+    "keywords": [
+      182,
+      4823
+    ],
+    "multiplayer_modes": [
+      24769,
+      24770,
+      24771
+    ],
+    "name": "Diablo IV",
+    "platforms": [
+      6,
+      48,
+      49,
+      167,
+      169
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 82.94636825507347,
+    "rating_count": 86,
+    "release_dates": [
+      479866,
+      479867,
+      479868,
+      479869,
+      479870,
+      479871,
+      479872,
+      479873,
+      479874,
+      479875
+    ],
+    "screenshots": [
+      337504,
+      337505,
+      337506,
+      337507,
+      337508,
+      337509,
+      337510,
+      337511,
+      337512,
+      337513
+    ],
+    "similar_games": [
+      19164,
+      54775,
+      55199,
+      96217,
+      103168,
+      106987,
+      113109,
+      113636,
+      116530,
+      119171
+    ],
+    "slug": "diablo-iv",
+    "summary": "Endless demons to slaughter. Deep customization through Talents, Skill Points, Runes, and Legendary loot. Randomized dungeons contained in a dynamic open world. Survive and conquer darkness—or succumb to the shadows.",
+    "tags": [
+      1,
+      17,
+      19,
+      268435468,
+      268435481,
+      536871094,
+      536875735
+    ],
+    "themes": [
+      1,
+      17,
+      19
+    ],
+    "total_rating": 86.30651746087007,
+    "total_rating_count": 97,
+    "updated_at": 1697840736,
+    "url": "https://www.igdb.com/games/diablo-iv",
+    "videos": [
+      30864,
+      30865,
+      69924,
+      80609,
+      88774,
+      89492,
+      89493,
+      89494,
+      89495,
+      89496
+    ],
+    "websites": [
+      122182,
+      122183,
+      122184,
+      228709,
+      228710,
+      289640,
+      390879,
+      523395,
+      586828
+    ],
+    "checksum": "8cb2c865-78e1-4a33-9693-202f63b7c5fc",
+    "language_supports": [
+      705580,
+      705581,
+      705582,
+      705583,
+      705584,
+      705585,
+      705586,
+      705587,
+      705588,
+      705589,
+      705590,
+      705591,
+      705592,
+      705593,
+      705594,
+      705595,
+      705596,
+      705597,
+      705598,
+      705599,
+      705600,
+      705601,
+      705602,
+      705603,
+      705604,
+      705605,
+      705606,
+      705607,
+      705608,
+      705609,
+      705610,
+      705611,
+      705612,
+      705613,
+      705614,
+      705615,
+      705616,
+      705617,
+      705618,
+      705619,
+      705620,
+      705621,
+      705622
+    ],
+    "game_localizations": [
+      917,
+      24230
+    ]
+  },
+  {
+    "id": 247342,
+    "alternative_names": [
+      132810,
+      132811,
+      135769,
+      135770,
+      135771
+    ],
+    "category": 0,
+    "cover": 306615,
+    "created_at": 1682561920,
+    "external_games": [
+      2697796
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12
+    ],
+    "involved_companies": [
+      212052
+    ],
+    "keywords": [
+      1603,
+      2004,
+      4472,
+      27117
+    ],
+    "name": "An Hei Po Huai Shen: Diablo",
+    "platforms": [
+      99
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "release_dates": [
+      471271
+    ],
+    "screenshots": [
+      1038676
+    ],
+    "similar_games": [
+      99118,
+      247395,
+      247401,
+      247403,
+      247404,
+      247408,
+      247453,
+      247454,
+      261487,
+      266331
+    ],
+    "slug": "an-hei-po-huai-shen-diablo",
+    "summary": "An Hei Po Huai Shen, also known as Diablo or Diablo II, is a backport of Diablo to the NES by Shenzhen Nanjing. The game is a turn based RPG unlike the real Diablo. The game\u0027s music has been taken from games such as Golden Sun.\n\nLike almost all of Shenzhen Nanjing\u0027s games, dying in a battle will result in you going back to the title screen.",
+    "tags": [
+      268435468,
+      536872515,
+      536872916,
+      536875384,
+      536898029
+    ],
+    "updated_at": 1693476498,
+    "url": "https://www.igdb.com/games/an-hei-po-huai-shen-diablo",
+    "websites": [
+      547462
+    ],
+    "checksum": "d4e51e31-d6e7-89de-bd47-8109b5784cc4"
+  },
+  {
+    "id": 125,
+    "age_ratings": [
+      2169
+    ],
+    "alternative_names": [
+      121872
+    ],
+    "bundles": [
+      46976,
+      127781
+    ],
+    "category": 0,
+    "collection": 24,
+    "cover": 161304,
+    "created_at": 1300111616,
+    "expansions": [
+      8175
+    ],
+    "external_games": [
+      72577,
+      151564,
+      245385
+    ],
+    "first_release_date": 851990400,
+    "follows": 155,
+    "franchises": [
+      2417
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      12,
+      15
+    ],
+    "involved_companies": [
+      97,
+      98,
+      19451,
+      19452,
+      191691,
+      191692
+    ],
+    "keywords": [
+      129,
+      151,
+      226,
+      236,
+      416,
+      577,
+      623,
+      962,
+      1068,
+      1333,
+      1396,
+      1440,
+      1961,
+      2002,
+      2167,
+      2472,
+      3035,
+      3486,
+      4249,
+      4272,
+      4284,
+      4287,
+      4341,
+      4346,
+      4351,
+      4353,
+      4388,
+      4392,
+      4399,
+      4407,
+      4468,
+      4497,
+      4541,
+      4545,
+      4613,
+      4614,
+      4787,
+      4877,
+      4879,
+      4886,
+      4887,
+      4891,
+      4918,
+      5308,
+      5323,
+      5370,
+      5587,
+      5730,
+      5792,
+      5806,
+      5818,
+      5840,
+      6074,
+      6141,
+      6189,
+      6296,
+      6299,
+      6324,
+      6648,
+      6657,
+      7080,
+      7096,
+      7423,
+      7458,
+      7476,
+      7568,
+      7593,
+      9200,
+      9256,
+      9596,
+      9843,
+      9853,
+      10048,
+      10741,
+      13121
+    ],
+    "multiplayer_modes": [
+      1734
+    ],
+    "name": "Diablo",
+    "platforms": [
+      6,
+      7,
+      14
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 83.74607001050286,
+    "rating_count": 462,
+    "release_dates": [
+      22577,
+      22578,
+      22579,
+      22580,
+      22581,
+      22582,
+      22583,
+      398545
+    ],
+    "screenshots": [
+      36,
+      37,
+      383789,
+      383790,
+      383791,
+      383792,
+      383793,
+      383794
+    ],
+    "similar_games": [
+      472,
+      660,
+      832,
+      1593,
+      1879,
+      1887,
+      2368,
+      2480,
+      8747,
+      11292
+    ],
+    "slug": "diablo",
+    "storyline": "Set in the fictional Kingdom of Khanduras, located in the world of Sanctuary, Diablo has the player take control of a lone hero battling to rid the world of Diablo, the Lord of Terror. Beneath the town of Tristram, the player journeys through sixteen dungeon levels, ultimately entering Hell itself in order to face Diablo.",
+    "summary": "Diablo is an isometric strategy RPG and one of the most well-known examples of the action-RPG subgenre. Although some of the game mechanics resemble a typical RPG, all actions are done in real-time just like in an action game. The player have to kill hordes of monsters through randomized dungeon levels in order to gain experience points, gold and a variety of equipment to bolster the hero\u0027s monster-killing potency.",
+    "tags": [
+      1,
+      17,
+      19,
+      22,
+      268435468,
+      268435471,
+      536871041,
+      536871063,
+      536871138,
+      536871148,
+      536871328,
+      536871489,
+      536871535,
+      536871874,
+      536871980,
+      536872245,
+      536872308,
+      536872352,
+      536872873,
+      536872914,
+      536873079,
+      536873384,
+      536873947,
+      536874398,
+      536875161,
+      536875184,
+      536875196,
+      536875199,
+      536875253,
+      536875258,
+      536875263,
+      536875265,
+      536875300,
+      536875304,
+      536875311,
+      536875319,
+      536875380,
+      536875409,
+      536875453,
+      536875457,
+      536875525,
+      536875526,
+      536875699,
+      536875789,
+      536875791,
+      536875798,
+      536875799,
+      536875803,
+      536875830,
+      536876220,
+      536876235,
+      536876282,
+      536876499,
+      536876642,
+      536876704,
+      536876718,
+      536876730,
+      536876752,
+      536876986,
+      536877053,
+      536877101,
+      536877208,
+      536877211,
+      536877236,
+      536877560,
+      536877569,
+      536877992,
+      536878008,
+      536878335,
+      536878370,
+      536878388,
+      536878480,
+      536878505,
+      536880112,
+      536880168,
+      536880508,
+      536880755,
+      536880765,
+      536880960,
+      536881653,
+      536884033
+    ],
+    "themes": [
+      1,
+      17,
+      19,
+      22
+    ],
+    "total_rating": 83.74607001050286,
+    "total_rating_count": 462,
+    "updated_at": 1697845059,
+    "url": "https://www.igdb.com/games/diablo",
+    "videos": [
+      35839,
+      76802
+    ],
+    "websites": [
+      2338,
+      53410,
+      53411,
+      128315,
+      128316,
+      332650
+    ],
+    "checksum": "698e4e32-211c-29f5-aa4b-6847ae5ada53"
+  },
+  {
+    "id": 111651,
+    "age_ratings": [
+      74843,
+      74844
+    ],
+    "aggregated_rating": 60.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      87990
+    ],
+    "artworks": [
+      54079
+    ],
+    "category": 0,
+    "collection": 24,
+    "cover": 126898,
+    "created_at": 1541193942,
+    "external_games": [
+      1617764,
+      1708764,
+      2123312,
+      2445166
+    ],
+    "first_release_date": 1654128000,
+    "follows": 8,
+    "franchises": [
+      2417
+    ],
+    "game_engines": [
+      815
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      12
+    ],
+    "hypes": 16,
+    "involved_companies": [
+      88794,
+      168890
+    ],
+    "name": "Diablo Immortal",
+    "platforms": [
+      6,
+      34,
+      39
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 34.57989902624517,
+    "rating_count": 55,
+    "release_dates": [
+      355579,
+      355580,
+      364046
+    ],
+    "screenshots": [
+      258667,
+      258668,
+      258669,
+      258670,
+      258671,
+      258672,
+      258673,
+      258674,
+      258675,
+      258676
+    ],
+    "similar_games": [
+      19164,
+      54775,
+      55199,
+      81249,
+      96217,
+      99118,
+      103303,
+      106987,
+      113636,
+      115653
+    ],
+    "slug": "diablo-immortal",
+    "storyline": "The story of Diablo Immortal is set between the events of Diablo II: Lord of Destruction and Diablo III.\nThe Worldstone lies shattered, yet great power remains within its corrupted fragments. Power that Diablo’s minions hope to harness to bring about the return of the Lord of Terror.\nThe Archangel Tyrael is presumed dead, and mankind is left to deal with the aftermath of his actions. Fragments of the corrupted Worldstone taint the land, bringing forth ancient evils who are looking to harvest the stone’s power and use it to control humanity.",
+    "summary": "Diablo Immortal is a mobile Massively Multiplayer Online Action RPG (MMOARPG) co-developed by Blizzard Entertainment and NetEase, coming exclusively to Android, iPhone and iPad.",
+    "tags": [
+      1,
+      17,
+      38,
+      268435468
+    ],
+    "themes": [
+      1,
+      17,
+      38
+    ],
+    "total_rating": 47.28994951312258,
+    "total_rating_count": 56,
+    "updated_at": 1697486614,
+    "url": "https://www.igdb.com/games/diablo-immortal",
+    "videos": [
+      23048,
+      23049,
+      30940,
+      67103,
+      93577
+    ],
+    "websites": [
+      92564,
+      92565,
+      92566,
+      92567,
+      92568,
+      170838,
+      213475,
+      213476,
+      213477,
+      232052,
+      288607,
+      288608,
+      351684
+    ],
+    "checksum": "637cf82c-e91a-0dba-ec2b-341a07a33b35",
+    "game_localizations": [
+      17
+    ]
+  },
+  {
+    "id": 46976,
+    "alternative_names": [
+      55495
+    ],
+    "category": 3,
+    "collection": 24,
+    "cover": 162202,
+    "created_at": 1499708196,
+    "external_games": [
+      43425
+    ],
+    "first_release_date": 1004054400,
+    "follows": 1,
+    "franchises": [
+      2417
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12,
+      25
+    ],
+    "involved_companies": [
+      116422
+    ],
+    "name": "Diablo: Battle Chest",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 88.81560840946932,
+    "rating_count": 6,
+    "release_dates": [
+      97866
+    ],
+    "screenshots": [
+      416872,
+      416873,
+      416874
+    ],
+    "similar_games": [
+      19164,
+      54775,
+      55199,
+      81249,
+      96217,
+      103168,
+      103303,
+      106987,
+      113109,
+      113636
+    ],
+    "slug": "diablo-battle-chest",
+    "summary": "Get a hefty dose of Diablo with the Diablo Battle Chest. This collection contains Diablo II, the Diablo II: Lord of Destruction expansion set, the original Diablo, as well as an expanded strategy guide from BradyGames covering both Diablo II and the Lord of Destruction expansion set. With each game, you\u0027ll enter a dark fantasy world of monsters, spells, and unique characters. This Diablo collection takes you on a journey to the heart of evil.",
+    "tags": [
+      1,
+      17,
+      268435468,
+      268435481
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 88.81560840946932,
+    "total_rating_count": 6,
+    "updated_at": 1683909946,
+    "url": "https://www.igdb.com/games/diablo-battle-chest",
+    "websites": [
+      170810
+    ],
+    "checksum": "dff3d296-098b-13bc-2ea9-1ce9ddb8bee4"
+  }
+]

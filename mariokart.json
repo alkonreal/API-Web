@@ -137,8 +137,8 @@
     "player_perspectives": [
       2
     ],
-    "rating": 82.10133038755423,
-    "rating_count": 466,
+    "rating": 82.27074097888382,
+    "rating_count": 467,
     "release_dates": [
       496362,
       509656,
@@ -246,9 +246,9 @@
       35,
       40
     ],
-    "total_rating": 81.55066519377712,
-    "total_rating_count": 467,
-    "updated_at": 1697047353,
+    "total_rating": 81.63537048944191,
+    "total_rating_count": 468,
+    "updated_at": 1697847585,
     "url": "https://www.igdb.com/games/mario-kart-64",
     "videos": [
       35661,
@@ -260,7 +260,7 @@
       243101,
       513537
     ],
-    "checksum": "16701f43-8cbc-97f6-23cd-f441c935d696",
+    "checksum": "235edddc-5340-f550-7073-d5aeaf73ed6f",
     "language_supports": [
       473318,
       473319,

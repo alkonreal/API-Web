@@ -5,6 +5,8 @@ require_once('general.php');
 
 
 
+function veamos($platas){
+
 
 $jsonFilePath = 'platforms.json';
 
@@ -14,33 +16,55 @@ if (file_exists($jsonFilePath)) {
     $jsonString = file_get_contents($jsonFilePath);
 
     // Decodificar el JSON en un array asociativo
-    $consoles = json_decode($jsonString, true);
+    $consoles = json_decode($jsonString,true);
+//       print_r("TODO LO QUE HAY DENTRO DE PLATAS");
+//  print_r($platas);
 
-    if ($consoles) {
-        // Tu array de 5 números
-        $juju2 = array(2, 4, 6, 8, 10);
+//  print_r($consoles['platforms'][0]['name']);
 
-        // Función que recorre los arrays
-        function iterateArrays($juju2, $consoles) {
-            echo "Recorriendo el array de 5 números: <br>";
-            foreach ($juju2 as $number) {
-                echo $number . "<br>";
-            }
 
-            echo "<br> Recorriendo el array de consolas: <br>";
-            foreach ($consoles['consoles'] as $console) {
-                echo "ID: " . $console["platforms"]['id'] . ", Name: " . $console['name'] . ", Alternative Name: " . $console['alternative_name'] . ", URL: " . $console['url'] . "<br>";
-            }
-        }
 
-        // Llamando a la función
-        iterateArrays($juju2, $consoles);
-    } else {
-        echo "Error al decodificar el JSON.";
-    }
-} else {
-    echo "El archivo JSON no existe en la ruta especificada.";
+
+foreach($consoles['platforms'] as $console){
+ 
+    $destino= $console['id'];
+if($destino == $platas){   
+//    print_r("SI ENCONTRO LA PLATAFORMA");
+//    echo($destino);
+//    echo($platas);
+
+
+$name= $console['name'];
+$url= $console['url'];
+$alternative_name= $console['alternative_name'];
+
+
+$html2 = "<img   id='caratula' style='width:25%;'  class='card-img-top;img-fluid'; src='img/logoPlatforms/$url.png' alt='$url'>";
+                        
+                                    //     // Imprimir el HTML resultante
+                                  echo $html2;
+
+
+
+
+
+}else{
+
+
+
+   
+
 }
+
+}
+
+
+
+}
+
+
+
+};
 
 
 

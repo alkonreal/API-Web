@@ -163,15 +163,6 @@ $start = microtime(true);
   
   }
    
-   
-
-
-
-
-
-
-
-
 
   //#############################################
   echo "<h5 class='card-title ' style='text-align:center'>".$tururu->name."</h5>";
@@ -213,26 +204,40 @@ if (property_exists($tururu, 'summary')) {
 // Verificar si la propiedad 'platforms' existe
 if (property_exists($tururu, 'platforms')) {
   $platforms = $tururu->platforms;
+
+
+
+  echo "<li class='list-group-item'><strong>Plataformas: </strong>";
   if (is_array($platforms)) {
       // Si 'platforms' es un array
       // echo "Player Perspectives: " . implode(', ', $platforms);
         // Obtener las diferentes perspectivas del juego
 foreach($platforms as $juju2){
   // $pers=$tururu->platforms;
-  // print_r("Perspectivas del juego");
-  print_r($juju2);
+  // print_r("Plataformas del juego");
+  // print_r($juju2);
   // print_r($pers[0]);
   global $juju2;
-  obtenerPlataforma($juju2);
+  // obtenerPlataforma($juju2);
+ veamos($juju2);
+
+
+
+
+
+
 };
+
+echo "</li>"; // Para meter las imagenes directamente en el <li>;
   } else {
       // // Si 'platforms' no es un array
       // echo "Player Perspectives: " . $platforms;
-      obtenerPlataforma($platforms);
+      // obtenerPlataforma($platforms);
+      veamos($juju2);
   }
 } else {
   // Si 'platforms' no existe
-  echo "<li class='list-group-item'><strong>Perspectiva: </strong> No hay información de la plataforma</strong></li>";
+  echo "<li class='list-group-item'><strong>Plataformas: </strong> No hay información de la plataforma</strong></li>";
 }
 
 // Para mostrar las Imagenes de las plataformas
@@ -254,29 +259,32 @@ foreach($platforms as $juju2){
 // Verificar si la propiedad 'age_ratings' existe
 if (property_exists($tururu, 'age_ratings')) {
   $age_ratings = $tururu->age_ratings;
+  echo "<li class='list-group-item'   id='edades'><strong>Edades: </strong>";
   if (is_array($age_ratings)) {
       // Si 'age_ratings' es un array
       // obtenerEdades($age_ratings);
       // echo "EDADES ARRAY: " . implode(', ', $age_ratings);
         // Obtener las diferentes perspectivas del juego
                           foreach($age_ratings as $juju){
-                            // $pers=$tururu->age_ratings;
-                            // print_r("Perspectivas del juego");
-                            // print_r($pers);
+                            // // $pers=$tururu->age_ratings;
+                            // print_r("EDADES del juego");
+                            // print_r($juju);
                             // print_r($pers[0]);
-                            obtenerEdades($juju);
+                            // obtenerEdades($juju);
+                            veamosedades($juju);
                           };
   } else {
       // // Si 'age_ratings' no es un array
-      echo "EDADES NO ARRAY: " . $age_ratings;
-      obtenerEdades($age_ratings);
+      // echo "EDADES NO ARRAY: " . $age_ratings;
+      // obtenerEdades($age_ratings);
+      // veamosedades($juju);
   }
 } else {
   // Si 'age_ratings' no existe
   echo "<li class='list-group-item'><strong>Edades: </strong> No hay información de las Edades</strong></li>";
 }
 
-
+echo "</li>"; // 
   // echo "<li class='list-group-item'><strong>Edades: </strong>".$tururu->age_ratings."</li>";
 
 
@@ -286,43 +294,60 @@ if (property_exists($tururu, 'age_ratings')) {
 
 // category CATEGORIAS #############################################################################
 
+// if (property_exists($tururu, 'category')) {
+//   $category = $tururu->category;
+//   if ($category == 0) {
+//       echo "<li class='list-group-item'><strong>Categoria: </strong>Juego Principal</li>";
+//   } else if ($category == 1) {
+//       echo "<li class='list-group-item'><strong>Categoria: </strong> DLC</li>";
+//   } else if ($category == 2) {
+//       echo "<li class='list-group-item'><strong>Categoria: </strong> Expansión</li>";
+//   } else if ($category == 3) {
+//       echo "<li class='list-group-item'><strong>Categoria: </strong> Combo</li>";
+//   } else if ($category == 4) {
+//       echo "<li class='list-group-item'><strong>Categoria: </strong> Expansión Independiente</li>";
+//   } else if ($category == 5) {
+//       echo "<li class='list-group-item'><strong>Categoria: </strong> Modificación</li>";
+//   } else if ($category == 6) {
+//     echo "<li class='list-group-item'><strong>Categoria: </strong> Episodio</li>";
+// } else if ($category == 7) {
+//   echo "<li class='list-group-item'><strong>Categoria: </strong> Temporada</li>";
+// } else if ($category == 8) {
+//   echo "<li class='list-group-item'><strong>Categoria: </strong> Remake</li>";
+// } else if ($category == 9) {
+//   echo "<li class='list-group-item'><strong>Categoria: </strong> Remasterización</li>";
+// } else if ($category == 10) {
+//   echo "<li class='list-group-item'><strong>Categoria: </strong> Juego Expandido</li>";
+// } else if ($category == 11) {
+//   echo "<li class='list-group-item'><strong>Categoria: </strong> Port </li>";
+// } else if ($category == 12) {
+//   echo "<li class='list-group-item'><strong>Categoria: </strong> Basado en el </li>";
+// } else if ($category == 13) {
+//   echo "<li class='list-group-item'><strong>Categoria: </strong> Pack</li>";
+// } else if ($category == 14) {
+//   echo "<li class='list-group-item'><strong>Categoria: </strong> Actualización</li>";
+// } 
+// } else {
+//   echo "<li class='list-group-item'><strong>PEGI: </strong> No hay información de la clasificación PEGI</li>";
+// }
+
+
+
+
 if (property_exists($tururu, 'category')) {
   $category = $tururu->category;
-  if ($category == 0) {
-      echo "<li class='list-group-item'><strong>Categoria: </strong>Juego Principal</li>";
-  } else if ($category == 1) {
-      echo "<li class='list-group-item'><strong>Categoria: </strong> DLC</li>";
-  } else if ($category == 2) {
-      echo "<li class='list-group-item'><strong>Categoria: </strong> Expansión</li>";
-  } else if ($category == 3) {
-      echo "<li class='list-group-item'><strong>Categoria: </strong> Combo</li>";
-  } else if ($category == 4) {
-      echo "<li class='list-group-item'><strong>Categoria: </strong> Expansión Independiente</li>";
-  } else if ($category == 5) {
-      echo "<li class='list-group-item'><strong>Categoria: </strong> Modificación</li>";
-  } else if ($category == 6) {
-    echo "<li class='list-group-item'><strong>Categoria: </strong> Episodio</li>";
-} else if ($category == 7) {
-  echo "<li class='list-group-item'><strong>Categoria: </strong> Temporada</li>";
-} else if ($category == 8) {
-  echo "<li class='list-group-item'><strong>Categoria: </strong> Remake</li>";
-} else if ($category == 9) {
-  echo "<li class='list-group-item'><strong>Categoria: </strong> Remasterización</li>";
-} else if ($category == 10) {
-  echo "<li class='list-group-item'><strong>Categoria: </strong> Juego Expandido</li>";
-} else if ($category == 11) {
-  echo "<li class='list-group-item'><strong>Categoria: </strong> Port </li>";
-} else if ($category == 12) {
-  echo "<li class='list-group-item'><strong>Categoria: </strong> Basado en el </li>";
-} else if ($category == 13) {
-  echo "<li class='list-group-item'><strong>Categoria: </strong> Pack</li>";
-} else if ($category == 14) {
-  echo "<li class='list-group-item'><strong>Categoria: </strong> Actualización</li>";
-} 
-} else {
-  echo "<li class='list-group-item'><strong>PEGI: </strong> No hay información de la clasificación PEGI</li>";
+  // print_r($category);
+  echo "<li class='list-group-item'><strong>Categorias: </strong>";
+   veamoscategoria($category);
+  
+  
+  
+}else {
+  // Si 'category' no existe
+  echo "<li class='list-group-item'><strong>categroria: </strong> No hay información de la pespectiva</strong></li>";
 }
 
+echo "</li>"; //Cierre del LI de las perspectivas
 
 
   // echo "<li class='list-group-item'><strong>Categoria: </strong>".$tururu->category."</li>";
@@ -368,6 +393,7 @@ if (property_exists($tururu, 'category')) {
 // Verificar si la propiedad 'player_perspectives' existe
 if (property_exists($tururu, 'player_perspectives')) {
   $player_perspectives = $tururu->player_perspectives;
+  echo "<li class='list-group-item'><strong>Perspectivas: </strong>";
   if (is_array($player_perspectives)) {
       // Si 'player_perspectives' es un array
       // echo "Player Perspectives: " . implode(', ', $player_perspectives);
@@ -377,18 +403,21 @@ foreach($player_perspectives as $juju){
   // print_r("Perspectivas del juego");
   // print_r($pers);
   // print_r($pers[0]);
-  obtenerPerspectiva($juju);
+  // obtenerPerspectiva($juju);
+  veamosperspectiva($juju);
 };
   } else {
       // // Si 'player_perspectives' no es un array
       // echo "Player Perspectives: " . $player_perspectives;
-      obtenerPerspectiva($player_perspectives);
+      // obtenerPerspectiva($player_perspectives);
+      veamosperspectiva($juju);
   }
 } else {
   // Si 'player_perspectives' no existe
   echo "<li class='list-group-item'><strong>Perspectiva: </strong> No hay información de la pespectiva</strong></li>";
 }
 
+echo "</li>"; //Cierre del LI de las perspectivas
 // ###################################################################################################
 
 

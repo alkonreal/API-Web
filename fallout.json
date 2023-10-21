@@ -338,7 +338,7 @@
     ],
     "total_rating": 70.2302784188552,
     "total_rating_count": 79,
-    "updated_at": 1697280277,
+    "updated_at": 1697799954,
     "url": "https://www.igdb.com/games/fallout-tactics-brotherhood-of-steel",
     "videos": [
       292,
@@ -355,7 +355,7 @@
       320499,
       337618
     ],
-    "checksum": "cde5d191-d87d-e1e6-6496-47234088e7cc",
+    "checksum": "e6d28e53-6ca6-a44f-a95f-7b565670fe4e",
     "language_supports": [
       9940,
       9941,
@@ -766,7 +766,7 @@
     ],
     "total_rating": 85.9154847800373,
     "total_rating_count": 505,
-    "updated_at": 1697201306,
+    "updated_at": 1697634849,
     "url": "https://www.igdb.com/games/fallout",
     "videos": [
       903
@@ -785,7 +785,7 @@
       320720,
       333460
     ],
-    "checksum": "ab32d468-49d7-c3c2-8961-627725085a11",
+    "checksum": "cba16e6e-d095-976d-ef3d-65376ef949b9",
     "language_supports": [
       474668,
       474669,
@@ -1313,7 +1313,7 @@
     ],
     "total_rating": 89.71546968597417,
     "total_rating_count": 639,
-    "updated_at": 1697288667,
+    "updated_at": 1697806121,
     "url": "https://www.igdb.com/games/fallout-2",
     "videos": [
       288,
@@ -1334,7 +1334,7 @@
       323553,
       333572
     ],
-    "checksum": "4803d6c1-aae4-746f-bf30-a662315ee7e3",
+    "checksum": "5f03f10f-73f9-24e9-7f50-ca5f299a3eee",
     "language_supports": [
       474170,
       474171,
@@ -1536,6 +1536,572 @@
     "updated_at": 1652092997,
     "url": "https://www.igdb.com/games/fallout-legacy-collection",
     "checksum": "84db8704-3a6c-e8f5-d52f-84a53cdf83dc"
+  },
+  {
+    "id": 25878,
+    "alternative_names": [
+      54148,
+      54149
+    ],
+    "category": 5,
+    "collection": 3,
+    "cover": 125043,
+    "created_at": 1479515350,
+    "first_release_date": 1610668800,
+    "follows": 2,
+    "franchises": [
+      1034
+    ],
+    "game_engines": [
+      54
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      12
+    ],
+    "involved_companies": [
+      117278,
+      117279
+    ],
+    "name": "Fallout: The Frontier",
+    "parent_game": 16,
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "release_dates": [
+      225487
+    ],
+    "screenshots": [
+      1056929,
+      1056930,
+      1056931,
+      1056932,
+      1056933,
+      1056934,
+      1056935,
+      1056936,
+      1056937,
+      1056938,
+      1056939,
+      1056940,
+      1056941,
+      1056942,
+      1056943,
+      1056944,
+      1056945,
+      1056946,
+      1056947,
+      1056948
+    ],
+    "similar_games": [
+      1877,
+      10776,
+      17548,
+      18290,
+      19164,
+      25300,
+      26574,
+      55038,
+      105269,
+      107318
+    ],
+    "slug": "fallout-the-frontier",
+    "summary": "Fallout: The Frontier is a gigantic DLC/New Game. As the “Courier” you start a new adventure centered around a conflict between the NCR and the Legion in the snow blasted remains of Portland Oregon. Featuring 3 major questlines, 60+ side quests, hundreds of new armours, weapons and items, and tens of thousands of lines of new voiced dialogue!",
+    "tags": [
+      1,
+      18,
+      21,
+      33,
+      38,
+      268435461,
+      268435468
+    ],
+    "themes": [
+      1,
+      18,
+      21,
+      33,
+      38
+    ],
+    "updated_at": 1686608990,
+    "url": "https://www.igdb.com/games/fallout-the-frontier",
+    "videos": [
+      44652
+    ],
+    "websites": [
+      166537,
+      166538,
+      166539,
+      166540,
+      166541
+    ],
+    "checksum": "218db14e-05b2-d3a4-f375-fb8a1340ef44"
+  },
+  {
+    "id": 9630,
+    "age_ratings": [
+      21366,
+      21367,
+      62993,
+      62995,
+      67365,
+      96516
+    ],
+    "aggregated_rating": 84.66666666666667,
+    "aggregated_rating_count": 27,
+    "alternative_names": [
+      40388,
+      86645
+    ],
+    "artworks": [
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      135,
+      9235
+    ],
+    "bundles": [
+      54612
+    ],
+    "category": 0,
+    "collection": 3,
+    "cover": 91158,
+    "created_at": 1428784134,
+    "dlcs": [
+      18029,
+      18030,
+      18031,
+      19532,
+      19533,
+      19534
+    ],
+    "external_games": [
+      8199,
+      79737,
+      84335,
+      96370,
+      111363,
+      190173,
+      210504,
+      245055,
+      400639,
+      1237983,
+      1928800,
+      1929919,
+      1930440,
+      1932013,
+      1932976,
+      1934277,
+      1934947,
+      1937170,
+      1937748,
+      1937826,
+      1937970,
+      2087924,
+      2088084,
+      2159985,
+      2175893,
+      2220559,
+      2586798,
+      2588012,
+      2607529,
+      2634542
+    ],
+    "first_release_date": 1447027200,
+    "follows": 503,
+    "franchises": [
+      1034
+    ],
+    "game_engines": [
+      95
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      12
+    ],
+    "hypes": 58,
+    "involved_companies": [
+      24120,
+      95327
+    ],
+    "keywords": [
+      8,
+      64,
+      69,
+      72,
+      129,
+      170,
+      221,
+      222,
+      274,
+      429,
+      510,
+      563,
+      575,
+      789,
+      816,
+      906,
+      962,
+      977,
+      1158,
+      1317,
+      1322,
+      1345,
+      1403,
+      1423,
+      1440,
+      1523,
+      1539,
+      1905,
+      1935,
+      1971,
+      2071,
+      2111,
+      2324,
+      2452,
+      3831,
+      3931,
+      4134,
+      4154,
+      4221,
+      4249,
+      4250,
+      4272,
+      4273,
+      4284,
+      4285,
+      4287,
+      4329,
+      4345,
+      4352,
+      4353,
+      4357,
+      4359,
+      4399,
+      4433,
+      4484,
+      4580,
+      4613,
+      4614,
+      4623,
+      4730,
+      4823,
+      4852,
+      4854,
+      4862,
+      4878,
+      4891,
+      4918,
+      4927,
+      4956,
+      4976,
+      4984,
+      5023,
+      5209,
+      5318,
+      5323,
+      5343,
+      5379,
+      5408,
+      5474,
+      5481,
+      5494,
+      5500,
+      5514,
+      5517,
+      5542,
+      5661,
+      5821,
+      5836,
+      5850,
+      5971,
+      5999,
+      6037,
+      6066,
+      6069,
+      6210,
+      6214,
+      6246,
+      6364,
+      6370,
+      6391,
+      6462,
+      6471,
+      6587,
+      6702,
+      6733,
+      7080,
+      7154,
+      7353,
+      7437,
+      7605,
+      7612,
+      8784,
+      9313,
+      9321,
+      9338,
+      9342,
+      10178,
+      10269,
+      16826,
+      17092,
+      23856,
+      23933
+    ],
+    "multiplayer_modes": [
+      7451
+    ],
+    "name": "Fallout 4",
+    "platforms": [
+      6,
+      48,
+      49,
+      167,
+      169
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 80.28756478208516,
+    "rating_count": 1269,
+    "release_dates": [
+      30673,
+      30674,
+      400655,
+      400656,
+      407411
+    ],
+    "screenshots": [
+      11187,
+      11188,
+      11189,
+      11190,
+      16344
+    ],
+    "similar_games": [
+      13,
+      14,
+      15,
+      16,
+      472,
+      533,
+      1020,
+      1121,
+      9498,
+      19441
+    ],
+    "slug": "fallout-4",
+    "summary": "Bethesda Game Studios welcome you to the world of Fallout 4, their most ambitious game ever, and the next generation of open-world gaming. As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the fate of the Wasteland. Welcome home.",
+    "tags": [
+      1,
+      18,
+      21,
+      23,
+      33,
+      38,
+      268435461,
+      268435468,
+      536870920,
+      536870976,
+      536870981,
+      536870984,
+      536871041,
+      536871082,
+      536871133,
+      536871134,
+      536871186,
+      536871341,
+      536871422,
+      536871475,
+      536871487,
+      536871701,
+      536871728,
+      536871818,
+      536871874,
+      536871889,
+      536872070,
+      536872229,
+      536872234,
+      536872257,
+      536872315,
+      536872335,
+      536872352,
+      536872435,
+      536872451,
+      536872817,
+      536872847,
+      536872883,
+      536872983,
+      536873023,
+      536873236,
+      536873364,
+      536874743,
+      536874843,
+      536875046,
+      536875066,
+      536875133,
+      536875161,
+      536875162,
+      536875184,
+      536875185,
+      536875196,
+      536875197,
+      536875199,
+      536875241,
+      536875257,
+      536875264,
+      536875265,
+      536875269,
+      536875271,
+      536875311,
+      536875345,
+      536875396,
+      536875492,
+      536875525,
+      536875526,
+      536875535,
+      536875642,
+      536875735,
+      536875764,
+      536875766,
+      536875774,
+      536875790,
+      536875803,
+      536875830,
+      536875839,
+      536875868,
+      536875888,
+      536875896,
+      536875935,
+      536876121,
+      536876230,
+      536876235,
+      536876255,
+      536876291,
+      536876320,
+      536876386,
+      536876393,
+      536876406,
+      536876412,
+      536876426,
+      536876429,
+      536876454,
+      536876573,
+      536876733,
+      536876748,
+      536876762,
+      536876883,
+      536876911,
+      536876949,
+      536876978,
+      536876981,
+      536877122,
+      536877126,
+      536877158,
+      536877276,
+      536877282,
+      536877303,
+      536877374,
+      536877383,
+      536877499,
+      536877614,
+      536877645,
+      536877992,
+      536878066,
+      536878265,
+      536878349,
+      536878517,
+      536878524,
+      536879696,
+      536880225,
+      536880233,
+      536880250,
+      536880254,
+      536881090,
+      536881181,
+      536887738,
+      536888004,
+      536894768,
+      536894845
+    ],
+    "themes": [
+      1,
+      18,
+      21,
+      23,
+      33,
+      38
+    ],
+    "total_rating": 82.47711572437592,
+    "total_rating_count": 1296,
+    "updated_at": 1697774602,
+    "url": "https://www.igdb.com/games/fallout-4",
+    "videos": [
+      4349,
+      4393,
+      6330,
+      19035
+    ],
+    "websites": [
+      43300,
+      77145,
+      77146,
+      77147,
+      152688,
+      152689,
+      152690,
+      152691,
+      152692,
+      522499
+    ],
+    "checksum": "2a0182b9-2950-9d36-87e2-02d7cacf3431",
+    "language_supports": [
+      57927,
+      57928,
+      57929,
+      57930,
+      57931,
+      57932,
+      57933,
+      57934,
+      57935,
+      57936,
+      57937,
+      57938,
+      57939,
+      57940,
+      57941,
+      57942,
+      57943,
+      57944,
+      57945,
+      57946,
+      57947,
+      57948,
+      57949,
+      57950,
+      57951,
+      57952,
+      162687,
+      162688
+    ],
+    "game_localizations": [
+      25740
+    ]
   },
   {
     "id": 15,
@@ -1899,8 +2465,8 @@
       1,
       2
     ],
-    "rating": 83.48375923214945,
-    "rating_count": 1382,
+    "rating": 83.48695072604004,
+    "rating_count": 1384,
     "release_dates": [
       447,
       449,
@@ -2229,9 +2795,9 @@
       33,
       38
     ],
-    "total_rating": 86.29187961607472,
-    "total_rating_count": 1394,
-    "updated_at": 1697303542,
+    "total_rating": 86.29347536302001,
+    "total_rating_count": 1396,
+    "updated_at": 1697822196,
     "url": "https://www.igdb.com/games/fallout-3",
     "videos": [
       2362
@@ -2249,7 +2815,7 @@
       152678,
       332700
     ],
-    "checksum": "ed384ef0-c717-a648-bf0e-1e0df4289d19",
+    "checksum": "661fbda0-45d8-bdae-339e-04561e65b60c",
     "remasters": [
       267307
     ],
@@ -2284,83 +2850,887 @@
     ]
   },
   {
-    "id": 9630,
-    "age_ratings": [
-      21366,
-      21367,
-      62993,
-      62995,
-      67365,
-      96516
-    ],
-    "aggregated_rating": 84.66666666666667,
-    "aggregated_rating_count": 27,
+    "id": 131851,
     "alternative_names": [
-      40388,
-      86645
+      30982
     ],
     "artworks": [
-      128,
-      129,
-      130,
-      131,
-      132,
-      133,
-      135,
-      9235
-    ],
-    "bundles": [
-      54612
+      54081
     ],
     "category": 0,
     "collection": 3,
-    "cover": 91158,
-    "created_at": 1428784134,
-    "dlcs": [
-      18029,
-      18030,
-      18031,
-      19532,
-      19533,
-      19534
-    ],
+    "cover": 94273,
+    "created_at": 1584107938,
     "external_games": [
-      8199,
-      79737,
-      84335,
-      96370,
-      111363,
-      190173,
-      210504,
-      245055,
-      400639,
-      1237983,
-      1928800,
-      1929919,
-      1930440,
-      1932013,
-      1932976,
-      1934277,
-      1934947,
-      1937170,
-      1937748,
-      1937826,
-      1937970,
-      2087924,
-      2088084,
-      2159985,
-      2175893,
-      2220559,
-      2586798,
-      2588012,
-      2607529,
-      2634542
+      1980152,
+      2125815
     ],
-    "first_release_date": 1447027200,
-    "follows": 503,
+    "first_release_date": 1577750400,
+    "genres": [
+      12,
+      13,
+      15,
+      31
+    ],
+    "involved_companies": [
+      94146,
+      94147
+    ],
+    "name": "Fallout Shelter Online",
+    "platforms": [
+      39
+    ],
+    "release_dates": [
+      191056,
+      191057
+    ],
+    "screenshots": [
+      655571,
+      655572,
+      655573,
+      655574,
+      655575,
+      655576,
+      655577
+    ],
+    "similar_games": [
+      28129,
+      29348,
+      55199,
+      81249,
+      96217,
+      103232,
+      106987,
+      113402,
+      115280,
+      115653
+    ],
+    "slug": "fallout-shelter-online",
+    "summary": "Only available in Indonesia, Malaysia, Philippines, Thailand, Singapore, South Korea, and Japan. Fallout Shelter Online is the official successor to Fallout Shelter. Alongside the classic Vault management feature, in Fallout Shelter Online, players are also able to recruit famous heroes from the Fallout series, build perfect adventure teams, face dangerous foes, and venture into the wild Wasteland! Whomever survives the Wasteland, rules the Wasteland. Overseer, do you have what it takes to build a better future for tomorrow\u0027s post-apocalyptic world? Prepare for a new adventure, beyond the Vault!",
+    "tags": [
+      268435468,
+      268435487
+    ],
+    "updated_at": 1687781048,
+    "url": "https://www.igdb.com/games/fallout-shelter-online",
+    "videos": [
+      34416
+    ],
+    "websites": [
+      137217,
+      137218,
+      232053,
+      232054,
+      436356
+    ],
+    "checksum": "f30766b5-9ee0-11c9-9841-f79ed45b124f"
+  },
+  {
+    "id": 142745,
+    "alternative_names": [
+      54273,
+      54274
+    ],
+    "category": 5,
+    "collection": 3,
+    "cover": 125479,
+    "created_at": 1611292238,
+    "first_release_date": 1540166400,
     "franchises": [
       1034
     ],
+    "game_engines": [
+      54
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      12
+    ],
+    "involved_companies": [
+      117635,
+      117636
+    ],
+    "name": "Fallout: New California",
+    "parent_game": 16,
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "release_dates": [
+      225941
+    ],
+    "screenshots": [
+      1056914,
+      1056915,
+      1056916,
+      1056917,
+      1056918,
+      1056919,
+      1056920,
+      1056921,
+      1056922,
+      1056923,
+      1056924,
+      1056925,
+      1056926,
+      1056927,
+      1056928
+    ],
+    "similar_games": [
+      1877,
+      19164,
+      25311,
+      55038,
+      57187,
+      68286,
+      76877,
+      105269,
+      107318,
+      113362
+    ],
+    "slug": "fallout-new-california",
+    "status": 3,
+    "summary": "Fallout: New California is a fan-made modification and is an unofficial prequel to the action role-playing video game Fallout: New Vegas, made by Brandan Lee and Radian-Helix Media. It was released in two installments, with the first installment released on May 31, 2013, and the second installment released as a beta on October 23, 2018. Originally known as Fallout: Project Brazil, the modification was renamed to Fallout: New California on September 1, 2017.\n\nIn April 2018, the project entered private beta for the second installment. The public beta for Fallout: New California was released as planned on October 23, 2018.",
+    "tags": [
+      1,
+      18,
+      268435461,
+      268435468
+    ],
+    "themes": [
+      1,
+      18
+    ],
+    "updated_at": 1685006923,
+    "url": "https://www.igdb.com/games/fallout-new-california",
+    "videos": [
+      90347
+    ],
+    "websites": [
+      167017,
+      167018
+    ],
+    "checksum": "bc4fda1d-8788-1da4-b73c-7c9b53df0f79"
+  },
+  {
+    "id": 103020,
+    "age_ratings": [
+      31852,
+      62966,
+      62969,
+      63049,
+      63050,
+      63051,
+      82226
+    ],
+    "aggregated_rating": 51.35714285714285,
+    "aggregated_rating_count": 18,
+    "alternative_names": [
+      40387,
+      86644
+    ],
+    "artworks": [
+      5001,
+      7449,
+      7450,
+      10305,
+      10306,
+      10307,
+      10308
+    ],
+    "bundles": [
+      171286
+    ],
+    "category": 0,
+    "collection": 3,
+    "cover": 91156,
+    "created_at": 1527689203,
+    "expansions": [
+      142165
+    ],
+    "external_games": [
+      885298,
+      1193530,
+      1288652,
+      1457586,
+      1592842,
+      1708323,
+      1859338,
+      1929745,
+      1934862,
+      1935798,
+      1935955,
+      1937004,
+      1937373,
+      1938241,
+      2081979,
+      2085753,
+      2159962,
+      2175858,
+      2220608,
+      2439336,
+      2522733,
+      2586612,
+      2586833,
+      2589161,
+      2590718,
+      2607325,
+      2634574
+    ],
+    "first_release_date": 1542153600,
+    "follows": 191,
+    "franchises": [
+      1034
+    ],
+    "game_engines": [
+      95
+    ],
+    "game_modes": [
+      2,
+      3,
+      5
+    ],
+    "genres": [
+      5,
+      12
+    ],
+    "hypes": 60,
+    "involved_companies": [
+      65249,
+      95310
+    ],
+    "keywords": [
+      69,
+      466,
+      1322,
+      1333,
+      1888,
+      5730,
+      9342,
+      27582
+    ],
+    "multiplayer_modes": [
+      18544,
+      18545,
+      18546
+    ],
+    "name": "Fallout 76",
+    "platforms": [
+      6,
+      48,
+      49
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 57.52543170064907,
+    "rating_count": 162,
+    "release_dates": [
+      153710,
+      153711,
+      153712,
+      303111
+    ],
+    "screenshots": [
+      213833,
+      213834,
+      213835,
+      213836,
+      213837,
+      213838,
+      213839,
+      213841,
+      213842,
+      213843,
+      213844,
+      257610
+    ],
+    "similar_games": [
+      1877,
+      3277,
+      19164,
+      19564,
+      25300,
+      55038,
+      90099,
+      101211,
+      105049,
+      113114
+    ],
+    "slug": "fallout-76",
+    "summary": "Bethesda Game Studios welcome you to Fallout 76. Twenty-five years after the bombs fall you and your fellow Vault Dwellers, chosen from the nation’s best and brightest, emerge into post-nuclear America on Reclamation Day, 2102. Play solo or join together as you explore, quest, build, and triumph against the wasteland’s greatest threats. Explore a vast wasteland, devastated by nuclear war, in this open-world multiplayer addition to the Fallout story. Experience the largest, most dynamic world ever created in the legendary Fallout universe.",
+    "tags": [
+      1,
+      18,
+      21,
+      38,
+      268435461,
+      268435468,
+      536870981,
+      536871378,
+      536872234,
+      536872245,
+      536872800,
+      536876642,
+      536880254,
+      536898494
+    ],
+    "themes": [
+      1,
+      18,
+      21,
+      38
+    ],
+    "total_rating": 54.44128727889596,
+    "total_rating_count": 180,
+    "updated_at": 1697821676,
+    "url": "https://www.igdb.com/games/fallout-76",
+    "videos": [
+      20924,
+      22934,
+      22935,
+      22936,
+      22937,
+      22938,
+      27879,
+      27881,
+      27882
+    ],
+    "websites": [
+      79811,
+      79813,
+      79814,
+      137103,
+      137104,
+      137105,
+      152679,
+      152680,
+      152681,
+      271463,
+      349694
+    ],
+    "checksum": "8103e44f-ff57-13c9-ff6b-16512e9c2924",
+    "language_supports": [
+      125742,
+      125744,
+      125746,
+      125748,
+      125750,
+      125752,
+      125754,
+      125756,
+      125758,
+      125760,
+      125762,
+      125764,
+      125766,
+      125768,
+      125770,
+      125772,
+      125774,
+      125776,
+      125778,
+      125780,
+      125782,
+      125784,
+      125786,
+      125788,
+      125790,
+      125791,
+      125792,
+      125793,
+      125794,
+      125795,
+      160596,
+      160597
+    ],
+    "game_localizations": [
+      25683
+    ]
+  },
+  {
+    "id": 21892,
+    "age_ratings": [
+      69025,
+      89292,
+      106515,
+      106516,
+      116321,
+      123655
+    ],
+    "aggregated_rating": 92.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      9790
+    ],
+    "artworks": [
+      58250
+    ],
+    "bundles": [
+      21590,
+      122725
+    ],
+    "category": 3,
+    "collection": 3,
+    "cover": 91153,
+    "created_at": 1469822384,
+    "external_games": [
+      14487,
+      25620,
+      77117,
+      84333,
+      96369,
+      1929837,
+      1932846,
+      2068343,
+      2159627,
+      2614691,
+      2624076
+    ],
+    "first_release_date": 1255392000,
+    "follows": 40,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      12,
+      31
+    ],
+    "involved_companies": [
+      47706,
+      95354
+    ],
+    "keywords": [
+      69
+    ],
+    "name": "Fallout 3: Game of the Year Edition",
+    "platforms": [
+      6,
+      9,
+      12
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 91.96502290467365,
+    "rating_count": 136,
+    "release_dates": [
+      115449,
+      115450,
+      115451
+    ],
+    "screenshots": [
+      127267,
+      127268,
+      127269,
+      127270,
+      127271
+    ],
+    "similar_games": [
+      1877,
+      17379,
+      17548,
+      19564,
+      25300,
+      26574,
+      55038,
+      90099,
+      105049,
+      105269
+    ],
+    "slug": "fallout-3-game-of-the-year-edition",
+    "storyline": "Vault 101 Jewel of the Wastes. For 200 years, Vault 101 has faithfully served the surviving residents of Washington DC and its environs, now known as the Capital Wasteland. Though the global atomic war of 2077 left the US all but destroyed, the residents of Vault 101 enjoy a life free from the constant stress of the outside world. Giant Insects, Raiders, Slavers, and yes, even Super Mutants are all no match for superior Vault-Tec(R) engineering. Yet one fateful morning, you awake to find that your father has defied the Overseer and left the comfort and security afforded by Vault 101 for reasons unknown. Leaving the only home you\u0027ve ever known, you emerge from the Vault into the harsh Wasteland sun to search for your father, and the truth.",
+    "summary": "Prepare for the Future with Fallout 3: Game of the Year Edition, experience the most acclaimed game of 2008 like never before. Create a character of your choosing and descend into an awe-inspiring, post-apocalyptic world where every minute is a fight for survival.",
+    "tags": [
+      1,
+      18,
+      21,
+      33,
+      38,
+      268435461,
+      268435468,
+      268435487,
+      536870981
+    ],
+    "themes": [
+      1,
+      18,
+      21,
+      33,
+      38
+    ],
+    "total_rating": 91.98251145233682,
+    "total_rating_count": 137,
+    "updated_at": 1697633439,
+    "url": "https://www.igdb.com/games/fallout-3-game-of-the-year-edition",
+    "version_parent": 15,
+    "version_title": "Game of the Year Edition",
+    "videos": [
+      81738
+    ],
+    "websites": [
+      16771,
+      118837,
+      317880,
+      320493,
+      320494,
+      320495,
+      320496,
+      515988
+    ],
+    "checksum": "7042e979-2818-ed6f-9c0d-e3f0fe610a88",
+    "language_supports": [
+      241528,
+      241529,
+      241530,
+      241531,
+      241532,
+      477092,
+      477093,
+      477094,
+      477095,
+      477096
+    ]
+  },
+  {
+    "id": 54612,
+    "age_ratings": [
+      91546,
+      106255,
+      110684,
+      127365,
+      149917
+    ],
+    "alternative_names": [
+      9794
+    ],
+    "artworks": [
+      46780,
+      46781
+    ],
+    "bundles": [
+      122725,
+      164666
+    ],
+    "category": 3,
+    "collection": 3,
+    "cover": 85695,
+    "created_at": 1502375179,
+    "external_games": [
+      1928536,
+      1929364,
+      1930694,
+      1935226,
+      1935312,
+      1935881,
+      1936278,
+      1937076,
+      1938199,
+      2083357,
+      2085431,
+      2088063,
+      2160696,
+      2220769,
+      2220884,
+      2565956,
+      2566052,
+      2590870,
+      2610755,
+      2610757,
+      2733183
+    ],
+    "first_release_date": 1506384000,
+    "follows": 11,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      12
+    ],
+    "involved_companies": [
+      88236,
+      95355
+    ],
+    "name": "Fallout 4: Game of the Year Edition",
+    "platforms": [
+      6,
+      48,
+      49
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "rating": 89.17154518286365,
+    "rating_count": 45,
+    "release_dates": [
+      113740,
+      113741,
+      113742
+    ],
+    "screenshots": [
+      127242,
+      127243,
+      127244,
+      127245,
+      127246,
+      796556,
+      796557,
+      796558,
+      796559,
+      796560,
+      796561,
+      796562
+    ],
+    "similar_games": [
+      1877,
+      19164,
+      19564,
+      26574,
+      37419,
+      47823,
+      55038,
+      90099,
+      105269,
+      107318
+    ],
+    "slug": "fallout-4-game-of-the-year-edition",
+    "summary": "Return to the Wasteland today with Fallout 4: Game of the Year Edition. With all the latest gameplay updates (including Survival mode), graphical enhancements, the ability to play Mods for free on PC and consoles, plus all official add-ons included, this is the ultimate way to experience the award-winning post-nuclear adventure from Bethesda Game Studios.\n\nFallout 4: Game of the Year Edition includes the fully updated original game along with all six add-ons: Nuka-World, Vault-Tec Workshop, Contraptions Workshop, Far Harbor, Wasteland Workshop and Automatron. Fallout 4: Game of the Year Edition is available now on PlayStation 4, Xbox One and PC. Be sure to reserve your copy in the upcoming weeks from select digital and physical retailers.",
+    "tags": [
+      1,
+      18,
+      33,
+      38,
+      268435461,
+      268435468
+    ],
+    "themes": [
+      1,
+      18,
+      33,
+      38
+    ],
+    "total_rating": 89.17154518286365,
+    "total_rating_count": 45,
+    "updated_at": 1697808567,
+    "url": "https://www.igdb.com/games/fallout-4-game-of-the-year-edition",
+    "version_parent": 9630,
+    "version_title": "Game of the Year Edition",
+    "videos": [
+      95942
+    ],
+    "websites": [
+      574608
+    ],
+    "checksum": "db10d0c6-60d4-fe51-e096-7fae1d5ad08a",
+    "language_supports": [
+      753714,
+      753715,
+      753716,
+      753717,
+      753718,
+      753719,
+      753720,
+      753721,
+      753722,
+      753723,
+      753724,
+      753725,
+      753726
+    ]
+  },
+  {
+    "id": 243647,
+    "alternative_names": [
+      131731
+    ],
+    "category": 5,
+    "cover": 295381,
+    "created_at": 1680544023,
+    "first_release_date": 1421539200,
+    "game_engines": [
+      54
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      5,
+      12
+    ],
+    "name": "Fallout: Dust",
+    "parent_game": 16,
+    "platforms": [
+      3,
+      6,
+      14
+    ],
+    "player_perspectives": [
+      1,
+      2
+    ],
+    "release_dates": [
+      464834,
+      464835,
+      464836
+    ],
+    "screenshots": [
+      1021737,
+      1021738,
+      1021739,
+      1021740
+    ],
+    "slug": "fallout-dust",
+    "storyline": "Dust takes place 20 years after the events of New Vegas. As you explore you will slowly learn the story of Dust, but unlike vanilla Fallout, you are not the main character. You are simply a bystander, and must create your own story. There is one way to win Dust . A true survivor must escape the Mojave. With help from notes and keen observation, one may be able to learn of the exit. Even then, the player will have to go a long way to get out.",
+    "summary": "Dust is a Post-Apocalyptic survival simulator with an emphasis on lore and story. Dust completely overhauls nearly every aspect of the game to better represent an apocalyptic survival-horror atmosphere. Combat, weather, perks, loot, enemies, you name it. Some areas have even been visually overhauled. All vanilla NPCs have either been killed or changed beyond all recognition. You will not be able to complete quests or join factions. There is but one quest in Dust. Stay alive.",
+    "themes": [
+      18,
+      19,
+      21,
+      38
+    ],
+    "updated_at": 1680549947,
+    "url": "https://www.igdb.com/games/fallout-dust",
+    "videos": [
+      87150
+    ],
+    "websites": [
+      541589
+    ],
+    "checksum": "0f4bd9d1-635b-7c4f-e028-e6192497bcb7"
+  },
+  {
+    "id": 27922,
+    "aggregated_rating": 85.33333333333333,
+    "aggregated_rating_count": 3,
+    "artworks": [
+      33913
+    ],
+    "category": 0,
+    "collection": 3,
+    "cover": 91149,
+    "created_at": 1490181959,
+    "external_games": [
+      84351,
+      96373,
+      200537,
+      1980852
+    ],
+    "first_release_date": 1513036800,
+    "follows": 12,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      12
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      54346,
+      95306
+    ],
+    "keywords": [
+      69
+    ],
+    "name": "Fallout 4 VR",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      7
+    ],
+    "rating": 60.0,
+    "rating_count": 2,
+    "release_dates": [
+      113132
+    ],
+    "screenshots": [
+      44431,
+      44432,
+      44433,
+      143330,
+      143331
+    ],
+    "similar_games": [
+      2412,
+      25311,
+      54842,
+      55038,
+      86477,
+      90099,
+      105269,
+      107318,
+      111187,
+      123997
+    ],
+    "slug": "fallout-4-vr",
+    "summary": "Fallout 4, the legendary post-apocalyptic adventure from Bethesda Game Studios and winner of more than 200 ‘Best Of’ awards, including the DICE and BAFTA Game of the Year, finally comes in its entirety to VR. Fallout 4 VR includes the complete core game with all-new combat, crafting, and building systems fully reimagined for virtual reality. The freedom of exploring the wasteland comes alive like never before.\n\nAs the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the fate of the Wasteland. Welcome home.",
+    "tags": [
+      18,
+      268435468,
+      536870981
+    ],
+    "themes": [
+      18
+    ],
+    "total_rating": 72.66666666666666,
+    "total_rating_count": 5,
+    "updated_at": 1696311341,
+    "url": "https://www.igdb.com/games/fallout-4-vr",
+    "videos": [
+      14618
+    ],
+    "websites": [
+      67701,
+      67702,
+      437024,
+      586212
+    ],
+    "checksum": "2d6e3b8f-04f3-11a3-59ba-9bbd00686c6b",
+    "language_supports": [
+      309714,
+      309716,
+      309718,
+      309720,
+      309721,
+      309722,
+      309723,
+      309724,
+      309726,
+      309728,
+      309731,
+      309733,
+      309735,
+      309737,
+      309739,
+      309741,
+      309743,
+      309745,
+      309747,
+      309749,
+      309751,
+      309753,
+      309755,
+      309757,
+      309758,
+      309759
+    ]
+  },
+  {
+    "id": 189281,
+    "category": 5,
+    "cover": 206521,
+    "created_at": 1643722997,
     "game_engines": [
       95
     ],
@@ -2371,375 +3741,83 @@
       5,
       12
     ],
-    "hypes": 58,
-    "involved_companies": [
-      24120,
-      95327
-    ],
     "keywords": [
-      8,
-      64,
       69,
-      72,
-      129,
-      170,
-      221,
-      222,
-      274,
-      429,
-      510,
-      563,
-      575,
-      789,
-      816,
-      906,
-      962,
-      977,
-      1158,
-      1317,
-      1322,
-      1345,
-      1403,
-      1423,
-      1440,
-      1523,
-      1539,
-      1905,
-      1935,
-      1971,
-      2071,
-      2111,
-      2324,
-      2452,
-      3831,
-      3931,
-      4134,
-      4154,
-      4221,
-      4249,
+      901,
+      1035,
       4250,
-      4272,
-      4273,
-      4284,
-      4285,
-      4287,
-      4329,
-      4345,
-      4352,
-      4353,
-      4357,
-      4359,
-      4399,
-      4433,
-      4484,
-      4580,
-      4613,
-      4614,
-      4623,
-      4730,
-      4823,
-      4852,
-      4854,
-      4862,
-      4878,
-      4891,
-      4918,
-      4927,
-      4956,
-      4976,
-      4984,
-      5023,
-      5209,
-      5318,
-      5323,
-      5343,
-      5379,
-      5408,
-      5474,
-      5481,
-      5494,
-      5500,
-      5514,
-      5517,
-      5542,
-      5661,
-      5821,
-      5836,
-      5850,
-      5971,
-      5999,
-      6037,
-      6066,
-      6069,
-      6210,
-      6214,
-      6246,
-      6364,
-      6370,
-      6391,
-      6462,
-      6471,
-      6587,
-      6702,
-      6733,
-      7080,
-      7154,
-      7353,
-      7437,
-      7605,
-      7612,
-      8784,
-      9313,
-      9321,
-      9338,
-      9342,
-      10178,
-      10269,
-      16826,
-      17092,
-      23856,
-      23933
+      24124
     ],
-    "multiplayer_modes": [
-      7451
-    ],
-    "name": "Fallout 4",
+    "name": "Fallout: Miami",
+    "parent_game": 9630,
     "platforms": [
-      6,
-      48,
-      49,
-      167,
-      169
+      6
     ],
     "player_perspectives": [
-      1,
-      2
+      1
     ],
-    "rating": 80.28527818851208,
-    "rating_count": 1268,
     "release_dates": [
-      30673,
-      30674,
-      400655,
-      400656,
-      407411
-    ],
-    "screenshots": [
-      11187,
-      11188,
-      11189,
-      11190,
-      16344
+      378041
     ],
     "similar_games": [
-      13,
-      14,
-      15,
-      16,
-      472,
-      533,
-      1020,
-      1121,
-      9498,
-      19441
+      1877,
+      17379,
+      19164,
+      19564,
+      25300,
+      55038,
+      90099,
+      101211,
+      105049,
+      105269
     ],
-    "slug": "fallout-4",
-    "summary": "Bethesda Game Studios welcome you to the world of Fallout 4, their most ambitious game ever, and the next generation of open-world gaming. As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the fate of the Wasteland. Welcome home.",
+    "slug": "fallout-miami",
+    "summary": "Fallout: Miami is an upcoming DLC-sized mod for Fallout 4 with an original setting, complete with its own engrossing main quest, interesting side quests and characters, including new companions. The central theme of our story is the struggle between order and freedom. The setting for this new adventure is the post-post-apocalyptic Vacation Wasteland of Miami Beach. Once a popular tourist destination, attracting rich and glamorous visitors both foreign and domestic, it now plays host to an eclectic assortment of factions and societies, each with its own culture and approach to the challenges of this new post-nuclear world. The once-great slaver kingdom of Sunshine Cove has recently come under threat by a horde of automobile-worshipping nomads calling themselves the Nuclear Patriots. While Miami\u0027s various factions vie for control over the Vacation Wasteland, a long-forgotten remnant of the old world slumbers beneath the waves, waiting for an opportunity to reclaim America once again.",
     "tags": [
       1,
       18,
       21,
-      23,
-      33,
       38,
       268435461,
       268435468,
-      536870920,
-      536870976,
       536870981,
-      536870984,
-      536871041,
-      536871082,
-      536871133,
-      536871134,
-      536871186,
-      536871341,
-      536871422,
-      536871475,
-      536871487,
-      536871701,
-      536871728,
-      536871818,
-      536871874,
-      536871889,
-      536872070,
-      536872229,
-      536872234,
-      536872257,
-      536872315,
-      536872335,
-      536872352,
-      536872435,
-      536872451,
-      536872817,
-      536872847,
-      536872883,
-      536872983,
-      536873023,
-      536873236,
-      536873364,
-      536874743,
-      536874843,
-      536875046,
-      536875066,
-      536875133,
-      536875161,
+      536871813,
+      536871947,
+      536872449,
       536875162,
-      536875184,
-      536875185,
-      536875196,
-      536875197,
-      536875199,
-      536875241,
-      536875257,
-      536875264,
-      536875265,
-      536875269,
-      536875271,
-      536875311,
-      536875345,
-      536875396,
-      536875492,
-      536875525,
-      536875526,
-      536875535,
-      536875642,
-      536875735,
-      536875764,
-      536875766,
-      536875774,
-      536875790,
-      536875803,
-      536875830,
-      536875839,
-      536875868,
-      536875888,
-      536875896,
-      536875935,
-      536876121,
-      536876230,
-      536876235,
-      536876255,
-      536876291,
-      536876320,
-      536876386,
-      536876393,
-      536876406,
-      536876412,
-      536876426,
-      536876429,
-      536876454,
-      536876573,
-      536876733,
-      536876748,
-      536876762,
-      536876883,
-      536876911,
-      536876949,
-      536876978,
-      536876981,
-      536877122,
-      536877126,
-      536877158,
-      536877276,
-      536877282,
-      536877303,
-      536877374,
-      536877383,
-      536877499,
-      536877614,
-      536877645,
-      536877992,
-      536878066,
-      536878265,
-      536878349,
-      536878517,
-      536878524,
-      536879696,
-      536880225,
-      536880233,
-      536880250,
-      536880254,
-      536881090,
-      536881181,
-      536887738,
-      536888004,
-      536894768,
-      536894845
+      536895036
     ],
     "themes": [
       1,
       18,
       21,
-      23,
-      33,
       38
     ],
-    "total_rating": 82.47597242758937,
-    "total_rating_count": 1295,
-    "updated_at": 1697331318,
-    "url": "https://www.igdb.com/games/fallout-4",
-    "videos": [
-      4349,
-      4393,
-      6330,
-      19035
-    ],
+    "updated_at": 1692357080,
+    "url": "https://www.igdb.com/games/fallout-miami",
     "websites": [
-      43300,
-      77145,
-      77146,
-      77147,
-      152688,
-      152689,
-      152690,
-      152691,
-      152692,
-      522499
+      261085
     ],
-    "checksum": "48320fcb-d79e-02e9-e61f-89b9da220185",
-    "language_supports": [
-      57927,
-      57928,
-      57929,
-      57930,
-      57931,
-      57932,
-      57933,
-      57934,
-      57935,
-      57936,
-      57937,
-      57938,
-      57939,
-      57940,
-      57941,
-      57942,
-      57943,
-      57944,
-      57945,
-      57946,
-      57947,
-      57948,
-      57949,
-      57950,
-      57951,
-      57952,
-      162687,
-      162688
+    "checksum": "8be1a66a-1780-f20f-5413-3ade2994cd71"
+  },
+  {
+    "id": 237830,
+    "category": 5,
+    "cover": 287420,
+    "created_at": 1676415876,
+    "first_release_date": 1425945600,
+    "name": "Fallout: Nevada",
+    "parent_game": 14,
+    "platforms": [
+      6
     ],
-    "game_localizations": [
-      25740
-    ]
+    "release_dates": [
+      451597
+    ],
+    "slug": "fallout-nevada",
+    "summary": "Fallout: Nevada is a total conversion mod for Fallout 2, featuring a wholly new campaign, taking place prior to the events of the first game.",
+    "updated_at": 1676423925,
+    "url": "https://www.igdb.com/games/fallout-nevada",
+    "checksum": "d379aaf8-b2e7-2da3-9265-1593c867d39b"
   }
 ]

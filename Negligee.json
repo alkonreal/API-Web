@@ -1,0 +1,367 @@
+[
+  {
+    "id": 28207,
+    "age_ratings": [
+      12176,
+      12177
+    ],
+    "artworks": [
+      27667
+    ],
+    "category": 0,
+    "cover": 173709,
+    "created_at": 1492925263,
+    "external_games": [
+      6302,
+      105194,
+      1601701
+    ],
+    "first_release_date": 1476835200,
+    "follows": 1,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      2,
+      31,
+      32,
+      34
+    ],
+    "involved_companies": [
+      46056
+    ],
+    "keywords": [
+      78,
+      1158,
+      1961,
+      3586,
+      4004,
+      23856
+    ],
+    "name": "Negligee",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      5
+    ],
+    "rating": 80.0,
+    "rating_count": 4,
+    "release_dates": [
+      68375,
+      254928
+    ],
+    "screenshots": [
+      61732,
+      61733,
+      61734,
+      61735,
+      61736
+    ],
+    "similar_games": [
+      22422,
+      22482,
+      28465,
+      41895,
+      43097,
+      43130,
+      51991,
+      59173,
+      75797,
+      75900
+    ],
+    "slug": "negligee",
+    "storyline": "A story of love and lingerie as you are thrust into the role as manager of the underwear shop \u0027Negligee\u0027.\n\nAs the new manager you must find the right girl (or girls) to aid you in running the shop, help the various shoppers find what they are looking for and get to grips with your new found position in order to be a success.\n\nWork alongside a set of beautiful girls in this high quality visual novel with multiple routes, choices and endings to unlock.",
+    "summary": "Negligee is developed and published by Dharker Studio. It was released in 20 Oct, 2016.\nA story of love and lingerie as you are thrust into the role as manager of the underwear shop ‘Negligee’.\n\nAs the new manager you must find the right girl (or girls) to aid you in running the shop, help the various shoppers find what they are looking for and get to grips with your new found position in order to be a success.\n\nWork alongside a set of beautiful girls in this high quality visual novel with multiple routes, choices and endings to unlock.",
+    "tags": [
+      42,
+      268435458,
+      268435487,
+      268435488,
+      268435490,
+      536870990,
+      536872070,
+      536872873,
+      536874498,
+      536874916,
+      536875831,
+      536894768
+    ],
+    "themes": [
+      42
+    ],
+    "total_rating": 80.0,
+    "total_rating_count": 4,
+    "updated_at": 1694836484,
+    "url": "https://www.igdb.com/games/negligee",
+    "websites": [
+      21186,
+      67893
+    ],
+    "checksum": "aa72cf76-f88e-0ec5-fe88-d4f8221ff1f6",
+    "language_supports": [
+      262806,
+      262807,
+      262808
+    ]
+  },
+  {
+    "id": 153041,
+    "artworks": [
+      94185
+    ],
+    "category": 0,
+    "cover": 195737,
+    "created_at": 1624275951,
+    "external_games": [
+      2060373
+    ],
+    "first_release_date": 1623974400,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      32
+    ],
+    "keywords": [
+      3586
+    ],
+    "name": "Negligee: Girls Night",
+    "platforms": [
+      6
+    ],
+    "release_dates": [
+      292186
+    ],
+    "screenshots": [
+      494732,
+      494735,
+      494746,
+      494749
+    ],
+    "similar_games": [
+      28465,
+      36977,
+      41895,
+      43097,
+      51991,
+      75797,
+      75900,
+      115735,
+      115739,
+      115741
+    ],
+    "slug": "negligee-girls-night",
+    "summary": "This is a fun, tongue in cheek story of lustful urges and workplace romance. As two women go on a night out together to reaffirm their friendship as they start to work together once more.",
+    "tags": [
+      42,
+      268435488,
+      536874498
+    ],
+    "themes": [
+      42
+    ],
+    "updated_at": 1685761889,
+    "url": "https://www.igdb.com/games/negligee-girls-night",
+    "websites": [
+      253952
+    ],
+    "checksum": "bd572256-0f11-fea3-d437-00f02e2a4c98",
+    "language_supports": [
+      275050,
+      275051,
+      275052
+    ]
+  },
+  {
+    "id": 159218,
+    "category": 0,
+    "cover": 298349,
+    "created_at": 1627319401,
+    "external_games": [
+      2078199
+    ],
+    "first_release_date": 1629504000,
+    "involved_companies": [
+      210731
+    ],
+    "name": "Negligee: Spring Clean",
+    "platforms": [
+      6
+    ],
+    "release_dates": [
+      468038
+    ],
+    "slug": "negligee-spring-clean",
+    "summary": "The girls of the Lingerie shop are back and they are in for their toughest day of the year, a mega sale event! How will the girls handle things, you get to decide not only how the sale goes but who you will control in this adult yuri/lesbian themed multi-routed visual novel game.",
+    "updated_at": 1681544673,
+    "url": "https://www.igdb.com/games/negligee-spring-clean",
+    "websites": [
+      203946,
+      463978
+    ],
+    "checksum": "9fb248a9-152e-0a2a-ccc2-0c504b59cfc5"
+  },
+  {
+    "id": 111743,
+    "age_ratings": [
+      23496
+    ],
+    "artworks": [
+      23403
+    ],
+    "category": 0,
+    "cover": 111765,
+    "created_at": 1541428380,
+    "external_games": [
+      4939,
+      1698244,
+      1778397
+    ],
+    "first_release_date": 1536883200,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      31,
+      32,
+      34
+    ],
+    "involved_companies": [
+      71324
+    ],
+    "keywords": [
+      3586
+    ],
+    "name": "Negligee: Love Stories",
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      5
+    ],
+    "release_dates": [
+      160788
+    ],
+    "screenshots": [
+      258726,
+      258727,
+      258728,
+      258730,
+      258731
+    ],
+    "similar_games": [
+      26163,
+      28465,
+      41895,
+      43097,
+      43130,
+      51991,
+      75797,
+      75900,
+      90825,
+      115735
+    ],
+    "slug": "negligee-love-stories",
+    "storyline": "A series of four stories following the characters Karen, Charlotte, Sophie and Jasmin. Following their early lives and the decisions they had to make, whether to follow their heart or their head and how that impacts their lives.\n\nFeatures:\n\n- A cute and fun set of well written story-lines.\n- Multiple routes and choices that affect the endings.\n- High quality characters, backgrounds and CG Scenes.\n- Het \u0026 Yuri Scenes based on the characters of each story.\n- 1080p window \u0026 full screen options.\n- Multiple save slots and full VN functions.",
+    "summary": "Steam\u0027s first uncensored adult game / Erotic short multi episodes novels.",
+    "tags": [
+      42,
+      268435487,
+      268435488,
+      268435490,
+      536872626,
+      536874498
+    ],
+    "themes": [
+      42
+    ],
+    "updated_at": 1692832055,
+    "url": "https://www.igdb.com/games/negligee-love-stories",
+    "websites": [
+      92597,
+      92598
+    ],
+    "checksum": "929ea599-8065-4015-e0fb-f1a446717123",
+    "language_supports": [
+      365545,
+      365548
+    ]
+  },
+  {
+    "id": 160126,
+    "artworks": [
+      44933
+    ],
+    "category": 0,
+    "cover": 173712,
+    "created_at": 1627905750,
+    "external_games": [
+      2075318
+    ],
+    "first_release_date": 1626393600,
+    "genres": [
+      32
+    ],
+    "keywords": [
+      1961,
+      3586
+    ],
+    "name": "Negligee: Opposites Attract",
+    "platforms": [
+      3,
+      6,
+      14
+    ],
+    "release_dates": [
+      301547,
+      301548,
+      301549
+    ],
+    "screenshots": [
+      559048,
+      559049,
+      559050,
+      559051,
+      559052,
+      559053,
+      559054,
+      559055,
+      559056
+    ],
+    "similar_games": [
+      28465,
+      36977,
+      43097,
+      43130,
+      51991,
+      67166,
+      75797,
+      75900,
+      77811,
+      115735
+    ],
+    "slug": "negligee-opposites-attract",
+    "summary": "Charlotte, has been dumped by her long term girlfriend Mikka. Fortunately her sexy friend Sophie insists on taking her out to try and cheer her up. But Sophie is quite a wildcat so who knows where such a date could lead in this yuri/lesbian themed visual novel with multiple routes and endings.",
+    "tags": [
+      42,
+      268435488,
+      536872873,
+      536874498
+    ],
+    "themes": [
+      42
+    ],
+    "updated_at": 1685740608,
+    "url": "https://www.igdb.com/games/negligee-opposites-attract",
+    "websites": [
+      206942
+    ],
+    "checksum": "f8e76082-1f65-5bfd-f4fa-4e9807924d4b",
+    "language_supports": [
+      305304,
+      305305,
+      305306
+    ]
+  }
+]

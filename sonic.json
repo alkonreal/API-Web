@@ -1,0 +1,1329 @@
+[
+  {
+    "id": 2707,
+    "age_ratings": [
+      661,
+      47156
+    ],
+    "aggregated_rating": 74.0,
+    "aggregated_rating_count": 6,
+    "alternative_names": [
+      14644,
+      31570,
+      31571,
+      31572,
+      31573,
+      31574,
+      31575,
+      45920
+    ],
+    "artworks": [
+      4483,
+      4484,
+      4485,
+      4486,
+      4487,
+      4488,
+      4489
+    ],
+    "category": 0,
+    "collection": 530,
+    "cover": 89271,
+    "created_at": 1374598562,
+    "external_games": [
+      35685,
+      72918,
+      134122,
+      218703,
+      218704,
+      1191225,
+      1930661
+    ],
+    "first_release_date": 1255392000,
+    "follows": 7,
+    "franchises": [
+      457,
+      845
+    ],
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      14
+    ],
+    "involved_companies": [
+      186501,
+      186502,
+      186503
+    ],
+    "keywords": [
+      44,
+      274,
+      833,
+      917,
+      960,
+      1075,
+      1710,
+      1953,
+      2152,
+      3227,
+      4162,
+      4239,
+      4287,
+      4294,
+      4328,
+      4347,
+      4359,
+      4388,
+      4455,
+      4456,
+      4484,
+      4657,
+      5704,
+      5727,
+      6094,
+      6368,
+      6795,
+      6796,
+      7107,
+      9075,
+      10699,
+      12953,
+      13082,
+      17141,
+      36686
+    ],
+    "multiplayer_modes": [
+      14684
+    ],
+    "name": "Mario \u0026 Sonic at the Olympic Winter Games",
+    "platforms": [
+      5
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 68.88075126176476,
+    "rating_count": 25,
+    "release_dates": [
+      192882,
+      192883
+    ],
+    "screenshots": [
+      377407,
+      377408,
+      377409,
+      377410,
+      377411,
+      377412
+    ],
+    "similar_games": [
+      1078,
+      2193,
+      2342,
+      2706,
+      2708,
+      3989,
+      3990,
+      6601,
+      28113,
+      28213
+    ],
+    "slug": "mario-and-sonic-at-the-olympic-winter-games",
+    "summary": "Mario \u0026 Sonic at the Olympic Winter Games is a sports game with the official license of the 2010 Winter Olympic Games and a crossover franchise from the Mario and the Sonic universe similar to Mario \u0026 Sonic at the Olympic Games. It takes place at the Vancouver Winter Olympics of 2010. Like the previous game, the 27 events are presented as motion-based mini-games. Aside from the main events there are a series of Dream Events that have enhanced features and visuals. Some of the events can optionally be played using the balance board peripheral. Events include for instance skiing, snowboarding, bobsleigh, ice hockey, figure skating and more. The games can be played individually or in a festival mode that spans 17 days.",
+    "tags": [
+      1,
+      40,
+      268435470,
+      536870956,
+      536871186,
+      536871745,
+      536871829,
+      536871872,
+      536871987,
+      536872622,
+      536872865,
+      536873064,
+      536874139,
+      536875074,
+      536875151,
+      536875199,
+      536875206,
+      536875240,
+      536875259,
+      536875271,
+      536875300,
+      536875367,
+      536875368,
+      536875396,
+      536875569,
+      536876616,
+      536876639,
+      536877006,
+      536877280,
+      536877707,
+      536877708,
+      536878019,
+      536879987,
+      536881611,
+      536883865,
+      536883994,
+      536888053,
+      536907598
+    ],
+    "themes": [
+      1,
+      40
+    ],
+    "total_rating": 71.44037563088239,
+    "total_rating_count": 31,
+    "updated_at": 1692966824,
+    "url": "https://www.igdb.com/games/mario-and-sonic-at-the-olympic-winter-games",
+    "videos": [
+      35074
+    ],
+    "websites": [
+      53911,
+      53912,
+      513239
+    ],
+    "checksum": "155287a6-7a43-a2cb-c335-09b63a783ed0",
+    "ports": [
+      56927,
+      132109
+    ],
+    "language_supports": [
+      473189,
+      473190
+    ]
+  },
+  {
+    "id": 145254,
+    "age_ratings": [
+      34239,
+      86576
+    ],
+    "alternative_names": [
+      57899
+    ],
+    "category": 3,
+    "cover": 135739,
+    "created_at": 1617118718,
+    "first_release_date": 1542931200,
+    "franchises": [
+      457
+    ],
+    "game_modes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "genres": [
+      8,
+      15,
+      31
+    ],
+    "involved_companies": [
+      171966,
+      171967,
+      171968,
+      171969
+    ],
+    "keywords": [
+      2453,
+      24797
+    ],
+    "name": "Sonic Double Pack : Sonic Mania Plus \u0026 Sonic Forces",
+    "platforms": [
+      130
+    ],
+    "player_perspectives": [
+      2,
+      4
+    ],
+    "release_dates": [
+      360513
+    ],
+    "similar_games": [
+      20342,
+      25311,
+      27092,
+      28070,
+      35994,
+      55038,
+      55190,
+      105269,
+      107318,
+      115283
+    ],
+    "slug": "sonic-double-pack-sonic-mania-plus-and-sonic-forces",
+    "summary": "Experience Classic and Modern Sonic in two great games -- speed through rolling landscapes in all-new 2D adventures in Sonic Mania Plus, and create your own character to take back the world from the evil Dr. Eggman in the 3D adventure, Sonic Forces!",
+    "tags": [
+      1,
+      18,
+      268435464,
+      268435471,
+      268435487,
+      536873365,
+      536895709
+    ],
+    "themes": [
+      1,
+      18
+    ],
+    "updated_at": 1681967935,
+    "url": "https://www.igdb.com/games/sonic-double-pack-sonic-mania-plus-and-sonic-forces",
+    "checksum": "86deacaf-305a-7a73-a123-92c5350ae80d"
+  },
+  {
+    "id": 132109,
+    "age_ratings": [
+      71847
+    ],
+    "alternative_names": [
+      31576,
+      31577,
+      31578,
+      31579,
+      31580,
+      31581,
+      31582,
+      31583
+    ],
+    "category": 11,
+    "collection": 530,
+    "cover": 97072,
+    "created_at": 1586514791,
+    "first_release_date": 1255392000,
+    "franchises": [
+      457,
+      845
+    ],
+    "game_modes": [
+      1,
+      4
+    ],
+    "genres": [
+      14
+    ],
+    "involved_companies": [
+      96037,
+      96038,
+      96039
+    ],
+    "name": "Mario \u0026 Sonic at the Olympic Winter Games",
+    "parent_game": 2707,
+    "platforms": [
+      20
+    ],
+    "release_dates": [
+      192884,
+      192885,
+      192886,
+      192887
+    ],
+    "screenshots": [
+      377413,
+      377414,
+      377415,
+      377416,
+      377417,
+      377418,
+      377419
+    ],
+    "similar_games": [
+      15851,
+      113149,
+      113895,
+      114285,
+      116353,
+      116795,
+      118871,
+      119422,
+      215551,
+      231056
+    ],
+    "slug": "mario-and-sonic-at-the-olympic-winter-games--1",
+    "summary": "The DS-exclusive adventure mode features a story in which Dr. Eggman and Bowser melt away all the ice needed for the Olympic Games. To set things right Mario \u0026 Sonic need to travel to different locations, talk to the inhabitants and solve challenges. Those consist of the sports mini games with certain winning requirements. Playing this mode also unlocks the dream events. Besides this players can decide to enter the party game mode or to play the games separately respectively in a custom tournament. All modes except the adventure mode are also available for up to four players.",
+    "tags": [
+      1,
+      40,
+      268435470
+    ],
+    "themes": [
+      1,
+      40
+    ],
+    "updated_at": 1688530599,
+    "url": "https://www.igdb.com/games/mario-and-sonic-at-the-olympic-winter-games--1",
+    "videos": [
+      35075
+    ],
+    "checksum": "1c2b0ca9-3b69-fb36-d192-103a5725bcf4"
+  },
+  {
+    "id": 129187,
+    "alternative_names": [
+      88643,
+      88644
+    ],
+    "category": 5,
+    "collection": 7866,
+    "cover": 154109,
+    "created_at": 1580680347,
+    "first_release_date": 1392076800,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      8
+    ],
+    "involved_companies": [
+      99586,
+      99587
+    ],
+    "keywords": [
+      2004,
+      16696,
+      24124,
+      24799,
+      24813,
+      24814,
+      25594
+    ],
+    "name": "Metal Sonic in Sonic 3 \u0026 Knuckles",
+    "parent_game": 11219,
+    "platforms": [
+      29
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "release_dates": [
+      196699
+    ],
+    "screenshots": [
+      385151,
+      385152
+    ],
+    "similar_games": [
+      20342,
+      24426,
+      28070,
+      29032,
+      55173,
+      55190,
+      56033,
+      57187,
+      63138,
+      89597
+    ],
+    "slug": "metal-sonic-in-sonic-3-and-knuckles",
+    "summary": "Metal Sonic in Sonic 3 \u0026 Knuckles replaces Sonic with Metal Sonic from Sonic CD, you can no longer choose from the numerous playstyles but Metal has his own abilities such as use of the elemental sheilds and a boost.\n\nMetal Sonic must save Angel Island and take down his Mechanical Doppleganger.",
+    "tags": [
+      1,
+      268435464,
+      536872916,
+      536887608,
+      536895036,
+      536895711,
+      536895725,
+      536895726,
+      536896506
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1692352801,
+    "url": "https://www.igdb.com/games/metal-sonic-in-sonic-3-and-knuckles",
+    "websites": [
+      141256
+    ],
+    "checksum": "08e9a016-b373-291e-52df-746a348f9f65",
+    "language_supports": [
+      637619
+    ]
+  },
+  {
+    "id": 129186,
+    "alternative_names": [
+      88640,
+      88641,
+      88642
+    ],
+    "category": 5,
+    "collection": 7866,
+    "cover": 222690,
+    "created_at": 1580679784,
+    "first_release_date": 1388966400,
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      8
+    ],
+    "involved_companies": [
+      99511,
+      101470
+    ],
+    "keywords": [
+      2004,
+      16696,
+      24124,
+      24797,
+      24799,
+      24813,
+      24814,
+      25594,
+      27216
+    ],
+    "name": "Metal Sonic in Sonic the Hedgehog 2",
+    "parent_game": 4438,
+    "platforms": [
+      29
+    ],
+    "player_perspectives": [
+      4
+    ],
+    "release_dates": [
+      196554
+    ],
+    "screenshots": [
+      385013,
+      385014,
+      385015
+    ],
+    "similar_games": [
+      20342,
+      24426,
+      28070,
+      55173,
+      55190,
+      56033,
+      57187,
+      148231,
+      228325,
+      266510
+    ],
+    "slug": "metal-sonic-in-sonic-the-hedgehog-2",
+    "summary": "Metal Sonic in Sonic the Hedgehog 2 swaps Sonic out for Metal Sonic from Sonic CD, you can choose between the Original moveset, Sonic CD, or the 2011 remaster moveset from Christian Whitehead\u0027s port of Sonic CD\n\nMetal will once show Robotnik he\u0027s not a bot to be forgotten...",
+    "tags": [
+      1,
+      268435464,
+      536872916,
+      536887608,
+      536892635,
+      536895036,
+      536895709,
+      536895711,
+      536895725,
+      536895726,
+      536895731,
+      536896506,
+      536898128
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1694760463,
+    "url": "https://www.igdb.com/games/metal-sonic-in-sonic-the-hedgehog-2",
+    "videos": [
+      36952
+    ],
+    "websites": [
+      182434,
+      284977
+    ],
+    "checksum": "4cc077c0-5d13-0520-8b41-ddbff6353381",
+    "language_supports": [
+      637600
+    ]
+  },
+  {
+    "id": 6231,
+    "age_ratings": [
+      78591
+    ],
+    "aggregated_rating": 30.0,
+    "aggregated_rating_count": 2,
+    "alternative_names": [
+      9445,
+      9446,
+      91369,
+      91370,
+      91371,
+      91372,
+      91373
+    ],
+    "bundles": [
+      7069
+    ],
+    "category": 0,
+    "collection": 2156,
+    "cover": 93146,
+    "created_at": 1398028477,
+    "external_games": [
+      25277,
+      82911,
+      82913,
+      138340,
+      189341,
+      214161,
+      220403,
+      2613182
+    ],
+    "first_release_date": 1163462400,
+    "follows": 13,
+    "franchises": [
+      457
+    ],
+    "game_engines": [
+      17
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      8,
+      31
+    ],
+    "involved_companies": [
+      14849,
+      14850
+    ],
+    "keywords": [
+      78,
+      103,
+      170,
+      839,
+      957,
+      1033,
+      1186,
+      2184,
+      4297,
+      4578,
+      4711,
+      4918,
+      5345,
+      25890,
+      28728
+    ],
+    "name": "Sonic the Hedgehog",
+    "platforms": [
+      9,
+      12
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 25.58023923466497,
+    "rating_count": 102,
+    "release_dates": [
+      107582,
+      107583,
+      107584,
+      107585,
+      107586,
+      134116,
+      134117,
+      134118
+    ],
+    "screenshots": [
+      27322,
+      141054,
+      141055,
+      141056,
+      141057
+    ],
+    "similar_games": [
+      1877,
+      3192,
+      20342,
+      24426,
+      25300,
+      28070,
+      28309,
+      55038,
+      55190,
+      80916
+    ],
+    "slug": "sonic-the-hedgehog-473de878-5a9f-402e-a282-86a7460fc1d2",
+    "summary": "The game shares its name with two earlier Sonic games, a manga, a television series, a comic book series, and their eponymous main character. To disambiguate, the game has been referred to as Sonic 2006. It was produced in commemoration of the 15th anniversary of the Sonic the Hedgehog series. The game faced multiple issues during development, which resulted in rushing the product despite existing bugs. Both versions were heavily criticized for long loading times, poor camera system, gameplay glitches, complicated plot and sloppy character control.\n\nThe game faced development issues which resulted the product being rushed and ultimately a poor product being delivered. Upon release, it was widely criticized for its numerous gameplay glitches, long loading times and complicated plot.",
+    "tags": [
+      1,
+      18,
+      34,
+      268435464,
+      268435487,
+      536870990,
+      536871015,
+      536871082,
+      536871751,
+      536871869,
+      536871945,
+      536872098,
+      536873096,
+      536875209,
+      536875490,
+      536875623,
+      536875830,
+      536876257,
+      536896802,
+      536899640
+    ],
+    "themes": [
+      1,
+      18,
+      34
+    ],
+    "total_rating": 27.79011961733249,
+    "total_rating_count": 104,
+    "updated_at": 1694208689,
+    "url": "https://www.igdb.com/games/sonic-the-hedgehog-473de878-5a9f-402e-a282-86a7460fc1d2",
+    "videos": [
+      2278
+    ],
+    "websites": [
+      53887,
+      53888
+    ],
+    "checksum": "03422df2-6f97-a6c7-f81e-8e508a811834",
+    "ports": [
+      264886
+    ],
+    "game_localizations": [
+      4076
+    ]
+  },
+  {
+    "id": 119189,
+    "age_ratings": [
+      30489,
+      30490
+    ],
+    "alternative_names": [
+      50569,
+      50570,
+      50571,
+      50572,
+      50573
+    ],
+    "bundles": [
+      23826
+    ],
+    "category": 1,
+    "collection": 2854,
+    "cover": 117112,
+    "created_at": 1559330263,
+    "external_games": [
+      2016251
+    ],
+    "first_release_date": 1352764800,
+    "franchises": [
+      457
+    ],
+    "game_engines": [
+      1108
+    ],
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      10
+    ],
+    "involved_companies": [
+      110240,
+      110241
+    ],
+    "keywords": [
+      155,
+      24797,
+      24814
+    ],
+    "multiplayer_modes": [
+      11995,
+      11996,
+      11997,
+      11998
+    ],
+    "name": "Sonic \u0026 All-Stars Racing Transformed: Metal Sonic \u0026 Outrun Pack",
+    "parent_game": 2174,
+    "platforms": [
+      6,
+      9,
+      12,
+      41
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "release_dates": [
+      177251,
+      213743,
+      213744,
+      213745
+    ],
+    "screenshots": [
+      384276,
+      384277,
+      403437,
+      403438,
+      403439,
+      403440
+    ],
+    "similar_games": [
+      19164,
+      54775,
+      55038,
+      55199,
+      81249,
+      87673,
+      96217,
+      105011,
+      106987,
+      119161
+    ],
+    "slug": "sonic-and-all-stars-racing-transformed-metal-sonic-and-outrun-pack",
+    "summary": "Sonic \u0026 All-Stars Racing Transformed Metal Sonic \u0026 Outrun DLC\n\nDownload the Metal Sonic \u0026 Outrun DLC for Sonic \u0026 All-Stars Racing Transformed. Featuring:\nMetal Sonic in his unique transforming vehicle + handling mods\nOutrun Bay track, based on the iconic arcade game, + time trials\nExclusive emoticon stickers for your in game license.",
+    "tags": [
+      1,
+      17,
+      27,
+      35,
+      268435466,
+      536871067,
+      536892669,
+      536895709,
+      536895726
+    ],
+    "themes": [
+      1,
+      17,
+      27,
+      35
+    ],
+    "updated_at": 1696496379,
+    "url": "https://www.igdb.com/games/sonic-and-all-stars-racing-transformed-metal-sonic-and-outrun-pack",
+    "videos": [
+      41615
+    ],
+    "websites": [
+      107932,
+      156538,
+      156539,
+      156540,
+      156541,
+      156542,
+      156543,
+      156544,
+      156545,
+      156546,
+      156547
+    ],
+    "checksum": "25506ba2-05a3-a8f0-4e3e-2d626d13e649",
+    "language_supports": [
+      24706,
+      24707,
+      24708,
+      24709,
+      24710,
+      24711,
+      24712,
+      24713,
+      24714,
+      24715,
+      24716,
+      24717,
+      24718,
+      24719,
+      24720,
+      24721,
+      24722,
+      24723,
+      24724
+    ],
+    "game_localizations": [
+      11941
+    ]
+  },
+  {
+    "id": 5322,
+    "age_ratings": [
+      5831,
+      45742,
+      62607,
+      62608
+    ],
+    "aggregated_rating": 37.5,
+    "aggregated_rating_count": 4,
+    "alternative_names": [
+      84335,
+      84337,
+      84354,
+      84355,
+      84356,
+      84357,
+      84358
+    ],
+    "artworks": [
+      70070
+    ],
+    "category": 0,
+    "collection": 6180,
+    "cover": 87704,
+    "created_at": 1392085400,
+    "external_games": [
+      37243,
+      115708,
+      220380,
+      251127,
+      1931897,
+      2594470
+    ],
+    "first_release_date": 1415664000,
+    "follows": 2,
+    "franchises": [
+      457
+    ],
+    "game_engines": [
+      25
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      8,
+      31
+    ],
+    "hypes": 3,
+    "involved_companies": [
+      12875,
+      20929
+    ],
+    "keywords": [
+      170,
+      575,
+      997,
+      1033,
+      1186,
+      1953,
+      2184,
+      2628,
+      4134,
+      4297,
+      4455,
+      4578,
+      4711,
+      4877,
+      4930,
+      4931,
+      5316,
+      5317,
+      7028,
+      24797,
+      24814,
+      26965
+    ],
+    "multiplayer_modes": [
+      7090
+    ],
+    "name": "Sonic Boom: Rise of Lyric",
+    "platforms": [
+      41
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 12.7984893108661,
+    "rating_count": 24,
+    "release_dates": [
+      20715,
+      20716,
+      20717,
+      108668
+    ],
+    "screenshots": [
+      4785,
+      4786,
+      4787,
+      4788,
+      4789,
+      173074,
+      173075,
+      173076,
+      173077,
+      173078,
+      173079,
+      173080
+    ],
+    "similar_games": [
+      3192,
+      19150,
+      20329,
+      20342,
+      28309,
+      36198,
+      55173,
+      55190,
+      56033,
+      80916
+    ],
+    "slug": "sonic-boom-rise-of-lyric",
+    "summary": "Sonic Boom: Rise of Lyric delivers a completely new action-adventure gameplay experience for Sonic fans. The detailed levels and emphasis on each character’s unique abilities give players more choice in exploration as they work as a team to stop the deadly snake-like ancient villain, Lyric, before he can power up his army. Players will be challenged by over-the-top speed runs, but the heart of the game is focused on intense combat and brand-new abilities including the Enerbeam. This energy-charged cord can be used by characters to navigate the world like never before. Swing or zip-line across gaps, grab and throw enemies, take away their shields in combat, and explore alternate paths filled with lush environments and landscapes.",
+    "tags": [
+      1,
+      268435464,
+      268435487,
+      536871082,
+      536871487,
+      536871909,
+      536871945,
+      536872098,
+      536872865,
+      536873096,
+      536873540,
+      536875046,
+      536875209,
+      536875367,
+      536875490,
+      536875623,
+      536875789,
+      536875842,
+      536875843,
+      536876228,
+      536876229,
+      536877940,
+      536892669,
+      536895709,
+      536895726,
+      536897877
+    ],
+    "themes": [
+      1
+    ],
+    "total_rating": 25.14924465543305,
+    "total_rating_count": 28,
+    "updated_at": 1696496353,
+    "url": "https://www.igdb.com/games/sonic-boom-rise-of-lyric",
+    "videos": [
+      2192
+    ],
+    "websites": [
+      1415,
+      53958,
+      53959,
+      338209
+    ],
+    "checksum": "0c4fe9a6-03d9-e3c8-5323-3db1f490a5c6",
+    "language_supports": [
+      492640,
+      492642,
+      492643,
+      492645,
+      492647
+    ],
+    "game_localizations": [
+      3933
+    ]
+  },
+  {
+    "id": 116795,
+    "age_ratings": [
+      31563,
+      37792,
+      47157,
+      95547,
+      96803
+    ],
+    "aggregated_rating": 63.0,
+    "aggregated_rating_count": 2,
+    "alternative_names": [
+      31618,
+      31619,
+      31620,
+      31621,
+      31622,
+      31623,
+      31624,
+      86536,
+      109971
+    ],
+    "artworks": [
+      7517
+    ],
+    "category": 0,
+    "collection": 530,
+    "cover": 97077,
+    "created_at": 1553929339,
+    "external_games": [
+      1724887,
+      1775414,
+      1865380,
+      1865470,
+      1865568,
+      1865669,
+      1865756,
+      1865881,
+      1914093,
+      1928464,
+      1928940,
+      1933664,
+      1937824,
+      2597668,
+      2605819
+    ],
+    "first_release_date": 1572566400,
+    "follows": 25,
+    "franchises": [
+      457,
+      845
+    ],
+    "game_engines": [
+      885
+    ],
+    "game_modes": [
+      1,
+      2,
+      4
+    ],
+    "genres": [
+      14
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      96047
+    ],
+    "keywords": [
+      9774
+    ],
+    "multiplayer_modes": [
+      12827
+    ],
+    "name": "Mario \u0026 Sonic at the Olympic Games Tokyo 2020",
+    "platforms": [
+      130
+    ],
+    "rating": 72.92021535298952,
+    "rating_count": 11,
+    "release_dates": [
+      192899,
+      192900,
+      192901,
+      192902
+    ],
+    "screenshots": [
+      296702,
+      296703,
+      317593,
+      317594,
+      317595,
+      317598,
+      317599
+    ],
+    "similar_games": [
+      11258,
+      15851,
+      96452,
+      103218,
+      113149,
+      113895,
+      114285,
+      116353,
+      118871,
+      119422
+    ],
+    "slug": "mario-and-sonic-at-the-olympic-games-tokyo-2020",
+    "summary": "Mario \u0026 Sonic at the Olympic Games Tokyo 2020 is the sixth installment in the Mario \u0026 Sonic series based on the real-world 2020 Summer Olympics, which will take place in Tokyo, Japan. The game includes a number of events, including returning ones from previous Mario \u0026 Sonic titles, such as boxing, soccer, swimming, and gymnastics, and new ones, such as karate, skateboarding, sport climbing, and surfing. It will also feature a mode with 2D Events where players can compete in classic 2D versions of events from the 1964 Summer Olympics. Based off older sports games, these events are played using button controls only and will only feature eight playable characters. These 2D Events\u0027 animations reflect the 8-bit Mario and 16-bit Sonic game art style.",
+    "tags": [
+      1,
+      40,
+      268435470,
+      536880686
+    ],
+    "themes": [
+      1,
+      40
+    ],
+    "total_rating": 67.96010767649476,
+    "total_rating_count": 13,
+    "updated_at": 1696784259,
+    "url": "https://www.igdb.com/games/mario-and-sonic-at-the-olympic-games-tokyo-2020",
+    "videos": [
+      28096,
+      35081
+    ],
+    "websites": [
+      108429,
+      116663,
+      121288,
+      388579
+    ],
+    "checksum": "0d66ecc8-f0ae-ec1c-9874-7617dd22fbcb",
+    "ports": [
+      158975
+    ],
+    "language_supports": [
+      500030,
+      500031,
+      500032,
+      500034,
+      500035,
+      500036,
+      500037
+    ],
+    "game_localizations": [
+      11739,
+      20866
+    ]
+  },
+  {
+    "id": 2708,
+    "age_ratings": [
+      662,
+      13273,
+      47154
+    ],
+    "aggregated_rating": 62.0,
+    "aggregated_rating_count": 5,
+    "alternative_names": [
+      31584,
+      31585,
+      31586,
+      31587,
+      31588,
+      31589,
+      31590
+    ],
+    "category": 0,
+    "collection": 530,
+    "cover": 93254,
+    "created_at": 1374598864,
+    "external_games": [
+      35866,
+      125281,
+      190146,
+      218699,
+      218700,
+      1192991,
+      1931965,
+      1932878,
+      1934752,
+      1937888
+    ],
+    "first_release_date": 1321315200,
+    "follows": 4,
+    "franchises": [
+      457,
+      845
+    ],
+    "game_modes": [
+      1,
+      4
+    ],
+    "genres": [
+      14
+    ],
+    "involved_companies": [
+      180349,
+      180350,
+      180351
+    ],
+    "keywords": [
+      1075,
+      2152,
+      4657,
+      4842,
+      4869,
+      5727,
+      5989,
+      6094,
+      9774,
+      11894,
+      17141,
+      36686
+    ],
+    "name": "Mario \u0026 Sonic at the London 2012 Olympic Games",
+    "platforms": [
+      5
+    ],
+    "rating": 67.04822986816994,
+    "rating_count": 24,
+    "release_dates": [
+      108647,
+      108648,
+      108649,
+      108650
+    ],
+    "screenshots": [
+      377420,
+      377421,
+      377422,
+      377423,
+      377424
+    ],
+    "similar_games": [
+      2183,
+      2349,
+      2350,
+      3405,
+      19930,
+      23667,
+      114286,
+      116353,
+      116795,
+      120795
+    ],
+    "slug": "mario-sonic-at-the-london-2012-olympic-games",
+    "summary": "Mario \u0026 Sonic at the London 2012 Olympic Games is a collection of numerous events based on the Olympic Games. Mario \u0026 Sonic brings together the two titular characters and eighteen more from both franchises to participate in environments based on the official venues of the 2012 Summer Olympics in London. The characters are divided into four categories: all-around, speed, power, and skill.",
+    "tags": [
+      40,
+      268435470,
+      536871987,
+      536873064,
+      536875569,
+      536875754,
+      536875781,
+      536876639,
+      536876901,
+      536877006,
+      536880686,
+      536882806,
+      536888053,
+      536907598
+    ],
+    "themes": [
+      40
+    ],
+    "total_rating": 64.52411493408496,
+    "total_rating_count": 29,
+    "updated_at": 1692966771,
+    "url": "https://www.igdb.com/games/mario-sonic-at-the-london-2012-olympic-games",
+    "videos": [
+      15035
+    ],
+    "websites": [
+      52520,
+      53946,
+      513240
+    ],
+    "checksum": "dd845434-32ac-a598-5dde-5e0e70353b62",
+    "ports": [
+      132110
+    ],
+    "language_supports": [
+      473191,
+      473192
+    ]
+  }
+]

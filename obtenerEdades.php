@@ -8,6 +8,7 @@ require_once('general.php');
 
 function obtenerEdades($edades){
     // $edades = intval($edades); // Convertir a entero
+    print_r("a ver si busca el juego ".$edades);
   $curl = curl_init();
 //   echo "a ver si busca el juego ".$edades;
   $query = "fields *; where id = ".$edades.";"; // Construir la cadena de consulta

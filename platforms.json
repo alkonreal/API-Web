@@ -10,13 +10,13 @@
             "id": 6,
             "alternative_name": "mswin",
             "name": "PC (Microsoft Windows)",
-            "url": "mswin"
+            "url": "pc"
         },
         {
             "id": 7,
             "alternative_name": "PSX,PSOne,PS",
             "name": "PlayStation",
-            "url": "PSX,PSOne,PS"
+            "url": "PS"
         },
         {
             "id": 8,
@@ -40,7 +40,7 @@
             "id": 13,
             "alternative_name": "PCDOS",
             "name": "DOS",
-            "url": "PCDOS"
+            "url": "msdos"
         },
         {
             "id": 14,
@@ -52,54 +52,54 @@
             "id": 18,
             "alternative_name": "NES",
             "name": "Nintendo Entertainment System",
-            "url": "NES"
+            "url": "nes"
         },
         {
             "id": 19,
             "alternative_name": "SNES,SuperNintendo",
             "name": "Super Nintendo Entertainment System",
-            "url": "SNES,SuperNintendo"
+            "url": "snes"
         },
         {
             "id": 20,
             "alternative_name": "NDS",
             "name": "Nintendo DS",
-            "url": "NDS"
+            "url": "nds"
         },
         {
             "id": 21,
             "alternative_name": "GCN",
             "name": "Nintendo GameCube",
-            "url": "GCN"
+            "url": "gcn"
         },
         {
             "id": 29,
             "alternative_name": "SegaGenesis",
             "name": "Sega Mega Drive/Genesis",
-            "url": "SegaGenesis"
+            "url": "megadrive"
         },
         {
             "id": 30,
             "name": "Sega 32X",
-            "url": "Sega32X"
+            "url": "32X"
         },
         {
             "id": 32,
             "alternative_name": "JVCSaturn,Hi-Saturn,SamsungSaturn,V-Saturn",
             "name": "Sega Saturn",
-            "url": "JVCSaturn,Hi-Saturn,SamsungSaturn,V-Saturn"
+            "url": "saturn"
         },
         {
             "id": 34,
             "alternative_name": "Infocusa3",
             "name": "Android",
-            "url": "Infocusa3"
+            "url": "android"
         },
         {
             "id": 35,
             "alternative_name": "GG",
             "name": "Sega Game Gear",
-            "url": "GG"
+            "url": "gg"
         },
         {
             "id": 37,
@@ -111,36 +111,37 @@
             "id": 38,
             "alternative_name": "PSP",
             "name": "PlayStation Portable",
-            "url": "PSP"
+            "url": "psp"
         },
         {
             "id": 39,
+            "alternative_name": "ios",
             "name": "iOS",
-            "url": "iOS"
+            "url": "ios"
         },
         {
             "id": 46,
             "alternative_name": "PSVita",
             "name": "PlayStation Vita",
-            "url": "PSVita"
+            "url": "psvita"
         },
         {
             "id": 48,
             "alternative_name": "PS4",
             "name": "PlayStation 4",
-            "url": "PS4"
+            "url": "ps4"
         },
         {
             "id": 49,
             "alternative_name": "XONE",
             "name": "Xbox One",
-            "url": "XONE"
+            "url": "xboxone"
         },
         {
             "id": 64,
             "alternative_name": "SMS,MarkIII",
             "name": "Sega Master System/Mark III",
-            "url": "SMS,MarkIII"
+            "url": "mastersystem"
         },
         {
             "id": 78,
@@ -152,13 +153,13 @@
             "id": 84,
             "alternative_name": "SegaGame1000",
             "name": "SG-1000",
-            "url": "SegaGame1000"
+            "url": "sega1000"
         },
         {
             "id": 130,
             "alternative_name": "NX",
             "name": "Nintendo Switch",
-            "url": "NX"
+            "url": "switch"
         },
         {
             "id": 131,
@@ -175,7 +176,7 @@
         {
             "id": 159,
             "name": "Nintendo DSi",
-            "url": "NintendoDSi"
+            "url": "DSi"
         },
         {
             "id": 165,
@@ -187,19 +188,19 @@
             "id": 167,
             "alternative_name": "PS5",
             "name": "PlayStation 5",
-            "url": "PS5"
+            "url": "ps5"
         },
         {
             "id": 169,
             "alternative_name": "XSX",
             "name": "Xbox Series X|S",
-            "url": "XSX"
+            "url": "xsx"
         },
         {
             "id": 339,
             "alternative_name": "KidsComputerPico",
             "name": "Sega Pico",
-            "url": "KidsComputerPico"
+            "url": "segapico"
         },
         {
             "id": 390,
@@ -212,6 +213,12 @@
             "alternative_name": "64DD",
             "name": "Nintendo 64DD",
             "url": "64DD"
+        },
+        {
+            "id": 22,
+            "alternative_name": "GBcolor",
+            "name": "Gameboy Color",
+            "url": "gbcolor"
         }
     ]
 }

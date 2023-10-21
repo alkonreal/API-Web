@@ -39,7 +39,7 @@ function obtenerDatos($juegoABuscar){
     CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
     CURLOPT_CUSTOMREQUEST => 'POST',
     // CURLOPT_POSTFIELDS =>'search "Halo" ; fields *; 
-    CURLOPT_POSTFIELDS => 'search "' . $juegoABuscar . '" ; fields *;  ',
+    CURLOPT_POSTFIELDS => 'search "' . $juegoABuscar . '" ; fields *;limit 20;  ',
 
     CURLOPT_HTTPHEADER => array(
       'Client-ID: 6qvxbbsaj6fa9qtvfughtzr3stz1th',
@@ -76,11 +76,11 @@ echo ("Que coño es el summary?");
 
 // Categrorias
 
+// $yeah = $response2[0]->platforms;
 
+// print_r($yeah);
 
-
-
-
+// veamos($yeah);
 
   // print_r("Hay algo dentro de PLAYER PÊRSPECTIVE?:\n");
   //  print_r($response);

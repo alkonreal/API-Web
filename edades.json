@@ -1,0 +1,406 @@
+[
+    {
+        "id": 18037,
+        "category": 2,
+        "rating": 4,
+        "checksum": "11cb1496-f875-28cc-c59f-544d8e523615",
+        "url": 16
+    },
+    {
+        "id": 28968,
+        "category": 2,
+        "rating": 4,
+        "checksum": "ea9650f6-6341-9fd7-4fbe-6d81d644d1f9",
+        "url": 16
+    },
+    {
+        "id": 17987,
+        "category": 2,
+        "rating": 3,
+        "checksum": "648c038d-8365-d08d-a082-76ff5e6da4d4",
+        "url": 12
+    },
+    {
+        "id": 32552,
+        "category": 2,
+        "content_descriptions": [
+            32975
+        ],
+        "rating": 3,
+        "synopsis": "The content of this game is suitable for persons aged 12 years and over only. It contains: Non realistic looking violence towards fantasy characters,",
+        "checksum": "f974f4a3-f7ba-87c1-47dc-574da5fc6b92",
+        "url": 12
+    },
+    {
+        "id": 19077,
+        "category": 2,
+        "rating": 1,
+        "checksum": "86ea7228-b369-6a07-d0b0-a251dbf90d7c",
+        "url": 3
+    },
+    {
+        "id": 74031,
+        "category": 2,
+        "rating": 2,
+        "checksum": "9c249fb2-82ce-0146-e24e-45d52550d510",
+        "url": 7
+    },
+    {
+        "id": 116424,
+        "category": 2,
+        "content_descriptions": [
+            118679
+        ],
+        "rating": 4,
+        "checksum": "e62a954b-4faa-d6ab-5e74-ed66bf8b2ca8",
+        "url": 16
+    },
+    {
+        "id": 29047,
+        "category": 2,
+        "rating": 2,
+        "checksum": "5a64a03c-a2a8-c14a-d4d2-be2573cae924",
+        "url": 7
+    },
+    {
+        "id": 23496,
+        "category": 2,
+        "content_descriptions": [
+            22579,
+            22580
+        ],
+        "rating": 5,
+        "checksum": "efa1fcee-0232-fde1-6746-e7f095ed0007",
+        "url": 18
+    },
+    {
+        "id": 36585,
+        "category": 2,
+        "rating": 5,
+        "checksum": "f105a327-d910-d443-d118-c73eb8c835a7",
+        "url": 18
+    },
+
+
+    
+        {
+            "id": 127168,
+            "category": 2,
+            "content_descriptions": [
+                125574
+            ],
+            "rating": 4,
+            "checksum": "fc6e5599-425a-4ca0-b5fc-2d836b9b952e",
+            "url": 16
+        },
+        {
+            "id": 34804,
+            "category": 2,
+            "content_descriptions": [
+                35649,
+                35650
+            ],
+            "rating": 4,
+            "synopsis": "The content of this game is suitable for persons aged 16 years and over only. It contains: Realistic looking violence This game allows the player to interact with other players ONLINE",
+            "checksum": "2ad97579-392e-1e94-78f7-c9fe15aee32e",
+            "url": 16
+        },
+        {
+            "id": 32507,
+            "category": 2,
+            "content_descriptions": [
+                32908
+            ],
+            "rating": 4,
+            "synopsis": "The content of this game is suitable for persons aged 16 years and over only. It contains: Realistic looking violence.",
+            "checksum": "929c2edd-b759-647c-5442-f3f1adf14fe8",
+            "url": 16
+        },
+        {
+            "id": 115769,
+            "category": 2,
+            "content_descriptions": [
+                118353
+            ],
+            "rating": 4,
+            "checksum": "223ab68b-657f-ed28-dce0-a84b2fe21b75",
+            "url": 16
+        },
+        {
+            "id": 44679,
+            "category": 2,
+            "rating": 4,
+            "checksum": "d2cb0726-dc84-2051-4ff0-f1c0a6df9870",
+            "url": 16
+        },
+        {
+            "id": 7980,
+            "category": 2,
+            "content_descriptions": [
+                10749,
+                10750
+            ],
+            "rating": 4,
+            "checksum": "e350260e-d8f5-3148-cafe-805a2c3c4741",
+            "url": 16
+        },
+        {
+            "id": 34802,
+            "category": 2,
+            "content_descriptions": [
+                35646,
+                35647
+            ],
+            "rating": 4,
+            "synopsis": "The content of this game is suitable for persons aged 16 years and over only. It contains: Realistic looking violence",
+            "checksum": "cf2267b6-764e-89b9-2fae-826bd3f989af",
+            "url": 16
+        },
+        {
+            "id": 89834,
+            "category": 2,
+            "rating": 4,
+            "checksum": "787a38b2-9ad4-0b92-ac5d-21d5d452d099",
+            "url": 16
+        },
+        {
+            "id": 52178,
+            "category": 2,
+            "content_descriptions": [
+                56890,
+                56891
+            ],
+            "rating": 4,
+            "synopsis": "Violence during gameplay involves alien characters being shot, resulting in realistic physical reactions and pained sounds, but little or no blood and no injuries depicted. When the player's character is hit, the first person nature of the game means any damage is largely indicated through sound effects and statistics on the player's display, rather than through explicit visuals. Cinematic sequences do show close-up hand-to-hand combat, with realistic physical reactions to beatings and being thrown, but no explicit wound details. Dead bodies can be examined, with some blood depicted but no graphic injuries.",
+            "checksum": "b29a7ae8-86fc-0c05-63ea-def5ac2d2df5",
+            "url": 16
+        },
+        {
+            "id": 35755,
+            "category": 2,
+            "rating": 1,
+            "synopsis": "Violence that is set in a cartoon, slapstick or child like setting This game allows the player to interact with other players ONLINE",
+            "checksum": "5976537d-5a9e-0834-d79e-463b3018c5c2",
+            "url": 3
+        },
+        {
+            "id": 49251,
+            "category": 2,
+            "rating": 1,
+            "checksum": "bb626aac-0677-8bb8-5eb0-aaa2db75d3e5",
+            "url": 3
+        },
+        {
+            "id": 54937,
+            "category": 2,
+            "rating": 1,
+            "checksum": "e35df0ed-15cb-0d45-6214-c0da5e9b2099",
+            "url": 3
+        },
+        {
+            "id": 30490,
+            "category": 2,
+            "content_descriptions": [
+                30251,
+                30252
+            ],
+            "rating": 2,
+            "checksum": "bb5d85e1-2ad3-eb72-a2b0-f56583c263cf",
+            "url": 7
+        },
+        {
+            "id": 31563,
+            "category": 2,
+            "rating": 2,
+            "checksum": "e7ab654b-479c-a665-84a7-ea0d9aff915e",
+            "url": 7
+        },
+        {
+            "id": 34239,
+            "category": 2,
+            "rating": 2,
+            "checksum": "4f48bcd2-8b09-6ebf-98fc-45693246981f",
+            "url": 7
+        },
+        {
+            "id": 45742,
+            "category": 2,
+            "content_descriptions": [
+                50650,
+                50651
+            ],
+            "rating": 2,
+            "synopsis": "The content of this game is suitable for persons aged 7 years and over only. It contains: Non realistic looking violence towards fantasy characters - Violence that is set in a cartoon, slapstick or child like setting that could be upsetting to very young children - Pictures or sounds likely to be scary to young children -",
+            "checksum": "de3cda3a-1e0c-6d6a-a3c2-7798c2ed50f3",
+            "url": 7
+        },
+        {
+            "id": 11896,
+            "category": 2,
+            "content_descriptions": [
+                15680
+            ],
+            "rating": 3,
+            "checksum": "583c1917-d5fa-1848-84ee-3701d0bbc2d3",
+            "url": 12
+        },
+        {
+            "id": 15700,
+            "category": 2,
+            "content_descriptions": [
+                18620
+            ],
+            "rating": 3,
+            "checksum": "869b3183-6f24-618d-c855-907cc571a6df",
+            "url": 12
+        },
+        {
+            "id": 27003,
+            "category": 2,
+            "content_descriptions": [
+                26320
+            ],
+            "rating": 3,
+            "synopsis": "The content of this game is suitable for persons aged 12 years and over only. It contains: Realistic looking violence.",
+            "checksum": "3d3f2832-e61f-3d3b-9ae7-594f65f20c47",
+            "url": 12
+        },
+        {
+            "id": 31745,
+            "category": 2,
+            "content_descriptions": [
+                31736,
+                31737
+            ],
+            "rating": 3,
+            "synopsis": "Warcraft III: Reforged is a stunning reimagining of the revolutionary real-time strategy game that laid the foundation for Azeroth’s most epic stories. It is a remake in the truest sense, featuring a thorough visual overhaul, a suite of contemporary social and matchmaking features, and more. Command the Night Elves, Undead, Orcs, and Humans as alliances shift and armies clash in this timeless real-time strategy game.",
+            "checksum": "c27b88da-0693-29e0-0ee4-a7f9b015739c",
+            "url": 12
+        },
+        {
+            "id": 36348,
+            "category": 2,
+            "content_descriptions": [
+                37253
+            ],
+            "rating": 3,
+            "synopsis": "The content of this game is suitable for persons aged 12 years and over only. It contains: Realistic looking violence",
+            "checksum": "196f0fa3-ae7c-6eb0-cc4c-a3d9d66153f1",
+            "url": 12
+        },
+        {
+            "id": 46302,
+            "category": 2,
+            "content_descriptions": [
+                51260
+            ],
+            "rating": 3,
+            "synopsis": "The content of this game is suitable for persons aged 12 years and over only. It contains: Realistic looking violence.",
+            "checksum": "055e4555-bfd4-ede1-beba-8e58945254e3",
+            "url": 12
+        },
+        {
+            "id": 56498,
+            "category": 2,
+            "content_descriptions": [
+                58317
+            ],
+            "rating": 3,
+            "synopsis": "The content of this game is suitable for persons aged 12 years and over only. It contains: Non realistic looking violence towards fantasy characters.",
+            "checksum": "15cf5185-d3bc-3f8a-1207-be4f5edb4369",
+            "url": 12
+        },
+        {
+            "id": 81831,
+            "category": 2,
+            "content_descriptions": [
+                83336
+            ],
+            "rating": 3,
+            "synopsis": "The content of this game is suitable for persons aged 12 years and over only. It contains: Non realistic looking violence towards fantasy characters.",
+            "checksum": "0c",
+            "url": 12
+        },
+        {
+            "id": 11672,
+            "category": 2,
+            "rating": 5,
+            "checksum": "d5490c42-7a03-e85d-613b-1021bc4cb361",
+            "url": 18
+        },
+        {
+            "id": 31644,
+            "category": 2,
+            "content_descriptions": [
+                31574,
+                31575,
+                31576,
+                31577,
+                31578
+            ],
+            "rating": 5,
+            "synopsis": "It contains: Multiple, motiveless killing - Descriptions of criminal techniques - Glamorisation of drugs - Strong language",
+            "checksum": "6a158c95-1f06-5638-f4db-521fed3f35b3",
+            "url": 18
+        },
+        {
+            "id": 35264,
+            "category": 2,
+            "content_descriptions": [
+                36128,
+                36129
+            ],
+            "rating": 5,
+            "synopsis": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Strong language",
+            "checksum": "a85fb9d3-2579-db58-2f47-578383d20b22",
+            "url": 18
+        },
+        {
+            "id": 47915,
+            "category": 2,
+            "content_descriptions": [
+                52716,
+                52717
+            ],
+            "rating": 5,
+            "synopsis": "No Rating Summary",
+            "checksum": "b712714a-8729-9f90-eb8a-787b7dfe4a37",
+            "url": 18
+        },
+        {
+            "id": 74914,
+            "category": 2,
+            "rating": 5,
+            "checksum": "1e9a8697-b9b3-c4f7-9618-e0a77abea263",
+            "url": 18
+        },
+        {
+            "id": 110475,
+            "category": 2,
+            "content_descriptions": [
+                114543
+            ],
+            "rating": 5,
+            "checksum": "d00311f1-7c9f-bf92-b54f-2d7590a05bf4",
+            "url": 18
+        },
+        {
+            "id": 111359,
+            "category": 2,
+            "content_descriptions": [
+                114908,
+                114909,
+                114910,
+                114911
+            ],
+            "rating": 5,
+            "synopsis": "The content of this game is suitable for persons aged 18 years and over only. It contains: Extreme violence - Multiple, motiveless killing - Violence towards defenceless people - Strong language This game allows the player to interact with other players ONLINE",
+            "checksum": "9009a60e-f71a-f1c7-5271-bc4101602d82",
+            "url": 18
+        }
+        
+    
+    
+
+
+]

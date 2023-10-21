@@ -1,0 +1,2475 @@
+[
+  {
+    "id": 130,
+    "age_ratings": [
+      65,
+      46302,
+      51263
+    ],
+    "aggregated_rating": 92.5,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      2896,
+      2897,
+      28041,
+      44572,
+      44573,
+      44574,
+      44575,
+      44576,
+      80512
+    ],
+    "bundles": [
+      77210,
+      127782
+    ],
+    "category": 0,
+    "collection": 27,
+    "cover": 182121,
+    "created_at": 1300133960,
+    "expansions": [
+      131
+    ],
+    "external_games": [
+      37562,
+      138777,
+      245666
+    ],
+    "first_release_date": 818467200,
+    "follows": 115,
+    "franchise": 135,
+    "franchises": [
+      135
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      11,
+      15
+    ],
+    "involved_companies": [
+      19462,
+      19464,
+      19465,
+      69108,
+      69109
+    ],
+    "keywords": [
+      96,
+      129,
+      392,
+      558,
+      623,
+      993,
+      1440,
+      2177,
+      2242,
+      2472,
+      3630,
+      4250,
+      4469,
+      4541,
+      4613,
+      4767,
+      4843,
+      4891,
+      4989,
+      5308,
+      5599,
+      5673,
+      5806,
+      5836,
+      5944,
+      6324,
+      7458,
+      7593,
+      8146,
+      8242,
+      8792,
+      9384,
+      9853,
+      10046,
+      10048,
+      13038,
+      14023
+    ],
+    "name": "Warcraft II: Tides of Darkness",
+    "platforms": [
+      6,
+      7,
+      13,
+      14,
+      32
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 85.46996051150578,
+    "rating_count": 307,
+    "release_dates": [
+      22631,
+      22632,
+      22633,
+      22634,
+      22641,
+      22642
+    ],
+    "screenshots": [
+      16595,
+      22938,
+      22939,
+      707261,
+      707262,
+      707263,
+      707264
+    ],
+    "similar_games": [
+      125,
+      129,
+      132,
+      230,
+      324,
+      662,
+      2365,
+      3155,
+      7027,
+      9256
+    ],
+    "slug": "warcraft-ii-tides-of-darkness",
+    "storyline": "The First War brought the Fall of Azeroth, following the Orc campaign in Warcraft: Orcs \u0026 Humans. The survivors of Azeroth have fled by sea to the Human kingdom of Lordaeron, and the Orcs have decided to conquer Lordaeron, in what is known as the Second War. Both sides have acquired allies and new capabilities, including naval and air units, and more powerful spellcasters.\n\nIn the Second War, the Orcs are successful at first, but the Humans and their allies take the initiative, partly thanks to an Orc rebellion initiated by the warlock Gul\u0027dan, who seeks to raise the sunken Tomb of Sargeras. Eventually, the Alliance forces push the Horde to Blackrock Spire, but Anduin Lothar, commander of the Alliance, is slain there. At the final battle around the Dark Portal in Azeroth, the Alliance exterminates one Orc clan and captures the Orc supreme commander and the remnants of his forces. Hoping to avoid further invasions, the Alliance destroys the Dark Portal.",
+    "summary": "Warcraft II: Tides of Darkness is a Strategy video game published by Blizzard Entertainment released on 1995 for MS-DOS. Warcraft 2 is a successor of the popular Warcraft real-time strategy game. The game contains many improvements over the previous version in graphics, sounds and playability. The Multiplayer was also greatly improved allowing up to 8 players in the marvelous multiplayer skirmish.",
+    "tags": [
+      17,
+      268435467,
+      268435471,
+      536871008,
+      536871041,
+      536871304,
+      536871470,
+      536871535,
+      536871905,
+      536872352,
+      536873089,
+      536873154,
+      536873384,
+      536874542,
+      536875162,
+      536875381,
+      536875453,
+      536875525,
+      536875679,
+      536875755,
+      536875803,
+      536875901,
+      536876220,
+      536876511,
+      536876585,
+      536876718,
+      536876748,
+      536876856,
+      536877236,
+      536878370,
+      536878505,
+      536879058,
+      536879154,
+      536879704,
+      536880296,
+      536880765,
+      536880958,
+      536880960,
+      536883950,
+      536884935
+    ],
+    "themes": [
+      17
+    ],
+    "total_rating": 88.98498025575289,
+    "total_rating_count": 308,
+    "updated_at": 1697031220,
+    "url": "https://www.igdb.com/games/warcraft-ii-tides-of-darkness",
+    "videos": [
+      63045
+    ],
+    "websites": [
+      87839,
+      128202,
+      332915
+    ],
+    "checksum": "8c9445dd-a69c-1ca0-da2d-bf74d8058555"
+  },
+  {
+    "id": 131,
+    "age_ratings": [
+      5122,
+      27003
+    ],
+    "alternative_names": [
+      2901,
+      2902,
+      15498,
+      29454,
+      29455,
+      43004,
+      43005,
+      43006
+    ],
+    "bundles": [
+      77210,
+      127782
+    ],
+    "category": 2,
+    "collection": 27,
+    "cover": 90641,
+    "created_at": 1300133981,
+    "external_games": [
+      40743,
+      146246
+    ],
+    "first_release_date": 830822400,
+    "follows": 26,
+    "franchise": 135,
+    "franchises": [
+      135
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      11,
+      15
+    ],
+    "involved_companies": [
+      19468,
+      19469,
+      19470,
+      19471
+    ],
+    "keywords": [
+      96,
+      129,
+      151,
+      558,
+      623,
+      960,
+      993,
+      1107,
+      1162,
+      1440,
+      2242,
+      2472,
+      3630,
+      4250,
+      4392,
+      4469,
+      4541,
+      4989,
+      5308,
+      5671,
+      5806,
+      5944,
+      6019,
+      6074,
+      6084,
+      7458,
+      7593,
+      8242,
+      9341,
+      9384,
+      9843,
+      9853,
+      10048,
+      11447,
+      13038
+    ],
+    "name": "Warcraft II: Beyond the Dark Portal",
+    "parent_game": 130,
+    "platforms": [
+      6,
+      7,
+      13,
+      14,
+      32
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 80.32536891747546,
+    "rating_count": 93,
+    "release_dates": [
+      22645,
+      22646,
+      22647,
+      22648,
+      22649,
+      22650,
+      22651,
+      22652,
+      22653,
+      22654,
+      22655,
+      22656
+    ],
+    "screenshots": [
+      372947,
+      372948,
+      372949,
+      372950,
+      372951,
+      372952
+    ],
+    "similar_games": [
+      125,
+      129,
+      130,
+      132,
+      848,
+      2040,
+      3155,
+      9938,
+      14394,
+      30229
+    ],
+    "slug": "warcraft-ii-beyond-the-dark-portal",
+    "summary": "Warcraft II: Beyond the Dark Portal is an expansion pack for Warcraft II: Tides of Darkness. After defeating the Orcish Horde and capturing the survivors, the Human Alliance attempts to destroy the Dark Portal. However, whilst they destroy the portal, the rift that joins the Orcs\u0027 world of Draenor to Azeroth remains. \n \nThe Alliance forces decide to enter the rift to the Orcs\u0027 home world to attempt to seal it from the other side. \n \nAt the same time, Ner\u0027zhul - Warchief of the Shadow Moon clan, who has seized control of the Orcish hordes of Draenor following Orgrim Doomhammer\u0027s departure (and eventual defeat) to Azeroth, plans to send his forces to Azeroth to gather magical artefacts in an attempt to open rifts to other worlds. \n \nBeyond the Dark Portal contains two 12 map campaigns; one for each side, 50 new pud\u0027s (maps) and a new tile set for the Orc home world. \n \nIt also contains 5 new hero characters for each side that actively participate in several of the new single player missions. In function, they are simply super powered versions of standard units that have different sounds. \n \nThere are no new standard units however, which many saw as a disappointment. \n \nThe map editor also isn\u0027t updated to include any of this expansion\u0027s new features, though third party programs exist that can add these features to the editor.",
+    "tags": [
+      1,
+      17,
+      22,
+      268435467,
+      268435471,
+      536871008,
+      536871041,
+      536871063,
+      536871470,
+      536871535,
+      536871872,
+      536871905,
+      536872019,
+      536872074,
+      536872352,
+      536873154,
+      536873384,
+      536874542,
+      536875162,
+      536875304,
+      536875381,
+      536875453,
+      536875901,
+      536876220,
+      536876583,
+      536876718,
+      536876856,
+      536876931,
+      536876986,
+      536876996,
+      536878370,
+      536878505,
+      536879154,
+      536880253,
+      536880296,
+      536880755,
+      536880765,
+      536880960,
+      536882359,
+      536883950
+    ],
+    "themes": [
+      1,
+      17,
+      22
+    ],
+    "total_rating": 80.32536891747546,
+    "total_rating_count": 93,
+    "updated_at": 1695846406,
+    "url": "https://www.igdb.com/games/warcraft-ii-beyond-the-dark-portal",
+    "checksum": "b24e1723-2253-84aa-7d7a-ef914e10afe0"
+  },
+  {
+    "id": 123,
+    "age_ratings": [
+      11043,
+      36348,
+      67669
+    ],
+    "aggregated_rating": 86.25,
+    "aggregated_rating_count": 10,
+    "alternative_names": [
+      4292,
+      30531,
+      30532,
+      32104,
+      44529,
+      44531,
+      44532,
+      44533,
+      44534,
+      44535,
+      44536,
+      50163,
+      61796
+    ],
+    "bundles": [
+      50098
+    ],
+    "category": 0,
+    "collection": 27,
+    "cover": 120815,
+    "created_at": 1300110470,
+    "expansions": [
+      227,
+      228,
+      229,
+      1332,
+      3157,
+      11593,
+      13622,
+      23788,
+      75380,
+      125175,
+      136033,
+      136266,
+      136338,
+      136348,
+      136995,
+      136998,
+      198157
+    ],
+    "external_games": [
+      37450,
+      139056,
+      189071,
+      245106,
+      1184764,
+      1931930,
+      1937591
+    ],
+    "first_release_date": 1101168000,
+    "follows": 251,
+    "franchise": 135,
+    "franchises": [
+      135
+    ],
+    "game_modes": [
+      2,
+      5
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "involved_companies": [
+      7678
+    ],
+    "keywords": [
+      87,
+      96,
+      147,
+      226,
+      236,
+      371,
+      623,
+      816,
+      900,
+      992,
+      1320,
+      1333,
+      2184,
+      2472,
+      2488,
+      2806,
+      2951,
+      3918,
+      4250,
+      4287,
+      4399,
+      4469,
+      4493,
+      4776,
+      4878,
+      4884,
+      4886,
+      4887,
+      4984,
+      5019,
+      5023,
+      5308,
+      5518,
+      5671,
+      5806,
+      6069,
+      6074,
+      6189,
+      6295,
+      6471,
+      6656,
+      6864,
+      7394,
+      7596,
+      9092,
+      9384,
+      9455,
+      9510,
+      9650,
+      9841,
+      9853,
+      10348,
+      11815,
+      15134,
+      28668,
+      28669
+    ],
+    "name": "World of Warcraft",
+    "platforms": [
+      6,
+      14
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 84.52382350608022,
+    "rating_count": 624,
+    "release_dates": [
+      48,
+      28788,
+      28789
+    ],
+    "screenshots": [
+      1450,
+      1451,
+      1452,
+      1453,
+      1454,
+      594257,
+      594258,
+      594259,
+      594260
+    ],
+    "similar_games": [
+      386,
+      660,
+      1081,
+      1593,
+      1942,
+      7533,
+      8747,
+      9938,
+      14394,
+      19133
+    ],
+    "slug": "world-of-warcraft",
+    "storyline": "Intent on settling the arid region of Durotar, Thrall\u0027s new Horde expanded its ranks, inviting the undead Forsaken to join orcs, tauren, and trolls. Meanwhile, dwarves, gnomes and the ancient night elves pledged their loyalties to a reinvigorated Alliance, guided by the human kingdom of Stormwind. After Stormwind\u0027s king, Varian Wrynn, mysteriously disappeared, Highlord Bolvar Fordragon served as Regent but his service was marred by the manipulations and mind control of the black dragon Onyxia, who ruled in disguise as a human noblewoman. As heroes investigated Onyxia\u0027s manipulations, ancient foes surfaced in lands throughout the world to menace Horde and Alliance alike.",
+    "summary": "World of Warcraft is a massively multiplayer online roleplaying game (MMORPG) set in the Warcraft universe. Players assume the roles of Warcraft heroes as they explore, adventure, and quest across a vast world. Being \"Massively Multiplayer,\" World of Warcraft allows thousands of players to interact within the same world. Whether adventuring together or fighting against each other in epic battles, players will form friendships, forge alliances, and compete with enemies for power and glory.",
+    "tags": [
+      1,
+      17,
+      38,
+      268435468,
+      268435487,
+      536870999,
+      536871008,
+      536871059,
+      536871138,
+      536871148,
+      536871283,
+      536871535,
+      536871728,
+      536871812,
+      536871904,
+      536872232,
+      536872245,
+      536873096,
+      536873384,
+      536873400,
+      536873718,
+      536873863,
+      536874830,
+      536875162,
+      536875199,
+      536875311,
+      536875381,
+      536875405,
+      536875688,
+      536875790,
+      536875796,
+      536875798,
+      536875799,
+      536875896,
+      536875931,
+      536875935,
+      536876220,
+      536876430,
+      536876583,
+      536876718,
+      536876981,
+      536876986,
+      536877101,
+      536877207,
+      536877383,
+      536877568,
+      536877776,
+      536878306,
+      536878508,
+      536880004,
+      536880296,
+      536880367,
+      536880422,
+      536880562,
+      536880753,
+      536880765,
+      536881260,
+      536882727,
+      536886046,
+      536899580,
+      536899581
+    ],
+    "themes": [
+      1,
+      17,
+      38
+    ],
+    "total_rating": 85.38691175304011,
+    "total_rating_count": 634,
+    "updated_at": 1697844158,
+    "url": "https://www.igdb.com/games/world-of-warcraft",
+    "videos": [
+      35587,
+      35588
+    ],
+    "websites": [
+      13288,
+      13289,
+      13290,
+      13291,
+      13292,
+      13294,
+      13295,
+      214101,
+      214102,
+      332381
+    ],
+    "checksum": "d165c9b5-55d7-3d92-949d-bdef893b9c4d",
+    "ports": [
+      75379,
+      241154
+    ],
+    "game_localizations": [
+      807,
+      1538
+    ]
+  },
+  {
+    "id": 133,
+    "age_ratings": [
+      5125,
+      56498,
+      81823
+    ],
+    "alternative_names": [
+      2905,
+      2906,
+      22244,
+      22245,
+      43429,
+      43430,
+      43431,
+      43432,
+      43433,
+      49565,
+      82406,
+      96445,
+      96446
+    ],
+    "category": 2,
+    "collection": 27,
+    "cover": 90643,
+    "created_at": 1300134035,
+    "external_games": [
+      37564,
+      144207,
+      189049
+    ],
+    "first_release_date": 1057017600,
+    "follows": 188,
+    "franchise": 135,
+    "franchises": [
+      135
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      11,
+      15
+    ],
+    "involved_companies": [
+      8011,
+      19474,
+      19475
+    ],
+    "keywords": [
+      77,
+      96,
+      129,
+      226,
+      274,
+      392,
+      497,
+      558,
+      592,
+      623,
+      669,
+      902,
+      993,
+      1107,
+      1162,
+      1186,
+      1313,
+      1317,
+      1320,
+      1333,
+      1440,
+      1655,
+      1710,
+      1905,
+      1986,
+      2111,
+      2177,
+      2452,
+      3128,
+      3182,
+      3630,
+      4132,
+      4162,
+      4250,
+      4284,
+      4298,
+      4300,
+      4351,
+      4359,
+      4390,
+      4392,
+      4469,
+      4541,
+      4545,
+      4613,
+      4659,
+      4767,
+      4776,
+      4869,
+      4879,
+      4891,
+      4984,
+      4989,
+      4993,
+      4996,
+      5150,
+      5308,
+      5403,
+      5453,
+      5523,
+      5587,
+      5599,
+      5671,
+      5673,
+      5686,
+      5690,
+      5806,
+      5897,
+      5944,
+      6019,
+      6074,
+      6299,
+      6324,
+      6325,
+      6385,
+      6663,
+      6848,
+      7304,
+      7423,
+      7458,
+      7593,
+      7605,
+      8242,
+      9384,
+      9596,
+      9843,
+      9853,
+      10046,
+      10739,
+      11447,
+      13038,
+      13115,
+      13928
+    ],
+    "name": "Warcraft III: The Frozen Throne",
+    "parent_game": 132,
+    "platforms": [
+      6,
+      14
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 88.5226841119618,
+    "rating_count": 463,
+    "release_dates": [
+      22662,
+      22663,
+      22664,
+      22665,
+      22666
+    ],
+    "screenshots": [
+      320926,
+      320927,
+      320928,
+      320929,
+      320930,
+      320931,
+      320932,
+      320933,
+      320934,
+      320935
+    ],
+    "similar_games": [
+      125,
+      130,
+      230,
+      324,
+      649,
+      832,
+      848,
+      2365,
+      2963,
+      3155
+    ],
+    "slug": "warcraft-iii-the-frozen-throne",
+    "storyline": "The demonic threat has been banished from the battle-scarred fields of Azeroth, but peace is still a distant dream. The epic conflict that began in Warcraft III: Reign of Chaos continues with more units, more missions, and more explosive strategic combat.",
+    "summary": "Warcraft III: The Frozen Throne adds a host of new features to the game, including four new campaigns that take you across the frozen continent of Northrend. Explore new maps and master new units such as the Troll Bat Riders, the Blood Elf Spell Breakers, and the destructive Mountain Giants.",
+    "tags": [
+      17,
+      39,
+      268435467,
+      268435471,
+      536870989,
+      536871008,
+      536871041,
+      536871138,
+      536871186,
+      536871304,
+      536871409,
+      536871470,
+      536871504,
+      536871535,
+      536871581,
+      536871814,
+      536871905,
+      536872019,
+      536872074,
+      536872098,
+      536872225,
+      536872229,
+      536872232,
+      536872245,
+      536872352,
+      536872567,
+      536872622,
+      536872817,
+      536872898,
+      536873023,
+      536873089,
+      536873364,
+      536874040,
+      536874094,
+      536874542,
+      536875044,
+      536875074,
+      536875162,
+      536875196,
+      536875210,
+      536875212,
+      536875263,
+      536875271,
+      536875302,
+      536875304,
+      536875381,
+      536875453,
+      536875457,
+      536875525,
+      536875571,
+      536875679,
+      536875688,
+      536875781,
+      536875791,
+      536875803,
+      536875896,
+      536875901,
+      536875905,
+      536875908,
+      536876062,
+      536876220,
+      536876315,
+      536876365,
+      536876435,
+      536876499,
+      536876511,
+      536876583,
+      536876585,
+      536876598,
+      536876602,
+      536876718,
+      536876809,
+      536876856,
+      536876931,
+      536876986,
+      536877211,
+      536877236,
+      536877237,
+      536877297,
+      536877575,
+      536877760,
+      536878216,
+      536878335,
+      536878370,
+      536878505,
+      536878517,
+      536879154,
+      536880296,
+      536880508,
+      536880755,
+      536880765,
+      536880958,
+      536881651,
+      536882359,
+      536883950,
+      536884027,
+      536884840
+    ],
+    "themes": [
+      17,
+      39
+    ],
+    "total_rating": 88.5226841119618,
+    "total_rating_count": 463,
+    "updated_at": 1697200513,
+    "url": "https://www.igdb.com/games/warcraft-iii-the-frozen-throne",
+    "videos": [
+      130
+    ],
+    "websites": [
+      13571,
+      13572,
+      13573,
+      78791,
+      78792
+    ],
+    "checksum": "b77d68b3-402b-f362-2c86-5adc29e34dfc",
+    "game_localizations": [
+      19157
+    ]
+  },
+  {
+    "id": 111650,
+    "age_ratings": [
+      31745,
+      31746
+    ],
+    "aggregated_rating": 55.66666666666666,
+    "aggregated_rating_count": 7,
+    "alternative_names": [
+      30648,
+      30649,
+      56132,
+      62253,
+      86633
+    ],
+    "category": 8,
+    "collection": 27,
+    "cover": 82651,
+    "created_at": 1541190378,
+    "external_games": [
+      1617765
+    ],
+    "first_release_date": 1580169600,
+    "follows": 17,
+    "franchises": [
+      135
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      11
+    ],
+    "hypes": 17,
+    "involved_companies": [
+      71285
+    ],
+    "name": "Warcraft III: Reforged",
+    "parent_game": 132,
+    "platforms": [
+      6,
+      14
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 54.27731142611138,
+    "rating_count": 36,
+    "release_dates": [
+      181936,
+      181937
+    ],
+    "screenshots": [
+      258661,
+      258662,
+      258663,
+      258664,
+      258665,
+      258666
+    ],
+    "similar_games": [
+      6985,
+      9058,
+      16497,
+      31480,
+      49414,
+      55029,
+      60360,
+      99118,
+      103290,
+      112081
+    ],
+    "slug": "warcraft-iii-reforged",
+    "summary": "Warcraft III: Reforged is a stunning reimagining of the revolutionary real-time strategy game that laid the foundation for Azeroth\u0027s most epic stories. It is a remake in the truest sense, featuring a thorough visual overhaul, a suite of contemporary social and matchmaking features, and more. Command the Night Elves, Undead, Orcs, and Humans as alliances shift and armies clash in this timeless real-time strategy game.",
+    "tags": [
+      17,
+      39,
+      268435467
+    ],
+    "themes": [
+      17,
+      39
+    ],
+    "total_rating": 54.97198904638903,
+    "total_rating_count": 43,
+    "updated_at": 1695846994,
+    "url": "https://www.igdb.com/games/warcraft-iii-reforged",
+    "videos": [
+      23027,
+      32018,
+      33366,
+      33480
+    ],
+    "websites": [
+      127601,
+      127602,
+      127603,
+      127604,
+      127605,
+      127606
+    ],
+    "checksum": "f6a71cd2-0612-75ca-5f5e-9cdff4e27ccd",
+    "game_localizations": [
+      11384,
+      20784
+    ]
+  },
+  {
+    "id": 132,
+    "age_ratings": [
+      31744,
+      81824,
+      81831
+    ],
+    "aggregated_rating": 93.0,
+    "aggregated_rating_count": 4,
+    "alternative_names": [
+      2904,
+      19364,
+      19365,
+      22241,
+      22242,
+      22243,
+      49694,
+      96447
+    ],
+    "category": 0,
+    "collection": 27,
+    "cover": 90530,
+    "created_at": 1300134004,
+    "expansions": [
+      133
+    ],
+    "external_games": [
+      37563,
+      145560,
+      245127,
+      1184720
+    ],
+    "first_release_date": 1025654400,
+    "follows": 403,
+    "franchise": 135,
+    "franchises": [
+      135
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      11,
+      15
+    ],
+    "involved_companies": [
+      8012,
+      19472,
+      19473
+    ],
+    "keywords": [
+      96,
+      592,
+      623,
+      993,
+      1320,
+      2071,
+      2472,
+      3128,
+      4250,
+      4300,
+      5308,
+      5806,
+      6663
+    ],
+    "name": "Warcraft III: Reign of Chaos",
+    "platforms": [
+      6,
+      14
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 88.67544678959744,
+    "rating_count": 1185,
+    "release_dates": [
+      22657,
+      22658,
+      22659,
+      22660,
+      22661
+    ],
+    "screenshots": [
+      130332,
+      130333,
+      130334,
+      130335,
+      130336
+    ],
+    "similar_games": [
+      2365,
+      3155,
+      6985,
+      9058,
+      14394,
+      26845,
+      30229,
+      31480,
+      55029,
+      78550
+    ],
+    "slug": "warcraft-iii-reign-of-chaos",
+    "summary": "Warcraft 3: Reign of Chaos is an RTS made by Blizzard Entertainment. Take control of either the Humans, the Orcs, the Night Elves or the Undead, all with different unit types and heroes with unique abilities.Play the story driven single player campaign, go online to play default- or custom maps against people around the world or create your own maps with the map creation tool.",
+    "tags": [
+      17,
+      39,
+      268435467,
+      268435471,
+      536871008,
+      536871504,
+      536871535,
+      536871905,
+      536872232,
+      536872983,
+      536873384,
+      536874040,
+      536875162,
+      536875212,
+      536876220,
+      536876718,
+      536877575
+    ],
+    "themes": [
+      17,
+      39
+    ],
+    "total_rating": 90.83772339479873,
+    "total_rating_count": 1189,
+    "updated_at": 1697652512,
+    "url": "https://www.igdb.com/games/warcraft-iii-reign-of-chaos",
+    "videos": [
+      127
+    ],
+    "websites": [
+      13276,
+      13277,
+      13278,
+      78789,
+      78790,
+      332402
+    ],
+    "checksum": "0e1951e0-a111-269e-4473-83e52879df1b",
+    "remakes": [
+      111650
+    ],
+    "game_localizations": [
+      19156
+    ]
+  },
+  {
+    "id": 127782,
+    "age_ratings": [
+      107366
+    ],
+    "alternative_names": [
+      28042,
+      28043,
+      28044
+    ],
+    "artworks": [
+      39377
+    ],
+    "bundles": [
+      154674
+    ],
+    "category": 3,
+    "cover": 87346,
+    "created_at": 1577148570,
+    "external_games": [
+      2069488
+    ],
+    "first_release_date": 938649600,
+    "follows": 1,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      11,
+      15
+    ],
+    "involved_companies": [
+      118249
+    ],
+    "name": "Warcraft II: Battle.net Edition",
+    "platforms": [
+      6,
+      14
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 85.58711508734763,
+    "rating_count": 22,
+    "release_dates": [
+      182568,
+      227092
+    ],
+    "screenshots": [
+      348214,
+      348215,
+      348216
+    ],
+    "similar_games": [
+      6985,
+      9058,
+      9760,
+      16497,
+      19404,
+      30229,
+      31480,
+      34024,
+      55029,
+      78550
+    ],
+    "slug": "warcraft-ii-battle-dot-net-edition",
+    "summary": "Return to the Age of Chaos and wage war against live Orc and Human opponents with the same skill and fearless intensity you lived and breathed in your Warcraft: Orcs and Humans career. Put your skills to the ultimate test in the most epic Warcraft II battles ever.\n\nChampions looking for the authentic experience can play the game as it was in 1999, with period-appropriate SVGA graphics, and the ability to matchmake through the classic version of Blizzard’s Battle.net online-gaming service or LAN, allowing real-time combat with up to eight players.",
+    "tags": [
+      17,
+      39,
+      268435467,
+      268435471
+    ],
+    "themes": [
+      17,
+      39
+    ],
+    "total_rating": 85.58711508734763,
+    "total_rating_count": 22,
+    "updated_at": 1696680380,
+    "url": "https://www.igdb.com/games/warcraft-ii-battle-dot-net-edition",
+    "version_parent": 130,
+    "version_title": "Battle.net Edition",
+    "videos": [
+      32188
+    ],
+    "websites": [
+      128203,
+      128204
+    ],
+    "checksum": "6b7cde10-7985-42a2-c320-713ffc7d1d46",
+    "language_supports": [
+      481322,
+      481323,
+      481324,
+      481325,
+      481326,
+      481327
+    ]
+  },
+  {
+    "id": 143683,
+    "aggregated_rating": 75.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      55409,
+      55410,
+      65239,
+      65240,
+      65241,
+      65242
+    ],
+    "artworks": [
+      9653,
+      11708
+    ],
+    "category": 2,
+    "collection": 27,
+    "cover": 131752,
+    "created_at": 1613679498,
+    "first_release_date": 1622505600,
+    "follows": 1,
+    "game_modes": [
+      5
+    ],
+    "genres": [
+      12
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      220113
+    ],
+    "keywords": [
+      96,
+      900
+    ],
+    "name": "World of Warcraft: Burning Crusade Classic",
+    "parent_game": 75379,
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 80.17212165469141,
+    "rating_count": 13,
+    "release_dates": [
+      251760
+    ],
+    "screenshots": [
+      423184,
+      423185,
+      423186,
+      423187,
+      423188,
+      423189,
+      423190,
+      423191
+    ],
+    "similar_games": [
+      19404,
+      19698,
+      23651,
+      49414,
+      54775,
+      59427,
+      68393,
+      99118,
+      113910,
+      115653
+    ],
+    "slug": "world-of-warcraft-burning-crusade-classic",
+    "summary": "Journey through the Dark Portal once again in World of Warcraft: Burning Crusade Classic! Originally released in January 2007, The Burning Crusade summoned the heroes of Azeroth to the shattered and fel-scarred realm of Outland to stop an invasion of the demonic Burning Legion.",
+    "tags": [
+      17,
+      268435468,
+      536871008,
+      536871812
+    ],
+    "themes": [
+      17
+    ],
+    "total_rating": 77.5860608273457,
+    "total_rating_count": 14,
+    "updated_at": 1695854142,
+    "url": "https://www.igdb.com/games/world-of-warcraft-burning-crusade-classic",
+    "videos": [
+      45853
+    ],
+    "websites": [
+      175697,
+      175698,
+      175699,
+      175700,
+      175701,
+      175702
+    ],
+    "checksum": "60f2d9ed-663a-096d-58ab-bd42132d273e"
+  },
+  {
+    "id": 199925,
+    "alternative_names": [
+      88344,
+      138457
+    ],
+    "artworks": [
+      76077
+    ],
+    "category": 0,
+    "cover": 322513,
+    "created_at": 1651596203,
+    "external_games": [
+      2437241,
+      2438419
+    ],
+    "first_release_date": 1698969600,
+    "follows": 1,
+    "genres": [
+      15
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      191639
+    ],
+    "name": "Warcraft Rumble",
+    "platforms": [
+      34,
+      39
+    ],
+    "release_dates": [
+      523239,
+      523240
+    ],
+    "screenshots": [
+      790988,
+      790989,
+      790990,
+      790991,
+      790992
+    ],
+    "similar_games": [
+      34024,
+      34269,
+      36553,
+      56967,
+      77597,
+      95340,
+      113201,
+      113895,
+      118091,
+      119156
+    ],
+    "slug": "warcraft-rumble",
+    "status": 3,
+    "summary": "Warcraft Rumble is a mobile action strategy game where collectible Warcraft Minis come to life to clash in epic melee battles. Whether you choose to play in the massive single player campaign or compete head-to-head in epic PvP battles, prepare to experience the true meaning of joyful chaos!",
+    "tags": [
+      1,
+      268435471
+    ],
+    "themes": [
+      17
+    ],
+    "updated_at": 1696457873,
+    "url": "https://www.igdb.com/games/warcraft-rumble",
+    "videos": [
+      78666,
+      99081,
+      99082
+    ],
+    "websites": [
+      282480,
+      318922,
+      490534,
+      586823,
+      586824,
+      586825,
+      586826
+    ],
+    "checksum": "7d732bab-f03c-c64c-d7de-365a368dc3e7",
+    "game_localizations": [
+      21889
+    ]
+  },
+  {
+    "id": 163770,
+    "alternative_names": [
+      71177
+    ],
+    "artworks": [
+      46102
+    ],
+    "category": 0,
+    "cover": 188566,
+    "created_at": 1628756295,
+    "external_games": [
+      2049084,
+      2081104
+    ],
+    "first_release_date": 1616716800,
+    "genres": [
+      15,
+      32
+    ],
+    "name": "Guardian of Warcraft",
+    "platforms": [
+      6
+    ],
+    "release_dates": [
+      469008
+    ],
+    "screenshots": [
+      583220,
+      583224,
+      583228,
+      583232,
+      583236,
+      583241,
+      583242
+    ],
+    "similar_games": [
+      25311,
+      25640,
+      28182,
+      36269,
+      36553,
+      65827,
+      95340,
+      111130,
+      113895,
+      118091
+    ],
+    "slug": "guardian-of-warcraft",
+    "summary": "This is a summoning tower defense strategy game, with different abilities of monsters and traps, with different effects. the player will continue to upgrade while defending, Become stronger, and summoning more powerful monsters to resist the brave.",
+    "tags": [
+      1,
+      268435471,
+      268435488
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1692116057,
+    "url": "https://www.igdb.com/games/guardian-of-warcraft",
+    "websites": [
+      212316,
+      465642
+    ],
+    "checksum": "f5a18d97-f9c7-4dc3-433d-cc4431f224b9",
+    "language_supports": [
+      369679,
+      369680,
+      369681,
+      369682
+    ]
+  },
+  {
+    "id": 77210,
+    "age_ratings": [
+      20146,
+      25067
+    ],
+    "alternative_names": [
+      67670
+    ],
+    "category": 3,
+    "collection": 27,
+    "cover": 90618,
+    "created_at": 1513028620,
+    "external_games": [
+      138791
+    ],
+    "first_release_date": 872985600,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      11,
+      15
+    ],
+    "involved_companies": [
+      81824,
+      81825,
+      81826
+    ],
+    "keywords": [
+      96,
+      151,
+      623,
+      906,
+      960,
+      2066,
+      3222,
+      4469,
+      5308,
+      5806,
+      6084,
+      9341,
+      9384,
+      9853
+    ],
+    "name": "Warcraft II: The Dark Saga",
+    "platforms": [
+      7,
+      32
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 80.0075693064623,
+    "rating_count": 5,
+    "release_dates": [
+      172691,
+      172692,
+      172693,
+      172694,
+      172695,
+      172696
+    ],
+    "similar_games": [
+      3700,
+      9856,
+      14394,
+      18623,
+      23345,
+      30229,
+      35371,
+      36553,
+      55029,
+      78550
+    ],
+    "slug": "warcraft-ii-the-dark-saga",
+    "summary": "Warcraft II: The Dark Saga is the console version of Warcraft II: Tides of Darkness and its expansion built on. It is the same as the original product but with new features.",
+    "tags": [
+      1,
+      22,
+      268435467,
+      268435471,
+      536871008,
+      536871063,
+      536871535,
+      536871818,
+      536871872,
+      536872978,
+      536874134,
+      536875381,
+      536876220,
+      536876718,
+      536876996,
+      536880253,
+      536880296,
+      536880765
+    ],
+    "themes": [
+      1,
+      22
+    ],
+    "total_rating": 80.0075693064623,
+    "total_rating_count": 5,
+    "updated_at": 1691760800,
+    "url": "https://www.igdb.com/games/warcraft-ii-the-dark-saga",
+    "websites": [
+      128205
+    ],
+    "checksum": "ac39f9d2-ed26-2c5f-3fee-28938831724f"
+  },
+  {
+    "id": 77022,
+    "alternative_names": [
+      46278,
+      46279,
+      46280
+    ],
+    "category": 4,
+    "collection": 655,
+    "cover": 157454,
+    "created_at": 1512903778,
+    "external_games": [
+      132358,
+      1186143
+    ],
+    "first_release_date": 1248739200,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      9
+    ],
+    "keywords": [
+      623,
+      1375,
+      2152,
+      2184,
+      4160,
+      5308,
+      5806,
+      6003,
+      6385,
+      6827,
+      9853
+    ],
+    "name": "Peggle: World of Warcraft Edition",
+    "parent_game": 14813,
+    "platforms": [
+      6
+    ],
+    "release_dates": [
+      244520
+    ],
+    "similar_games": [
+      132,
+      236,
+      2365,
+      11367,
+      15646,
+      24426,
+      28070,
+      55984,
+      65503,
+      110503
+    ],
+    "slug": "peggle-world-of-warcraft-edition",
+    "summary": "Bust pegs in the world of Azeroth with these special World of Warcraft inspired Peggle levels.",
+    "tags": [
+      17,
+      268435465,
+      536871535,
+      536872287,
+      536873064,
+      536873096,
+      536875072,
+      536876220,
+      536876718,
+      536876915,
+      536877297,
+      536877739,
+      536880765
+    ],
+    "themes": [
+      17
+    ],
+    "updated_at": 1689855146,
+    "url": "https://www.igdb.com/games/peggle-world-of-warcraft-edition",
+    "websites": [
+      344119
+    ],
+    "checksum": "173e65f0-0911-490c-1090-50d6fdb6a567"
+  },
+  {
+    "id": 111652,
+    "age_ratings": [
+      23506
+    ],
+    "alternative_names": [
+      23249
+    ],
+    "category": 0,
+    "collection": 27,
+    "cover": 90107,
+    "created_at": 1541194045,
+    "first_release_date": 1580169600,
+    "franchises": [
+      135
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      11
+    ],
+    "hypes": 1,
+    "involved_companies": [
+      71348
+    ],
+    "name": "Warcraft III: Reforged - Spoils of War Edition",
+    "platforms": [
+      6,
+      14
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "release_dates": [
+      187308,
+      187309
+    ],
+    "screenshots": [
+      389404,
+      389405,
+      389406
+    ],
+    "similar_games": [
+      6985,
+      9058,
+      16497,
+      30229,
+      31480,
+      55029,
+      60360,
+      99118,
+      103290,
+      112081
+    ],
+    "slug": "warcraft-iii-reforged-spoils-of-war-edition",
+    "summary": "Relive the events of Warcraft III: Reign of Chaos and The Frozen Throne. Command mysterious night elves, insidious undead, savage orcs, and noble humans as alliances shift and cultures clash in ruthless conflict.\n\nIncludes:\n- Unique skins for four of the game’s hero units.\n- Meat Wagon mount for World of Warcraft\n- Mal\u0027ganis pet for Diablo III\n- Unlock the heroes Jaina, Thrall, Anub\u0027arak and Tyrande, in Heroes of the Storm.\n- Get Alliance, Horde, Sentinels and Scourge console skins in StarCraft II.\n- Gain the Spoils of War console skin in StarCraft Remastered.\n- Unlock the Third War card back in Hearthstone.\n- Receive four animated sprays and five player icons in Overwatch",
+    "tags": [
+      17,
+      39,
+      268435467,
+      536871851
+    ],
+    "themes": [
+      17,
+      39
+    ],
+    "updated_at": 1686297222,
+    "url": "https://www.igdb.com/games/warcraft-iii-reforged-spoils-of-war-edition",
+    "version_parent": 111650,
+    "version_title": "Spoils of War Edition",
+    "websites": [
+      92649
+    ],
+    "checksum": "f20be92d-ab78-37f0-a3fc-6a09bb97f48f"
+  },
+  {
+    "id": 241154,
+    "category": 11,
+    "cover": 291390,
+    "created_at": 1678315748,
+    "game_modes": [
+      5
+    ],
+    "involved_companies": [
+      206935
+    ],
+    "keywords": [
+      33499
+    ],
+    "name": "World of Warcraft",
+    "parent_game": 123,
+    "similar_games": [
+      62092,
+      202404,
+      210601,
+      210603,
+      240538,
+      245622
+    ],
+    "slug": "world-of-warcraft--1",
+    "status": 6,
+    "summary": "A port of World of Warcraft for the cancelled Panasonic Jungle handheld.",
+    "tags": [
+      536904411
+    ],
+    "updated_at": 1694632766,
+    "url": "https://www.igdb.com/games/world-of-warcraft--1",
+    "checksum": "fb5f8296-01eb-2a03-719d-d8463b668558"
+  },
+  {
+    "id": 191605,
+    "category": 5,
+    "cover": 209590,
+    "created_at": 1645205018,
+    "first_release_date": 1427932800,
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      11,
+      15
+    ],
+    "multiplayer_modes": [
+      18177
+    ],
+    "name": "Warcraft III: Nirvana",
+    "parent_game": 133,
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "release_dates": [
+      344534
+    ],
+    "screenshots": [
+      739190,
+      739191,
+      739192,
+      739193
+    ],
+    "slug": "warcraft-iii-nirvana",
+    "summary": "Warcraft III: Nirvana is a melee mod for WarCraft III TFT. It adds several custom races and can be played on any melee map. This project is focusing on renovating WC3, expanding its playability while keeping it well balanced.",
+    "updated_at": 1645211553,
+    "url": "https://www.igdb.com/games/warcraft-iii-nirvana",
+    "websites": [
+      265318
+    ],
+    "checksum": "9dbdfdbf-fa7f-5748-ef77-5f91baa8a4bb"
+  },
+  {
+    "id": 154674,
+    "age_ratings": [
+      107485
+    ],
+    "artworks": [
+      40576
+    ],
+    "category": 3,
+    "cover": 161329,
+    "created_at": 1625428978,
+    "external_games": [
+      2070736
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      11,
+      15
+    ],
+    "name": "Warcraft I \u0026 II Bundle",
+    "similar_games": [
+      6985,
+      7615,
+      13196,
+      19404,
+      34269,
+      55029,
+      56967,
+      112081,
+      113201,
+      119156
+    ],
+    "slug": "warcraft-i-and-ii-bundle",
+    "tags": [
+      17,
+      268435467,
+      268435471
+    ],
+    "themes": [
+      17
+    ],
+    "updated_at": 1697807872,
+    "url": "https://www.igdb.com/games/warcraft-i-and-ii-bundle",
+    "websites": [
+      196249
+    ],
+    "checksum": "1d68a1d1-10e9-b98f-9b30-9ba3588143c8",
+    "language_supports": [
+      486367,
+      486368,
+      486369,
+      486370,
+      486371,
+      486372
+    ]
+  },
+  {
+    "id": 129,
+    "age_ratings": [
+      67
+    ],
+    "alternative_names": [
+      2895
+    ],
+    "artworks": [
+      40346
+    ],
+    "bundles": [
+      154674
+    ],
+    "category": 0,
+    "collection": 27,
+    "cover": 90529,
+    "created_at": 1300133935,
+    "external_games": [
+      37566,
+      148168,
+      247006,
+      2069476
+    ],
+    "first_release_date": 785548800,
+    "follows": 38,
+    "franchise": 135,
+    "franchises": [
+      135
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      11,
+      15
+    ],
+    "involved_companies": [
+      7667,
+      7668,
+      19461
+    ],
+    "keywords": [
+      96,
+      129,
+      392,
+      558,
+      993,
+      1107,
+      1440,
+      2177,
+      2472,
+      4353,
+      4392,
+      4469,
+      4541,
+      4613,
+      4767,
+      4891,
+      4989,
+      5308,
+      5671,
+      5806,
+      6019,
+      6074,
+      7458,
+      7593,
+      8242,
+      9384,
+      9843,
+      9853
+    ],
+    "name": "Warcraft: Orcs \u0026 Humans",
+    "platforms": [
+      13,
+      14
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 78.85330553510967,
+    "rating_count": 134,
+    "release_dates": [
+      22628,
+      22629,
+      22630
+    ],
+    "screenshots": [
+      16593,
+      16594
+    ],
+    "similar_games": [
+      130,
+      649,
+      660,
+      848,
+      964,
+      965,
+      2040,
+      3155,
+      7027,
+      9938
+    ],
+    "slug": "warcraft-orcs-humans",
+    "summary": "Warcraft: Orcs \u0026 Humans is the first game in the Warcraft series developed by Blizzard Entertainment. The Orcish hordes are summoned through the dark portal to the peaceful human Kingdom of Azeroth. When the two races meet each other, a terrible war ensues. Only one race can dominate the land.\n\nPlayers can choose to play as either the Humans or the Orcs. There are 12 scenarios for each race with mostly a single objective: destroy the enemy.\n\nAs with most RTS games of the same era, a lot of time is spent collecting resources and building structures to make/upgrade different types of units.",
+    "tags": [
+      17,
+      268435467,
+      268435471,
+      536871008,
+      536871041,
+      536871304,
+      536871470,
+      536871905,
+      536872019,
+      536872352,
+      536873089,
+      536873384,
+      536875265,
+      536875304,
+      536875381,
+      536875453,
+      536875525,
+      536875679,
+      536875803,
+      536875901,
+      536876220,
+      536876583,
+      536876718,
+      536876931,
+      536876986,
+      536878370,
+      536878505,
+      536879154,
+      536880296,
+      536880755,
+      536880765
+    ],
+    "themes": [
+      17
+    ],
+    "total_rating": 78.85330553510967,
+    "total_rating_count": 134,
+    "updated_at": 1697031208,
+    "url": "https://www.igdb.com/games/warcraft-orcs-humans",
+    "videos": [
+      212
+    ],
+    "websites": [
+      120711,
+      120712,
+      334210
+    ],
+    "checksum": "10070f22-674f-5a95-b550-8d3c05d91d33",
+    "language_supports": [
+      481316,
+      481318
+    ]
+  },
+  {
+    "id": 235703,
+    "artworks": [
+      99479
+    ],
+    "category": 0,
+    "cover": 285110,
+    "created_at": 1675854981,
+    "external_games": [
+      2665260,
+      2666660
+    ],
+    "genres": [
+      31,
+      32
+    ],
+    "name": "Prehistoric Warcraft",
+    "screenshots": [
+      980247,
+      980249,
+      980251,
+      980256,
+      980258,
+      980262,
+      980266
+    ],
+    "similar_games": [
+      25646,
+      28309,
+      29783,
+      30245,
+      68271,
+      80916,
+      96217,
+      106987,
+      111130,
+      113895
+    ],
+    "slug": "prehistoric-warcraft",
+    "summary": "This is a duel independent game! There are eight characters in it, you can play with your friends! It has a unique way of playing. I hope you can experience infinite fun from it! It\u0027s definitely worth it!",
+    "tags": [
+      1,
+      268435487,
+      268435488
+    ],
+    "themes": [
+      1
+    ],
+    "updated_at": 1692118406,
+    "url": "https://www.igdb.com/games/prehistoric-warcraft",
+    "websites": [
+      527513
+    ],
+    "checksum": "91c40974-456c-5605-7554-1f20e8e5c58f",
+    "language_supports": [
+      618115,
+      618116,
+      618117,
+      618118,
+      618119,
+      618120,
+      618121,
+      618122,
+      618123,
+      618124,
+      618125,
+      618126,
+      618127,
+      618128,
+      618129,
+      618130,
+      618131,
+      618132,
+      618133,
+      618134,
+      618135,
+      618136,
+      618137,
+      618138,
+      618139,
+      618140
+    ]
+  },
+  {
+    "id": 11593,
+    "age_ratings": [
+      29569,
+      63464
+    ],
+    "aggregated_rating": 87.08333333333333,
+    "aggregated_rating_count": 15,
+    "alternative_names": [
+      39632,
+      86621
+    ],
+    "category": 2,
+    "collection": 27,
+    "cover": 161463,
+    "created_at": 1438946296,
+    "external_games": [
+      43622,
+      110692,
+      1932229
+    ],
+    "first_release_date": 1472515200,
+    "follows": 53,
+    "franchises": [
+      135
+    ],
+    "game_modes": [
+      5
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "hypes": 7,
+    "involved_companies": [
+      106261,
+      106262
+    ],
+    "keywords": [
+      175,
+      900,
+      4351,
+      4882,
+      7163,
+      9092,
+      12556,
+      14051,
+      14059,
+      39040
+    ],
+    "name": "World of Warcraft: Legion",
+    "parent_game": 123,
+    "platforms": [
+      6,
+      14
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 85.10243617438319,
+    "rating_count": 111,
+    "release_dates": [
+      118856,
+      207509,
+      207510,
+      207511
+    ],
+    "screenshots": [
+      11501,
+      11503,
+      11504,
+      17679,
+      17680
+    ],
+    "similar_games": [
+      27092,
+      36198,
+      47823,
+      55038,
+      55199,
+      81249,
+      96217,
+      106987,
+      113360,
+      115653
+    ],
+    "slug": "world-of-warcraft-legion",
+    "storyline": "Kingdoms Will Burn\n\nThe Tomb of Sargeras has been reopened, and the demons of the Burning Legion pour into our world. Their full, terrifying might is fixed on summoning the Dark Titan to Azeroth-and they\u0027ve already located the key to his return.\nWith the Alliance and Horde devastated, adventurers must take up legendary artifacts and weapons used by the heroes of old, scour the ancient Broken Isles for relics of the Titans, and challenge the Burning Legion before Azeroth\u0027s last hope dies.\nSteel yourself, champion. Extinction is imminent.\nFollowing the events of Warlords of Draenor, the alternate Draenor\u0027s Gul\u0027dan is expelled by his demonic masters into the original Azeroth with a special purpose - to reopen the Tomb of Sargeras and the gateway to Argus, commencing the third invasion of the Burning Legion, an invasion even greater than the War of the Ancients. Gul\u0027dan also had to find and steal the body of the famous demon hunter Illidan Stormrage.\n\nAfter the defeat at the Broken Shore, the defenders of Azeroth found themselves exploring the long-forgotten Broken Isles in search of the Pillars of Creation, titan relics which were used to shape the world - and which were Azeroth\u0027s only hope for closing the massive demonic portal at the heart of the Tomb. However, the Broken Isles - a land which 10,000 years ago was home to the then mighty night elf civilization - came with their own perils to overcome, from the demon lord Xavius and his satyr armies, to the vrykul\u0027s God-King Skovald, to the powerful nightborne night elves, and the deadly naga led by Tidemistress Athissa.\n\nAs part of this desperate search, the Kirin Tor, now led by Khadgar, moved the floating city of Dalaran to the shores of this land, with the city serving as a central hub for the efforts of the world\u0027s heroes. The death knights of Acherus also took their floating necropolis to the Isles.\n\nTo defend their world against the onslaught of the Legion, the heroes of Azeroth sought out legendary artifact weapons to wield in battle, but also found themselves embracing new and unexpected allies in the form of the Illidari, Illidan\u0027s elite disciples, freed in desperation by the Wardens that guarded them to fight against the Legion in this hour of need.\n\nOngoing conflict between the Alliance and the Horde led to the formation of the class orders, with exceptional commanders putting aside faction to lead their classes in the fight against the Legion.",
+    "summary": "World of Warcraft: Legion ushers in an era of unprecedented conflict for the Alliance and the Horde as the Burning Legion’s crusade against creation enters a terrifying new stage.\n\nIn this dire new chapter of the Warcraft saga, the demonic Burning Legion has returned, seeking to call forth their fallen leader—the dark titan Sargeras, Ravager of Worlds. As destruction rains across Azeroth, its heroes must seek salvation among the ruins of the Broken Isles, doomed center of ancient night elf civilization and birthplace of myths dating back to the world’s creation. In the face of hopeless odds, they must learn to master mighty Artifacts—legendary weapons that hold the potential to bring down the corrupted armies of the Legion—and strike an infernal pact with the dreaded Demon Hunters of the Illidari . . . accursed followers of the infamous Illidan the Betrayer.",
+    "tags": [
+      17,
+      268435468,
+      268435487,
+      536871087,
+      536871812,
+      536875263,
+      536875794,
+      536878075,
+      536880004,
+      536883468,
+      536884963,
+      536884971,
+      536909952
+    ],
+    "themes": [
+      17
+    ],
+    "total_rating": 86.09288475385826,
+    "total_rating_count": 126,
+    "updated_at": 1697844121,
+    "url": "https://www.igdb.com/games/world-of-warcraft-legion",
+    "videos": [
+      4890,
+      4891,
+      4892
+    ],
+    "websites": [
+      136150,
+      136151,
+      136152,
+      136153,
+      150419,
+      150420,
+      150421,
+      150422,
+      150423,
+      214611
+    ],
+    "checksum": "a927d85f-a334-4af2-51d9-44deda4ae5cb",
+    "game_localizations": [
+      19600
+    ]
+  },
+  {
+    "id": 75379,
+    "age_ratings": [
+      60031,
+      67670
+    ],
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      24723
+    ],
+    "artworks": [
+      9566
+    ],
+    "category": 11,
+    "collection": 27,
+    "cover": 85247,
+    "created_at": 1509739688,
+    "expansions": [
+      143683,
+      198161
+    ],
+    "first_release_date": 1566864000,
+    "follows": 33,
+    "franchise": 135,
+    "franchises": [
+      135
+    ],
+    "game_modes": [
+      5
+    ],
+    "genres": [
+      12,
+      31
+    ],
+    "involved_companies": [
+      57079
+    ],
+    "name": "World of Warcraft Classic",
+    "parent_game": 123,
+    "platforms": [
+      6
+    ],
+    "player_perspectives": [
+      2
+    ],
+    "rating": 80.2396702463323,
+    "rating_count": 77,
+    "release_dates": [
+      169564
+    ],
+    "screenshots": [
+      306480,
+      306481,
+      306482,
+      306483,
+      306484,
+      306485,
+      306486,
+      306487
+    ],
+    "similar_games": [
+      28010,
+      55038,
+      55199,
+      81249,
+      96217,
+      101608,
+      103168,
+      103303,
+      106987,
+      113360
+    ],
+    "slug": "world-of-warcraft-classic",
+    "summary": "World of Warcraft: Classic (shortened as Classic) is a new server option for World of Warcraft announced at BlizzCon 2017. The goal of Classic is to let players experience World of Warcraft as close as possible to what it was before The Burning Crusade.",
+    "tags": [
+      1,
+      17,
+      268435468,
+      268435487
+    ],
+    "themes": [
+      1,
+      17
+    ],
+    "total_rating": 80.11983512316615,
+    "total_rating_count": 78,
+    "updated_at": 1695854145,
+    "url": "https://www.igdb.com/games/world-of-warcraft-classic",
+    "videos": [
+      16666,
+      29755
+    ],
+    "websites": [
+      92585,
+      92586,
+      124923,
+      124924,
+      124925
+    ],
+    "checksum": "db4cd3ba-5d99-80df-793a-6caf93c76502"
+  }
+]

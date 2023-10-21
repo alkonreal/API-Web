@@ -121,7 +121,7 @@
     ],
     "total_rating": 89.9030373119926,
     "total_rating_count": 13,
-    "updated_at": 1697301087,
+    "updated_at": 1697735742,
     "url": "https://www.igdb.com/games/doom-ii",
     "version_parent": 312,
     "version_title": "Classic",
@@ -144,7 +144,7 @@
       573170,
       573171
     ],
-    "checksum": "b8721a43-4f8e-f2b4-5450-a38a515d8dc0",
+    "checksum": "1209a534-fb50-e11b-9eee-5897b89e7c10",
     "language_supports": [
       164319,
       164321,
@@ -370,8 +370,8 @@
     "player_perspectives": [
       1
     ],
-    "rating": 85.97374897757103,
-    "rating_count": 1460,
+    "rating": 85.97380032983592,
+    "rating_count": 1461,
     "release_dates": [
       45903,
       45904,
@@ -515,9 +515,9 @@
       18,
       19
     ],
-    "total_rating": 86.47124948878552,
-    "total_rating_count": 1490,
-    "updated_at": 1697303559,
+    "total_rating": 86.47127516491796,
+    "total_rating_count": 1491,
+    "updated_at": 1697822011,
     "url": "https://www.igdb.com/games/doom--2",
     "videos": [
       2664,
@@ -539,7 +539,7 @@
       61572,
       332473
     ],
-    "checksum": "1319d8b2-994c-8278-6f97-3fe4c4d29185",
+    "checksum": "9c04f2c9-379a-bca6-c5d9-e0f4c9305983",
     "ports": [
       76217
     ],
@@ -1406,7 +1406,7 @@
     ],
     "total_rating": 82.67954700379902,
     "total_rating_count": 338,
-    "updated_at": 1697300348,
+    "updated_at": 1697646510,
     "url": "https://www.igdb.com/games/doom-3",
     "videos": [
       107
@@ -1418,7 +1418,7 @@
       64432,
       333433
     ],
-    "checksum": "d18f74ff-021d-e531-0343-25e42ef59efd",
+    "checksum": "1790282e-ff82-4b45-ebe6-e9126f4e2799",
     "remasters": [
       260028
     ],
@@ -1659,7 +1659,7 @@
     ],
     "total_rating": 88.46178840967694,
     "total_rating_count": 67,
-    "updated_at": 1696907022,
+    "updated_at": 1697806975,
     "url": "https://www.igdb.com/games/the-ultimate-doom",
     "websites": [
       67089,
@@ -1667,7 +1667,7 @@
       119766,
       333109
     ],
-    "checksum": "26300230-8427-ee08-79af-c939bac12e17",
+    "checksum": "a19b384c-27cf-bada-8f6b-dcc91c51ce54",
     "remasters": [
       165206
     ],
@@ -1814,7 +1814,7 @@
     ],
     "total_rating": 88.84853805449237,
     "total_rating_count": 13,
-    "updated_at": 1697231442,
+    "updated_at": 1697800000,
     "url": "https://www.igdb.com/games/doom-64--1",
     "videos": [
       87383
@@ -1827,7 +1827,7 @@
       509890,
       589229
     ],
-    "checksum": "343eb172-03c5-a769-58ca-309984205837",
+    "checksum": "5939730e-9c62-e6a4-3f1a-8c93dc6f3b12",
     "language_supports": [
       753404,
       753409,

@@ -17,7 +17,10 @@ require_once('obtenerEdades.php');
 require_once('obtenerLanzamiento.php');
 
 
-require_once('obtenerPlataformasjson.php');
+require_once('obtenerplataformasjson.php');
 
+require_once('obtenerperspectivajson.php');
 
+require_once('obteneredadesjson.php');
+require_once('obtenercategoriajson.php');
 ?>

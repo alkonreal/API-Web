@@ -1,0 +1,1295 @@
+[
+  {
+    "id": 2655,
+    "age_ratings": [
+      610,
+      24930,
+      92571
+    ],
+    "aggregated_rating": 80.0,
+    "aggregated_rating_count": 1,
+    "alternative_names": [
+      68377,
+      69923,
+      69924,
+      102963,
+      130157
+    ],
+    "artworks": [
+      95853
+    ],
+    "category": 10,
+    "collection": 521,
+    "cover": 182255,
+    "created_at": 1374361892,
+    "external_games": [
+      34929,
+      145264,
+      215961,
+      284214,
+      2592675
+    ],
+    "first_release_date": 1008288000,
+    "follows": 34,
+    "franchises": [
+      1820
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      13
+    ],
+    "involved_companies": [
+      6335,
+      6336
+    ],
+    "keywords": [
+      43,
+      37362
+    ],
+    "name": "Animal Crossing",
+    "parent_game": 44042,
+    "platforms": [
+      21
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 77.56391503590604,
+    "rating_count": 106,
+    "release_dates": [
+      509737,
+      509738,
+      509739,
+      509740
+    ],
+    "screenshots": [
+      7469,
+      7470,
+      7471,
+      151740,
+      151741,
+      151742,
+      151743,
+      151744,
+      151745,
+      151746,
+      151747,
+      151748
+    ],
+    "similar_games": [
+      26574,
+      34823,
+      37419,
+      51577,
+      55689,
+      105011,
+      109462,
+      111187,
+      117717,
+      119579
+    ],
+    "slug": "animal-crossing",
+    "storyline": "Finally on their own, a young boy or girl hops on a train and set out for a new life in a small village inhabited by sentient, humanoid animals. However, being a spirited youth, the child forgot to find a place to live first and has only the clothes on their back and 1,000 Bells. On the train, Rover sits across from them and drums up a conversation. During the exchange, the cat finds out about the child’s situation. Rover contacts Tom Nook and arranges for his old friend to help out the boy or girl upon their arrival.",
+    "summary": "Occasionally strange but completely addictive, Nintendo\u0027s Animal Crossing for the GameCube is not so much a game as a simulation of life on a small town. Players begin the game by setting out to live life on their own in a colorful town, where they are greeted by a seemingly endless supply of things to do and characters to meet.\n\nTime passes in Animal Crossing in real-time, as the month, day, season, and time of day matches that of the player\u0027s. Holiday seasons come and go in Animal Crossing, just as they would in the real world. Experience the freedom to fish, decorate your house, go bug catching, garden, write letters, and even play original Nintendo NES games in this imaginative, and addictive game.",
+    "tags": [
+      33,
+      35,
+      268435469,
+      536870955,
+      536908274
+    ],
+    "themes": [
+      33,
+      35
+    ],
+    "total_rating": 78.78195751795302,
+    "total_rating_count": 107,
+    "updated_at": 1697672882,
+    "url": "https://www.igdb.com/games/animal-crossing",
+    "videos": [
+      3161,
+      37151
+    ],
+    "websites": [
+      109957,
+      143720,
+      143721,
+      242875,
+      514321
+    ],
+    "checksum": "cffdd3e3-16c7-b98e-fff6-5815d12a9b3a",
+    "expanded_games": [
+      124007
+    ],
+    "language_supports": [
+      92,
+      93,
+      94,
+      95
+    ],
+    "game_localizations": [
+      2686,
+      2687
+    ]
+  },
+  {
+    "id": 61463,
+    "alternative_names": [
+      68383,
+      132890,
+      132891
+    ],
+    "category": 0,
+    "collection": 521,
+    "cover": 202018,
+    "created_at": 1504875229,
+    "external_games": [
+      114413,
+      253303
+    ],
+    "first_release_date": 1375833600,
+    "franchises": [
+      1820
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      13
+    ],
+    "involved_companies": [
+      145794
+    ],
+    "keywords": [
+      1333,
+      1375,
+      4134,
+      4329,
+      4821,
+      4842,
+      5629,
+      6170,
+      8221
+    ],
+    "name": "Animal Crossing Plaza",
+    "platforms": [
+      41
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "release_dates": [
+      471398
+    ],
+    "screenshots": [
+      594787,
+      594788,
+      594789
+    ],
+    "similar_games": [
+      17130,
+      26574,
+      34823,
+      37419,
+      51577,
+      51945,
+      55689,
+      109462,
+      111187,
+      117717
+    ],
+    "slug": "animal-crossing-plaza",
+    "summary": "A free application on Wii U that allows players to hang out in the plaza with their favorite villagers and import their photos from Animal Crossing: New Leaf save them to a gallery and share them on the Wii U Miiverse. The service ended on January 1st 2015.",
+    "tags": [
+      33,
+      268435469,
+      536872245,
+      536872287,
+      536875046,
+      536875241,
+      536875733,
+      536875754,
+      536876541,
+      536877082,
+      536879133
+    ],
+    "themes": [
+      33
+    ],
+    "updated_at": 1686298881,
+    "url": "https://www.igdb.com/games/animal-crossing-plaza",
+    "videos": [
+      18533
+    ],
+    "websites": [
+      340301,
+      547598,
+      547599
+    ],
+    "checksum": "10609481-9cd0-18f1-e127-0cfc26c1b214",
+    "game_localizations": [
+      26925
+    ]
+  },
+  {
+    "id": 219037,
+    "artworks": [
+      113923
+    ],
+    "category": 0,
+    "cover": 251476,
+    "created_at": 1664484566,
+    "external_games": [
+      2728969
+    ],
+    "first_release_date": 1583020800,
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      13,
+      31
+    ],
+    "involved_companies": [
+      189149,
+      189170
+    ],
+    "keywords": [
+      343,
+      1961,
+      3586
+    ],
+    "name": "Yu Crossing Animals",
+    "platforms": [
+      6,
+      82
+    ],
+    "release_dates": [
+      393181,
+      393218
+    ],
+    "screenshots": [
+      888128,
+      888129,
+      888130
+    ],
+    "similar_games": [
+      22422,
+      22425,
+      22472,
+      28465,
+      41895,
+      43097,
+      43130,
+      51991,
+      67166,
+      75900
+    ],
+    "slug": "yu-crossing-animals--1",
+    "summary": "Yu\u0027s got a new job - working as a mayor\u0027s assistant in a small town.",
+    "tags": [
+      42,
+      268435469,
+      268435487,
+      536871255,
+      536872873,
+      536874498
+    ],
+    "themes": [
+      42
+    ],
+    "updated_at": 1696167563,
+    "url": "https://www.igdb.com/games/yu-crossing-animals--1",
+    "websites": [
+      313813,
+      313836,
+      570870
+    ],
+    "checksum": "e5a6fc3a-a5e4-3348-e730-7960b115bc61",
+    "language_supports": [
+      744349,
+      744350,
+      744351,
+      744352,
+      744353,
+      744354
+    ]
+  },
+  {
+    "id": 2688,
+    "age_ratings": [
+      12968,
+      44350,
+      47188,
+      116915,
+      116916,
+      116917,
+      116918
+    ],
+    "aggregated_rating": 69.6,
+    "aggregated_rating_count": 7,
+    "alternative_names": [
+      32471,
+      68380,
+      121096,
+      121098,
+      121099,
+      121126
+    ],
+    "artworks": [
+      89
+    ],
+    "category": 0,
+    "collection": 521,
+    "cover": 182144,
+    "created_at": 1374420740,
+    "external_games": [
+      35738,
+      137873,
+      215968,
+      246869,
+      1932176,
+      1932235,
+      1933362,
+      1934948,
+      1937966
+    ],
+    "first_release_date": 1226793600,
+    "follows": 9,
+    "franchises": [
+      1820
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      13
+    ],
+    "involved_companies": [
+      51692,
+      51693
+    ],
+    "keywords": [
+      43,
+      274,
+      488,
+      509,
+      621,
+      623,
+      669,
+      723,
+      841,
+      994,
+      1068,
+      1103,
+      1207,
+      1228,
+      1333,
+      1710,
+      1716,
+      1898,
+      1935,
+      2016,
+      2184,
+      2452,
+      2672,
+      3630,
+      4162,
+      4272,
+      4273,
+      4292,
+      4329,
+      4341,
+      4359,
+      4388,
+      4407,
+      4438,
+      4455,
+      4530,
+      4532,
+      4844,
+      4854,
+      4914,
+      4960,
+      5143,
+      5158,
+      5188,
+      5190,
+      5370,
+      5458,
+      5727,
+      5806,
+      6134,
+      6248,
+      7315,
+      7595,
+      7693,
+      8220,
+      8221,
+      8305,
+      8784,
+      8906,
+      9529,
+      9758,
+      9927,
+      9935,
+      10488,
+      10740,
+      10799,
+      12706,
+      13076,
+      13083,
+      13477,
+      14569,
+      14572,
+      17141,
+      29055
+    ],
+    "multiplayer_modes": [
+      16876
+    ],
+    "name": "Animal Crossing: City Folk",
+    "platforms": [
+      5
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 78.05759053604372,
+    "rating_count": 62,
+    "release_dates": [
+      88924,
+      88925,
+      88926,
+      88927,
+      441190
+    ],
+    "screenshots": [
+      24047,
+      24048,
+      24049,
+      24050,
+      24051,
+      151756,
+      151757,
+      151758,
+      151759,
+      151760,
+      151761,
+      151762
+    ],
+    "similar_games": [
+      121,
+      223,
+      260,
+      434,
+      1020,
+      2645,
+      2687,
+      3384,
+      17000,
+      27910
+    ],
+    "slug": "animal-crossing-city-folk",
+    "summary": "Step into a living, breathing world where days and seasons pass in real time and your destiny is yours to create.\n\nEnjoy a new house, a new neighborhood, and some new friends. Try your luck in a Fishing Tourney, collect shells, or participate in special events and holidays. Communicate with friends and family; travel to the new City, get a Mii makeover, and more. The world is your sparkling, fresh canvas.\n\nYou choose the pace and you craft the adventures!",
+    "tags": [
+      33,
+      38,
+      268435469,
+      536870955,
+      536871186,
+      536871400,
+      536871421,
+      536871533,
+      536871535,
+      536871581,
+      536871635,
+      536871753,
+      536871906,
+      536871980,
+      536872015,
+      536872119,
+      536872140,
+      536872245,
+      536872622,
+      536872628,
+      536872810,
+      536872847,
+      536872928,
+      536873096,
+      536873364,
+      536873584,
+      536874542,
+      536875074,
+      536875184,
+      536875185,
+      536875204,
+      536875241,
+      536875253,
+      536875271,
+      536875300,
+      536875319,
+      536875350,
+      536875367,
+      536875442,
+      536875444,
+      536875756,
+      536875766,
+      536875826,
+      536875872,
+      536876055,
+      536876070,
+      536876100,
+      536876102,
+      536876282,
+      536876370,
+      536876639,
+      536876718,
+      536877046,
+      536877160,
+      536878227,
+      536878507,
+      536878605,
+      536879132,
+      536879133,
+      536879217,
+      536879696,
+      536879818,
+      536880441,
+      536880670,
+      536880839,
+      536880847,
+      536881400,
+      536881652,
+      536881711,
+      536883618,
+      536883988,
+      536883995,
+      536884389,
+      536885481,
+      536885484,
+      536888053,
+      536899967
+    ],
+    "themes": [
+      33,
+      38
+    ],
+    "total_rating": 73.82879526802185,
+    "total_rating_count": 69,
+    "updated_at": 1696794113,
+    "url": "https://www.igdb.com/games/animal-crossing-city-folk",
+    "videos": [
+      82876
+    ],
+    "websites": [
+      5685,
+      51065,
+      51066,
+      512992
+    ],
+    "checksum": "ea586998-d502-af4e-18e9-b983a4955555",
+    "language_supports": [
+      473091,
+      473092
+    ],
+    "game_localizations": [
+      1206,
+      22108,
+      23295
+    ]
+  },
+  {
+    "id": 2645,
+    "age_ratings": [
+      600,
+      8685,
+      99652
+    ],
+    "aggregated_rating": 75.0,
+    "aggregated_rating_count": 2,
+    "alternative_names": [
+      114320,
+      132872,
+      132873,
+      132874
+    ],
+    "artworks": [
+      5764,
+      87524
+    ],
+    "category": 0,
+    "collection": 521,
+    "cover": 182260,
+    "created_at": 1374353911,
+    "external_games": [
+      28863,
+      148608,
+      215975,
+      248267,
+      1931442,
+      1931822,
+      1937305,
+      2595102
+    ],
+    "first_release_date": 1132704000,
+    "follows": 27,
+    "franchises": [
+      1820
+    ],
+    "game_modes": [
+      1,
+      2
+    ],
+    "genres": [
+      13
+    ],
+    "involved_companies": [
+      212143,
+      212144
+    ],
+    "keywords": [
+      274,
+      403,
+      488,
+      509,
+      623,
+      669,
+      723,
+      732,
+      770,
+      841,
+      902,
+      947,
+      994,
+      1068,
+      1103,
+      1228,
+      1333,
+      1523,
+      1710,
+      1716,
+      1898,
+      1928,
+      1935,
+      1953,
+      2016,
+      2184,
+      2452,
+      2574,
+      2672,
+      2759,
+      3227,
+      3630,
+      4162,
+      4232,
+      4247,
+      4272,
+      4292,
+      4329,
+      4341,
+      4359,
+      4388,
+      4392,
+      4455,
+      4484,
+      4510,
+      4522,
+      4530,
+      4532,
+      4787,
+      4844,
+      4854,
+      4884,
+      4914,
+      4960,
+      5143,
+      5158,
+      5212,
+      5370,
+      5458,
+      5806,
+      6616,
+      7314,
+      7315,
+      7396,
+      7595,
+      7693,
+      8220,
+      8221,
+      8305,
+      8784,
+      8906,
+      9758,
+      9927,
+      9935,
+      10488,
+      10799,
+      12661,
+      13109,
+      13110,
+      29055
+    ],
+    "name": "Animal Crossing: Wild World",
+    "platforms": [
+      20,
+      41
+    ],
+    "player_perspectives": [
+      3
+    ],
+    "rating": 77.57212534011286,
+    "rating_count": 112,
+    "release_dates": [
+      137400,
+      137401,
+      137402,
+      301225,
+      301226
+    ],
+    "screenshots": [
+      24052,
+      24053,
+      24054,
+      24055,
+      24056,
+      151790,
+      151791,
+      151792,
+      151793,
+      151794,
+      151795,
+      151796
+    ],
+    "similar_games": [
+      121,
+      434,
+      1020,
+      1879,
+      2687,
+      2688,
+      9765,
+      17000,
+      23941,
+      27910
+    ],
+    "slug": "animal-crossing-wild-world",
+    "summary": "Players move into a living, breathing world inside the Nintendo DS...and then invite their friends to visit from anywhere on earth. In Animal Crossing: Wild World, the sequel to the popular Nintendo GameCube game, players and up to three friends can hang out in the same village and interact in real time -- either through wireless LAN or over Nintendo Wi-Fi Connection. Players can visit a friend\u0027s village from thousands of miles away. The touch screen makes item management and world navigation a breeze. Typing letters and designing patterns are now just stylus strokes away. Days and seasons pass in real time, so whether players want to decorate their homes, catch bugs or fish, collect brand-new items like hats and sunglasses or just chat with the wild and wacky characters in their villages, there\u0027s always something to do.",
+    "tags": [
+      28,
+      33,
+      38,
+      268435469,
+      536871186,
+      536871315,
+      536871400,
+      536871421,
+      536871535,
+      536871581,
+      536871635,
+      536871644,
+      536871682,
+      536871753,
+      536871814,
+      536871859,
+      536871906,
+      536871980,
+      536872015,
+      536872140,
+      536872245,
+      536872435,
+      536872622,
+      536872628,
+      536872810,
+      536872840,
+      536872847,
+      536872865,
+      536872928,
+      536873096,
+      536873364,
+      536873486,
+      536873584,
+      536873671,
+      536874139,
+      536874542,
+      536875074,
+      536875144,
+      536875159,
+      536875184,
+      536875204,
+      536875241,
+      536875253,
+      536875271,
+      536875300,
+      536875304,
+      536875367,
+      536875396,
+      536875422,
+      536875434,
+      536875442,
+      536875444,
+      536875699,
+      536875756,
+      536875766,
+      536875796,
+      536875826,
+      536875872,
+      536876055,
+      536876070,
+      536876124,
+      536876282,
+      536876370,
+      536876718,
+      536877528,
+      536878226,
+      536878227,
+      536878308,
+      536878507,
+      536878605,
+      536879132,
+      536879133,
+      536879217,
+      536879696,
+      536879818,
+      536880670,
+      536880839,
+      536880847,
+      536881400,
+      536881711,
+      536883573,
+      536884021,
+      536884022,
+      536899967
+    ],
+    "themes": [
+      28,
+      33,
+      38
+    ],
+    "total_rating": 76.28606267005642,
+    "total_rating_count": 114,
+    "updated_at": 1696608821,
+    "url": "https://www.igdb.com/games/animal-crossing-wild-world",
+    "videos": [
+      6589
+    ],
+    "websites": [
+      20519,
+      186065,
+      335435,
+      547586
+    ],
+    "checksum": "f70d9dda-dd31-de3c-ee8d-1aaa38dc4cba",
+    "language_supports": [
+      493328,
+      493329,
+      493330,
+      493331,
+      493332
+    ],
+    "game_localizations": [
+      3504
+    ]
+  },
+  {
+    "id": 2687,
+    "age_ratings": [
+      6778,
+      36128,
+      47189,
+      99899
+    ],
+    "aggregated_rating": 88.3,
+    "aggregated_rating_count": 11,
+    "alternative_names": [
+      32473,
+      68381,
+      68382,
+      114651,
+      132886,
+      132887,
+      132888,
+      132889
+    ],
+    "artworks": [
+      504,
+      505,
+      506,
+      507,
+      509
+    ],
+    "bundles": [
+      210422
+    ],
+    "category": 0,
+    "collection": 521,
+    "cover": 182077,
+    "created_at": 1374420421,
+    "external_games": [
+      28103,
+      128179,
+      189692,
+      215972,
+      247014,
+      1928493,
+      1928761,
+      1929158,
+      1929241,
+      1930483,
+      1931437,
+      1932297,
+      1933456,
+      1933682,
+      1933699,
+      1933771,
+      1934894,
+      1935951,
+      1936036,
+      1936209,
+      1936387,
+      1936450,
+      1936626,
+      1937275,
+      1938469,
+      2594915
+    ],
+    "first_release_date": 1352332800,
+    "follows": 64,
+    "franchises": [
+      1814,
+      1820
+    ],
+    "game_modes": [
+      1,
+      2,
+      3
+    ],
+    "genres": [
+      13
+    ],
+    "involved_companies": [
+      6421,
+      6422
+    ],
+    "keywords": [
+      1716,
+      1935,
+      2229,
+      2452,
+      2759,
+      3548,
+      4134,
+      4162,
+      4272,
+      4329,
+      4353,
+      4361,
+      4613,
+      4854,
+      4869,
+      4960,
+      5359,
+      5425,
+      5727,
+      6055,
+      6134,
+      7007,
+      7693,
+      9758,
+      10581,
+      10740
+    ],
+    "multiplayer_modes": [
+      20022
+    ],
+    "name": "Animal Crossing: New Leaf",
+    "platforms": [
+      37
+    ],
+    "player_perspectives": [
+      2,
+      3
+    ],
+    "rating": 85.17430273628253,
+    "rating_count": 192,
+    "release_dates": [
+      29660,
+      29661,
+      137399,
+      240682
+    ],
+    "screenshots": [
+      5339,
+      5340,
+      5341,
+      151770,
+      151771,
+      151772,
+      151773,
+      151774,
+      151775,
+      151776,
+      151777,
+      151778
+    ],
+    "similar_games": [
+      260,
+      11133,
+      16992,
+      17000,
+      22387,
+      44242,
+      51945,
+      111187,
+      117717,
+      119579
+    ],
+    "slug": "animal-crossing-new-leaf",
+    "summary": "The charming community-building franchise returns for with Animal Crossing: New Leaf. The Nintendo 3DS entry into this popular franchise introduces a number of options new to Animal Crossing, including the ability to become the head of the village and boost its development, a way to install certain items in the village to make its characteristics more personalized for each player, and the ability to view homes of other players who are tagged through StreetPass connections.",
+    "tags": [
+      17,
+      28,
+      33,
+      35,
+      268435469,
+      536872628,
+      536872847,
+      536873141,
+      536873364,
+      536873671,
+      536874460,
+      536875046,
+      536875074,
+      536875184,
+      536875241,
+      536875265,
+      536875273,
+      536875525,
+      536875766,
+      536875781,
+      536875872,
+      536876271,
+      536876337,
+      536876639,
+      536876967,
+      536877046,
+      536877919,
+      536878605,
+      536880670,
+      536881493,
+      536881652
+    ],
+    "themes": [
+      17,
+      28,
+      33,
+      35
+    ],
+    "total_rating": 86.73715136814127,
+    "total_rating_count": 203,
+    "updated_at": 1696793719,
+    "url": "https://www.igdb.com/games/animal-crossing-new-leaf",
+    "videos": [
+      88823
+    ],
+    "websites": [
+      20511,
+      149493,
+      149494,
+      149495,
+      149496,
+      149497,
+      149498,
+      334218
+    ],
+    "checksum": "aa2e73bb-b897-491b-60be-1930d78bb06c",
+    "game_localizations": [
+      1207
+    ]
+  },
+  {
+    "id": 58630,
+    "age_ratings": [
+      24931,
+      41911
+    ],
+    "aggregated_rating": 77.5,
+    "aggregated_rating_count": 3,
+    "alternative_names": [
+      32475,
+      33265,
+      36248,
+      89132
+    ],
+    "artworks": [
+      53942
+    ],
+    "category": 0,
+    "collection": 521,
+    "cover": 77729,
+    "created_at": 1504727762,
+    "external_games": [
+      107764,
+      215973,
+      251891,
+      316756,
+      1184761,
+      2123621
+    ],
+    "first_release_date": 1508889600,
+    "follows": 9,
+    "franchises": [
+      1820
+    ],
+    "game_modes": [
+      1
+    ],
+    "genres": [
+      13
+    ],
+    "involved_companies": [
+      57105,
+      57106
+    ],
+    "keywords": [
+      509,
+      510,
+      976,
+      2016,
+      2385,
+      4134,
+      4162,
+      4272,
+      4347,
+      4366,
+      4388,
+      4400,
+      4484,
+      4878,
+      4897,
+      5538,
+      6062,
+      6298,
+      6802,
+      7416,
+      8221,
+      8305,
+      29055
+    ],
+    "name": "Animal Crossing: Pocket Camp",
+    "platforms": [
+      34,
+      39
+    ],
+    "player_perspectives": [
+      2,
+      3
+    ],
+    "rating": 61.65644839154395,
+    "rating_count": 46,
+    "release_dates": [
+      126387,
+      126388,
+      129139,
+      446696
+    ],
+    "screenshots": [
+      489551,
+      489552,
+      489553,
+      489554,
+      489555,
+      489556,
+      489557,
+      489558,
+      489559,
+      489560,
+      489561,
+      489562
+    ],
+    "similar_games": [
+      5589,
+      9243,
+      16992,
+      17000,
+      17130,
+      17379,
+      44242,
+      106279,
+      109462,
+      119579
+    ],
+    "slug": "animal-crossing-pocket-camp",
+    "summary": "Animal Crossing on the go!\n\nGet back to nature in Animal Crossing: Pocket Camp, the new Animal Crossing mobile game where you take on the role of campsite manager!\n\nYou\u0027re in charge, so you can decorate your own campsite however you like! Make it fun, make it cute, make it sporty—it’s up to you to craft the kind of furniture and amenities that will make your camp a must-see for animals visiting the area.\n\nHelp Animals As You Explore!\n\nWhile visiting different recreational spots, you\u0027ll meet new animals who could use a little help. They\u0027ll be looking for fish, fruit, bugs, and other things to get their camping adventures started—and when you help them out, you\u0027ll earn Bells and craft materials in return!\n\nCraft Furniture and Amenities\n\nThe craft materials you earn by fulfilling animals’ requests can be used to craft all sorts of furniture and amenities for your campsite.\n\nJust open up the Craft menu and place an order with Cyrus, the hardworking handyman from Re-Tail on the Road. Then sit back and wait! Or, if you\u0027re in a hurry, you can move your order to the very front of the line by using Leaf Tickets. You can purchase Leaf Tickets with real money, or earn them through regular gameplay.\n\nYour Campsite. Your Way.\n\nThe joy of Animal Crossing: Pocket Camp is creating a space that suits you and your style.\n\nYour campsite can be anything you like—from a traditional space that celebrates nature to a flashy fun house with concerts and rides. It\u0027s all up to you!\n\nYou can also customize your camper, visit your friends\u0027 campsites to get ideas for your own, and meet new animal friends as you explore recreational areas!\n\nHost Animals at Your Campsite\n\nAs you grow your friendships with different animals, they\u0027ll want to visit your campsite. Craft and decorate with their favorite items, and you’ll be able to host them whenever you like—even if you change up your decorations completely!",
+    "tags": [
+      33,
+      35,
+      268435469,
+      536871421,
+      536871422,
+      536871888,
+      536872928,
+      536873297,
+      536875046,
+      536875074,
+      536875184,
+      536875259,
+      536875278,
+      536875300,
+      536875312,
+      536875396,
+      536875790,
+      536875809,
+      536876450,
+      536876974,
+      536877210,
+      536877714,
+      536878328,
+      536879133,
+      536879217,
+      536899967
+    ],
+    "themes": [
+      33,
+      35
+    ],
+    "total_rating": 69.57822419577198,
+    "total_rating_count": 49,
+    "updated_at": 1695781051,
+    "url": "https://www.igdb.com/games/animal-crossing-pocket-camp",
+    "videos": [
+      16434,
+      16435
+    ],
+    "websites": [
+      59850,
+      59851,
+      61275,
+      61276,
+      61277,
+      77064,
+      143722,
+      186920,
+      338940,
+      547587
+    ],
+    "checksum": "3926557a-f17c-4c3a-55a7-4a9fdc85a2d8",
+    "language_supports": [
+      518370,
+      518371,
+      518372,
+      518373,
+      518374,
+      518375,
+      518376,
+      518377
+    ],
+    "game_localizations": [
+      8575,
+      20307
+    ]
+  }
+]

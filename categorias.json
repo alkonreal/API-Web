@@ -1,0 +1,77 @@
+[
+    {
+      "nombre": "Juego Principal",
+      "id": 0,
+      "url": "Juego Principal"
+    },
+    {
+      "nombre": "Dlc_addon",
+      "id": 1,
+      "url": "Dlc_addon"
+    },
+    {
+      "nombre": "Expansión",
+      "id": 2,
+      "url": "Expansion"
+    },
+    {
+      "nombre": "Combinado",
+      "id": 3,
+      "url": "Bundle"
+    },
+    {
+      "nombre": "Expansión Independiente",
+      "id": 4,
+      "url": "Expansión_independiente"
+    },
+    {
+      "nombre": "Mod",
+      "id": 5,
+      "url": "Mod"
+    },
+    {
+      "nombre": "Episodio",
+      "id": 6,
+      "url": "episode"
+    },
+    {
+      "nombre": "Temporada",
+      "id": 7,
+      "url": "season"
+    },
+    {
+      "nombre": "Remake",
+      "id": 8,
+      "url": "remake"
+    },
+    {
+      "nombre": "Remasterización",
+      "id": 9,
+      "url": "remaster"
+    },
+    {
+      "nombre": "Juego Expandido",
+      "id": 10,
+      "url": "expanded_game"
+    },
+    {
+      "nombre": "Port",
+      "id": 11,
+      "url": "port"
+    },
+    {
+      "nombre": "Basado en el mismo universo",
+      "id": 12,
+      "url": "fork"
+    },
+    {
+      "nombre": "Pack",
+      "id": 13,
+      "url": "pack"
+    },
+    {
+      "nombre": "Actualización",
+      "id": 14,
+      "url": "update"
+    }
+  ]

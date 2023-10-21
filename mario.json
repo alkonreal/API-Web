@@ -558,8 +558,8 @@
       3,
       4
     ],
-    "rating": 77.40369755968912,
-    "rating_count": 49,
+    "rating": 77.40688662019082,
+    "rating_count": 50,
     "release_dates": [
       29598,
       29599,
@@ -683,9 +683,9 @@
       1,
       27
     ],
-    "total_rating": 78.90184877984456,
-    "total_rating_count": 61,
-    "updated_at": 1695883103,
+    "total_rating": 78.90344331009541,
+    "total_rating_count": 62,
+    "updated_at": 1697432479,
     "url": "https://www.igdb.com/games/mario-luigi-dream-team",
     "videos": [
       4075
@@ -700,7 +700,7 @@
       149583,
       337521
     ],
-    "checksum": "781d4c12-9231-4785-efd8-5c53cd37fa7a",
+    "checksum": "acb7f8b2-fb83-c9e4-00dc-f48a974789d9",
     "language_supports": [
       491141,
       491143,
@@ -1370,7 +1370,7 @@
     ],
     "total_rating": 69.95246049639802,
     "total_rating_count": 34,
-    "updated_at": 1695796879,
+    "updated_at": 1697533744,
     "url": "https://www.igdb.com/games/mario-and-luigi-paper-jam",
     "videos": [
       4461
@@ -1381,7 +1381,7 @@
       49675,
       516449
     ],
-    "checksum": "9919195d-c095-346a-b3df-2eb8fccbb84e",
+    "checksum": "d05b0fc8-8507-7b93-6313-2b5dd47a370b",
     "language_supports": [
       493311,
       493312,
@@ -1395,6 +1395,9 @@
     "game_localizations": [
       4871,
       28682
+    ],
+    "collections": [
+      593
     ]
   },
   {
